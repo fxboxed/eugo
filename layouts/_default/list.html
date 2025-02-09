@@ -1,0 +1,15 @@
+
+{{define "main"}}
+    <div class="list">
+        <h1>list / home page</h1>
+        {{range .Paginator.Pages}}
+            <div class="item">
+                <h2>{{.Title}}</h2>
+                <p>{{.Params.description}}</p>
+                <p> {{dateFormat .Site.Params.dateFormat .Date}} </p>
+                <a href="{{.Permalink}}">Read more</a>
+            </div>
+        {{end}}
+    </div>
+{{end}}
+

@@ -1,0 +1,14 @@
+baseURL = 'https://eugo.co.uk/'
+languageCode = 'en-us'
+title = 'Eugo travel'
+
+[params]
+    dateFormat = "Jan 2, 2007"
+[taxonomies] 
+    tag = "tags"
+    category = "categories"
+
+[sitemap]
+changeFreq = ""  # Default change frequency (empty string)
+filename = "sitemap.xml"  # Sitemap file name
+priority = -1  # Default priority (-1 means omitted from rendered sitemap)

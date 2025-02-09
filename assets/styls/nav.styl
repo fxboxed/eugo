@@ -1,0 +1,141 @@
+.navbar 
+    background alpha + (80%)// light
+    display flex 
+    align-items center
+    gap 16px
+    justify-content space-between
+    height 80px
+    //margin-bottom 24px
+    padding 0 10px
+    position fixed
+    top 0
+    width 100%
+    a  
+        color alpha
+        display inline-block
+        font-size 1.2rem
+        font-weight 500
+        text-transform uppercase
+        padding 20px 10px
+        //border-radius 5px
+        transition all 0.3s
+        &:hover
+            background alpha
+            color light
+            transition all 0.3s
+.country-list
+    background #fff
+    border-radius 16px
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    display grid
+    gap 10px
+    grid-template-columns repeat(auto-fill, minmax(100px, 1fr) )
+    justify-content space-between
+    height fit-content
+    max-height 0
+    list-style none
+    margin auto
+    margin-top -800px
+    overflow hidden
+    max-width 780px //1080px
+    padding 0 //20px
+    position absolute
+    top 20px
+    left 50%
+    transform translateX(-50%)
+    transition all .4s ease-in-out
+    width 100%
+    z-index 2
+
+    span 
+        border-radius 4px
+        background #f0f0f0
+        display inline-block
+        font-size 16px
+        margin 4px
+        padding 4px 8px
+        text-align center
+        a 
+            color alpha
+            font-size 16px
+            padding 0 //4px
+            text-decoration none
+            &:hover 
+                color red
+button.open-country-dropdown 
+    color alpha
+    display flex 
+    flex-direction: column 
+    font-size 20px
+    //gap 6px
+    position absolute
+    top 30px
+    left 50%
+    transform translateX(-50%)
+    span 
+        //background light
+        border-radius 50%
+        font-size 24px
+        line-height .5
+        margin -10px auto
+        padding  16px
+        text-align center
+        transform rotate(90deg)
+        z-index -1
+.country-list.show-country-list 
+    height initial //400px // auto //fit-content
+    max-height fit-content
+    margin-top 0
+    padding 24px
+    transition all .8s ease-in-out
+
+.country-list button 
+    background alpha //var(--alpha)
+    color var(--light)
+    grid-column 1 / -1
+    height 32px 
+    margin 20px auto
+    width 100px 
+//-----------------------------
+
+// <button class="countries-link" role="button">Button 71</button>
+
+/* CSS */
+.country-link 
+  background-color: alpha // #0078d0
+  //border: 20px
+  border-radius 100px
+  cursor: pointer
+  //display: inline-block
+  //align-items center
+  font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif
+  font-size: 16px
+  font-weight: 600
+
+  outline: 0
+  padding: 6px 16px
+  position: relative
+  text-align: center
+  text-decoration: none
+  transition: all .3s
+  user-select: none
+  -webkit-user-select: none
+  touch-action: manipulation;
+a.country-link, button.country-link 
+    color light
+    padding 4px
+
+.country-link:before 
+  background-color: initial
+  background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%)
+  border-radius: 60px
+  content: ""
+  height: 50%
+  left: 0
+  opacity: .5
+  position: absolute
+  top: 0
+  transition: all .3s
+  width: 100%
+
+

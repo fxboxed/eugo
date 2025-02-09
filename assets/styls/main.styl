@@ -1,0 +1,203 @@
+light = #fff
+alpha = rgb(81,138,156)
+@require './holy-grail.styl'
+@require './nav.styl'
+@require './forms.styl'
+
+@font-face 
+    font-family 'Montserrat'
+    font-style normal
+    font-weight 200
+    src url('/fonts/Montserrat/static/Montserrat-Regular.ttf')
+
+@font-face 
+    font-family 'Merienda'
+    font-style normal
+    font-weight 200
+    src url('/fonts/Merienda/static/Merienda-Regular.ttf')
+@font-face 
+    font-family 'El Messiri'
+    font-style normal
+    font-weight 200
+    src url('/fonts/El_Messeri/static/ElMessiri-Regular.ttf')
+* 
+    box-sizing border-box
+    margin 0
+    padding 0
+html 
+    scroll-behavior: smooth;
+body 
+    background alpha  + (90%)
+    color alpha - (40%)
+    font-family 'Montserrat'
+    line-height 1.4
+
+a
+    text-decoration: none
+button 
+    background none
+    border none
+    cursor pointer
+    outline none
+img 
+    //border 18px solid light
+    //box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    max-width 100%
+    height auto //100%
+    display block
+    margin 40px auto
+    //max-height 400px
+    object-fit: cover
+    padding 0
+    border-radius 5px
+    width 100%
+header 
+    min-height 300px
+    padding 16px
+    width 100%
+h1 
+    font-family 'Merienda'
+    font-size 1.6rem
+    font-weight 200
+    line-height 1.3
+    margin-bottom 16px
+h2 
+    font-family 'Merienda'
+    font-weight 200
+    margin 60px 0 8px
+    text-align center
+h3 
+    font-family 'Merienda'
+    font-weight 200
+    //color #fff
+
+    margin 24px 0 16px
+p 
+    color alpha - (40%)
+    font-family 'Montserrat'
+    font-size 1.2rem
+    margin-bottom 12px
+blockquote 
+    background alpha + (60%)
+    border-left 10px solid alpha
+    font-style italic
+    margin 24px 0
+    padding 16px
+    width 100%
+hr 
+    margin 32px auto
+    width 100px
+ul 
+    border 1px solid #fff
+    display flex
+    gap 12px
+    flex-direction column
+    font-size 1.2rem
+    font-style italic
+    margin auto
+    width 90%
+footer 
+    background alpha - (20%)
+    min-height 300px
+    padding 32px 0
+    width 100%
+.footer-grid 
+    display grid 
+    gap 16px
+    grid-template-columns: repeat(1,1fr) // repeat(auto-fill, minmax(350px, 400px) )
+    margin auto
+    max-width 1280px
+    ul 
+        list-style none
+    a 
+        color light
+        font-size 1.2rem
+
+.container 
+    min-height 90vh
+    max-width 660px
+    margin 0 auto
+    padding 0 20px
+    overflow hidden
+    display flex
+    flex-direction column
+    flex-wrap wrap
+    justify-content start //space-between
+    align-items center
+
+.country-banner 
+    //background alpha + (80%) //#000
+    display grid
+    grid-template-columns: 1fr
+    gap 20px
+    margin auto
+    margin-top 80px
+    max-width 1200px
+    //padding 16px
+    text-align center
+    width 100%
+    img 
+        //max-width 400px
+        //border 10px solid light
+        min-height 400px
+        width 100%
+    .panel-wrap 
+        //border 1px solid red //light
+        //color light
+        display flex
+        align-items center
+        flex-wrap wrap
+        justify-content left
+        gap 20px
+        
+        padding 16px
+    .panel 
+        //border 1px solid blue
+        font-size 1.2rem
+        height fit-content
+        max-width 460px
+        padding 16px
+.foot 
+
+    background alpha - (40%)
+    display flex
+    grid-column span 2
+    margin-top 24px
+    padding 20px
+    ul 
+        border none
+        display flex
+        align-items center
+        gap 24px
+        flex-direction row
+        justify-content: center
+        list-style none
+        width 100%
+    a 
+        color light
+@media(min-width 768px)
+    .container
+        max-width 768px
+        width 100%
+    .country-banner 
+        display grid
+        grid-template-columns: 1fr 1fr
+        text-align left
+    .footer-grid 
+        grid-template-columns: 1fr 1fr
+
+
+@media(min-width 1024px)
+    .container
+        max-width 1024px
+        width 100%
+@media(min-width 1280px)
+    .container
+        max-width 1280px
+        width 100%
+    // .footer-grid 
+    //     grid-template-columns: 1fr 1fr 1fr 1fr
+    #map 
+
+        width 100%
+    
