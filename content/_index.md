@@ -16,7 +16,7 @@ alt_txt = " Collage of famous European landmarks and scenic views"
 
 
 
-
+## Why visit Europe?
 
 Europe is like a big playground for travelers. It's packed with cool spots, both famous and hidden. You can dive into history, munch on unique foods, and soak up stunning views. But there's more than just the well-known places. 
 

@@ -16,6 +16,7 @@ alt_txt = "Luxembourg nightlife with lively streets and historic buildings."
 
 ## Luxembourg: Top Ten Tourist Attractions
 
+![Arial view of yellow stone houses surrounded by trees in Luxembourg city](/imgs/luxembourg/luxembourg-2753846_640.jpg)
 Luxembourg might be small, but it's packed with things to do, especially if you're into nightlife, history, culture, food, and shopping. 
 
 Whether you're looking to dance the night away, indulge in some retail therapy, or savor delicious cuisine, this city has something for everyone. Let's dive into the top ten spots you shouldn't miss when visiting Luxembourg.
@@ -55,6 +56,8 @@ If you're planning a night out, [great vibe, excellent service, and good food](h
 ---
 
 ## 2\. Scott's Pub
+
+![Scott's pub Luxembourg taken from the oposite side of the river](/imgs/luxembourg/scott-s-pub.webp)
 
 Perched along the scenic riverside in the _Grund district_, [Scott's Pub](https://wanderlog.com/list/geoCategory/6663/best-bars-and-drinks-in-luxembourg-city) has been a social hub since 1985. This place is where locals and tourists alike gather for a laid-back evening. **It's a must-visit for anyone wanting to experience Luxembourg's unique blend of European charm and modern vibes.**
 
@@ -136,6 +139,7 @@ Whether you're a local or just visiting, Zanzen Cocktail Bar promises a memorabl
 
 ## 5\. Grand Rue
 
+![Junction of the Grand Rue](/imgs/luxembourg/grand-rue-luxembourg.jpg)
 Walking down Grand Rue is like stepping into a shopper's paradise right in the heart of Luxembourg City. **This bustling street is the main artery for retail therapy, offering a mix of high-end fashion, local boutiques, and everything in between.**
 
 ### Highlights of Grand Rue
@@ -179,6 +183,8 @@ Whether you're a fashion enthusiast or a food lover, Auchan Shopping Mall provid
 
 ## 7\. La Belle Étoile
 
+![La Belle Étoile shopping center](/imgs/luxembourg/shopping-center-la-belle.webp)
+
 La Belle Étoile is more than just a shopping center; it's a hub of activity and a favorite among locals and visitors alike. Located conveniently in Strassen, this sprawling complex offers a wide array of shopping options, making it a must-visit for anyone looking to indulge in retail therapy.
 
 ### Shopping Experience
@@ -221,6 +227,8 @@ Aside from its historical charm and lively atmosphere, the Grund is also home to
 
 ---
 ## 9\. Judd Mat Gaardebounen
+
+![Judd Mat Gaardebounen](/imgs/luxembourg/awesome-judd-mat-gaardebounen.webp)
 
 Judd Mat Gaardebounen is one of those dishes that you just have to try when you're in Luxembourg. It's a traditional meal that combines smoked pork collar with broad beans, creating a flavor that's both hearty and satisfying. **This dish is a true representation of Luxembourg's rich culinary heritage.**
 
@@ -289,34 +297,34 @@ So pack your bags, grab your map, and get ready to explore all that this charmin
 
 ## Frequently Asked Questions
 
-### What is the best time to visit Luxembourg for nightlife?
+#### What is the best time to visit Luxembourg for nightlife?
 
 The best time to enjoy Luxembourg's nightlife is during the weekends when bars and clubs are open until 3 AM.
 
-### Are there any shopping malls in Luxembourg City?
+#### Are there any shopping malls in Luxembourg City?
 
 Yes, you can visit Auchan Shopping Mall and La Belle Étoile for a modern shopping experience.
 
-### What traditional dish should I try in Luxembourg?
+#### What traditional dish should I try in Luxembourg?
 
 Try 'Judd mat Gaardebounen,' a delicious smoked pork collar with broad beans, for an authentic taste of Luxembourg.
 
-### Where can I find luxury shopping in Luxembourg?
+#### Where can I find luxury shopping in Luxembourg?
 
 Grand Rue is the place to go for luxury shopping, featuring brands like Louis Vuitton and Gucci.
 
-### Is it easy to get around Luxembourg City at night?
+#### Is it easy to get around Luxembourg City at night?
 
 Yes, taxis and ride-sharing services are available, making it easy to navigate the city's nightlife safely.
 
-### What can I do for free in Luxembourg?
+#### What can I do for free in Luxembourg?
 
 You can explore the charming streets of the Old Town and enjoy the beautiful architecture and historical sites.
 
-### Are there any Michelin-starred restaurants in Luxembourg?
+#### Are there any Michelin-starred restaurants in Luxembourg?
 
 Yes, Luxembourg has Michelin-starred restaurants like Mosconi, known for its exquisite Italian cuisine.
 
-### Do I need to carry cash in Luxembourg City?
+#### Do I need to carry cash in Luxembourg City?
 
 It's a good idea to carry some cash, as not all places accept credit cards, especially in smaller establishments.

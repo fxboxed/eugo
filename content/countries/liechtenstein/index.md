@@ -16,6 +16,8 @@ alt_txt = " Collage of Liechtenstein’s landmarks, food, and nightlife scenes."
 
 ## Exploring Liechtenstein: Culture and Nightlife
 
+![Houses built on the mountain side](/imgs/leichtenstien/liechtenstein-5952612_640.jpg)
+
 Liechtenstein might be small, but it's packed with things to see and do. From castles to ski slopes, this tiny country nestled between Switzerland and Austria offers something for everyone. 
 
 Whether you're into history, nature, or just want to enjoy some good food and drinks, Liechtenstein won't disappoint. Here are 10 reasons to visit Liechtenstein, focusing on nightlife, culture, attractions, food, and drinks.
@@ -32,6 +34,7 @@ Whether you're into history, nature, or just want to enjoy some good food and dr
 
 ## 1\. Vaduz Castle
 
+![Vaduz Castle with a breathtaking mountainous backdrop](/imgs/leichtenstien/castle-7581511_640.jpg)
 Perched high above the capital city, Vaduz Castle is a must-see. This medieval fortress has been the official residence of the Prince of Liechtenstein since the 18th century. Though the castle itself is not open to the public, the surrounding grounds offer breathtaking views of Vaduz and the Rhine Valley.
 
 ### Why Visit Vaduz Castle?
@@ -73,6 +76,8 @@ For comprehensive details about Malbun Triesenberg Ski Resort, including trail m
 ---
 
 ## 3\. Liechtenstein National Museum
+
+![The Liechtenstein National Museum](/imgs/leichtenstien/liechtenstein-national-museum-vaduz.webp)
 
 Welcome to the Liechtenstein National Museum, where you can uncover the rich tapestry of this tiny yet fascinating country. **This museum is a treasure trove of Liechtenstein's history and culture.** It's nestled in a building that dates back to 1438, giving you a sense of stepping back in time as soon as you enter.
 
@@ -126,6 +131,8 @@ For those wanting to truly [explore the natural beauty](https://www.lonelyplanet
 
 ## 5\. Citytrain Ride in Vaduz
 
+![The Citytrain Ride in Vaduz showing the red and white carriages being pulled along a street](/imgs/leichtenstien/vaduz-liechtenstein-april-mini-train-riding-front-national-museum-along-staedtle-street-city-vaduz-liechtenstein-145964637.webp)
+
 Hop aboard the charming Citytrain in Vaduz, where **nostalgia meets exploration**. This delightful little train takes you on a 35-minute journey through the heart of Liechtenstein's capital. It's perfect if you're not up for a long walk but still want to soak in the sights.
 
 ### Highlights of the Ride
@@ -146,6 +153,8 @@ Whether you're a solo traveler or with family, this ride offers a slice of _inno
 ---
 
 ## 6\. Marée Restaurant
+
+![The Park Hotel Sonnenhof](/imgs/leichtenstien/Parkhotel_Sonnenhof-Oberammergau-Aussenansicht-15-176_600x600.webp)
 
 If you're in Liechtenstein and craving a memorable dining experience, Marée Restaurant is a must-visit. Nestled in the classy Park Hotel Sonnenhof, this spot is not just about food; it's about the whole experience. **Marée is celebrated for its exquisite use of local ingredients**, making every dish a nod to the region's rich culinary heritage.
 
@@ -177,6 +186,8 @@ So, when you're planning your trip, make sure to reserve a table at Marée. It's
 
 ## 7\. Restaurant Adler
 
+![Restaurant Adler](/imgs/leichtenstien/addler_hotel.webp)
+
 Restaurant Adler is a gem that offers you a taste of Liechtenstein's authentic culinary heritage. **This family-run establishment, in operation since 1908, has mastered the art of traditional cooking.** When you walk through its doors, you're not just stepping into a restaurant; you're entering a piece of history that's been lovingly preserved by four generations.
 
 ### What to Expect
@@ -192,6 +203,8 @@ Whether you're a foodie or just someone looking to try something new, Restaurant
 ---
 
 ## 8\. Vaduz Cathedral
+
+![The interior of Vaduz Cathedral](/imgs/leichtenstien/6-Vaduz-Cathedral.webp)
 
 Nestled in the heart of Vaduz, the [Cathedral of St. Florin](https://www.tripadvisor.com/Attraction_Review-g190371-d5999958-Reviews-Cathedral_of_St_Florin-Vaduz.html) stands as a beacon of spirituality and history. This neo-Gothic marvel, with its towering spires and intricate architecture, draws visitors from all over. **It's not just a place of worship, but a testament to the rich cultural tapestry of Liechtenstein.**
 
@@ -273,34 +286,34 @@ Liechtenstein might be small, but it packs a punch when it comes to offering a m
 
 ## Frequently Asked Questions
 
-### What is Vaduz Castle known for?
+#### What is Vaduz Castle known for?
 
 Vaduz Castle is the official residence of the Prince of Liechtenstein and offers stunning views of the surrounding area.
 
-### Can beginners ski at Malbun Ski Resort?
+#### Can beginners ski at Malbun Ski Resort?
 
 Yes, Malbun Ski Resort offers slopes suitable for beginners as well as more challenging runs for experienced skiers.
 
-### What can I see at the Liechtenstein National Museum?
+#### What can I see at the Liechtenstein National Museum?
 
 The museum showcases Liechtenstein's history, including exhibits on religion, natural history, and everyday life.
 
-### Why visit the Ruggeller Riet Nature Reserve?
+#### Why visit the Ruggeller Riet Nature Reserve?
 
 It's a serene place to enjoy nature, with rare birds and beautiful spring blooms like the Siberian iris.
 
-### How long is the Citytrain Ride in Vaduz?
+#### How long is the Citytrain Ride in Vaduz?
 
 The Citytrain Ride in Vaduz lasts about 35 minutes and takes you around the city's main attractions.
 
-### What type of food does Marée Restaurant serve?
+#### What type of food does Marée Restaurant serve?
 
 Marée Restaurant offers a menu filled with local ingredients and dishes like homemade veal ravioli and schnitzel.
 
-### What makes Vaduz Cathedral special?
+#### What makes Vaduz Cathedral special?
 
 Vaduz Cathedral, also known as the Cathedral of St. Florin, is known for its beautiful stained-glass windows and neo-Gothic architecture.
 
-### What is the Eschnerberg Trail known for?
+#### What is the Eschnerberg Trail known for?
 
 The Eschnerberg Trail is known for its scenic route and historical sites, including prehistoric settlements and the oldest house in Liechtenstein.

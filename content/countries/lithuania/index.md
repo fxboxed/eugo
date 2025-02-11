@@ -32,6 +32,8 @@ Whether you're into exploring ancient castles, enjoying spa treatments, or divin
 
 ## 1\. Old Town Vilnius
 
+![Lithuania Vilnius view to the old town from Gediminas tower](/imgs/lithuania/lithuania-vilnius-view-to-the-old-town-from-gediminas-tower.webp)
+
 Welcome to the heart of Lithuania's capital, where history and modernity meet in a charming blend. **Old Town Vilnius** is a treasure trove of architectural wonders and cultural gems, making it a must-visit destination.
 
 ### Nightlife
@@ -146,6 +148,8 @@ The Hill of Crosses is about a 2.5-hour drive from Vilnius, making it a perfect 
 
 ## 5\. Anykščiai Treetop Walking Path
 
+![Anykščiai, this treetop walking path](/imgs/lithuania/Treetop-Walking-Path.jpg)
+
 Nestled in the heart of [Anykščiai](https://birdcycling.com/lithuania/), this treetop walking path offers a unique experience for those looking to explore Lithuania's natural beauty from above. **Imagine walking among the treetops, surrounded by lush greenery and the sounds of nature.** This path, elevated 35 meters above the forest floor, provides a breathtaking view of the surrounding landscape.
 
 ### A Walk to Remember
@@ -171,6 +175,8 @@ Whether you're an avid nature lover or just looking for a unique adventure, the 
 ---
 
 ## 6\. Druskininkai Spa Resort
+
+![Druskininkai Spa Resort pool with chairs](/imgs/lithuania/spa.webp)
 
 Welcome to Druskininkai, a charming little town that offers a perfect escape from the hustle and bustle. Known for its rejuvenating mineral waters, Druskininkai is a haven for those seeking relaxation and wellness.
 
@@ -205,6 +211,8 @@ _Italic_ keyword: _Traditional_ Lithuanian dishes.
 ---
 
 ## 7\. Birštonas Health Resort
+
+![Birštonas Health Resort](/imgs/lithuania/bristonas-spa.webp)
 
 Nestled on the banks of the Nemunas River, Birštonas Health Resort is a hidden gem in the heart of Lithuania. Known for its therapeutic mineral waters and serene environment, this resort town offers a perfect escape for those looking to unwind and recharge.
 
@@ -262,6 +270,8 @@ Exploring the [vibrant city of Vilnius](https://www.voguescandinavia.com/article
 
 ## 9\. Europos Parkas
 
+![Three people standing beneath the arch of an old stone monument in the Europas Parkas open air museum](/imgs/lithuania/ec8e00a8a594498698bb879539b14790_europos-parkas-open-air-museum-of-the-center-of-europe.webp)
+
 Nestled just outside of Vilnius, Europos Parkas is a unique blend of art, nature, and geography. **This open-air museum marks the geographic center of Europe**, as determined by the French National Geographic Institute back in 1989. It's like walking through a forest where art and nature coexist in harmony.
 
 ### Discovering Art
@@ -316,6 +326,8 @@ While there isn't a bustling market scene at Ventė Cape, nearby villages host l
 
 > Ventė Cape offers a peaceful retreat from the hustle and bustle of city life. Its natural beauty and serene environment make it a perfect spot for relaxation and reflection.
 
+---
+
 ## Wrapping Up Your Lithuanian Adventure
 
 So, there you have it! Lithuania, with its mix of lively nightlife, rich culture, mouth-watering food, and unique attractions, offers something for every traveler. Whether you're exploring the bustling streets of Vilnius or relaxing in a serene resort town, there's always a new experience waiting around the corner. Don't forget to check out the local markets for a taste of authentic Lithuanian life. It's a country that surprises and delights at every turn. So pack your bags and get ready to make some unforgettable memories in this Baltic gem!
@@ -324,34 +336,34 @@ So, there you have it! Lithuania, with its mix of lively nightlife, rich culture
 
 ## Frequently Asked Questions
 
-### What is the best time to visit Lithuania for a vacation?
+#### What is the best time to visit Lithuania for a vacation?
 
 The best time to visit Lithuania is during the late spring to early autumn months, from May to September. The weather is pleasant, and many cultural events and festivals take place during this time.
 
-### Are there any famous foods I should try in Lithuania?
+#### Are there any famous foods I should try in Lithuania?
 
 Yes, you should try traditional Lithuanian dishes like cepelinai (potato dumplings), šaltibarščiai (cold beet soup), and kibinai (savory pastries). These local foods offer a taste of Lithuania's rich culinary heritage.
 
-### Is it easy to travel around Lithuania without a car?
+#### Is it easy to travel around Lithuania without a car?
 
 Yes, Lithuania has a good public transportation system, including buses and trains, which makes it easy to travel around the country without a car. Renting a bicycle is also a popular option in cities like Vilnius.
 
-### What are some must-see attractions in Vilnius?
+#### What are some must-see attractions in Vilnius?
 
 In Vilnius, you should visit the Old Town, Gediminas Tower, Vilnius Cathedral, and the Republic of Užupis. These attractions showcase the city's rich history and vibrant culture.
 
-### How can I experience Lithuanian culture during my visit?
+#### How can I experience Lithuanian culture during my visit?
 
 To experience Lithuanian culture, attend local festivals, visit museums, and explore traditional markets. Engaging with locals and trying regional foods also provide a deeper cultural insight.
 
-### Are there any unique souvenirs to buy in Lithuania?
+#### Are there any unique souvenirs to buy in Lithuania?
 
 Yes, you can buy amber jewelry, linen products, and traditional wooden crafts as souvenirs. These items reflect Lithuania's cultural heritage and make for memorable keepsakes.
 
-### What is the currency used in Lithuania, and can I use credit cards?
+#### What is the currency used in Lithuania, and can I use credit cards?
 
 Lithuania uses the Euro as its currency. Credit cards are widely accepted in most places, including hotels, restaurants, and shops.
 
-### Is English widely spoken in Lithuania?
+#### Is English widely spoken in Lithuania?
 
 Yes, English is commonly spoken in tourist areas and among younger people in Lithuania. However, learning a few basic phrases in Lithuanian can enhance your travel experience.

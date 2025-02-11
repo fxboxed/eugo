@@ -92,6 +92,8 @@ Whether you're wandering through Tiraspol or sipping cognac at Kvint, Transnistr
 
 ## 3\. Old Orhei
 
+![Old Orhei monastery](/imgs/moldova/places-to-visit-in-old-orhei-1024x682.webp)
+
 Old Orhei, also known as Orheiul Vechi, is a fascinating historical and cultural site located about 60 km north of Chisinau. This area is composed of three charming villages: Butuceni, Morovaia, and Trebujeni. **Old Orhei is a must-visit for anyone exploring Moldova**, offering a unique blend of history, nature, and traditional Moldovan culture.
 
 ### Discover the Orhei Vechi Monastery
@@ -117,6 +119,8 @@ Whether you're interested in history, nature, or just a peaceful retreat, Old Or
 ---
 
 ## 4\. Cricova Winery
+
+![Barrels of wine in the caves of Cricova Winery](/imgs/moldova/winery-393060_640.jpg)
 
 Welcome to Cricova Winery, a place where the magic of wine-making meets the charm of Moldova's underground wonders. **Cricova is Europe's largest and most impressive wine cellar**, sprawling over 53 hectares with tunnels that stretch for a mind-boggling 120 kilometers. This underground labyrinth reaches depths of 80 meters, making it a fascinating adventure for any wine enthusiast.
 
@@ -146,11 +150,14 @@ Cricova Winery is a must-visit for anyone interested in the rich culture and his
 
 ## 5\. Soroca
 
+![Soroca as seen from the opposite side of the Dniester river](/imgs/moldova/dniester-river.jpg)
 Nestled along the banks of the Dniester River, Soroca is a town steeped in history and vibrant culture. Known as the "unofficial" Roma capital of Moldova, it offers a unique blend of architectural marvels and cultural experiences.
 
 ### Soroca Fortress
 
-The [Soroca Fortress](https://www.tripadvisor.com/AttractionProductReview-g294456-d27144889-Soroca_The_North_Capital_Full_day_tour-Chisinau_Chisinau_District.html) is undoubtedly the crown jewel of this town. Built by the Moldovan Prince Stephen the Great in 1499, this fortress is a masterpiece of medieval fortification art. Its robust walls and strategic location made it a pivotal defense point during numerous historical battles, including the Tatar and Mongol invasions.
+The [Soroca Fortress](https://www.tripadvisor.com/AttractionProductReview-g294456-d27144889-Soroca_The_North_Capital_Full_day_tour-Chisinau_Chisinau_District.html) is undoubtedly the crown jewel of this town. Built by the Moldovan Prince Stephen the Great in 1499, this fortress is a masterpiece of medieval fortification art. 
+
+Its robust walls and strategic location made it a pivotal defense point during numerous historical battles, including the Tatar and Mongol invasions.
 
 ### Gypsy Hill
 
@@ -220,6 +227,8 @@ For those interested in exploring more of Moldova's historical sites, [discover 
 
 ## 8\. Codru Reserve
 
+![Moldova: Codru reservation](/imgs/moldova/263x225px-Codru_Reserve_12.webp)
+
 Hidden in the heart of Moldova, the _Codru Reserve_ is a natural wonder that offers a unique blend of biodiversity and stunning landscapes. This is the oldest nature reserve in the country, and it stretches over a vast area filled with valleys and ravines that create breathtaking views.
 
 ### Discover the Flora and Fauna
@@ -241,6 +250,8 @@ For those keen on exploring more of Moldova's natural beauty, consider visiting 
 ---
 
 ## 9\. Tipova Monastery
+
+![Tipoxa Monestery, an monastery carved into the face](/imgs/moldova/monastere-de-tipova-moldavie.webp)
 
 Nestled along the banks of the Dniester River, Tipova Monastery is a hidden gem in Moldova. It's not just a religious site but a place of natural beauty and historical intrigue. **Carved out of the rock face**, this monastery offers a unique experience for those who venture to its remote location.
 

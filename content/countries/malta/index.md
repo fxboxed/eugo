@@ -33,7 +33,7 @@ Let’s check out the must-see attractions and resorts that make this island a f
 ---
 
 ## 1\. Valletta
-
+![narrow alleyway lined with old stone buildings](/imgs/malta/malta-valetta_640.jpg)
 Valletta, the capital of Malta, is a treasure trove of history and culture. **It's a place where the past and present coexist beautifully.** As you wander through its narrow streets, you'll be surrounded by stunning baroque architecture, colorful balconies, and historical landmarks at every corner.
 
 ### Attractions
@@ -87,6 +87,7 @@ Whether you're a history buff or just looking for a peaceful retreat, Mdina offe
 
 ## 3\. Gozo
 
+![The ancient ruins of Ggantija Temples Gozo](/imgs/malta/ggantija-temples-gozo-17812.jpg)
 Welcome to Gozo, Malta's charming sister island, where time seems to slow down, and the landscape invites you to relax and explore. **Gozo is a treasure trove of history, culture, and natural beauty**, offering something for every traveler.
 
 ### Discover the Island's Rich History
@@ -112,6 +113,7 @@ For those seeking adventure, tranquility, or a bit of both, Gozo has it all. Whe
 
 ## 4\. St. Julian's
 
+![St Julian Chapel harbour](/imgs/malta/st-julian-paceville.jpg)
 St. Julian's is the pulse of Malta's vibrant nightlife and a hub for entertainment. This lively town, located along the coast, is a favorite among both locals and tourists. Whether you're in the mood for a night out or a relaxing day by the sea, St. Julian's has something to offer.
 
 ### Nightlife Extravaganza
@@ -140,6 +142,7 @@ From luxury hotels to cozy guesthouses, St. Julian's offers a wide range of acco
 
 ## 5\. Paceville
 
+![Elaborate dining room of the Havana Club](/imgs/malta/Havana-Club-paceville.jpg)
 Paceville is the heartbeat of Malta's nightlife. Located in St. Julian's, this area is packed with energy and excitement. **If you're looking to party until the sun comes up, this is your spot.** The streets are lined with nightclubs, bars, and pubs, each offering a unique vibe and music ranging from electronic beats to live bands.
 
 ### Nightlife Highlights
@@ -170,6 +173,8 @@ For those who want to explore beyond the nightlife, consider [a customizable ful
 
 ## 6\. Ghajn Tuffieha Bay
 
+![Ghajn Tuffieha Bay under a clear blue sky](/imgs/malta/ghajn-tuffieha-bay.jpg)
+
 Nestled away from the hustle and bustle, _Ghajn Tuffieha Bay_ offers a tranquil escape with its pristine sandy shores and crystal-clear waters. This hidden gem, sometimes known as Riviera Beach, is a must-visit for those seeking a bit of solitude and natural beauty.
 
 ### Getting There
@@ -195,6 +200,8 @@ Ghajn Tuffieha Bay is not just a beach; it's an experience that combines the bes
 ---
 
 ## 7\. Marsaxlokk Sunday Market
+
+![The floating Marsaxlokk Sunday Market](/imgs/malta/marsaxlokk-sunday-market-malta.jpg)
 
 If you're in Malta on a Sunday, you can't miss the Marsaxlokk Sunday Market. This bustling market is not just a place to shop; it's an experience that captures the essence of Maltese culture. **The vibrant atmosphere and the aroma of fresh seafood make it a must-visit.**
 
