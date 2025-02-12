@@ -12,21 +12,6 @@
     <loc>http://localhost:1313/countries/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/norway/</loc>
-    <lastmod>2025-02-07T09:36:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/countries/poland/</loc>
-    <lastmod>2025-02-07T09:36:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/countries/portugal/</loc>
-    <lastmod>2025-02-07T09:36:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/countries/romania/</loc>
-    <lastmod>2025-02-07T09:36:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/countries/san-marino/</loc>
-    <lastmod>2025-02-07T09:36:21+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/countries/serbia/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
@@ -84,6 +69,9 @@
     <loc>http://localhost:1313/countries/hungary/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/countries/poland/</loc>
+    <lastmod>2025-02-05T08:28:09+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/countries/liechtenstein/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
@@ -135,6 +123,15 @@
     <loc>http://localhost:1313/countries/luxembourg/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/countries/romania/</loc>
+    <lastmod>2025-02-05T08:28:09+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/norway/</loc>
+    <lastmod>2025-02-05T08:28:09+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/portugal/</loc>
+    <lastmod>2025-02-05T08:28:09+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/countries/moldova/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
@@ -176,6 +173,8 @@
   </url><url>
     <loc>http://localhost:1313/countries/iceland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/countries/san-marino/</loc>
   </url><url>
     <loc>http://localhost:1313/terms/</loc>
   </url>

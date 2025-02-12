@@ -1,27 +1,48 @@
 .holy-grail {
-  border: 4px solid #518a9c;
+  background: #fff;
   display: grid;
   grid-template-columns: 1fr;
   gap: 24px;
-  margin: 60px 0;
+  margin-top: 100px;
   max-width: 660px;
-  padding-top: 60px;
+  position: relative;
+  width: 100%;
+}
+.holy-grail img {
+  border: 6px solid #fff;
+  margin: auto;
+  max-height: 400px;
+  height: 100%;
+  max-width: 600px;
   width: 100%;
 }
 aside,
 main {
-  background: #fff;
   padding: 16px;
 }
 aside {
   display: grid;
+  align-items: start;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  height: 400px;
+}
+.aside-item {
+  background: #f00;
+  border: 1px solid #000;
+  height: 100%;
+  margin-bottom: auto;
+  max-height: 100px;
 }
 @media (min-width: 768px) {
   .holy-grail {
     display: grid;
-    grid-template-columns: 2fr 1fr;
     max-width: 1200px;
+    width: 100%;
+  }
+}
+@media (min-width: 1200px) {
+  .holy-grail {
+    grid-template-columns: 2fr 1fr;
   }
 }
 .navbar {
@@ -50,12 +71,10 @@ aside {
   transition: all 0.3s;
 }
 .country-list {
-  background: #fff;
   border-radius: 16px;
-  box-shadow: rgba(255,255,255,0.1) 0px 1px 1px 0px inset, rgba(50,50,93,0.25) 0px 50px 100px -20px, rgba(0,0,0,0.3) 0px 30px 60px -30px;
-  background: rgba(255,255,255,0.5);
-  -webkit-backdrop-filter: blur(10px);
-  backdrop-filter: blur(10px);
+  background: rgba(0,0,0,0.1);
+  -webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
   border: 1px solid rgba(255,255,255,0.25);
   display: grid;
   gap: 10px;
@@ -69,8 +88,10 @@ aside {
   overflow: hidden;
   max-width: 780px;
   padding: 0;
-  position: relative;
-  top: 20px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
   transition: all 0.4s ease-in-out;
   width: 100%;
   z-index: 10;
@@ -116,11 +137,11 @@ button.open-country-dropdown span {
 .country-list.show-country-list {
   height: initial;
   max-height: fit-content;
+  margin-left: auto;
   margin-top: 0;
   padding: 24px;
-  position: absolute;
+  transform: translateX(-50%);
   transition: all 0.8s ease-in-out;
-  z-index: 10;
 }
 .country-list button {
   background: #518a9c;
@@ -129,41 +150,6 @@ button.open-country-dropdown span {
   height: 32px;
   margin: 20px auto;
   width: 100px;
-}
-.country-link {
-  background-color: #518a9c;
-  border-radius: 100px;
-  cursor: pointer;
-  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  outline: 0;
-  padding: 6px 16px;
-  position: relative;
-  text-align: center;
-  text-decoration: none;
-  transition: all 0.3s;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-}
-a.country-link,
-button.country-link {
-  color: #fff;
-  padding: 4px;
-}
-.country-link:before {
-  background-color: initial;
-  background-image: linear-gradient(#fff 0, rgba(255,255,255,0) 100%);
-  border-radius: 60px;
-  content: "";
-  height: 50%;
-  left: 0;
-  opacity: 0.5;
-  position: absolute;
-  top: 0;
-  transition: all 0.3s;
-  width: 100%;
 }
 form.contact-form {
   background: #fff;
@@ -202,11 +188,12 @@ header.site-header {
   align-items: center;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
-  height: 600px;
   margin-top: 80px;
+  position: relative;
   width: 100%;
+  z-index: -1;
 }
-img.banner-img-lg {
+.banner-img {
   grid-column: 1/2;
   grid-row: 1/2;
   margin: 0;
@@ -220,6 +207,7 @@ img.banner-img-lg {
   height: 100%;
   margin: 0 auto;
   max-width: 1200px;
+  padding: 32px 0;
   text-align: center;
   width: 100%;
 }
@@ -228,9 +216,10 @@ img.banner-img-lg {
   width: 100%;
 }
 .country-banner .panel-wrap {
-  background: rgba(255,255,255,0.5);
-  -webkit-backdrop-filter: blur(10px);
-  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  background: rgba(0,0,0,0.1);
+  -webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
   border: 1px solid rgba(255,255,255,0.25);
   display: flex;
   align-items: center;
@@ -238,9 +227,11 @@ img.banner-img-lg {
   justify-content: left;
   height: 100%;
   gap: 20px;
-  max-width: 424px;
+  margin: auto;
+  max-width: 400px;
   padding: 16px;
   width: 100%;
+  z-index: 0;
 }
 .country-banner .panel {
   font-size: 1.2rem;
@@ -275,6 +266,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
+  background: #edf4f6;
   color: #31535e;
   font-family: 'Montserrat';
   line-height: 1.4;
@@ -298,8 +290,9 @@ img {
   width: 100%;
 }
 h1 {
-  border-top: 6px solid #518a9c;
-  border-bottom: 6px solid #518a9c;
+  border-top: 6px solid #fff;
+  border-bottom: 6px solid #fff;
+  color: #fff;
   font-family: 'Merienda';
   font-size: 2rem;
   font-weight: 200;
@@ -323,6 +316,10 @@ p {
   font-family: 'Montserrat';
   font-size: 1.2rem;
   margin-bottom: 12px;
+}
+p.header-p {
+  color: #fff;
+  font-weight: 600;
 }
 blockquote {
   background: #b7d1da;

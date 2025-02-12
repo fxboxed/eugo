@@ -77,12 +77,17 @@
 </nav>
 <script src="/js/countries.js" defer></script>
 <header class="site-header">
-    <img class="banner-img-lg" src="/imgs/europe/banner-lg.jpeg" alt="Lady sitting on a bench in front of a cave">
+    <picture class="banner-img">
+        <source srcset="/imgs/europe/banner-sm.jpeg" media="(max-width: 780px)">
+        <source srcset="/imgs/europe/banner-md.jpeg" media="(max-width: 1080px)">
+        <img src="/imgs/europe/banner-lg.jpeg" alt="Lady sitting on a bench in front of a cave">
+    </picture>
+    
     <div class="country-banner">
         <div class="panel-wrap">
             <div class="panel">
                 <h1> Country </h1>
-                <p></p>
+                <p class="header-p"></p>
             </div>
         </div>
 
@@ -150,6 +155,13 @@
             </div>
         
             <div class="item">
+                <h2>10 Must Visit Places in Poland: Exploring Food, Culture, Attractions, and Markets</h2>
+                <p>Explore 10 must-visit places in Poland, from Kraków to Masurian Lakes, rich in food, culture, and attractions.</p>
+                <p> Feb 5, 5007 </p>
+                <a href="http://localhost:1313/countries/poland/">Read more</a>
+            </div>
+        
+            <div class="item">
                 <h2>10 Reasons to Visit Liechtenstein: Exploring Nightlife, Culture, Attractions, Food, and Drinks</h2>
                 <p>Discover 10 reasons to visit Liechtenstein, from nightlife to culture, attractions, food, and drinks.</p>
                 <p> Feb 5, 5007 </p>
@@ -161,13 +173,6 @@
                 <p>Explore 10 things to see and do in the Netherlands, from food and culture to nightlife and tourist hot spots.</p>
                 <p> Feb 5, 5007 </p>
                 <a href="http://localhost:1313/countries/netherlands/">Read more</a>
-            </div>
-        
-            <div class="item">
-                <h2>10 Unforgettable Things to See and Do in Italy: A Journey Through Food, Wine, Culture, Visitor Attractions, and Nightlife</h2>
-                <p>Explore 10 unforgettable things to see and do in Italy, from food and wine to culture and nightlife.</p>
-                <p> Feb 5, 5007 </p>
-                <a href="http://localhost:1313/countries/italy/">Read more</a>
             </div>
         
     </div>

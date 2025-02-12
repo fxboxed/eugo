@@ -1,22 +1,44 @@
 .holy-grail 
-    border 4px solid alpha
+    background #fff //light
+    //border 4px solid alpha
     display grid
     grid-template-columns: 1fr
     gap 24px
-    margin 60px 0
+    //margin 60px 0
+    margin-top 100px
     max-width 660px
-    padding-top 60px
+    //padding-top 60px
+    position relative
     width 100%
+    img 
+        border 6px solid #fff
+        margin auto
+        max-height 400px
+        height 100%
+        max-width 600px
+        width 100%
 aside, main 
-    background light
+    //background red // light
     //border 1px solid #000
     padding 16px
+
 aside 
     display grid 
+    align-items start
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr) )
+    height 400px //fit-content
+.aside-item
+    background red
+    border 1px solid #000
+    height 100%
+    margin-bottom auto
+    max-height 100px
 @media(min-width 768px)
     .holy-grail 
         display grid
-        grid-template-columns: 2fr 1fr
         max-width 1200px
+        width 100%
 
+@media(min-width 1200px)
+    .holy-grail 
+        grid-template-columns: 2fr 1fr

@@ -5,16 +5,19 @@ header.site-header
     align-items center
     grid-template-columns: 1fr
     grid-template-rows: 1fr
-    height 600px
+    //height 600px
     margin-top 80px
     //min-height 300px
     //padding 16px
-    //position relative
+    position relative
     width 100%
-img.banner-img-lg 
+    z-index -1
+.banner-img
     grid-column 1 / 2   
     grid-row 1 / 2
     margin 0
+    //opacity .4
+
 .country-banner 
     //background alpha + (80%) //#000
     //border 1px solid red
@@ -27,7 +30,7 @@ img.banner-img-lg
     margin 0 auto
     //margin-top 80px
     max-width 1200px
-    //padding 16px
+    padding 32px 0
     //position relative
     text-align center
     width 100%
@@ -36,13 +39,15 @@ img.banner-img-lg
         //max-width 400px
         //border 10px solid light
         min-height 400px
+
         width 100%
     .panel-wrap 
         //border 1px solid blue //light
+        border-radius: 10px
         //color light
-        background: rgba(255, 255, 255, 0.5);
-        -webkit-backdrop-filter: blur(10px);
-        backdrop-filter: blur(10px);
+        background: rgba(0, 0, 0, 0.1);
+        -webkit-backdrop-filter: blur(15px);
+        backdrop-filter: blur(15px);
         border: 1px solid rgba(255, 255, 255, 0.25);
         display flex
         align-items center
@@ -50,11 +55,12 @@ img.banner-img-lg
         justify-content left
         height 100%
         gap 20px
-        max-width 424px
+        margin auto
+        max-width 400px
         padding 16px
         //position relative
         width 100%
-        //z-index -1
+        z-index 0
 
     .panel 
         //border 1px solid blue

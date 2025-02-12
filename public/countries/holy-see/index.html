@@ -77,12 +77,17 @@
 </nav>
 <script src="/js/countries.js" defer></script>
 <header class="site-header">
-    <img class="banner-img-lg" src="/imgs/europe/banner-lg.jpeg" alt="Lady sitting on a bench in front of a cave">
+    <picture class="banner-img">
+        <source srcset="/imgs/europe/banner-sm.jpeg" media="(max-width: 780px)">
+        <source srcset="/imgs/europe/banner-md.jpeg" media="(max-width: 1080px)">
+        <img src="/imgs/europe/banner-lg.jpeg" alt="Lady sitting on a bench in front of a cave">
+    </picture>
+    
     <div class="country-banner">
         <div class="panel-wrap">
             <div class="panel">
                 <h1>  10 Things to See and Do in the Holy See: A Culinary and Cultural Journey Through Food, Wine, and Nightlife </h1>
-                <p>Explore 10 must-see attractions in the Holy See, blending food, wine, culture, and vibrant nightlife.</p>
+                <p class="header-p">Explore 10 must-see attractions in the Holy See, blending food, wine, culture, and vibrant nightlife.</p>
             </div>
         </div>
 

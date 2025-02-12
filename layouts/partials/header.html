@@ -1,12 +1,17 @@
 
 {{partial "navbar" .}}
 <header class="site-header">
-    <img class="banner-img-lg" src="/imgs/europe/banner-lg.jpeg" alt="Lady sitting on a bench in front of a cave">
+    <picture class="banner-img">
+        <source srcset="/imgs/europe/banner-sm.jpeg" media="(max-width: 780px)">
+        <source srcset="/imgs/europe/banner-md.jpeg" media="(max-width: 1080px)">
+        <img src="/imgs/europe/banner-lg.jpeg" alt="Lady sitting on a bench in front of a cave">
+    </picture>
+    {{/*  <img class="banner-img-lg" src="/imgs/europe/banner-lg.jpeg" alt="Lady sitting on a bench in front of a cave">  */}}
     <div class="country-banner">
         <div class="panel-wrap">
             <div class="panel">
                 <h1> {{.Title}} </h1>
-                <p>{{.Params.description}}</p>
+                <p class="header-p">{{.Params.description}}</p>
             </div>
         </div>
 
