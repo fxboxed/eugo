@@ -1,5 +1,5 @@
 +++
-title = " Exploring Europe: A Tourist's Treasure Trove"
+title = " Exploring Europe: A Tourist's Treasure Trove EDITED"
 date = '2025-02-07T09:36:21Z'
 draft = false
 description = "Each European country offers its unique blend of cuisine, culture, and tourist attractions, making it an ideal destination for various types of vacation. "
@@ -18,7 +18,7 @@ alt_txt = " Collage of famous European landmarks and scenic views"
 
 ## Why visit Europe?
 
-Europe is like a big playground for travelers. It's packed with cool spots, both famous and hidden. You can dive into history, munch on unique foods, and soak up stunning views. But there's more than just the well-known places. 
+Europe is like a big playground for travellers. It's packed with cool spots, both famous and hidden. You can dive into history, munch on unique foods, and soak up stunning views. But there's more than just the well-known places. 
 
 Europe has lots of hidden gems that offer a quieter, more personal experience. So, if you're planning a trip, think about exploring the lesser-known spots. They're full of surprises and make for some pretty unforgettable stories.
 
