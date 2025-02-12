@@ -1,182 +1,182 @@
 
-<&lt;?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> 
+&lt;?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://eugo.co.uk/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://eugo.co.uk/categories/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/</loc>
+    <loc>https://eugo.co.uk/countries/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/serbia/</loc>
+    <loc>https://eugo.co.uk/countries/serbia/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/slovakia/</loc>
+    <loc>https://eugo.co.uk/countries/slovakia/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/slovenia/</loc>
+    <loc>https://eugo.co.uk/countries/slovenia/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/spain/</loc>
+    <loc>https://eugo.co.uk/countries/spain/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/sweden/</loc>
+    <loc>https://eugo.co.uk/countries/sweden/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/switzerland/</loc>
+    <loc>https://eugo.co.uk/countries/switzerland/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/turkey/</loc>
+    <loc>https://eugo.co.uk/countries/turkey/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/uk/</loc>
+    <loc>https://eugo.co.uk/countries/uk/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/ukraine/</loc>
+    <loc>https://eugo.co.uk/countries/ukraine/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/general/</loc>
+    <loc>https://eugo.co.uk/categories/general/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://eugo.co.uk/about/</loc>
     <lastmod>2025-02-05T10:37:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://eugo.co.uk/privacy/</loc>
     <lastmod>2025-02-05T10:37:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/germany/</loc>
+    <loc>https://eugo.co.uk/countries/germany/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/holy-see/</loc>
+    <loc>https://eugo.co.uk/countries/holy-see/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/greece/</loc>
+    <loc>https://eugo.co.uk/countries/greece/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/finland/</loc>
+    <loc>https://eugo.co.uk/countries/finland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/ireland/</loc>
+    <loc>https://eugo.co.uk/countries/ireland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/france/</loc>
+    <loc>https://eugo.co.uk/countries/france/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/hungary/</loc>
+    <loc>https://eugo.co.uk/countries/hungary/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/poland/</loc>
+    <loc>https://eugo.co.uk/countries/poland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/liechtenstein/</loc>
+    <loc>https://eugo.co.uk/countries/liechtenstein/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/netherlands/</loc>
+    <loc>https://eugo.co.uk/countries/netherlands/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/italy/</loc>
+    <loc>https://eugo.co.uk/countries/italy/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/andorra/</loc>
+    <loc>https://eugo.co.uk/tags/andorra/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/andorra/</loc>
+    <loc>https://eugo.co.uk/categories/andorra/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/austria/</loc>
+    <loc>https://eugo.co.uk/tags/austria/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/austria/</loc>
+    <loc>https://eugo.co.uk/categories/austria/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/austria/</loc>
+    <loc>https://eugo.co.uk/countries/austria/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/country/</loc>
+    <loc>https://eugo.co.uk/tags/country/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/country/</loc>
+    <loc>https://eugo.co.uk/categories/country/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/andorra/</loc>
+    <loc>https://eugo.co.uk/countries/andorra/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/malta/</loc>
+    <loc>https://eugo.co.uk/countries/malta/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/lithuania/</loc>
+    <loc>https://eugo.co.uk/countries/lithuania/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/belgium/</loc>
+    <loc>https://eugo.co.uk/countries/belgium/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/bosnia/</loc>
+    <loc>https://eugo.co.uk/countries/bosnia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/bulgaria/</loc>
+    <loc>https://eugo.co.uk/countries/bulgaria/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/luxembourg/</loc>
+    <loc>https://eugo.co.uk/countries/luxembourg/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/romania/</loc>
+    <loc>https://eugo.co.uk/countries/romania/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/san-marino/</loc>
+    <loc>https://eugo.co.uk/countries/san-marino/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/norway/</loc>
+    <loc>https://eugo.co.uk/countries/norway/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/portugal/</loc>
+    <loc>https://eugo.co.uk/countries/portugal/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/moldova/</loc>
+    <loc>https://eugo.co.uk/countries/moldova/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/monaco/</loc>
+    <loc>https://eugo.co.uk/countries/monaco/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/cyprus/</loc>
+    <loc>https://eugo.co.uk/countries/cyprus/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/czechia/</loc>
+    <loc>https://eugo.co.uk/countries/czechia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/estonia/</loc>
+    <loc>https://eugo.co.uk/countries/estonia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/croatia/</loc>
+    <loc>https://eugo.co.uk/countries/croatia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/montenegro/</loc>
+    <loc>https://eugo.co.uk/countries/montenegro/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/x_index/</loc>
+    <loc>https://eugo.co.uk/x_index/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post-one/</loc>
+    <loc>https://eugo.co.uk/post-one/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post-three/</loc>
+    <loc>https://eugo.co.uk/post-three/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post-two/</loc>
+    <loc>https://eugo.co.uk/post-two/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://eugo.co.uk/tags/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/denmark/</loc>
+    <loc>https://eugo.co.uk/countries/denmark/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/iceland/</loc>
+    <loc>https://eugo.co.uk/countries/iceland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/terms/</loc>
+    <loc>https://eugo.co.uk/terms/</loc>
   </url>
 </urlset>
