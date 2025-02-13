@@ -1,5 +1,5 @@
 +++
-title = " Exploring Europe: A Tourist's Treasure Trove EDITED"
+title = " Exploring Europe: A Tourist's Treasure Trove"
 date = '2025-02-07T09:36:21Z'
 draft = false
 description = "Each European country offers its unique blend of cuisine, culture, and tourist attractions, making it an ideal destination for various types of vacation. "
@@ -8,10 +8,6 @@ author = ["eugo"]
 layout = "custom"
 image = "/imgs/europe/europe-featured.jpeg"
 alt_txt = " Collage of famous European landmarks and scenic views"
-
-
-
-
 +++
 
 
