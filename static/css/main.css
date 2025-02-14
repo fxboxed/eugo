@@ -8,6 +8,11 @@
   position: relative;
   width: 100%;
 }
+.holy-grail a {
+  color: #006994;
+  font-weight: bold;
+  text-decoration: underline;
+}
 .holy-grail img {
   border: 6px solid #fff;
   margin: auto;
@@ -56,7 +61,7 @@ aside {
   width: 100%;
 }
 .navbar a {
-  color: #fff;
+  color: #726230;
   display: inline-block;
   font-size: 1.2rem;
   font-weight: 500;
@@ -105,6 +110,7 @@ aside {
   text-align: center;
 }
 .country-list a {
+  background: #9a8a58;
   border: 2px solid #988549;
   color: #fff;
   font-size: 16px;
@@ -113,7 +119,7 @@ aside {
   text-decoration: none;
 }
 button.open-country-dropdown {
-  color: #fff;
+  color: #726230;
   cursor: pointer;
   display: flex;
   flex-direction: column;
@@ -144,10 +150,11 @@ button.open-country-dropdown span {
   transition: all 0.8s ease-in-out;
 }
 .country-list button {
-  background: #87ceeb;
+  background: #c2b280;
   color: #fff;
+  font-size: 1.2rem;
   grid-column: 1/-1;
-  height: 32px;
+  height: 50px;
   margin: 20px auto;
   width: 100px;
 }
@@ -179,7 +186,7 @@ form.contact-form textarea {
 }
 form.contact-form label {
   display: block;
-  color: #87ceeb;
+  color: #0b303f;
   font-size: 1.2rem;
   margin: 16px 0 8px;
 }
@@ -334,17 +341,17 @@ h2 {
 h3 {
   font-family: 'Merienda';
   font-weight: 200;
-  color: #4188a5;
+  color: #2d7491;
   margin: 24px 0 16px;
 }
 p {
-  color: #15607f;
+  color: #0b303f;
   font-family: 'Montserrat';
   font-size: 1.1rem;
   margin-bottom: 12px;
 }
 p.header-p {
-  color: #15607f;
+  color: #0b303f;
   font-weight: 400;
 }
 blockquote {
@@ -371,6 +378,7 @@ ol {
 }
 li {
   border-bottom: 1px solid #9fd8ef;
+  color: #0b303f;
 }
 footer {
   background: #48b4e0;
@@ -404,7 +412,7 @@ footer {
   align-items: center;
 }
 .foot {
-  background: #2090be;
+  background: #0b303f;
   display: flex;
   grid-column: span 2;
   margin-top: 24px;

@@ -61,7 +61,7 @@ Europe is a treasure trove of cultural experiences waiting to be explored. From 
 
 ### Engaging with Local Traditions
 
-![Man standing in colourful traditional robes](/imgs/europe/european-culture.jpg)
+![Man standing in colourful traditional robes](/imgs/europe/european-culture.jpg width='600' height='400')
 
 Engaging with local traditions is like opening a window to the soul of a place. Whether it's learning to dance the flamenco in Spain or participating in a traditional tea ceremony in England, these experiences offer a deeper understanding of the people and their way of life. **Immersing yourself in these customs can transform your travel from mere sightseeing to a meaningful cultural exchange.**
 
@@ -71,7 +71,7 @@ Engaging with local traditions is like opening a window to the soul of a place. 
 
 ### Exploring Historical Landmarks
 
-![The Palace of Versailles](imgs/europe/Palace-of-Versailles.jpg)
+![The Palace of Versailles](imgs/europe/Palace-of-Versailles.jpg )
 
 Europe is dotted with historical landmarks that tell the stories of its past. From the ancient ruins of Rome to the majestic castles of Scotland, each site offers a glimpse into the continent's rich history. Exploring these landmarks is not just about admiring their architecture; it's about stepping back in time and experiencing the events that shaped Europe.
 
@@ -235,26 +235,26 @@ Whether it's a quiet village tucked away in the hills or a stunning coastline th
 
 ## Frequently Asked Questions
 
-#### Why explore hidden gems in Europe?
+### Why explore hidden gems in Europe?
 
 Exploring hidden gems in Europe offers unique experiences and helps preserve these places for future generations. It also supports sustainable tourism by reducing the impact on popular tourist spots.
 
-#### How can I find Europe's hidden gems?
+### How can I find Europe's hidden gems?
 
 To find hidden gems, try slow travel, talk to locals, research the area's history and culture, and consider volunteering. These methods can lead you to lesser-known yet amazing places.
 
-#### What are the benefits of visiting lesser-known destinations?
+### What are the benefits of visiting lesser-known destinations?
 
 Visiting lesser-known destinations allows deeper cultural interactions, supports local economies, and provides more authentic experiences away from crowded tourist spots.
 
-#### How does sustainable travel benefit Europe?
+### How does sustainable travel benefit Europe?
 
 Sustainable travel helps protect Europe's natural and cultural heritage by minimizing environmental impacts and supporting local communities through responsible tourism practices.
 
-#### What are some unique cultural experiences in Europe?
+### What are some unique cultural experiences in Europe?
 
 Unique cultural experiences in Europe include engaging with local traditions, exploring historical landmarks, and participating in local festivals that showcase the region's heritage.
 
-#### When is the best time to visit Europe?
+### When is the best time to visit Europe?
 
 The best time to visit Europe is during spring (April-May) or early fall (September-October) for pleasant weather and fewer crowds. However, each season offers unique attractions and events.
