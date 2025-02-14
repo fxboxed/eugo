@@ -27,7 +27,6 @@ aside {
   height: 400px;
 }
 .aside-item {
-  background: #f00;
   border: 1px solid #000;
   height: 100%;
   margin-bottom: auto;
@@ -106,7 +105,7 @@ aside {
   text-align: center;
 }
 .country-list a {
-  border: 1px solid #988549;
+  border: 2px solid #988549;
   color: #fff;
   font-size: 16px;
   padding: 4px;
@@ -115,6 +114,7 @@ aside {
 }
 button.open-country-dropdown {
   color: #fff;
+  cursor: pointer;
   display: flex;
   flex-direction: column;
   font-size: 20px;
@@ -122,6 +122,7 @@ button.open-country-dropdown {
   top: 30px;
   left: 50%;
   transform: translateX(-50%);
+  z-index: 10;
 }
 button.open-country-dropdown span {
   border-radius: 50%;
@@ -185,13 +186,14 @@ form.contact-form label {
 header.site-header {
   background: linear-gradient(180deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8));
   background: linear-gradient(180deg, #87ceeb, #fff, #dad1b3);
-  background: #0b303f;
+  background: #fff;
+  background: #e7e0cc;
   display: grid;
   align-items: center;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
   min-height: 100vh;
-  padding: 60px;
+  padding: 60px 16px;
   position: relative;
   width: 100%;
   z-index: -1;
@@ -246,7 +248,7 @@ header.site-header {
   grid-column: 1/2;
   grid-row: 1/2;
   margin: auto;
-  padding: 40px 16px;
+  padding: 16px 16px;
   text-align: center;
   max-width: 600px;
   width: 100%;
@@ -256,11 +258,8 @@ header.site-header {
   -webkit-mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
 }
 .banner img {
-  margin: 40px auto;
-  width: 100%;
-}
-.banner p {
-  color: #87ceeb;
+  margin: 32px auto;
+  width: 300px;
 }
 @font-face {
   font-family: 'Montserrat';
@@ -324,7 +323,7 @@ h1 {
   padding: 16px 0;
 }
 .banner h1 {
-  color: #c2b280;
+  color: #867644;
 }
 h2 {
   font-family: 'Merienda';
@@ -335,39 +334,43 @@ h2 {
 h3 {
   font-family: 'Merienda';
   font-weight: 200;
+  color: #4188a5;
   margin: 24px 0 16px;
 }
 p {
-  color: #2090be;
+  color: #15607f;
   font-family: 'Montserrat';
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin-bottom: 12px;
 }
 p.header-p {
-  color: #2090be;
-  font-weight: 600;
+  color: #15607f;
+  font-weight: 400;
 }
 blockquote {
-  background: #cfebf7;
-  border-left: 10px solid #87ceeb;
+  background: #e7f5fb;
+  border-left: 10px solid #b7e2f3;
   font-style: italic;
-  margin: 24px 0;
+  margin: 32px auto;
   padding: 16px;
-  width: 100%;
+  width: 90%;
 }
 hr {
   margin: 32px auto;
   width: 100px;
 }
-ul {
-  border: 1px solid #fff;
+ul,
+ol {
   display: flex;
-  gap: 12px;
+  gap: 14px;
   flex-direction: column;
   font-size: 1.2rem;
   font-style: italic;
-  margin: auto;
+  margin: 40px auto;
   width: 90%;
+}
+li {
+  border-bottom: 1px solid #9fd8ef;
 }
 footer {
   background: #48b4e0;
