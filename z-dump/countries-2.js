@@ -13,9 +13,10 @@ window.onload = function() {
     const countryLists = document.querySelectorAll('.country-list');
 
     if (dropdownButtons.length > 0 && countryLists.length > 0) {
+        console.log('showCountriesBtn.length', showCountriesBtn.length);
         dropdownButtons.forEach(button => {
             button.addEventListener('click', () => {
-                console.log('open clicked');
+                console.log('open clicked statics');
                 countryLists.forEach(list => {
                     list.classList.add('show-country-list');
 
@@ -38,3 +39,21 @@ window.onload = function() {
         });
     }
 };
+
+//---------2nd dropdown menu for countries--------------
+// get 2nd dropdown btn
+// const showCountriesBtn = document.querySelectorAll('.show-countries-btn');
+
+// console.log('showCountriesBtn.length', showCountriesBtn.length);
+// if (showCountriesBtn.length > 0 && countryLists.length > 0) {
+//     console.log('showCountriesBtn.length', showCountriesBtn.length);
+//     showCountriesBtn.forEach(button => {
+//         button.addEventListener('click', () => {
+//             console.log('open clicked in btn 2');
+//             countryLists.forEach(list => {
+//                 list.classList.add('show-countries');
+
+//             });
+//         });
+//     });
+// }

@@ -1,5 +1,5 @@
 .navbar 
-    //background alpha + (80%)// light
+    //background red //alpha + (80%)// light
     display flex 
     align-items center
     gap 16px
@@ -7,9 +7,10 @@
     height 80px
     //margin-bottom 24px
     padding 0 10px
-    position fixed
+    position absolute //fixed
     top 0
     width 100%
+    z-index 1
     a  
         color gamma - (80)//alpha
         display inline-block
@@ -32,72 +33,92 @@
     border: 1px solid rgba(255, 255, 255, 0.25);
     display grid
     gap 10px
-    grid-template-columns repeat(auto-fill, minmax(100px, 1fr) )
+    grid-template-columns repeat(auto-fill, minmax(120px, 1fr) )
     justify-content space-between
     height fit-content
-    max-height 0
+    //max-height 0
     list-style none
     margin auto
-    margin-top -800px
+    //margin-top -800px
     overflow hidden
-    max-width 780px //1080px
-    padding 0 //20px
+    max-width 400px //1080px
+    //padding 0 //20px
+    opacity 0
     position absolute
-    top 0 //20px
-    left 50%
-    transform translateX(-50%)
+    //top -px
+    //left 50%
+    //transform translateX(-50%)
     //transform scale(0)
     transition all .4s ease-in-out
     width 100%
     z-index 10
 
-    span 
-        border-radius 4px
-        background #f0f0f0
-        display inline-block
-        font-size 16px
-        margin 4px
-        padding 4px 8px
-        text-align center
     a 
-        background gamma - (40) //alpha
-        border 2px solid gamma - (30%)
+        background   linear-gradient(alpha, alpha - 80)
+        border-radius: 20px
+        //border 2px solid gamma - (30%)
         color light
-        font-size 16px
-        padding 4px
+        font-size 15px
+        padding 8px 8px
         text-align: center
         text-decoration none
+@media(min-width 600px)
+    .country-list
+        max-width 600px
 
-
+.locations
+    transform: scale(0)
 button.open-country-dropdown 
-    color gamma - (80)
+    background   linear-gradient(alpha, alpha - 80)   //alpha - 40
+    //border 1px solid alpha - 80
+    border-radius 20px
+    color light //gamma - (80)
     cursor pointer
     display flex 
     flex-direction: column 
     font-size 20px
     //gap 6px
-    position absolute
-    top 30px
+    padding 10px 20px
+    //position absolute
+    //top 30px
     left 50%
+
     transform translateX(-50%)
-    z-index 10
-    span 
-        //background light
-        border-radius 50%
-        font-size 24px
-        line-height .5
-        margin -10px auto
-        padding  16px
-        text-align center
-        transform rotate(90deg)
-        z-index -1
+    z-index 1
+    // span 
+    //     //background light
+    //     border-radius 50%
+    //     font-size 24px
+    //     line-height .5
+    //     margin -10px auto
+    //     padding  16px
+    //     text-align center
+    //     transform rotate(90deg)
+    //     z-index -1
+// button.show-countries-btn
+//     background red
+//     cursor pointer
+//     height 40px
+//     //position absolute
+//     top 0
+//     z-index 10
+// .country-list.show-countries 
+//     height initial 
+//     max-height fit-content
+//     margin-left auto
+//     margin-top 0
+//     padding 24px
+
+    // transform translateX(-50%)
+    // transition all .8s ease-in-out
 //open-country-dropdown when btn is clicked
 .country-list.show-country-list 
     height initial //400px // auto //fit-content
     max-height fit-content
-    margin-left auto
-    margin-top 0
-    padding 24px
+    //margin-left auto
+    //margin-top 60px
+    padding 16px
+    opacity 1
 
     //top 40px
     //left 50%
@@ -105,16 +126,19 @@ button.open-country-dropdown
     //transform scale(1)
     transition all .8s ease-in-out
     //width 400px
-
+.locations.show-country-list
+    transform scale(1)
+    transition all .4s ease-in-out
 //
 .country-list button 
-    background gamma //var(--alpha)
+    background   linear-gradient(alpha, alpha - 80)
+    border-radius: 20px
     color light
     font-size 1.2rem
     grid-column 1 / -1
     height 50px 
-    margin 20px auto
-    width 100px 
+    margin auto
+    width 140px 
 //-----------------------------
 
 // <button class="countries-link" role="button">Button 71</button>
@@ -130,10 +154,7 @@ button.open-country-dropdown
 //   font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif
 //   font-size: 14px
 //   font-weight: 600
-//   outline: 0
-//   //padding: 6px 16px
-//   position: relative
-//   text-align: center
+//   outline: 0relative
 //   text-decoration: none
 //   transition: all .3s
 //   user-select: none

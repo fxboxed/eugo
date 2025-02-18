@@ -61,7 +61,7 @@ Europe is a treasure trove of cultural experiences waiting to be explored. From 
 
 ### Engaging with Local Traditions
 
-![Man standing in colourful traditional robes](/imgs/europe/european-culture.jpg width='600' height='400')
+![Man standing in colourful traditional robes](/imgs/europe/european-culture.jpg)
 
 Engaging with local traditions is like opening a window to the soul of a place. Whether it's learning to dance the flamenco in Spain or participating in a traditional tea ceremony in England, these experiences offer a deeper understanding of the people and their way of life. **Immersing yourself in these customs can transform your travel from mere sightseeing to a meaningful cultural exchange.**
 
