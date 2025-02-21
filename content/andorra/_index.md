@@ -16,7 +16,7 @@ alt_txt = "Andorran scenery"
 
 
 Tucked away in the heart of the Pyrenees, Andorra is a tiny gem waiting to be explored. With a mix of stunning landscapes, rich history, and vibrant culture, this little country offers a lot more than you might expect. 
-
+[La Vella](https://eugo.uk/andorra/cities/la-vella/)
 Whether you're into hiking through scenic valleys, savoring local dishes, or dancing the night away, Andorra has something for everyone. In this guide, we'll take you through the must-see spots and experiences that make Andorra a unique destination for 2025.
 
 ### Key Takeaways
