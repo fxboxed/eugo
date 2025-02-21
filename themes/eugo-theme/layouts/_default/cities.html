@@ -1,17 +1,17 @@
 {{ define "main" }}
   {{/*  <h1>{{ .Title }}</h1>  */}}
   {{/*  <h1>default cities</h1>  */}}
-<nav class="city-nav">
-{{/*  country page with links to cities  */}}
+{{/*  <nav class="city-nav">
 
-  </nav>
+  </nav>  */}}
   
 
 {{/*    */}}
 <div class="holy-grail">
   <div class="main">
     {{ range .Pages }}
-    <p><a href="{{ .RelPermalink }}">{{ .Params.tab }}</a></p>
+    <a href="{{ .RelPermalink }}">{{ .Params.tab }}</a>
+    <br/>
     {{/*  {{ .Summary }}  */}}
   {{ end }}
 
