@@ -12,7 +12,7 @@
   <div class="main">
     {{ range .Pages }}
 
-    <p><a href="{{ .RelPermalink }}">{{ .Params.tab }}</a></p>
+    <p><a href="{{ .RelPermalink }}">{{ .Params.Title }}</a></p>
     {{/*  {{ .Summary }}  */}}
   {{ end }}
 
