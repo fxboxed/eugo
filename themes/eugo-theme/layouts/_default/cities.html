@@ -11,8 +11,7 @@
 <div class="holy-grail">
   <div class="main">
     {{ range .Pages }}
-    <h1>permalinks</h1>
-    <p><a href="{{ .RelPermalink }}">{{ .Params.Title }}</a></p>
+    <p><a href="{{ .RelPermalink }}">{{ .Params.tab }}</a></p>
     {{/*  {{ .Summary }}  */}}
   {{ end }}
 
