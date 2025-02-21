@@ -1,0 +1,19 @@
+
+{{/*  this page contains links to all accoms  */}}
+{{ define "main" }}
+  {{/*  <h1>{{ .Title }}</h1>    */}}
+
+    {{ range .Pages }}
+    <p><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>Featured Accomodation</p>
+    {{/*  {{ .Summary }}  */}}
+  {{ end }}
+<div class="holy-grail">
+  <div class="main">
+    {{ .Content }}
+  </div>
+  <div class="aside">
+
+  </div>
+</div>
+{{ end }}
+

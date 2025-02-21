@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{/*  links for accom index list  */}}
+
+
+    {{/*    */}}
+    <div class="holy-grail">
+      <div class="main">
+        {{ range .Pages }}
+        {{/*  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>  */}}
+        {{/*  {{ .Summary }}  */}}
+      {{ end }}
+          {{ .Content }}
+      </div>
+      <div class="aside">
+    
+      </div>
+    </div>
+{{ end }}

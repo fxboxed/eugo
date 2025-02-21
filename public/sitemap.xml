@@ -1,39 +1,35 @@
-
-&lt;?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/countries/serbia/</loc>
+    <loc>http://localhost:1313/serbia/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/switzerland/</loc>
+    <loc>http://localhost:1313/switzerland/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/turkey/</loc>
+    <loc>http://localhost:1313/turkey/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/slovenia/</loc>
+    <loc>http://localhost:1313/slovenia/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/slovakia/</loc>
+    <loc>http://localhost:1313/slovakia/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/</loc>
+    <loc>http://localhost:1313/sweden/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/sweden/</loc>
+    <loc>http://localhost:1313/spain/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/spain/</loc>
-    <lastmod>2025-02-07T09:36:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/countries/uk/</loc>
+    <loc>http://localhost:1313/uk/</loc>
     <lastmod>2025-02-07T09:36:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/general/</loc>
@@ -45,37 +41,37 @@
     <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2025-02-05T10:37:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/germany/</loc>
+    <loc>http://localhost:1313/germany/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/holy-see/</loc>
+    <loc>http://localhost:1313/holy-see/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/greece/</loc>
+    <loc>http://localhost:1313/greece/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/finland/</loc>
+    <loc>http://localhost:1313/finland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/ireland/</loc>
+    <loc>http://localhost:1313/ireland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/france/</loc>
+    <loc>http://localhost:1313/france/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/hungary/</loc>
+    <loc>http://localhost:1313/hungary/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/poland/</loc>
+    <loc>http://localhost:1313/poland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/liechtenstein/</loc>
+    <loc>http://localhost:1313/liechtenstein/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/netherlands/</loc>
+    <loc>http://localhost:1313/netherlands/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/italy/</loc>
+    <loc>http://localhost:1313/italy/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/andorra/</loc>
@@ -90,7 +86,7 @@
     <loc>http://localhost:1313/categories/austria/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/austria/</loc>
+    <loc>http://localhost:1313/austria/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/country/</loc>
@@ -99,68 +95,92 @@
     <loc>http://localhost:1313/categories/country/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/andorra/</loc>
+    <loc>http://localhost:1313/andorra/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/malta/</loc>
+    <loc>http://localhost:1313/malta/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/lithuania/</loc>
+    <loc>http://localhost:1313/lithuania/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/belgium/</loc>
+    <loc>http://localhost:1313/belgium/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/bosnia/</loc>
+    <loc>http://localhost:1313/bosnia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/bulgaria/</loc>
+    <loc>http://localhost:1313/bulgaria/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/luxembourg/</loc>
+    <loc>http://localhost:1313/luxembourg/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/romania/</loc>
+    <loc>http://localhost:1313/romania/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/san-marino/</loc>
+    <loc>http://localhost:1313/san-marino/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/norway/</loc>
+    <loc>http://localhost:1313/norway/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/portugal/</loc>
+    <loc>http://localhost:1313/portugal/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/moldova/</loc>
+    <loc>http://localhost:1313/moldova/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/monaco/</loc>
+    <loc>http://localhost:1313/monaco/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/cyprus/</loc>
+    <loc>http://localhost:1313/cyprus/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/czechia/</loc>
+    <loc>http://localhost:1313/czechia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/estonia/</loc>
+    <loc>http://localhost:1313/estonia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/croatia/</loc>
+    <loc>http://localhost:1313/croatia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/montenegro/</loc>
+    <loc>http://localhost:1313/montenegro/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/denmark/</loc>
+    <loc>http://localhost:1313/denmark/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/countries/iceland/</loc>
+    <loc>http://localhost:1313/iceland/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andorra/cities/la-vella/accom/accom-1/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andorra/cities/la-vella/accom/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/austria/cities/city-2/accom/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andorra/cities/la-vella/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/austria/cities/city-2/accom/accom-1/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/austria/cities/city-2/accom/accom-2/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/austria/cities/la-vella/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andorra/cities/escaldes/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/terms/</loc>
   </url>

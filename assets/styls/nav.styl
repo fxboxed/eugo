@@ -1,10 +1,11 @@
-.navbar 
-    //background red //alpha + (80%)// light
+nav.navbar 
+    background transparent //alpha + (80%)// light
     display flex 
     align-items center
     gap 16px
     justify-content space-between
     height 80px
+    margin-top 0
     //margin-bottom 24px
     padding 0 10px
     position absolute //fixed
@@ -26,52 +27,18 @@
             transition all 0.3s
 .country-list
     //background #fff
+
+
     border-radius 16px
     background: rgba(0, 0, 0, 0.1);
     -webkit-backdrop-filter: blur(15px);
     backdrop-filter: blur(15px);
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    display grid
-    gap 10px
-    grid-template-columns repeat(auto-fill, minmax(120px, 1fr) )
-    justify-content space-between
-    height fit-content
-    //max-height 0
-    list-style none
-    margin auto
-    //margin-top -800px
-    overflow hidden
-    max-width 400px //1080px
-    //padding 0 //20px
-    opacity 0
-    position absolute
-    //top -px
-    //left 50%
-    //transform translateX(-50%)
-    //transform scale(0)
-    transition all .4s ease-in-out
-    width 100%
-    z-index 10
 
-    a 
-        background   linear-gradient(alpha, alpha - 80)
-        border-radius: 20px
-        //border 2px solid gamma - (30%)
-        color light
-        font-size 15px
-        padding 8px 8px
-        text-align: center
-        text-decoration none
-@media(min-width 600px)
-    .country-list
-        max-width 600px
-
-.locations
-    transform: scale(0)
 button.open-country-dropdown 
-    background   linear-gradient(alpha, alpha - 80)   //alpha - 40
+    background   linear-gradient(alpha, alpha - 80) 
+    background rgba(0,0,0,.4)  //alpha - 40
     //border 1px solid alpha - 80
-    border-radius 20px
+    //border-radius 20px
     color light //gamma - (80)
     cursor pointer
     display flex 
@@ -85,32 +52,6 @@ button.open-country-dropdown
 
     transform translateX(-50%)
     z-index 1
-    // span 
-    //     //background light
-    //     border-radius 50%
-    //     font-size 24px
-    //     line-height .5
-    //     margin -10px auto
-    //     padding  16px
-    //     text-align center
-    //     transform rotate(90deg)
-    //     z-index -1
-// button.show-countries-btn
-//     background red
-//     cursor pointer
-//     height 40px
-//     //position absolute
-//     top 0
-//     z-index 10
-// .country-list.show-countries 
-//     height initial 
-//     max-height fit-content
-//     margin-left auto
-//     margin-top 0
-//     padding 24px
-
-    // transform translateX(-50%)
-    // transition all .8s ease-in-out
 //open-country-dropdown when btn is clicked
 .country-list.show-country-list 
     height initial //400px // auto //fit-content
@@ -118,10 +59,7 @@ button.open-country-dropdown
     //margin-left auto
     //margin-top 60px
     padding 16px
-    opacity 1
-
-    //top 40px
-    //left 50%
+    //opacity 1
     transform translateX(-50%)
     //transform scale(1)
     transition all .8s ease-in-out
@@ -131,7 +69,7 @@ button.open-country-dropdown
     transition all .4s ease-in-out
 //
 .country-list button 
-    background   linear-gradient(alpha, alpha - 80)
+    //background   linear-gradient(alpha, alpha - 80)
     border-radius: 20px
     color light
     font-size 1.2rem
@@ -139,43 +77,6 @@ button.open-country-dropdown
     height 50px 
     margin auto
     width 140px 
-//-----------------------------
 
-// <button class="countries-link" role="button">Button 71</button>
-
-/* CSS */
-// .country-link 
-//   background-color: alpha // #0078d0
-//   //border: 20px
-//   border-radius 100px
-//   cursor: pointer
-//   //display: inline-block
-//   //align-items center
-//   font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif
-//   font-size: 14px
-//   font-weight: 600
-//   outline: 0relative
-//   text-decoration: none
-//   transition: all .3s
-//   user-select: none
-//   -webkit-user-select: none
-//   touch-action: manipulation;
-// a.country-link, button.country-link 
-//     color light
-//     font-size 14px
-//     padding 4px
-
-// .country-link:before 
-//   background-color: initial
-//   background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%)
-//   border-radius: 60px
-//   content: ""
-//   height: 50%
-//   left: 0
-//   opacity: .5
-//   //position: absolute
-//   top: 0
-//   transition: all .3s
-//   width: 100%
 
 

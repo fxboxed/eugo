@@ -7,6 +7,9 @@ gamma = rgb(194, 178, 128)
 @require './forms.styl'
 @require './header'
 @require './footer'
+@require './topnav.styl'
+@require './city-nav.styl'
+@require './breadcrumb-nav.styl'
 
 
 
@@ -30,15 +33,16 @@ gamma = rgb(194, 178, 128)
     box-sizing border-box
     margin 0
     padding 0
+
 html 
     scroll-behavior: smooth;
 body 
     background-image: radial-gradient(circle at 28% 90%, rgba(113, 113, 113,0.03) 0%, rgba(113, 113, 113,0.03) 24%,transparent 24%, transparent 100%),radial-gradient(circle at 84% 65%, rgba(173, 173, 173,0.03) 0%, rgba(173, 173, 173,0.03) 45%,transparent 45%, transparent 100%),radial-gradient(circle at 46% 12%, rgba(141, 141, 141,0.03) 0%, rgba(141, 141, 141,0.03) 22%,transparent 22%, transparent 100%),radial-gradient(circle at 26% 14%, rgba(119, 119, 119,0.03) 0%, rgba(119, 119, 119,0.03) 35%,transparent 35%, transparent 100%),radial-gradient(circle at 81% 90%, rgba(42, 42, 42,0.03) 0%, rgba(42, 42, 42,0.03) 40%,transparent 40%, transparent 100%),radial-gradient(circle at 28% 100%, rgba(234, 234, 234,0.03) 0%, rgba(234, 234, 234,0.03) 56%,transparent 56%, transparent 100%),linear-gradient(90deg, rgb(255,255,255),rgb(255,255,255));
     background-attachment: fixed
-    //background #fff
     color alpha - (40%)
     font-family 'Montserrat'
     line-height 1.4
+
 
 a
     text-decoration: none
@@ -64,7 +68,7 @@ img
 h1 
     //border-top 2px solid #fff //gamma
     //border-bottom 2px solid gamma //alpha
-    color light
+    color beta
     font-family 'Merienda'
     font-size 1.6rem
     font-weight 200
@@ -73,9 +77,10 @@ h1
     padding 8px 0
 
 h2 
+    color beta
     font-family 'Merienda'
     font-weight 200
-    margin 60px 0 8px
+    margin 20px 0 8px
     text-align center
 h3 
     font-family 'Merienda'
@@ -201,4 +206,4 @@ li
     #map 
 
         width 100%
-    
+

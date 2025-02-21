@@ -5,7 +5,8 @@ draft = false
 description = "Each European country offers its unique blend of cuisine, culture, and tourist attractions, making it an ideal destination for various types of vacation. "
 categories = ["General"]
 author = ["eugo"]
-layout = "custom"
+tab = 'Home'
+#layout = "custom"
 image = "/imgs/europe/costumes.png"
 alt_txt = " Collage of people wearing traditional European dresses"
 +++
