@@ -13,7 +13,7 @@ layout = 'cities'
 image = "/imgs/andorra/andorran-scenery.jpg"
 alt_txt = "Andorran scenery"
 +++
-[La Vella](https://eugo.uk/andorra/cities/la-vella/)
+
 
 Tucked away in the heart of the Pyrenees, Andorra is a tiny gem waiting to be explored. With a mix of stunning landscapes, rich history, and vibrant culture, this little country offers a lot more than you might expect. 
 

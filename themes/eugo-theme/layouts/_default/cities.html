@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  {{/*  <h1>{{ .Title }}</h1>  */}}
   {{/*  <h1>default cities</h1>  */}}
 {{/*  <nav class="city-nav">
 
@@ -11,9 +11,10 @@
   <div class="main">
     <nav>
     {{ range .Pages }}
-    <a href="{{ .RelPermalink }}" class="country-link ">{{ .Params.tab }}</a>
 
-    <br/>
+    <a href="{{ .RelPermalink }}" >{{ .Params.tab }}</a>
+
+
     {{/*  {{ .Summary }}  */}}
   {{ end }}
 </nav>
