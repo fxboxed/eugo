@@ -557,17 +557,21 @@ li {
 }
 .city-nav,
 #city-nav {
-  color: #ffc0cb;
-  background: #008000;
+  background: #87ceeb;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin: 20px auto;
+  padding: 8px 20px;
   height: 40px;
   position: relative;
   width: fit-content;
 }
 .city-nav a.city-nav-link,
 #city-nav a.city-nav-link {
-  background: #00f;
   margin: auto;
   position: relative;
-  color: #ffc0cb;
+  color: #fff;
+  width: fit-content;
   z-index: 20;
 }
