@@ -180,7 +180,6 @@ header.site-header {
   width: 400px;
 }
 .banner {
-  background: #ffc0cb;
   grid-column: 1/2;
   grid-row: 1/2;
   padding: 10px 16px 16px;
@@ -492,15 +491,14 @@ li {
   width: 90%;
 }
 .holy-grail ul li {
-  background: #f3f0e6;
+  background: #f5f5f5;
   border-radius: 19px 8px 8px 19px;
-  box-shadow: rgba(194,178,128,0.25) 0px 30px 60px -12px inset, rgba(87,76,42,0.6) 0px 18px 36px -18px;
-  color: #83723f;
+  color: color #0b303f;
   padding: 12px 12px 12px 20px;
   position: relative;
 }
 .holy-grail ul li:nth-child(odd) {
-  background: #e7e0cc;
+  background: #c3c3c3;
 }
 .holy-grail ul li::before,
 .holy-grail ul li::after {
@@ -516,16 +514,15 @@ li {
   height: 100%;
   left: -20px;
   height: 100%;
-  left: -22px;
+  left: -18px;
   width: 60px;
   z-index: -1;
 }
 .holy-grail ul li::after {
-  background: #fff;
+  background: #000;
   height: 18px;
-  left: -20px;
   top: 50%;
-  left: -12px;
+  left: -10px;
   width: 18px;
 }
 .container {
