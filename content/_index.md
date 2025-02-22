@@ -7,7 +7,7 @@ categories = ["General"]
 author = ["eugo"]
 tab = 'Home'
 #layout = "custom"
-image = "/imgs/europe/costumes.png"
+image = "/imgs/europe/costumes.webp"
 alt_txt = " Collage of people wearing traditional European dresses"
 +++
 
@@ -62,7 +62,7 @@ Europe is a treasure trove of cultural experiences waiting to be explored. From 
 
 ### Engaging with Local Traditions
 
-![Man standing in colourful traditional robes](/imgs/europe/european-culture.jpg)
+![Man standing in colourful traditional robes](/imgs/europe/european-culture.jpg.webp)
 
 Engaging with local traditions is like opening a window to the soul of a place. Whether it's learning to dance the flamenco in Spain or participating in a traditional tea ceremony in England, these experiences offer a deeper understanding of the people and their way of life. **Immersing yourself in these customs can transform your travel from mere sightseeing to a meaningful cultural exchange.**
 
@@ -72,7 +72,7 @@ Engaging with local traditions is like opening a window to the soul of a place. 
 
 ### Exploring Historical Landmarks
 
-![The Palace of Versailles](imgs/europe/Palace-of-Versailles.jpg )
+![The Palace of Versailles](imgs/europe/Palace-of-Versailles.jpg.webp )
 
 Europe is dotted with historical landmarks that tell the stories of its past. From the ancient ruins of Rome to the majestic castles of Scotland, each site offers a glimpse into the continent's rich history. Exploring these landmarks is not just about admiring their architecture; it's about stepping back in time and experiencing the events that shaped Europe.
 
@@ -114,7 +114,7 @@ Europe's coastline is nothing short of spectacular. Whether it's the dramatic cl
 
 And for those looking to explore, the fjords of Norway offer a chance to see nature at its most majestic. Don't miss the chance to discover [Europe's breathtaking natural wonders](https://www.emeraldcruises.co.uk/blogs/europes-most-stunning-natural-wonders) and cultural heritage sites with Emerald Cruises, offering an escape from city life.
 
-![Norwegian fjord with snow capped mountains](imgs/europe/fjords-of-Norway.jpg)
+![Norwegian fjord with snow capped mountains](imgs/europe/fjords-of-Norway.jpg.webp)
 
 > Standing on the edge of Europe's natural wonders, you can't help but feel a sense of awe. The landscapes are as diverse as they are beautiful, each one telling its own story.
 
@@ -168,7 +168,7 @@ Beyond the classical, Europe’s streets are alive with modern artistic expressi
 
 ## Sustainable Travel in Europe
 
-![European landmarks with travelers in a natural setting.](https://contenu.nyc3.digitaloceanspaces.com/journalist/324e3c57-1751-4565-82aa-4528fc71c9c6/thumbnail.jpeg)
+![European landmarks with travelers in a natural setting.](/imgs/europe/landmarks.webp)
 
 ### Practicing Eco-Friendly Tourism
 
