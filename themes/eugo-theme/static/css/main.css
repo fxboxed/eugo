@@ -557,21 +557,22 @@ li {
 }
 .city-nav,
 #city-nav {
-  background: #87ceeb;
   display: flex;
   gap: 12px;
   justify-content: center;
   margin: 20px auto;
   padding: 8px 20px;
-  height: 40px;
   position: relative;
   width: fit-content;
 }
 .city-nav a.city-nav-link,
 #city-nav a.city-nav-link {
+  border: 1px solid #00f;
+  font-size: 1.2rem;
+  padding: 8px 16px;
   margin: auto;
   position: relative;
-  color: #fff;
+  color: #0b303f;
   width: fit-content;
   z-index: 20;
 }
