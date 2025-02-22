@@ -555,3 +555,10 @@ li {
     width: 100%;
   }
 }
+nav#city-nav,
+nav.city-nav {
+  background: #f00;
+  height: 40px;
+  width: 100%;
+  z-index: 100;
+}
