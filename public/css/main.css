@@ -555,10 +555,19 @@ li {
     width: 100%;
   }
 }
-nav#city-nav,
-nav.city-nav {
-  background: #f00;
+nav.city-nav,
+nav#city-nav {
+  color: #ffc0cb;
+  background: #008000;
   height: 40px;
+  position: relative;
   width: 100%;
-  z-index: 100;
+}
+nav.city-nav a.city-nav-link,
+nav#city-nav a.city-nav-link {
+  background: #00f;
+  margin: auto;
+  position: absolute;
+  color: #ffc0cb;
+  z-index: 20;
 }

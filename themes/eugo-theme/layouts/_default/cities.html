@@ -11,7 +11,7 @@
 <nav id="city-nav">
   {{ range .Pages }}
 
-  <a href="{{ .RelPermalink }}" class="city-nav"  >{{ .Params.tab }}</a>
+  <a href="{{ .RelPermalink }}" class="city-nav-link" id="city-nav-link" >{{ .Params.tab }}</a>
 
 
   {{/*  {{ .Summary }}  */}}
