@@ -10,7 +10,7 @@ author = "eugo"
 tab = "Andorra"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/andorra/andorran-scenery.jpg"
+image = "/imgs/andorra/andorran-scenery.jpg.webp"
 alt_txt = "Andorran scenery"
 +++
 
@@ -31,7 +31,7 @@ Whether you're into hiking through scenic valleys, savoring local dishes, or dan
 
 ## Exploring Andorra la Vella: A Blend of History and Modernity
 
-![Andorra la Vella](/imgs/andorra/andorra-la-vella.jpg)
+![Andorra la Vella](/imgs/andorra/la-vella.webp)
 
 Kick off your exploration of Andorra la Vella at the [Casa de la Vall](https://shirshendusengupta.com/blog/ultimate-andorra-travel-guide-best-places-to-visit-top-tourist-attractions-to-see-things-to-do-on-weekend-trip), a historic building that once housed the Andorran parliament. 
 
@@ -49,7 +49,7 @@ The tax-free status makes it a shopping haven for tourists. You can find high-en
 
 ## Outdoor Adventures in Andorra: Embrace the Pyrenees
 
-![The Andorran Pyrenees](/imgs/andorra/andorran-pyrenees.jpg)
+![The Andorran Pyrenees](/imgs/andorra/andorran-pyrenees.webp)
 
 ### Hiking in Madriu-Perafita-Claror Valley
 
@@ -90,12 +90,12 @@ For those who enjoy a bit of history with their art, the Iron Route is a fascina
 Along the way, you'll encounter old forges, mills, and even sculptures that tell the story of Andorra's economic evolution. It's a reminder of how the past continues to influence the present, all wrapped up in a scenic adventure.
 
 > Wandering through Andorra's cultural treasures feels like opening a book where each page reveals a new chapter of history and artistry. It's a place where the past and present coexist, creating a tapestry of experiences that linger long after you've left.
-![Couple](/imgs/andorra/Couple-having-a-romantic-stroll-in-Barri Antic.jpg)
+![Couple](/imgs/andorra/Couple-having-a-romantic-stroll-in-Barri Antic.webp)
 ---
 
 ## Andorran Cuisine: A Culinary Journey
 
-![Traditional Andoran cuisine](/imgs/andorra/traditional-Andorran-Cuisine.jpg)
+![Traditional Andoran cuisine](/imgs/andorra/traditional-Andorran-Cuisine.webp)
 
 ### Savoring Catalan Delicacies
 
@@ -117,7 +117,7 @@ For a more detailed exploration of Andorran flavors, consider the [diverse flavo
 
 ## Relaxation and Wellness: Andorra's Spa Retreats
 
-![People soaking in Andorran natural thermal waters, surrounded by stunning mountain views.](/imgs/andorra/People-soaking-in-Andorran-natural-thermal-waters-surrounded-by-stunning-mountain-views.jpg)
+![People soaking in Andorran natural thermal waters, surrounded by stunning mountain views.](/imgs/andorra/People-soaking-in-Andorran-natural-thermal-waters-surrounded-by-stunning-mountain-views.webp)
 
 
 Andorra is not just about mountains and shopping; it's a haven for relaxation too. **Imagine soaking in natural thermal waters, surrounded by stunning mountain views.** This is exactly what Andorra offers with its top-notch spa retreats.
@@ -162,7 +162,7 @@ Andorra's Christmas markets are something special. Picture wooden stalls, twinkl
 
 ## Romantic Getaways: Andorra for Couples
 
-![Couple sharing a romantic stroll down a cobble stone street in Barri Atnic](/imgs/andorra/Couple-having-a-romantic-stroll-in-Barri-Antic.jpg)
+![Couple sharing a romantic stroll down a cobble stone street in Barri Atnic](/imgs/andorra/Couple-having-a-romantic-stroll-in-Barri-Antic.webp)
 
 ### Sunset Strolls in Barri Antic
 

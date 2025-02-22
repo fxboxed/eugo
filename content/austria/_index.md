@@ -9,7 +9,7 @@ author = "eugo"
 tab = "Austria"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/austria/hero-sec.jpeg"
+image = "/imgs/austria/hero-sec.webp"
 alt_txt = "Austrian lakeside village with tall green mountains in the background."
 +++
 
@@ -32,7 +32,7 @@ Austria has something for everyone. This guide will take you through some of the
 
 ## Discovering Vienna: The Heart of Austrian Culture
 
-![St. Stephen's Cathedral in Vienna with vibrant street life.](/imgs/austria/austria-2.jpeg)
+![St. Stephen's Cathedral in Vienna with vibrant street life.](/imgs/austria/austria-2.webp)
 
 ### Exploring the Historic Vienna State Opera
 Vienna State Opera is not just a building; it's a living testament to the city's deep love for music and the arts. Known as one of the world's most prestigious opera houses, it has hosted countless legendary performances. 
@@ -57,7 +57,7 @@ Vienna's charm lies in its ability to seamlessly blend the old with the new. As 
 
 ## Salzburg: A Symphony of History and Music
 
-![Saltzburg: Mozart's Birthplace and Museum](/imgs/austria/saltzburg.jpg)
+![Saltzburg: Mozart's Birthplace and Museum](/imgs/austria/saltzburg.webp)
 
 ### Visiting Mozart's Birthplace and Museum
 Salzburg, often called the City of Mozart, is a treasure trove for music lovers. Mozart's Birthplace on Getreidegasse is a must-see. 
@@ -78,7 +78,8 @@ From opera to classical concerts, the festival showcases the finest in performin
 
 ## Innsbruck: Gateway to the Alps
 
-![Austrian Alps at Innsbruck.](/imgs/austria/austrian-alps.jpeg)
+![Austrian Alps at Innsbruck.](/imgs/austria/austrian-alps.webp
+)
 ### Skiing and Snowboarding in the Austrian Alps
 Innsbruck is a paradise for winter sports fans. It's got some of the best ski slopes around. People from all over come here to hit the snow. Whether you're a beginner or a pro, you'll find a spot that suits you. 
 
@@ -100,7 +101,7 @@ Innsbruck is not just about the mountains. It's a city where history and culture
 
 ## The Enchanting Lakes and Mountains of Salzkammergut
 
-![Lakes and snow cappped Mountains of Salzkammergut, Austria](/imgs/austria/Lakes-and-Mountains-of-Salzkammergut-Austria.jpg)
+![Lakes and snow cappped Mountains of Salzkammergut, Austria](/imgs/austria/Lakes-and-Mountains-of-Salzkammergut-Austria.webp)
 ### Relaxing by Lake Wolfgang
 Lake Wolfgang is like a postcard come to life—seriously, it's that stunning. Nestled in the heart of Salzkammergut, this lake is perfect for those lazy afternoons where you just want to kick back and enjoy the view. You can rent a paddleboat or just chill on the shore with a good book. 
 
@@ -124,7 +125,7 @@ Whether you're there to relax, explore, or hike, Salzkammergut offers a slice of
 ---
 ## Graz: A Blend of Tradition and Modernity
 
-![Renaissance and Baroque buildings, Austria](/imgs/austria/Renaissance-and-Baroque-buildings-Austria.jpg)
+![Renaissance and Baroque buildings, Austria](/imgs/austria/Renaissance-and-Baroque-buildings-Austria.webp)
 Graz is a city where the past and present meet in a unique dance. This place is Austria's second-largest city, and it's a real mix of old and new, with its well-preserved old town and modern architectural wonders. 
 
 The city is a UNESCO World Heritage site, known for its Renaissance and Baroque buildings, and it’s a hub for students, thanks to its six universities.
@@ -156,7 +157,7 @@ Graz is more than just a city; it's an experience. From its rich history to its 
 
 ### Cruising on Lake Zell
 
-![Cruising on Lake Zell, Austria. Distant snow capped mountains and a church steeple in the foreground](/imgs/austria/Cruising-on-Lake-Zell-Austria.jpg)
+![Cruising on Lake Zell, Austria. Distant snow capped mountains and a church steeple in the foreground](/imgs/austria/Cruising-on-Lake-Zell-Austria.webp)
 Imagine gliding across the shimmering waters of Lake Zell on a calm afternoon. The lake, with its tranquil vibe, offers a perfect setting for a delightful boat cruise. 
 
 Whether you're in the mood for a leisurely paddle or a scenic tour, the lake has something for everyone. You can soak in the stunning mountain views that surround the lake, making it a must-do activity when visiting Zell am See.
@@ -183,7 +184,8 @@ Here are some top attractions you shouldn't miss:
 
 ## Bregenz: Cultural Delights by Lake Constance
 
-![Scenic view of Bregenz by Lake Constance.](/imgs/austria/austria-2.jpeg)
+![Scenic view of Bregenz by Lake Constance.](/imgs/austria/austria-2.webp
+)
 
 
 When you think of Bregenz, the Bregenz Festival should be at the top of your list. It's a spectacular event that draws people from all over the world. Held every summer, the festival features grand opera performances on a floating stage right on Lake Constance. 
@@ -206,7 +208,7 @@ The promenade is also lined with cafes and restaurants, so you can stop for a co
 
 ## The Picturesque Charm of Alpbach
 
-![Skiing and sledding in the Alpbach moutains](/imgs/austria/skiing-and-sledding-in-Alpbach.jpg)
+![Skiing and sledding in the Alpbach moutains](/imgs/austria/skiing-and-sledding-in-Alpbach.webp)
 
 ### Skiing and Sledding Adventures
 Alpbach is a winter wonderland for skiing enthusiasts. With its breathtaking snow-capped peaks, it's the ultimate destination for skiing and sledding. 

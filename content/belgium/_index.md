@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Belgium"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/belgium/thumbnail.jpeg"
+image = "/imgs/belgium/thumbnail.webp"
 alt_txt = " Collage of Belgium's landmarks, cafes, and local cuisine."
 +++
 
@@ -25,7 +25,6 @@ And let's not forget the food—Belgian chocolates and beers are a must-try. Whe
 *   Belgium offers a mix of historic charm and modern attractions, perfect for travelers interested in both culture and fun.
 *   Brussels, Bruges, Antwerp, and Ghent are must-visit cities, each with its own unique vibe and attractions.
 *   Belgian cuisine is a highlight, with chocolates, beers, and traditional dishes that are a treat for the taste buds.
-*   
 *   The country's nightlife is vibrant, especially in cities like Brussels and Antwerp, offering a variety of experiences from clubs to live music.
 *   Belgium's history is rich and varied, with plenty of museums, castles, and battlefields to explore for history buffs.
   
@@ -62,7 +61,7 @@ Whether you're a comic book fan or just looking for something different to do, t
 ---
 
 ## The Medieval Magic of Bruges
-![cobblestone streets of Bruges](/imgs/belgium/cobblestone-streets-of-Bruges.jpg)
+![cobblestone streets of Bruges](/imgs/belgium/cobblestone-streets-of-Bruges.webp)
 ### Strolling Through the Historic Center
 
 Wandering the cobblestone streets of Bruges feels like stepping back in time. The historic center, a UNESCO World Heritage Site, is a treasure trove of medieval architecture. As you stroll, you'll find yourself surrounded by stunning Gothic buildings, quaint shops, and charming squares. Don't miss the [Belfort](https://www.tripadvisor.com/Attractions-g188671-Activities-c47-Bruges_West_Flanders_Province.html), a 13th-century bell tower that offers panoramic views of the city from its top. It's a bit of a climb, but the view is worth every step.
@@ -75,7 +74,7 @@ You can take a boat tour to see the city from the water, or simply enjoy a leisu
 
 ### Chocolate and Lace: Bruges' Delights
 
-![Chocolate and Lace: Bruges' Delights](/imgs/belgium/belgian-chocolate.jpg)
+![Chocolate and Lace: Bruges' Delights](/imgs/belgium/belgian-chocolate.webp)
 
 Bruges is not just about history and architecture; it's also a haven for those with a sweet tooth. The city is renowned for its exquisite chocolates, with countless shops offering everything from pralines to truffles. 
 
@@ -84,7 +83,7 @@ Be sure to sample some while you're here. Additionally, Bruges is famous for its
 ---
 
 ## Antwerp: The Diamond Capital
-![Antwerp diamond showroom](/imgs/belgium/Antwerp-diamond-showroom.jpg)
+![Antwerp diamond showroom](/imgs/belgium/Antwerp-diamond-showroom.webp)
 ### The Cathedral of Our Lady
 
 Antwerp's skyline is dominated by the majestic Cathedral of Our Lady. This Gothic masterpiece took nearly two centuries to complete, and its towering spire is a sight to behold. Inside, you'll find stunning works by the Flemish master, Rubens. The cathedral isn't just a place of worship; it's a repository of art and history.
@@ -156,7 +155,7 @@ Other favorites are carbonnade flamande, a beef stew cooked in beer, and waterzo
 ---
 
 ## The Rich Tapestry of Belgian History
-![Rows of headstones at the Battlefields of Ypres](/imgs/belgium/Battlefields-of-Ypres.jpg)
+![Rows of headstones at the Battlefields of Ypres](/imgs/belgium/Battlefields-of-Ypres.webp)
 ### The Battlefields of Ypres
 
 When you step onto the [historical timeline](https://en.wikipedia.org/wiki/Timeline_of_Belgian_history) of Belgium, one of the most poignant places to visit is the battlefields of Ypres. 
@@ -180,7 +179,7 @@ Many castles are open to the public, allowing you to wander through grand halls 
 ---
 
 ## Experiencing Belgian Nightlife
-![Street full bars and nightclubs in Brussels](/imgs/belgium/Nightclubs-and-Bars-in-Brussels.jpg)
+![Street full bars and nightclubs in Brussels](/imgs/belgium/Nightclubs-and-Bars-in-Brussels.webp)
 Belgium's nightlife is a vibrant tapestry of experiences that cater to every taste and mood. Whether you're in the bustling city of Brussels, the trendy streets of Antwerp, or the charming corners of Ghent, there's something for everyone.
 
 ### Nightclubs and Bars in Brussels
@@ -202,7 +201,7 @@ The pubs in the historic Patershol district are particularly popular, offering a
 ---
 
 ## Art and Culture in Belgium
-![A painting by Van Eyck featuring a woman and child](/imgs/belgium/Painting-by-Van-Eyck.jpg)
+![A painting by Van Eyck featuring a woman and child](/imgs/belgium/Painting-by-Van-Eyck.webp)
 Belgium is a treasure trove of art and culture, a place where history and modernity meet in the most fascinating ways. **Flemish Masters like Van Eyck and Rubens** have left their mark, showcasing the country's rich artistic heritage. When you wander through Belgium, you can't help but feel the presence of these legendary artists.
 
 ### Flemish Masters: Van Eyck and Rubens
@@ -222,7 +221,7 @@ Belgium's cultural calendar is packed with festivals and events that celebrate i
 ---
 ## Exploring Belgium's Natural Beauty
 
-![The Ardennes Forrest featuring trees and a stream](/imgs/belgium/Ardennes-Forest.jpg)
+![The Ardennes Forrest featuring trees and a stream](/imgs/belgium/Ardennes-Forest.webp)
 
 Belgium, often overshadowed by its neighboring countries, boasts breathtaking landscapes and enchanting medieval towns that are worth exploring.
 
@@ -274,7 +273,7 @@ Visit the local markets to pick up unique souvenirs like handcrafted jewelry, ce
 
 ## Belgium's Architectural Wonders
 
-![A Belgian Gothic cathedral](/imgs/belgium/Belgian-Gothic-Cathedral.jpg)
+![A Belgian Gothic cathedral](/imgs/belgium/Belgian-Gothic-Cathedral.webp)
 
 ### Gothic Cathedrals and Churches
 
