@@ -8,8 +8,8 @@
 
 {{/*    */}}
 
-<div id="city-nav" class="city-nav">
-  <h3>city nav</h3>
+<nav id="city-nav" class="city-nav">
+ 
   {{ range .Pages }}
 
   <a href="{{ .RelPermalink }}" class="city-nav-link"  >{{ .Params.tab }}</a>
@@ -17,7 +17,7 @@
 
   {{/*  {{ .Summary }}  */}}
 {{ end }}
-</div>
+</nav>
 
 <div class="holy-grail">
 

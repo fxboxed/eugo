@@ -561,12 +561,13 @@ li {
   background: #008000;
   height: 40px;
   position: relative;
-  width: 100%;
+  width: fit-content;
 }
 .city-nav a.city-nav-link,
 #city-nav a.city-nav-link {
   background: #00f;
   margin: auto;
+  position: relative;
   color: #ffc0cb;
   z-index: 20;
 }
