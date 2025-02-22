@@ -7,16 +7,9 @@
 
 
 {{/*    */}}
-<nav>
-  {{ range .Pages }}
-
-  <a href="{{ .RelPermalink }}" >{{ .Params.tab }}</a>
-
-
-  {{/*  {{ .Summary }}  */}}
-{{ end }}
-</nav>
+{{ partial "city-nav.html" . }}
 <div class="holy-grail">
+
   <div class="main">
 
       {{ .Content }}
