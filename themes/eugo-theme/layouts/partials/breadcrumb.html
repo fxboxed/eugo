@@ -19,7 +19,15 @@
           {{/*  {{ .Params.tab  }}  */}}
         {{/*  </li>  */}}
       {{/*  </ul>  */}}
-
+      {{ range .Pages }}
+  
+      <a href="{{ .RelPermalink }}" >{{ .Params.tab }}</a>
+    
+    
+      {{/*  {{ .Summary }}  */}}
+    {{ end }}
   </nav>
-  {{ partial "city-nav.html" . }}
+  <nav class="city-nav">
+ 
+  </nav>
 </div>
