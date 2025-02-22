@@ -7,17 +7,18 @@
 
 
 {{/*    */}}
+<nav>
+  {{ range .Pages }}
+
+  <a href="{{ .RelPermalink }}" >{{ .Params.tab }}</a>
+
+
+  {{/*  {{ .Summary }}  */}}
+{{ end }}
+</nav>
 <div class="holy-grail">
   <div class="main">
-    <nav>
-    {{ range .Pages }}
 
-    <a href="{{ .RelPermalink }}" >{{ .Params.tab }}</a>
-
-
-    {{/*  {{ .Summary }}  */}}
-  {{ end }}
-</nav>
       {{ .Content }}
   </div>
   <div class="aside">
