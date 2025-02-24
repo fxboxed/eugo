@@ -1,6 +1,7 @@
 {{/*  <h1>{{ site.Title }}</h1>  */}}
-{{partial "navbar" .}}
+{{/*  {{partial "navbar" .}}  */}}
 <header class="site-header">
+
     {{/*  <picture >
         <source srcset="/imgs/europe/banner-sm.jpeg" media="(max-width: 780px)">
         <source srcset="/imgs/europe/banner-md.jpeg" media="(max-width: 1080px)">
@@ -12,9 +13,11 @@
         {{/*  {{partial "country-dropdown" .}}  */}}
         {{partial "topnav" .}}
         <div class="banner-items">
-            <h1 class="banner-item"> {{.Title}}</h1>
-            <img class="banner-item" src="{{.Params.image}}" alt="{{.Params.alt_txt}}">
-            <p class="header-p banner-item">{{.Params.description}}</p>
+            {{/*  <h1 class="banner-item"> {{.Title}}</h1>
+            <img class="banner-item" src="{{.Params.image}}" alt="{{.Params.alt_txt}}">  */}}
+            {{/*  <p class="header-p banner-item">{{.Params.description}}</p>  */}}
+            <p class="brand">eugo.uk</p>
+            <p class="site-heading">Discover Europe </p>
             <button class="open-country-dropdown banner-item">View All Countries </button>
         </div>
         

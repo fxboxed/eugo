@@ -5,6 +5,8 @@
     {{/*    */}}
     <div class="holy-grail">
       <div class="main">
+        <h1 class="banner-item"> {{.Title}}</h1>
+        <img class="banner-item" src="{{.Params.image}}" alt="{{.Params.alt_txt}}">
         {{ range .Pages }}
         {{/*  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>  */}}
         {{/*  {{ .Summary }}  */}}

@@ -7,7 +7,7 @@ categories = ["General"]
 author = ["eugo"]
 tab = 'Home'
 #layout = "custom"
-image = "/imgs/europe/costumes.webp"
+image = "/imgs/europe/landmarks.webp"
 alt_txt = " Collage of people wearing traditional European dresses"
 +++
 

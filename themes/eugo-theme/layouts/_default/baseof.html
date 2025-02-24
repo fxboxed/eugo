@@ -13,7 +13,7 @@
   {{/*  {{ partial "head.html" . }}  */}}
 
 <body>
-  <header>
+  <header id = "top-marker">
     {{ partial "header.html" . }}
  
   </header>
@@ -22,7 +22,7 @@
  
     {{ block "main" . }}{{ end }}
   </main>
-  <footer>
+  <footer id="bottom-marker" >
     {{ partial "footer.html" . }}
   </footer>
   <script src="/js/countries.js" defer></script>
