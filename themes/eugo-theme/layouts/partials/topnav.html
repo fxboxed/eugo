@@ -1,4 +1,4 @@
-<nav class="topnav country-dropdown country-list">
+<nav class="topnav country-dropdown country-list" id="topnav">
     {{ range where .Data.Pages "Type" "countries" }}
       <a href="{{ .RelPermalink }}" class="country-link ">{{ .Params.tab }}</a>
     {{ end }}
