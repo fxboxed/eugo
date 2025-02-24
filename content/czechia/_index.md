@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Czechia"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/czechia/thumbnail.jpg"
+image = "/imgs/czechia/thumbnail.webp"
 alt_txt = " Lady holding two glasses of wine overlooking the Morovian wine region."
 +++
 
@@ -31,7 +31,7 @@ From the bustling streets of Prague to the serene landscapes of the Moravian win
 
 ## 1\. Prague
 
-![Prague Castle overlooking the river](/imgs/czechia/Prague-castle.jpg)
+![Prague Castle overlooking the river](/imgs/czechia/Prague-castle.webp)
 Prague, often called the _Golden City_, is a place where history whispers from every corner. When you wander through its cobbled streets, you’ll find yourself surrounded by stunning medieval architecture. **Prague Castle**, one of the largest in the world, is a must-see, offering breathtaking views of the city. 
 
 Head to the [Staroměstské náměstí](https://www.tripadvisor.com/Attractions-g274707-Activities-Prague_Bohemia.html), the city's vibrant heart, where the famous Astronomical Clock captivates onlookers every hour.
@@ -52,7 +52,7 @@ Head to the [Staroměstské náměstí](https://www.tripadvisor.com/Attractions-
 
 ## 2\. Karlovy Vary
 
-![Spa in Karlovy Vary showing three dome spires with a forrest backdrop](/imgs/czechia/spa-Karlovy-Vary.jpg)
+![Spa in Karlovy Vary showing three dome spires with a forrest backdrop](/imgs/czechia/spa-Karlovy-Vary.webp)
 Welcome to Karlovy Vary, a gem nestled in the heart of Czechia, renowned for its luxurious spas and rich cultural tapestry. This town is a must-visit for anyone looking to unwind and soak in some history.
 
 ### The Spa Experience
@@ -61,7 +61,9 @@ Karlovy Vary is often dubbed the _spa capital_ of Czechia, and for good reason. 
 
 ### Architectural Charm
 
-Strolling through Karlovy Vary, you'll be captivated by its charming architecture. The town's buildings are a blend of Baroque and Art Nouveau styles, making every corner a picturesque spot. One of the highlights is the [Mlýnská kolonáda](https://www.tripadvisor.com/Attractions-g274697-Activities-Karlovy_Vary_Karlovy_Vary_Region_Bohemia.html), a grand colonnade that houses several hot springs. Don't miss the chance to visit the Diana Lookout Tower for a panoramic view of the town.
+Strolling through Karlovy Vary, you'll be captivated by its charming architecture. The town's buildings are a blend of Baroque and Art Nouveau styles, making every corner a picturesque spot. 
+
+One of the highlights is the [Mlýnská kolonáda](https://www.tripadvisor.com/Attractions-g274697-Activities-Karlovy_Vary_Karlovy_Vary_Region_Bohemia.html), a grand colonnade that houses several hot springs. Don't miss the chance to visit the Diana Lookout Tower for a panoramic view of the town.
 
 ### Cultural Experiences
 
@@ -77,9 +79,11 @@ While in Karlovy Vary, be sure to try the local cuisine. The town is famous for 
 
 ## 3\. Český Krumlov
 
-![Medieval Český Krumlov with castle and Vltava River.](https://contenu.nyc3.digitaloceanspaces.com/journalist/3c4baf0c-b8fb-4f76-aa5a-2b0696823128/thumbnail.jpeg)
+![Medieval Český Krumlov with castle and Vltava River.](/imgs/czechia/castle.webp)
 
-Nestled in the heart of Czechia, Český Krumlov is like stepping into a fairy tale. This charming town, with its winding cobblestone streets and stunning medieval architecture, offers a unique glimpse into the past. As you wander through the town, you'll be greeted by the sight of the majestic Český Krumlov Castle, perched high above the Vltava River. This castle, one of the largest in Central Europe, is a must-see for its impressive Baroque theatre and beautifully landscaped gardens.
+Nestled in the heart of Czechia, Český Krumlov is like stepping into a fairy tale. This charming town, with its winding cobblestone streets and stunning medieval architecture, offers a unique glimpse into the past. 
+
+As you wander through the town, you'll be greeted by the sight of the majestic Český Krumlov Castle, perched high above the Vltava River. This castle, one of the largest in Central Europe, is a must-see for its impressive Baroque theatre and beautifully landscaped gardens.
 
 ### Explore the Old Town
 
@@ -109,7 +113,7 @@ In Český Krumlov, every corner holds a story, and every visit feels like a jou
 
 ## 4\. Plzeň
 
-![The Huge vats at the Pilsner Urquell Brewery](/imgs/czechia/Pilsner-Urquell-Brewery.jpg)
+![The Huge vats at the Pilsner Urquell Brewery](/imgs/czechia/Pilsner-Urquell-Brewery.webp)
 
 Plzeň, often known as Pilsen, is not just another city in Czechia; it's the birthplace of the world-famous Pilsner beer. **This city is a must-visit for beer enthusiasts** who want to explore the roots of their favorite brew.
 
@@ -137,7 +141,7 @@ The city hosts several events throughout the year, such as the Pilsner Fest, cel
 
 ## 5\. Terezin
 
-![Old mill by the side of a stream in Terezin](/imgs/czechia/Terezin.jpg)
+![Old mill by the side of a stream in Terezin](/imgs/czechia/Terezin.webp)
 Terezin, a small town with a profound history, is a place that leaves a lasting impression. Known for its somber past, Terezin was transformed into a Jewish ghetto and concentration camp during World War II. **Today, it stands as a powerful reminder of the resilience and spirit of those who lived through those dark times.**
 
 ### Historical Significance
@@ -170,7 +174,7 @@ A trip to Terezin is a moving experience, offering a unique glimpse into a poign
 
 ## 6\. Adršpach
 
-![A crevice in the weather worn Adršpach Teplice Rocks](/imgs/czechia/Adršpach-Teplice-Rocks.jpg)
+![A crevice in the weather worn Adršpach Teplice Rocks](/imgs/czechia/Adršpach-Teplice-Rocks.webp)
 
 Nestled in the northeastern part of Czechia, Adršpach is a hidden gem that offers a slice of nature's beauty you won't want to miss. **It's one of those places that makes you feel like you're stepping into a fairy tale.** Known for its dramatic sandstone formations, the Adršpach-Teplice Rocks are a must-see for any nature lover. 
 
@@ -202,7 +206,7 @@ Whether you're an outdoor enthusiast or just looking to escape the hustle and bu
 
 ## 7\. České Budějovice
 
-![Nightlife in České Budějovice with illuminated buildings and cafes.](https://contenu.nyc3.digitaloceanspaces.com/journalist/f57981e2-475f-463b-a0f9-5d66be57c378/thumbnail.jpeg)
+![Nightlife in České Budějovice with illuminated buildings and cafes.](/imgs/czechia/night-river.webp)
 
 Welcome to České Budějovice, a city that effortlessly blends history with a vibrant modern vibe. Known for its **brewing legacy**, this city is a must-visit for beer enthusiasts and history buffs alike.
 
@@ -237,7 +241,7 @@ The city also hosts numerous festivals throughout the year, celebrating everythi
 
 ## 8\. Liberec
 
-![Street in Liberec with market stalls](/imgs/czechia/Liberec-city.jpg)
+![Street in Liberec with market stalls](/imgs/czechia/Liberec-city.webp)
 
 Liberec is a hidden gem nestled in the northern part of Czechia. Known for its stunning landscapes and vibrant city life, this city offers a unique blend of natural beauty and cultural richness. 
 
@@ -275,7 +279,7 @@ Whether you're planning a short getaway or an extended stay, this city promises 
 
 ## 9\. Moravian Wine Region
 
-![Rolling vineyards in the scenic Moravian Wine Region.](https://contenu.nyc3.digitaloceanspaces.com/journalist/0aea6507-bf9b-43ab-af4d-a5a6a304fe68/thumbnail.jpeg)
+![Rolling vineyards in the scenic Moravian Wine Region.](/imgs/czechia/vineyard.webp)
 
 When you picture Czechia, wine might not be the first thing that comes to mind, but it should be! The Moravian Wine Region is a hidden gem for wine enthusiasts. **This area is the heart of Czech winemaking**, offering a delightful mix of tradition and innovation.
 
@@ -329,7 +333,11 @@ Whether you're a spirits enthusiast or just curious, the Becherovka Distillery i
 
 ## Conclusion
 
-Wrapping up our journey through Czechia, it's clear this country is a treasure trove of experiences. From the lively nightlife and hearty cuisine to the rich tapestry of culture and history, there's something for everyone. Whether you're sipping on a cold Pilsner in Plzeň or exploring the cobblestone streets of Prague, Czechia offers a unique blend of old-world charm and modern excitement. So pack your bags, bring your curiosity, and get ready to create some unforgettable memories in this beautiful corner of Europe.
+Wrapping up our journey through Czechia, it's clear this country is a treasure trove of experiences. From the lively nightlife and hearty cuisine to the rich tapestry of culture and history, there's something for everyone. 
+
+Whether you're sipping on a cold Pilsner in Plzeň or exploring the cobblestone streets of Prague, Czechia offers a unique blend of old-world charm and modern excitement. 
+
+So pack your bags, bring your curiosity, and get ready to create some unforgettable memories in this beautiful corner of Europe.
 
 ---
 

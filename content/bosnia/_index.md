@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Bosnia"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/bosnia/thumbnail.jpeg"
+image = "/imgs/bosnia/thumbnail.webp"
 alt_txt = "Collage of Bosnia's landscapes, nightlife, cuisine, and culture"
 +++
 
@@ -36,7 +36,7 @@ Bosnia is a hiker's paradise, with trails that take you through lush forests and
 
 ### Rafting Adventures on the Neretva River
 
-![Rafting on the Neretva River](/imgs/bosnia/rafting-bosnia.jpg)
+![Rafting on the Neretva River](/imgs/bosnia/rafting-bosnia.webp)
 
 For those seeking a thrill, rafting on the Neretva River is an experience you won't forget. The river winds through some of Bosnia's most picturesque landscapes, offering both excitement and awe-inspiring views. As you navigate the rapids, you'll feel the rush of adrenaline mixed with the serenity of the surrounding nature. This adventure is perfect for anyone looking to combine excitement with the natural splendor of Bosnia's waterways.
 
@@ -50,7 +50,7 @@ Beyond the well-trodden paths lie Bosnia's hidden villages, each with its own un
 
 ## Unveiling Bosnia's Rich Cultural Heritage
 
-![Historic streets of Bosnia with lively cafes and architecture.](https://contenu.nyc3.digitaloceanspaces.com/journalist/cfc4122e-d805-4cce-9b1b-943601c6cfb3/thumbnail.jpeg)
+![Historic streets of Bosnia with lively cafes and architecture.](/imgs/bosnia/street.webp)
 
 ### Walking Through Sarajevo's Storied Streets
 
@@ -69,7 +69,7 @@ Standing on this bridge, you can almost feel the weight of history around you. I
 ---
 
 ## Must-See Historical Sites in Bosnia
-![Castle where the seige of Sarajevo took place](/imgs/bosnia/Siege-of-Sarajevo.jpg)
+![Castle where the seige of Sarajevo took place](/imgs/bosnia/Siege-of-Sarajevo.webp)
 ### The Siege of Sarajevo Tour
 
 Dive into the heart of Sarajevo's turbulent past with the Siege of Sarajevo Tour. **This tour is not just a walk through history; it's an emotional journey through the resilience of a city under siege.** 
@@ -96,7 +96,7 @@ While the road has since returned to normalcy, the memories remain. Walking alon
 
 ### Cafe Bar Zlatna Ribica: A Vintage Experience
 
-![Cafe Bar Zlatna Ribica Bosnia](/imgs/bosnia/cafe-bar-bosnia.jpg)
+![Cafe Bar Zlatna Ribica Bosnia](/imgs/bosnia/cafe-bar-bosnia.webp)
 
 Step into Cafe Bar Zlatna Ribica, and you'll feel like you've traveled back in time. This quirky spot is filled with oddities from the past—think antique sewing machines, old TVs, and dusty mirrors. It's like a museum where you can sip your drink and soak up the _vintage_ vibes. If you're a fan of nostalgia, this place is a must-see.
 
@@ -112,7 +112,7 @@ For a more laid-back evening, Jazzbina is the perfect escape. Tucked away in the
 
 ## Savoring Bosnia's Delectable Cuisine
 
-![Photograph of traditional Bosnian dishes on a table.](https://contenu.nyc3.digitaloceanspaces.com/journalist/975f8092-9204-4734-a259-02e778e15928/thumbnail.jpeg)
+![Photograph of traditional Bosnian dishes on a table.](/imgs/bosnia/food.webp)
 
 ### Traditional Dishes to Try
 
@@ -133,7 +133,7 @@ Bosnian coffee is more than just a drink; it's a ritual. Served in a džezva (a 
 ---
 ## Exploring Mostar: A Blend of East and West
 
-![The Stari Most Bridge with a wooden footbridge running along side](/imgs/bosnia/Stari-Most-bridge.jpg)
+![The Stari Most Bridge with a wooden footbridge running along side](/imgs/bosnia/Stari-Most-bridge.webp)
 
 ### Stari Most and the Old Bazaar
 
@@ -159,7 +159,7 @@ For a more personalized experience, consider booking one of the [exclusive priva
 
 ## Adventure and Relaxation in Bosnia
 
-![Beautiful landscape of Bosnia with hills and traditional village.](https://contenu.nyc3.digitaloceanspaces.com/journalist/e9e58b74-b0fb-40a7-87d5-51d07d63bd4a/thumbnail.jpeg)
+![Beautiful landscape of Bosnia with hills and traditional village.](/imgs/bosnia/landscape.webp)
 
 ### Hiking in Sutjeska National Park
 
@@ -183,7 +183,7 @@ Traveling in Bosnia can be both fun and eco-friendly. Here are some tips:
 
 ## Connecting with Bosnia's Local Communities
 
-![Vibrant street scene showcasing Bosnia's local community life.](https://contenu.nyc3.digitaloceanspaces.com/journalist/f964cce5-0174-4cb2-8e48-d1d5d43901d6/thumbnail.jpeg)
+![Vibrant street scene showcasing Bosnia's local community life.](/imgs/bosnia/street.webp)
 
 ### Meeting the Nomads in Lukomir
 

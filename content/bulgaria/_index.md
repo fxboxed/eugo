@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Bulgaria"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/bulgaria/thumbnail.jpeg"
+image = "/imgs/bulgaria/thumbnail.webp"
 alt_txt = "Vibrant beach scene in Bulgaria with colorful umbrellas"
 +++
 
@@ -31,7 +31,7 @@ Whether you're exploring ancient monasteries or enjoying the vibrant nightlife, 
 
 ## 1\. Black Sea Coast
 
-![Black Sea Coast with sandy beaches and turquoise waters.](https://contenu.nyc3.digitaloceanspaces.com/journalist/50fb2716-6555-42fc-8999-737edb0f24d8/thumbnail.jpeg)
+![Black Sea Coast with sandy beaches and turquoise waters.](/imgs/bulgaria/black-sea.webp)
 
 The Black Sea Coast is a must-see in Bulgaria, stretching over 235 miles from the Romanian border in the north to Turkey in the south. This coastline is a mix of bustling resorts, peaceful retreats, and charming fishing villages.
 
@@ -53,7 +53,7 @@ Whether you're exploring historic towns or lounging on the beach, the Black Sea 
 
 ## 2\. Varna
 
-![Varna beach at sunset with umbrellas and water activities.](https://contenu.nyc3.digitaloceanspaces.com/journalist/5941bb5a-099d-4216-a89f-c4154f4899fd/thumbnail.jpeg)
+![Varna beach at sunset with umbrellas and water activities.](/imgs/bulgaria/varna-beack.webp)
 
 Welcome to Varna, a vibrant city nestled on the _Black Sea Coast_, often dubbed the "Sea Capital of Bulgaria." This bustling city is the third largest in the country and is a favorite summer destination for locals and tourists alike.
 
@@ -83,7 +83,7 @@ For a truly memorable dining experience, visit a restaurant just 15 meters from 
 
 ## 3\. Sunny Beach
 
-![Sunny Beach deckchairs and straw umbrellas](/imgs/bulgaria/sonny-beach.jpg)
+![Sunny Beach deckchairs and straw umbrellas](/imgs/bulgaria/sonny-beach.webp)
 Sunny Beach is a lively resort town on Bulgaria's Black Sea coast, known for its stunning sandy beaches and vibrant nightlife. If you're seeking a blend of relaxation and entertainment, this is your go-to spot.
 
 ### Daytime Delights
@@ -112,7 +112,7 @@ Sunny Beach is a dynamic destination that promises fun and excitement for all. W
 
 ## 4\. Rila Monastery
 
-![Rila Monastery in the mountains of Bulgaria.](https://contenu.nyc3.digitaloceanspaces.com/journalist/52d680d2-9bb2-4655-a969-48b2bee08cb2/thumbnail.jpeg)
+![Rila Monastery in the mountains of Bulgaria.](/imgs/bulgaria/rila-monestery.webp)
 
 Nestled in the heart of the _Rila Mountains_, Rila Monastery is an iconic symbol of Bulgaria's spiritual and cultural heritage. **This UNESCO World Heritage site is a must-see for anyone exploring the country.** Located about an hour and 45 minutes from Sofia, it's a perfect day trip.
 
@@ -138,7 +138,7 @@ Whether you're a history enthusiast or simply looking for a peaceful retreat in 
 
 ## 5\. Plovdiv Old Town
 
-![Colorful buildings and cobblestone streets in Plovdiv Old Town.](https://contenu.nyc3.digitaloceanspaces.com/journalist/a1a50baf-f319-4789-ad96-4eaae4fc5706/thumbnail.jpeg)
+![Colorful buildings and cobblestone streets in Plovdiv Old Town.](/imgs/bulgaria/plovdiv.webp)
 
 Plovdiv Old Town is like stepping into a living museum. Perched on a hill, this area offers stunning views of the city below and is a treasure trove of history. **It's one of Bulgaria's oldest cities, with a history that stretches back over 6,000 years.** As you wander through the cobblestone streets, you'll be surrounded by vibrant 19th-century mansions, each telling its own story.
 

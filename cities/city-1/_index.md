@@ -6,7 +6,8 @@ draft = false
 tab ='Xxxx'
 type = 'cities'
 layout = 'cities'
-image = "Xxxx"
+tags = ['X cities']
+image = "/imgs//"
 alt_txt = ""
 +++
 # Xxxx city 1 index content

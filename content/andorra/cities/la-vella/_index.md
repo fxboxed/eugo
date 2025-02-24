@@ -6,7 +6,8 @@ draft = false
 tab ='La Vella'
 type = 'cities'
 layout = 'cities'
-image = "/imgs/andorra/la-vella.jpg"
+tags = ['Andorra cities']
+image = "/imgs/andorra/la-vella.webp"
 alt_txt = "Austrian lakeside village with tall green mountains in the background."
 +++
 
@@ -117,7 +118,7 @@ These festivals are a fantastic way to immerse your family in the local culture 
 
 ## Senior-Friendly Experiences in Andorra la Vella
 
-![Scenic view of Andorra la Vella with mountains and paths.](https://contenu.nyc3.digitaloceanspaces.com/journalist/fa728eb8-93d2-4ed2-9df2-e0d8a8323ed9/thumbnail.jpeg)
+![Scenic view of Andorra la Vella with mountains and paths.](/imgs/andorra/la-vella-mountains.webp)
 
 ### Accessible Tourist Attractions
 
@@ -143,7 +144,7 @@ Many venues prioritize comfort and accessibility, ensuring you can fully enjoy t
 
 ## Shopping and Dining in Andorra la Vella
 
-![Street scene with shops and cafes in Andorra la Vella.](https://contenu.nyc3.digitaloceanspaces.com/journalist/5ce535af-5189-47be-bf5b-63135b0892aa/thumbnail.jpeg)
+![Street scene with shops and cafes in Andorra la Vella.](/imgs/andorra/street-scene.webp)
 
 ### Best Shopping Streets
 
@@ -171,7 +172,7 @@ No matter where you dine, you’ll find that the food here is always fresh and f
 
 ## Exploring Nature Around Andorra la Vella
 
-![Scenic view of Andorra la Vella's mountains and greenery.](https://contenu.nyc3.digitaloceanspaces.com/journalist/0e95c567-ad94-4804-a3ea-db09ca0a8b86/thumbnail.jpeg)
+![Scenic view of Andorra la Vella's mountains and greenery.](/imgs/andorra/green-scenic.webp)
 
 ### Hiking Trails for All Skill Levels
 
@@ -227,7 +228,7 @@ It’s a great place to experience the creative side of Andorra la Vella and may
 
 ## Seasonal Events and Festivals in Andorra la Vella
 
-![Colorful festival scene in Andorra la Vella.](https://contenu.nyc3.digitaloceanspaces.com/journalist/833ff84c-9a53-4d85-b265-b883c6a01cdb/thumbnail.jpeg)
+![Colorful festival scene in Andorra la Vella.](/imgs/andorra/festival.webp)
 
 ### Winter Celebrations and Activities
 

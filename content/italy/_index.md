@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Italy"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/italy/thumbnail.jpeg"
+image = "/imgs/italy/thumbnail.webp"
 alt_txt = " Collage of Italy’s landmarks, food, and nightlife scenes."
 +++
 
@@ -34,7 +34,9 @@ Whether you're a history buff, a foodie, or just looking to soak up some culture
 
 ## 1\. Colosseum
 
-When you think of Rome, the Colosseum is probably one of the first images that pops into your mind. This iconic symbol of ancient Rome is not just a must-see; it's an experience that takes you back in time. **Standing in its massive shadow, you can't help but imagine the gladiators who once fought here, the roar of the crowd, and the grandeur of the Roman Empire.**
+When you think of Rome, the Colosseum is probably one of the first images that pops into your mind. This iconic symbol of ancient Rome is not just a must-see; it's an experience that takes you back in time. 
+
+**Standing in its massive shadow, you can't help but imagine the gladiators who once fought here, the roar of the crowd, and the grandeur of the Roman Empire.**
 
 ### Exploring the Colosseum
 
@@ -55,7 +57,7 @@ Whether you're a history buff or just someone who loves to explore, the Colosseu
 
 ## 2\. Canals of Venice
 
-![Gondolas on the beautiful canals of Venice.](https://contenu.nyc3.digitaloceanspaces.com/journalist/4c98ed99-5347-4e14-a1c5-203fc071881d/thumbnail.jpeg)
+![Gondolas on the beautiful canals of Venice.](/imgs/italy/canals.webp)
 
 The canals of Venice are just magical. They wind through the city like veins, connecting everything in a way that feels both ancient and alive. **Taking a gondola ride through these waterways is an experience you won't forget.** While it's a bit pricey, it's worth every penny for the views and the romance.
 
@@ -83,7 +85,9 @@ Florence, the cradle of the Renaissance, is a treasure trove of artistic wonders
 
 ### The Uffizi Gallery
 
-The Uffizi Gallery is a must-visit for any art lover. Home to an extensive collection of Renaissance masterpieces, this gallery offers a chronological journey through the evolution of art. Key highlights include Botticelli’s _The Birth of Venus_, Leonardo da Vinci’s Annunciation, and Michelangelo’s Doni Tondo. A guided tour can enhance your experience, revealing hidden details and the broader story of the Renaissance.
+The Uffizi Gallery is a must-visit for any art lover. Home to an extensive collection of Renaissance masterpieces, this gallery offers a chronological journey through the evolution of art. 
+
+Key highlights include Botticelli’s _The Birth of Venus_, Leonardo da Vinci’s Annunciation, and Michelangelo’s Doni Tondo. A guided tour can enhance your experience, revealing hidden details and the broader story of the Renaissance.
 
 ### Galleria dell’Accademia
 
@@ -135,9 +139,11 @@ Whether you're a wine connoisseur or a casual enthusiast, a wine tour in Tuscany
 
 ## 5\. Ruins of Pompeii
 
-![Ancient ruins of Pompeii with stone structures and greenery.](https://contenu.nyc3.digitaloceanspaces.com/journalist/4ee8f5ea-2cbc-448d-83e6-4a43731b5e32/thumbnail.jpeg)
+![Ancient ruins of Pompeii with stone structures and greenery.](/imgs/italy/pompeii.webp)
 
-Imagine stepping back in time, wandering through streets where ancient Romans once walked. **Pompeii offers a unique window into the past**, frozen in time by the catastrophic eruption of Mount Vesuvius in 79 AD. This ancient city, now a UNESCO World Heritage Site, provides a haunting yet fascinating insight into Roman life.
+Imagine stepping back in time, wandering through streets where ancient Romans once walked. **Pompeii offers a unique window into the past**, frozen in time by the catastrophic eruption of Mount Vesuvius in 79 AD. 
+
+This ancient city, now a UNESCO World Heritage Site, provides a haunting yet fascinating insight into Roman life.
 
 ### Must-See Highlights
 
@@ -162,11 +168,15 @@ Whether you're a history buff or just curious, Pompeii is an unforgettable stop 
 
 ## 6\. Cinque Terre
 
-Nestled along the rugged Ligurian coastline, Cinque Terre is a slice of paradise that feels like it's been plucked straight from a postcard. This UNESCO World Heritage Site is composed of five enchanting villages: Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore. Each village boasts its own unique charm, with colorful houses clinging to steep cliffs and offering breathtaking views of the Ligurian Sea.
+Nestled along the rugged Ligurian coastline, Cinque Terre is a slice of paradise that feels like it's been plucked straight from a postcard. This UNESCO World Heritage Site is composed of five enchanting villages: Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore. 
+
+Each village boasts its own unique charm, with colorful houses clinging to steep cliffs and offering breathtaking views of the Ligurian Sea.
 
 ### Explore the Villages
 
-These five towns are best explored by foot or by boat. Walking the scenic [Sentiero Monterosso - Vernazza trail](https://www.tripadvisor.com/Attractions-g187817-Activities-Cinque_Terre_Italian_Riviera_Liguria.html) is a must for anyone visiting the region. This trail, part of the famous Sentiero Azzurro, offers stunning coastal views that make every step worthwhile. Don't forget to bring your camera—each turn reveals a new vista more beautiful than the last.
+These five towns are best explored by foot or by boat. Walking the scenic [Sentiero Monterosso - Vernazza trail](https://www.tripadvisor.com/Attractions-g187817-Activities-Cinque_Terre_Italian_Riviera_Liguria.html) is a must for anyone visiting the region. This trail, part of the famous Sentiero Azzurro, offers stunning coastal views that make every step worthwhile. 
+
+Don't forget to bring your camera—each turn reveals a new vista more beautiful than the last.
 
 ### Savor the Local Flavors
 
@@ -184,7 +194,7 @@ Whether you're a foodie, a hiker, or someone who simply loves stunning landscape
 
 ## 7\. Vatican City
 
-![Aerial view of St. Peter's Basilica in Vatican City.](https://contenu.nyc3.digitaloceanspaces.com/journalist/d2b19719-a78a-49af-801c-f58b921ff8e7/thumbnail.jpeg)
+![Aerial view of St. Peter's Basilica in Vatican City.](/imgs/italy/basilica.webp)
 
 Vatican City, nestled within Rome, is not just a destination; it's an experience. As the heart of the Roman Catholic Church, it's a treasure trove of history, art, and spirituality.
 
@@ -208,7 +218,9 @@ Vatican City is more than just a place to visit; it's a journey into the heart o
 
 ## 8\. Amalfi Coast
 
-The Amalfi Coast is a place where nature and culture dance together in a stunning display. This stretch of coastline is _unforgettable_, with its dramatic cliffs, charming villages, and clear blue waters. Whether you're wandering through the narrow streets of its towns or soaking up the sun on a pebbled beach, every moment here is a memory in the making.
+The Amalfi Coast is a place where nature and culture dance together in a stunning display. This stretch of coastline is _unforgettable_, with its dramatic cliffs, charming villages, and clear blue waters. 
+
+Whether you're wandering through the narrow streets of its towns or soaking up the sun on a pebbled beach, every moment here is a memory in the making.
 
 ### Positano
 
@@ -234,11 +246,15 @@ Perched high above the sea, Ravello is known for its gardens and cultural vibe. 
 
 ## 9\. Milan's Fashion Scene
 
-Milan, often hailed as the _fashion capital_ of the world, is a city where style and sophistication are woven into its very fabric. The city is a bustling hub of creativity and innovation, attracting designers, models, and fashion enthusiasts from across the globe. **Milan's fashion scene is not just about runways and designer boutiques; it's a cultural phenomenon that permeates every corner of the city.**
+Milan, often hailed as the _fashion capital_ of the world, is a city where style and sophistication are woven into its very fabric. 
+
+The city is a bustling hub of creativity and innovation, attracting designers, models, and fashion enthusiasts from across the globe. **Milan's fashion scene is not just about runways and designer boutiques; it's a cultural phenomenon that permeates every corner of the city.**
 
 ### The Quadrilatero della Moda
 
-Begin your fashion journey in the Quadrilatero della Moda, Milan's premier shopping district. Here, you'll find the most prestigious names in fashion, such as Prada, Versace, and Armani, lining the elegant streets of Via Montenapoleone and Via della Spiga. Whether you're window shopping or indulging in a shopping spree, this district offers a taste of Milanese luxury.
+Begin your fashion journey in the Quadrilatero della Moda, Milan's premier shopping district. Here, you'll find the most prestigious names in fashion, such as Prada, Versace, and Armani, lining the elegant streets of Via Montenapoleone and Via della Spiga. 
+
+Whether you're window shopping or indulging in a shopping spree, this district offers a taste of Milanese luxury.
 
 ### Milan Fashion Week
 
@@ -256,11 +272,13 @@ For those seeking an exceptional shopping experience, consider a day trip to [Fi
 
 ## 10\. Italian Cuisine
 
-![Colorful Italian pasta with wine in a rustic setting.](https://contenu.nyc3.digitaloceanspaces.com/journalist/2ff08f1f-dd45-4cbd-99bf-a24e9c983ad4/thumbnail.jpeg)
+![Colorful Italian pasta with wine in a rustic setting.](/imgs/italy/pasta.webp)
 
 ### Explore Regional Flavors
 
-Italy's culinary landscape is as diverse as its regions. From the rich, creamy risottos of the north to the spicy, tomato-based sauces of the south, every area has its unique taste. **Each dish tells a story of its land**, shaped by local ingredients and traditions. Whether it's the truffles of Piedmont or the citrus fruits of Sicily, the flavors are unforgettable.
+Italy's culinary landscape is as diverse as its regions. From the rich, creamy risottos of the north to the spicy, tomato-based sauces of the south, every area has its unique taste. 
+
+**Each dish tells a story of its land**, shaped by local ingredients and traditions. Whether it's the truffles of Piedmont or the citrus fruits of Sicily, the flavors are unforgettable.
 
 ### Must-Try Dishes
 

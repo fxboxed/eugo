@@ -6,7 +6,8 @@ draft = false
 tab = 'Escaldes-Engordany'
 type = 'cities'
 layout = 'cities'
-image = "/imgs/andorra/escaldes.jpeg"
+tags = ['Andorra cities']
+image = "/imgs/andorra/escaldes.webp"
 alt_txt = "Scenic landscape of Escaldes-Engordany with mountains and greenery."
 +++
 ## Escaldes-Engordany Travel Guide
@@ -87,7 +88,7 @@ The thermal springs, which maintain a warm temperature year-round, provide a coz
 
 ## Top Attractions for Couples in Escaldes-Engordany
 
-![Couples enjoying the scenic beauty of Escaldes-Engordany.](https://contenu.nyc3.digitaloceanspaces.com/journalist/a445ba3e-e24e-4466-b194-7e1877e72421/thumbnail.jpeg)
+![Couples enjoying the scenic beauty of Escaldes-Engordany.](/imgs/andorra/couples.webp)
 
 ### Romantic Strolls Through Historic Streets
 
@@ -115,7 +116,7 @@ If you’re up for a little adventure, explore lesser-known trails or picnic by 
 
 ## Family-Friendly Activities in Escaldes-Engordany
 
-![Family enjoying outdoor activities in Escaldes-Engordany.](https://contenu.nyc3.digitaloceanspaces.com/journalist/5853c6da-afe5-4d6d-b281-7172bd98e4e6/thumbnail.jpeg)
+![Family enjoying outdoor activities in Escaldes-Engordany.](/imgs/andorra/family.webp)
 
 ### Interactive Museums and Cultural Spots
 
@@ -149,7 +150,7 @@ Don’t forget to stop by a local bakery for some sweet treats—kids will love 
 
 ## Exploring Escaldes-Engordany for the Elderly
 
-![Scenic mountain view of Escaldes-Engordany for seniors.](https://contenu.nyc3.digitaloceanspaces.com/journalist/c9e5cb2d-2842-4e38-bbcc-2d14b19d6672/thumbnail.jpeg)
+![Scenic mountain view of Escaldes-Engordany for seniors.](/imgs/andorra/mountain-view.webp)
 
 ### Accessible Walking Trails and Parks
 

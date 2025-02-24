@@ -32,7 +32,7 @@ And let's not forget the food—Belgian chocolates and beers are a must-try. Whe
 
 ## Discovering the Charm of Brussels
 
-![Brussels architecture with flowers and outdoor cafes.](https://contenu.nyc3.digitaloceanspaces.com/journalist/c3e90304-4b47-4a27-851a-f2c13ef149f5/thumbnail.jpeg)
+![Brussels architecture with flowers and outdoor cafes.](/imgs/belgium/cafe.webp)
 
 ### Exploring the Grand Place
 
@@ -106,7 +106,7 @@ For a taste of local flavor, don't miss out on [Antwerp's exceptional pastries](
 
 ## Ghent: A Blend of History and Modernity
 
-![Historic buildings and canal in Ghent, Belgium.](https://contenu.nyc3.digitaloceanspaces.com/journalist/3c5900f0-b6ee-4055-a486-543526b4141b/thumbnail.jpeg)
+![Historic buildings and canal in Ghent, Belgium.](/imgs/belgium/canal.webp)
 
 ### The Gravensteen Castle
 
@@ -132,7 +132,7 @@ Ghent is also home to numerous cultural festivals throughout the year, celebrati
 
 ## Belgium's Culinary Delights
 
-![Delicious Belgian cuisine featuring waffles, chocolate, and moules-frites.](https://contenu.nyc3.digitaloceanspaces.com/journalist/98022761-a4d1-4924-9820-efdb5fb50a3e/thumbnail.jpeg)
+![Delicious Belgian cuisine featuring waffles, chocolate, and moules-frites.](/imgs/belgium/waffles.webp)
 
 Belgium is a paradise for food lovers, offering a delightful mix of flavors and dishes that reflect its rich cultural tapestry. **Belgium's culinary scene is diverse and deeply rooted in tradition, yet it embraces modern influences.**
 
@@ -245,7 +245,7 @@ In spring, the Royal Greenhouses of Laeken open their doors, showcasing a stunni
 
 ## Shopping in Belgium: From Boutiques to Markets
 
-![Colorful boutiques and lively market stalls in Belgium.](https://contenu.nyc3.digitaloceanspaces.com/journalist/1dc51835-979a-4f04-a38f-1609edc1d5ea/thumbnail.jpeg)
+![Colorful boutiques and lively market stalls in Belgium.](/imgs/belgium/market.webp)
 
 ### Luxury Shopping in Antwerp
 

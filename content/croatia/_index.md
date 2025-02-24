@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Croatia"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/croatia/thumbnail.jpeg"
+image = "/imgs/croatia/thumbnail.webp"
 alt_txt = " Vibrant nightlife and cuisine in Croatia's cultural landscape."
 +++
 
@@ -27,7 +27,7 @@ Croatia is a gem on the Adriatic Sea, offering travelers a mix of vibrant nightl
  --- 
 ## 1\. Dubrovnik
 
-![Dubrovnik UNESCO World Heritage site](/imgs/croatia/dubrovnik-croatia.jpg)
+![Dubrovnik UNESCO World Heritage site](/imgs/croatia/dubrovnik-croatia.webp)
 
 Welcome to Dubrovnik, a city that feels like stepping into a storybook with its ancient walls and breathtaking sea views. Often called the 'Pearl of the Adriatic,' this place is a treasure trove of history and stunning architecture.
 
@@ -61,7 +61,7 @@ While the city itself is amazing, don't miss out on the surrounding areas. The D
 
 ## 2\. Split
 
-![Diocletian's Palace](/imgs/croatia/palace-croatia.jpg)
+![Diocletian's Palace](/imgs/croatia/palace-croatia.webp)
 
 Split is a city where ancient history meets modern life. **At its heart is Diocletian's Palace**, a massive fortress-like structure that dates back to the Roman era. This UNESCO World Heritage site is not just a relic; it’s a living, breathing part of the city, filled with shops, restaurants, and homes.
 
@@ -85,7 +85,7 @@ Split is a city where ancient history meets modern life. **At its heart is Diocl
 
 ## 3\. Krka National Park
 
-![Cascading waterfalls and greenery in Krka National Park.](https://contenu.nyc3.digitaloceanspaces.com/journalist/cf06b7d0-a9e0-4d02-8fc2-0fa1e2af6504/thumbnail.jpeg)
+![Cascading waterfalls and greenery in Krka National Park.](/imgs/croatia/waterfalls.webp)
 
 Krka National Park is like stepping into a natural wonderland. **The park's main draw is its stunning waterfalls**, especially the famous Skradinski Buk. Imagine walking along wooden paths, surrounded by lush greenery, with the sound of rushing water all around. It's a sight and sound experience you won't forget.
 
@@ -105,7 +105,7 @@ For more on exploring the stunning attractions of Krka National Park, including 
 
 ## 4\. Hvar
 
-![Hvar beach](/imgs/croatia/hvar-beach.jpg)
+![Hvar beach](/imgs/croatia/hvar-beach.webp)
 
 
 Hvar, an island paradise in the Adriatic Sea, is a place where _relaxation_ meets excitement. The moment you arrive, you're greeted by beautiful landscapes and a lively atmosphere that's hard to resist.
@@ -138,7 +138,7 @@ As night falls, Hvar turns into a lively entertainment hub. The main square in H
 
 ## 5\. Plitvice Lakes National Park
 
-![Cascading waterfalls and vibrant greenery at Plitvice Lakes.](https://contenu.nyc3.digitaloceanspaces.com/journalist/8ba2b545-b068-4cbc-896b-d8bb2874d880/thumbnail.jpeg)
+![Cascading waterfalls and vibrant greenery at Plitvice Lakes.](/imgs/croatia/waterfalls-2.webp)
 
 Welcome to one of Croatia's true gems, the [Plitvice Lakes National Park](https://www.tripadvisor.com/Attractions-g303827-Activities-Plitvice_Lakes_National_Park_Central_Croatia.html). This place is not just a national park; it's a sprawling natural wonder that covers 295 square kilometers. Imagine 16 terraced lakes, each one feeding into the next through a series of breathtaking waterfalls. **It's a sight that leaves you speechless.**
 
@@ -168,7 +168,7 @@ Whether you're there for the stunning landscapes or the diverse wildlife, Plitvi
 
 ## 6\. Rovinj
 
-![Rovinj, a picturesque town on the Istrian Peninsula](/imgs/croatia/rovinj-croatia.jpg)
+![Rovinj, a picturesque town on the Istrian Peninsula](/imgs/croatia/rovinj-croatia.webp)
 
 Rovinj, a picturesque town on the Istrian Peninsula, offers a perfect blend of history, culture, and natural beauty. **This charming coastal town** is a must-visit for anyone exploring Croatia.
 
@@ -205,7 +205,7 @@ Throughout the year, Rovinj hosts a variety of cultural events and festivals. Th
 ---
 
 ## 7\. Zadar
-![Church of St. Donatus at the Roman Forum Croatia.](/imgs/croatia/Roman-Forum-Croatia.jpg)
+![Church of St. Donatus at the Roman Forum Croatia.](/imgs/croatia/Roman-Forum-Croatia.webp)
 
 Zadar is a city where the past and present come together in the most fascinating ways. **You'll find history, art, and innovation all in one place.** Start your adventure with a visit to the Roman Forum. It's like stepping back in time as you wander through ancient ruins and see the 9th-century Church of St. Donatus.
 
@@ -229,7 +229,7 @@ Beyond the main attractions, Zadar has plenty of hidden gems. Check out the Muse
 
 ## 8\. Pula
 
-![Nightlife in Pula with cafes and ancient ruins visible.](https://contenu.nyc3.digitaloceanspaces.com/journalist/7ec286d8-957d-4627-b575-ca260becbc85/thumbnail.jpeg)
+![Nightlife in Pula with cafes and ancient ruins visible.](/imgs/croatia/ruins.webp)
 
 Pula, nestled on the Istrian peninsula, is a city where history and coastal beauty come together in a perfect blend. **This ancient port city is a treasure trove of Roman architecture**, with the Pula Arena being the crown jewel. This massive amphitheater, one of the best-preserved of its kind, still hosts events, including a famous film festival every summer.
 
@@ -255,7 +255,7 @@ With its mix of history, culture, and natural beauty, Pula is a destination that
 
 ## 9\. Šibenik
 
-![Vibrant street scene of Šibenik, Croatia with nightlife.](https://contenu.nyc3.digitaloceanspaces.com/journalist/abbdbfc8-5627-4be0-a27f-3790e5413d67/thumbnail.jpeg)
+![Vibrant street scene of Šibenik, Croatia with nightlife.](/imgs/croatia/sibenik-street.webp)
 
 Welcome to Šibenik, a medieval town on the Dalmatian coast that promises an unforgettable experience. **This charming city, with its narrow cobblestone streets and historic architecture, offers a unique glimpse into Croatia's rich past.**
 
@@ -284,7 +284,7 @@ As you visit the Fortress of St. Mihovil, soak in the rich history surrounding y
 ---
 
 ## 10\. Zagreb
-![Street in Zagreb with a church at the end](/imgs/croatia/streets-of-Zagreb.jpg)
+![Street in Zagreb with a church at the end](/imgs/croatia/streets-of-Zagreb.webp)
 
 Zagreb, the heart of Croatia, is a city that seamlessly blends the old with the new. As you stroll through its streets, you'll find a mix of historical charm and modern vibrancy. **This city is a treasure trove of experiences waiting to be uncovered.**
 

@@ -6,7 +6,8 @@ draft = false
 tab ='Xxxx'
 type = 'cities'
 layout = 'cities'
-image = "Xxxx"
+tags = ['X cities']
+image = "/imgs/x/"
 alt_txt = ""
 +++
 # Austria city 2
