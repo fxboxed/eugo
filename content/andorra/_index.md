@@ -27,7 +27,6 @@ Whether you're into hiking through scenic valleys, savoring local dishes, or dan
 *   Relaxation is easy to find in Andorra's renowned spa retreats, perfect for unwinding after a day of exploration.
 *   The nightlife in Andorra caters to all, from vibrant clubs to cozy bars, ensuring evenings are as exciting as the days.
 
----
 
 ## Exploring Andorra la Vella: A Blend of History and Modernity
 
