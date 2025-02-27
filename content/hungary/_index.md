@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Hungary"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/hungary/thumbnail.jpg"
+image = "/imgs/hungary/thumbnail.webp"
 alt_txt = "Along white river boat on the Danube river"
 +++
 
@@ -31,7 +31,7 @@ Dive into the vibrant nightlife, shop till you drop, or simply soak up the rich 
 
 ## 1\. Buda Castle
 
-![Buda Castle](/imgs/hungary/buda-castle-4128004_640.jpg)
+![Buda Castle](/imgs/hungary/buda-castle-4128004_640.webp)
 
 Buda Castle is like stepping into a fairy tale. **This majestic fortress sits atop Castle Hill, offering sweeping views of Budapest and the Danube River below.** It's not just a castle; it's a symbol of Hungary's rich history and resilience.
 
@@ -55,7 +55,7 @@ With its blend of history, culture, and breathtaking views, Buda Castle is a hig
 
 ## 2\. Széchenyi Thermal Bath
 
-![Széchenyi Thermal Bath with outdoor pools and lush greenery.](https://contenu.nyc3.digitaloceanspaces.com/journalist/c083872a-7bca-4731-b293-adbf53b1794a/thumbnail.jpeg)
+![Széchenyi Thermal Bath with outdoor pools and lush greenery.](/imgs/hungary/pool.webp)
 
 Step into the world of relaxation at the Széchenyi Thermal Bath, one of Europe's largest and most iconic spa complexes. Situated in Budapest's City Park, this thermal bath is not just a place to soak but an experience that rejuvenates both body and mind.
 
@@ -83,9 +83,13 @@ Step into the world of relaxation at the Széchenyi Thermal Bath, one of Europe'
 
 ## 3\. Hungarian Parliament Building
 
-![Hungarian Parliament Building illuminated at twilight by the Danube.](https://contenu.nyc3.digitaloceanspaces.com/journalist/5e80fd59-6322-47f9-b430-15d097988b95/thumbnail.jpeg)
+![Hungarian Parliament Building illuminated at twilight by the Danube.](/imgs/hungary/parliament.webp)
 
-The Hungarian Parliament Building is not just a place where laws are made; it's a _masterpiece_ of architecture that you simply can't miss. **Standing proudly on the banks of the Danube River**, this stunning structure is one of the largest parliament buildings in the world. With its Neo-Gothic style, the building is a feast for the eyes, featuring intricate detailing, towering spires, and a grand dome.
+The Hungarian Parliament Building is not just a place where laws are made; it's a _masterpiece_ of architecture that you simply can't miss. 
+
+**Standing proudly on the banks of the Danube River**, this stunning structure is one of the largest parliament buildings in the world. 
+
+With its Neo-Gothic style, the building is a feast for the eyes, featuring intricate detailing, towering spires, and a grand dome.
 
 ### Architectural Marvel
 
@@ -108,11 +112,15 @@ For more on this iconic landmark, check out a [photo tour of the Hungarian Parli
 
 ## 4\. Fisherman’s Bastion
 
-![Fishermans Bastion](/imgs/hungary/fishermens-bastion-377906_640.jpg)
+![Fishermans Bastion](/imgs/hungary/fishermens-bastion-377906_640.webp)
 
-Perched atop Castle Hill, the [Fisherman's Bastion](https://thirdeyetraveller.com/fishermans-bastion-budapest/) is a must-see when you're in Budapest. This neo-Gothic terrace offers some of the best views of the city and the Danube River. Imagine standing there, taking in the panoramic sights of the **majestic Hungarian Parliament Building** and the bustling city below.
+Perched atop Castle Hill, the [Fisherman's Bastion](https://thirdeyetraveller.com/fishermans-bastion-budapest/) is a must-see when you're in Budapest. 
 
-The Bastion itself is a marvel of architecture, with its fairytale-like towers and arches. It's a place where history whispers through the stones. Built between 1895 and 1902, it was meant to be a decorative fortification with no real military purpose. Instead, it serves as a tribute to the fishermen who defended this part of the city in the Middle Ages.
+This neo-Gothic terrace offers some of the best views of the city and the Danube River. Imagine standing there, taking in the panoramic sights of the **majestic Hungarian Parliament Building** and the bustling city below.
+
+The Bastion itself is a marvel of architecture, with its fairytale-like towers and arches. It's a place where history whispers through the stones. 
+
+Built between 1895 and 1902, it was meant to be a decorative fortification with no real military purpose. Instead, it serves as a tribute to the fishermen who defended this part of the city in the Middle Ages.
 
 ### Why Visit Fisherman’s Bastion?
 
@@ -128,13 +136,14 @@ The Bastion itself is a marvel of architecture, with its fairytale-like towers a
 
 > Standing atop Fisherman's Bastion, you can't help but feel a connection to Budapest's past. The view is breathtaking, and the experience is unforgettable.
 
----
 
 ## 5\. Gellért Spa
 
-![Gellért Spa](/imgs/hungary/gellert-spa-377905_640.jpg)
+![Gellért Spa](/imgs/hungary/gellert-spa-377905_640.webp)
 
-If you're looking for a place to unwind in Budapest, Gellért Spa is a must-visit. This iconic spa, part of the grand Gellért Hotel, offers a unique blend of relaxation and history. **Imagine sinking into warm, mineral-rich waters that have been soothing visitors for over a century.**
+If you're looking for a place to unwind in Budapest, Gellért Spa is a must-visit. This iconic spa, part of the grand Gellért Hotel, offers a unique blend of relaxation and history. 
+
+**Imagine sinking into warm, mineral-rich waters that have been soothing visitors for over a century.**
 
 ### Why Visit Gellért Spa?
 
@@ -156,9 +165,13 @@ So, when in Budapest, don’t miss out on the chance to soak in the history and 
 
 ## 6\. Ruin Bars
 
-![A colorful Ruin bar](/imgs/hungary/bar-2733079_640.jpg)
+![A colorful Ruin bar](/imgs/hungary/bar-2733079_640.webp)
 
-When you think of Budapest, one of the first things that might come to mind is its [unique ruin bars](https://www.offbeatbudapest.com/top10/best-ruin-bars-budapest/). These bars are set in old, abandoned buildings in the Jewish Quarter, and they offer a drinking experience like no other. You step inside, and it's like you've entered a whole different world. The decor is quirky and mismatched, with old furniture, retro items, and lots of creativity.
+When you think of Budapest, one of the first things that might come to mind is its [unique ruin bars](https://www.offbeatbudapest.com/top10/best-ruin-bars-budapest/). T
+
+hese bars are set in old, abandoned buildings in the Jewish Quarter, and they offer a drinking experience like no other. You step inside, and it's like you've entered a whole different world. 
+
+The decor is quirky and mismatched, with old furniture, retro items, and lots of creativity.
 
 ### Why Visit Ruin Bars?
 
@@ -178,9 +191,13 @@ When you think of Budapest, one of the first things that might come to mind is i
 
 ## 7\. Danube River Cruises
 
-![A river barge cruising along the Danube](/imgs/hungary/danube-2528221_640.jpg)
+![A river barge cruising along the Danube](/imgs/hungary/danube-2528221_640.webp)
 
-Floating along the Danube River is like stepping into a postcard. The river winds its way through the heart of Budapest, offering a unique perspective of the city’s stunning architecture and vibrant life. **A cruise on the Danube is not just a boat ride; it’s an experience that captures the essence of Budapest.**
+Floating along the Danube River is like stepping into a postcard. 
+
+The river winds its way through the heart of Budapest, offering a unique perspective of the city’s stunning architecture and vibrant life. 
+
+**A cruise on the Danube is not just a boat ride; it’s an experience that captures the essence of Budapest.**
 
 ### Types of Cruises
 
@@ -208,7 +225,7 @@ Whether you’re a first-time visitor or a seasoned traveler, a Danube River cru
 
 ## 8\. Hungarian Cuisine
 
-![Delicious Hungarian dishes arranged on a rustic table.](https://contenu.nyc3.digitaloceanspaces.com/journalist/8545cbfb-7f3b-4571-a803-1e18e06e7e8d/thumbnail.jpeg)
+![Delicious Hungarian dishes arranged on a rustic table.](/imgs/hungary/dishes.webp)
 
 Hungary is a paradise for food lovers, offering a rich tapestry of flavors that reflect its diverse cultural influences. The country's culinary scene is a delightful mix of hearty, comforting dishes and sweet treats that are sure to leave you satisfied.
 
@@ -231,7 +248,9 @@ Hungary is also known for its wines, with a tradition of winemaking that goes ba
 
 ### Dining Experiences
 
-For a taste of traditional Hungarian dishes with a modern twist, visit fine dining restaurants like Onyx or Costes Downtown. These establishments offer innovative dishes that honor Hungarian culinary traditions. If you're looking for a more relaxed setting, cozy wine bars like Doblo Wine & Bar or DiVino are perfect for enjoying a glass of Hungarian wine paired with local cheeses and charcuterie.
+For a taste of traditional Hungarian dishes with a modern twist, visit fine dining restaurants like Onyx or Costes Downtown. These establishments offer innovative dishes that honor Hungarian culinary traditions. 
+
+If you're looking for a more relaxed setting, cozy wine bars like Doblo Wine & Bar or DiVino are perfect for enjoying a glass of Hungarian wine paired with local cheeses and charcuterie.
 
 Hungarian cuisine is not just about food; it's about experiencing the rich flavors and warm hospitality that make your visit unforgettable. So, when you're in Hungary, dive into its culinary delights and savor every bite.
 
@@ -239,7 +258,7 @@ Hungarian cuisine is not just about food; it's about experiencing the rich flavo
 
 ## 9\. Budapest Nightlife
 
-![Budapest at night with lights and lively crowds.](https://contenu.nyc3.digitaloceanspaces.com/journalist/9a739410-8944-42c7-a6d2-66faee2aa48a/thumbnail.jpeg)
+![Budapest at night with lights and lively crowds.](/imgs/hungary/night.webp)
 
 When the sun sets, Budapest transforms into a city buzzing with energy and excitement. Whether you're into laid-back lounges or vibrant dance floors, the nightlife here is sure to captivate you. **Budapest is famous for its eclectic mix of venues**, ranging from quirky ruin bars to chic rooftop terraces.
 
@@ -267,9 +286,11 @@ In Budapest, the night is always young, and the possibilities are endless. Wheth
 
 ## 10\. Sziget Festival
 
-![Huge crowd cheering a nd waving at the Sziget Music Festival](/imgs/hungary/sziget-music-festival-Hungary.jpg)
+![Huge crowd cheering a nd waving at the Sziget Music Festival](/imgs/hungary/sziget-music-festival-Hungary.webp)
 
-Get ready for an experience like no other at the Sziget Festival, one of Europe's largest and most vibrant music festivals. Held annually on the picturesque Óbuda Island in Budapest, it’s a week-long extravaganza that attracts hundreds of thousands of visitors from all over the globe.
+Get ready for an experience like no other at the Sziget Festival, one of Europe's largest and most vibrant music festivals. 
+
+Held annually on the picturesque Óbuda Island in Budapest, it’s a week-long extravaganza that attracts hundreds of thousands of visitors from all over the globe.
 
 ### Why You Should Go
 
@@ -296,8 +317,6 @@ Wrapping up, Hungary is a place that truly has something for everyone. Whether y
 The country's rich history, vibrant culture, and delicious food make it a must-visit destination. So, if you're planning your next trip, consider Hungary—it's a place where you can create unforgettable memories and experience a unique blend of old-world charm and modern excitement. 
 
 Pack your bags and get ready for an adventure you won't soon forget!
-
----
 
 ## Frequently Asked Questions
 
