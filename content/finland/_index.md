@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Finland"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/finland/thumbnail.jpeg"
+image = "/imgs/finland/thumbnail.webp"
 alt_txt = " Collage of Finland's top tourist resorts at night."
 +++
 
@@ -31,7 +31,7 @@ Whether you're into vibrant nightlife, rich history, unique culture, mouth-water
 
 ## 1\. Helsinki
 
-![tyrvaa church overlooking the river](/imgs/finland/tyrvaa-church.jpg)
+![tyrvaa church overlooking the river](/imgs/finland/tyrvaa-church.webp)
 
 Helsinki is not just the capital of Finland; it's a vibrant hub where history, culture, and modern life blend seamlessly. When you step into Helsinki, you're greeted by a cityscape that tells stories from the past and whispers promises of the future.
 
@@ -62,7 +62,7 @@ If you visit in January, make sure to catch the Lux Helsinki Light Festival. The
 ---
 
 ## 2\. Northern Lights
-![Northern Lights viewed from a glacier](/imgs/finland/northern-lights-4038299_1280.jpg)
+![Northern Lights viewed from a glacier](/imgs/finland/northern-lights-4038299_1280.webp)
 
 Experiencing the Northern Lights in Finland is like stepping into a dream. Imagine standing under a sky painted with swirling colors of green, pink, and violet. **Witnessing this natural wonder is a bucket-list item for many travelers.**
 
@@ -90,7 +90,7 @@ Whether you're a seasoned traveler or visiting Finland for the first time, the N
 
 ## 3\. Santa Claus Village
 
-![Santa standing on a large sleigh](/imgs/finland/santa-1242410_1280.jpg)
+![Santa standing on a large sleigh](/imgs/finland/santa-1242410_1280.webp)
 
 Welcome to Santa Claus Village, a magical spot located right on the Arctic Circle in Rovaniemi, Finland. This enchanting place is not just for kids; it's a wonderland for anyone who wants to dive into the festive spirit. **Meeting Santa Claus himself is a must-do experience**, and you can do it all year round.
 
@@ -118,7 +118,7 @@ Don't forget to book your meet and greet with Santa in advance, especially durin
 
 ## 4\. Åland Islands
 
-![A group of seals laid on a rock on one of the Aland Islands](/imgs/finland/seals-6627197_1280.jpg)
+![A group of seals laid on a rock on one of the Aland Islands](/imgs/finland/seals-6627197_1280.webp)
 
 Tucked away in the Baltic Sea, the Åland Islands are an intriguing archipelago consisting of around 6,700 islands, each with its own charm. These islands are a paradise for those who love nature and tranquility. While only a few of these islands are inhabited, they are interconnected by a convenient ferry network, making it easy to hop from one to another.
 
@@ -146,7 +146,8 @@ In short, the Åland Islands are a hidden gem, offering a mix of adventure, cult
 
 ## 5\. Suomenlinna
 
-![Historic Suomenlinna fortress with greenery and blue waters.](https://contenu.nyc3.digitaloceanspaces.com/journalist/afb3c602-175d-41ff-b9ff-2f1674b3c486/thumbnail.jpeg)
+![Historic Suomenlinna fortress with greenery and blue waters.](/imgs/finland/fortress.webp
+)
 
 Suomenlinna is a fascinating sea fortress spread across several islands just off the coast of Helsinki. **It's a place where history and beauty collide.** Originally constructed in the 18th century, this UNESCO World Heritage Site was built to defend the region from maritime attacks. Today, it stands as a testament to Finland’s rich past and offers a unique glimpse into its military history.
 
@@ -169,7 +170,7 @@ A ferry from Helsinki's Market Square takes you to Suomenlinna in about 15 minut
 > Suomenlinna is more than just a fortress; it's a living community with a vibrant artist scene, lush parks, and cozy cafes. Whether you're a history enthusiast or just looking for a peaceful escape from the city, Suomenlinna offers a perfect blend of past and present.
 
 ## 6\. Levi
-![Snow covered trees stsnding in a harsh winter](/imgs/finland/sun-peaks-50100_1280.jpg)
+![Snow covered trees stsnding in a harsh winter](/imgs/finland/sun-peaks-50100_1280.webp)
 Levi is a winter wonderland nestled in the heart of Finnish Lapland. It's the largest ski resort in Finland, offering a playground for winter sports enthusiasts. Whether you're into skiing, snowboarding, or just want to enjoy the snowy landscape, Levi has it all. **The subzero temperatures and pristine snow make it a must-visit destination in Finland.**
 
 ### Activities in Levi
@@ -193,7 +194,7 @@ Levi isn't just for adrenaline junkies. Families can enjoy [Kids' Land](https://
 
 ## 7\. Savonlinna
 
-![Olavinlinna Castle voerlooking the moat](/imgs/finland/castle-6940332_640.jpg)
+![Olavinlinna Castle voerlooking the moat](/imgs/finland/castle-6940332_640.webp)
 
 Nestled in the heart of Finland's Lake District, Savonlinna is a charming town that offers a unique blend of history, culture, and natural beauty. **Olavinlinna Castle**, a medieval fortress perched on an island, stands as a testament to the town's rich history. This castle isn't just for show; it hosts the annual Savonlinna Opera Festival, a must-experience event that draws visitors from all over the world.
 
@@ -219,17 +220,23 @@ Just a short trip from Savonlinna, Linnansaari National Park is a haven for wild
 
 ## 8\. Sibelius Monument
 
-![Sibelius Monument surrounded by trees and blue sky.](https://contenu.nyc3.digitaloceanspaces.com/journalist/6f3010ea-a95f-431c-a323-22c7f2a2413b/thumbnail.jpeg)
+![Sibelius Monument surrounded by trees and blue sky.](/imgs/finland/monument.webp)
 
-The [Sibelius Monument](https://www.tripadvisor.com/Attraction_Review-g189934-d19923392-Reviews-Sibelius_Monument-Helsinki_Uusimaa.html) in Helsinki is a tribute to Finland's celebrated composer, Jean Sibelius. This artistic marvel is composed of over 600 hollow steel pipes, crafted to resemble an organ. It's not just a sight to behold; it's a symbol of Finnish culture and creativity.
+The [Sibelius Monument](https://www.tripadvisor.com/Attraction_Review-g189934-d19923392-Reviews-Sibelius_Monument-Helsinki_Uusimaa.html) in Helsinki is a tribute to Finland's celebrated composer, Jean Sibelius. 
+
+This artistic marvel is composed of over 600 hollow steel pipes, crafted to resemble an organ. It's not just a sight to behold; it's a symbol of Finnish culture and creativity.
 
 ### A Unique Tribute
 
-Walking through Sibelius Park, you'll encounter this extraordinary structure. It stands out not only for its size but also for its intricate design. The pipes shimmer in the sunlight, creating a mesmerizing effect that draws visitors in. **It's a must-see for anyone interested in art and history.**
+Walking through Sibelius Park, you'll encounter this extraordinary structure. It stands out not only for its size but also for its intricate design. The pipes shimmer in the sunlight, creating a mesmerizing effect that draws visitors in. 
+
+**It's a must-see for anyone interested in art and history.**
 
 ### Immersive Experience
 
-The monument isn't just for looking at—it's an experience. As you walk around it, you'll notice how the light and shadows play across the pipes, changing the monument's appearance throughout the day. Some visitors even say they can hear music in the wind as it whistles through the pipes.
+The monument isn't just for looking at—it's an experience. As you walk around it, you'll notice how the light and shadows play across the pipes, changing the monument's appearance throughout the day. 
+
+Some visitors even say they can hear music in the wind as it whistles through the pipes.
 
 ### Nearby Attractions
 
@@ -249,7 +256,7 @@ Whether you're a music lover or just someone who appreciates unique art, the Sib
 
 ## 9\. Turku
 
-![Turku castle by the river with boats and cafes.](https://contenu.nyc3.digitaloceanspaces.com/journalist/257444b4-3a01-486c-ab9f-b26b76073fda/thumbnail.jpeg)
+![Turku castle by the river with boats and cafes.](/imgs/finland/turku.webp)
 
 Turku, the oldest city in Finland, is a gem for history buffs and casual travelers alike. Nestled in the southwest, this city is packed with fascinating spots that tell tales of its rich past and vibrant present.
 
@@ -278,9 +285,11 @@ Turku is not just a city to visit; it's an experience that blends history, cultu
 
 ## 10\. Nuuksio National Park
 
-![Lush forest and tranquil lake in Nuuksio National Park.](https://contenu.nyc3.digitaloceanspaces.com/journalist/5e129e38-ee2e-490d-9cb9-4810299b3eb0/thumbnail.jpeg)
+![Lush forest and tranquil lake in Nuuksio National Park.](/imgs/finland/park.webp)
 
-Nestled just a stone's throw away from the bustling city life of Helsinki, [Nuuksio National Park](https://www.tripadvisor.com/Attraction_Review-g189932-d284842-Reviews-Nuuksio_National_Park-Espoo_Uusimaa.html) is a serene escape into nature's embrace. **This park is a haven for outdoor enthusiasts**, offering a variety of activities that cater to all levels of adventure seekers.
+Nestled just a stone's throw away from the bustling city life of Helsinki, [Nuuksio National Park](https://www.tripadvisor.com/Attraction_Review-g189932-d284842-Reviews-Nuuksio_National_Park-Espoo_Uusimaa.html) is a serene escape into nature's embrace. 
+
+**This park is a haven for outdoor enthusiasts**, offering a variety of activities that cater to all levels of adventure seekers.
 
 ### Explore the Trails
 
@@ -308,14 +317,22 @@ Whether you're looking to reconnect with nature, enjoy a family outing, or embar
 
 ## Wrapping Up Your Finnish Adventure
 
-So, there you have it! Finland is a treasure trove of experiences just waiting to be explored. Whether you're wandering through Helsinki's bustling streets, marveling at the Northern Lights in Lapland, or savoring a warm bowl of salmon soup, this country offers something for everyone. The blend of history, culture, and natural beauty makes it a unique destination. And let's not forget the shopping and nightlife that add a modern twist to your journey. As you pack your bags and head home, remember the memories you've made and the stories you'll tell. Finland isn't just a place you visit; it's a place that stays with you long after you've left. Until next time, safe travels!
+So, there you have it! Finland is a treasure trove of experiences just waiting to be explored. 
+
+Whether you're wandering through Helsinki's bustling streets, marveling at the Northern Lights in Lapland, or savoring a warm bowl of salmon soup, this country offers something for everyone. 
+
+The blend of history, culture, and natural beauty makes it a unique destination. And let's not forget the shopping and nightlife that add a modern twist to your journey. As you pack your bags and head home, remember the memories you've made and the stories you'll tell. 
+
+Finland isn't just a place you visit; it's a place that stays with you long after you've left. Until next time, safe travels!
 
 ---
 ## Frequently Asked Questions
 
 #### When is the best time to visit Finland?
 
-The best time to visit Finland depends on what you want to do. For winter activities like skiing and seeing the Northern Lights, December to March is ideal. For enjoying the lakes and greenery, visit in the summer months from June to August.
+The best time to visit Finland depends on what you want to do. For winter activities like skiing and seeing the Northern Lights, December to March is ideal. 
+
+For enjoying the lakes and greenery, visit in the summer months from June to August.
 
 #### What are some must-see places in Helsinki?
 

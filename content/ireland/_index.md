@@ -10,8 +10,8 @@ author = ["eugo"]
 tab = "Ireland"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/ireland/thumbnail.jpeg"
-alt_txt = "Collage of Ireland's landmarks, nightlife, and cuisine."
+image = "/imgs/ireland/thumbnail.jpg"
+alt_txt = "Ireland Castle in front of a calm lake."
 +++
 
 ## Top Ten Tourist Attractions in Ireland

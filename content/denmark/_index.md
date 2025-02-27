@@ -10,7 +10,7 @@ author = ["eugo"]
 tab = "Denmark"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/denmark/thumbnail.jpeg"
+image = "/imgs/denmark/thumbnail.webp"
 alt_txt = " Colorful Danish landmarks and street food collage image"
 +++
 
@@ -30,7 +30,7 @@ From the iconic Little Mermaid to the vibrant streets of Aarhus, this list cover
 
 ## 1\. Tivoli Gardens
 
-![Colorful flowers and lights in Tivoli Gardens, Copenhagen.](https://contenu.nyc3.digitaloceanspaces.com/journalist/2ddccac8-7b16-46f1-96d3-4acf9ad518f9/thumbnail.jpeg)
+![Colorful flowers and lights in Tivoli Gardens, Copenhagen.](/imgs/denmark/tivoli-flowers.webp)
 
 Tivoli Gardens is a magical spot right in the heart of Copenhagen. It's the kind of place where you can lose track of time, whether you're wandering through the lush gardens or getting your adrenaline fix on one of the thrilling rides. **This isn't just any amusement park; it's the second oldest in the world, dating back to 1843.**
 
@@ -62,7 +62,7 @@ Whether you're a local or a tourist, [Tivoli Gardens](https://www.tripadvisor.co
 
 ## 2\. Nyhavn
 
-![Colorful Nyhavn waterfront townhouses with open air coffee shop](/imgs/denmark/Nyhavn-waterfront.jpg)
+![Colorful Nyhavn waterfront townhouses with open air coffee shop](/imgs/denmark/Nyhavn-waterfront.webp)
 
 Nyhavn, which literally means "New Harbor," is one of Copenhagen's most iconic spots. **This vibrant waterfront is bustling with colorful 17th-century townhouses, quaint cafes, and lively bars.** As you stroll along the canal, you'll notice the unique blend of historical charm and modern energy that makes Nyhavn a must-see.
 
@@ -82,7 +82,7 @@ Nyhavn is a year-round destination, but it truly shines in the summer when the o
 
 ## 3\. The Little Mermaid
 
-![the long Langelinie-promenade overlooking a blue ocean](/imgs/denmark/Langelinie-promenade.jpg)
+![the long Langelinie-promenade overlooking a blue ocean](/imgs/denmark/Langelinie-promenade.webp)
 
 When you think of Copenhagen, one of the first images that might pop into your head is the iconic [Little Mermaid statue](https://www.tripadvisor.com/Attraction_Review-g189541-d245024-Reviews-The_Little_Mermaid-Copenhagen_Zealand.html). Perched gracefully on a rock by the Langelinie promenade, this petite bronze sculpture has been a symbol of the city since 1913.
 
@@ -132,7 +132,7 @@ Though it's a bit out of the way, right next to Billund Airport, it's a fantasti
 
 ## 5\. Aarhus Street Food
 
-![A stall with trays of street food on Aarhus Street ](/imgs/denmark/Aarhus-Street-Food.jpg)
+![A stall with trays of street food on Aarhus Street ](/imgs/denmark/Aarhus-Street-Food.webp)
 
 If you're in Denmark, Aarhus Street Food is a culinary stop you won't want to miss. 
 
@@ -152,7 +152,7 @@ So, grab a plate, find a seat, and enjoy the culinary journey that Aarhus Street
 
 ## 6\. Den Gamle By
 
-![Charming streets and historic buildings in Den Gamle By.](https://contenu.nyc3.digitaloceanspaces.com/journalist/3ad0497e-42a3-4f57-a60b-932ee4ebdb7b/thumbnail.jpeg)
+![Charming streets and historic buildings in Den Gamle By.](/imgs/denmark/streets.webp)
 
 Step back in time at _Den Gamle By_, an open-air museum located in Aarhus. This place is not just a museum; it's a full-blown experience. Imagine walking through streets lined with buildings from the 18th to the 20th century. **It's like a time machine without the sci-fi spin.**
 
@@ -174,7 +174,7 @@ If you're in [Aarhus](https://www.tripadvisor.com/Attraction_Review-g189530-d232
 
 ## 7\. Skagen
 
-![Isolated cottages overlooking the sea at Skagen](/imgs/denmark/Skagen.jpg)
+![Isolated cottages overlooking the sea at Skagen](/imgs/denmark/Skagen.webp)
 Skagen, the northernmost tip of Denmark, is a place where nature puts on a spectacular show. **Here, the North Sea and the Baltic Sea meet**, creating a unique natural phenomenon that's a must-see for any traveler. It's a Danish tradition to stand with one foot in each sea, feeling the waters from different oceans lapping at your feet.
 
 ### Grenen
@@ -203,7 +203,7 @@ With its stunning natural beauty and rich cultural offerings, Skagen is a destin
 
 ## 8\. Aros Art Museum
 
-![Rows of empty pews at Aros Art Museum](/imgs/denmark/Aros-Art-Museum.jpg)
+![Rows of empty pews at Aros Art Museum](/imgs/denmark/Aros-Art-Museum.webp)
 
 When you're in Aarhus, a visit to the [ARoS Art Museum](https://www.tripadvisor.com/Attraction_Review-g189530-d243845-Reviews-Aros-Aarhus_East_Jutland_Jutland.html) is a must. This isn't just any art museum; it's a journey through time and creativity. **Established back in 1859**, ARoS is Denmark's oldest art museum, and it never fails to impress with its blend of classic and modern art. The museum's architecture itself is a masterpiece, with its iconic rainbow panorama walkway offering breathtaking views of the city.
 
@@ -229,7 +229,7 @@ So, if you're planning a trip to Aarhus, make sure to set aside some time for AR
 
 ## 9\. Randers
 
-![Colorful canals and historic buildings in Randers, Denmark.](https://contenu.nyc3.digitaloceanspaces.com/journalist/5e1f25fc-4f32-40e1-bf2b-d526c0b55312/thumbnail.jpeg)
+![Colorful canals and historic buildings in Randers, Denmark.](/imgs/denmark/canals.webp)
 
 Randers, a quaint town with a population of around 60,000, offers a genuine taste of Danish life. It's not flashy, but **it's authentic**. Here, you can stroll through cobblestone streets lined with charming Danish eateries and cozy coffee spots. 
 
@@ -259,7 +259,7 @@ Randers may not be on every traveler's radar, but its charm lies in its simplici
 
 ## 10\. Stevns Klint
 
-![White chalk cliffs of Stevns Klint by the sea.](https://contenu.nyc3.digitaloceanspaces.com/journalist/8e0c1bd2-0427-4c48-9735-f41404a75bc7/thumbnail.jpeg)
+![White chalk cliffs of Stevns Klint by the sea.](/imgs/denmark/cliffs.webp)
 
 Stevns Klint is like stepping into a natural masterpiece. This UNESCO World Heritage site is famous for its stunning white chalk cliffs stretching over 11 miles along the coast. 
 

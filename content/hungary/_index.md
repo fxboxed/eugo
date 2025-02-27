@@ -10,8 +10,8 @@ author = ["eugo"]
 tab = "Hungary"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/holy-see/thumbnail.jpeg"
-alt_txt = "Hungarian landmarks, food, nightlife, and vibrant culture collage"
+image = "/imgs/hungary/thumbnail.jpg"
+alt_txt = "Along white river boat on the Danube river"
 +++
 
 

@@ -10,10 +10,9 @@ author = ["eugo"]
 tab = "Greece"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/greece/thumbnail.jpeg"
-alt_txt = " Collage of Greeces's top tourist resorts at night."
+image = "/imgs/greece/thumbnail.webp"
+alt_txt = " Crowded Zakynthos beach with clear blue sky."
 +++
-
 
 Dreaming of a Greek getaway? Well, you're in for a treat. Greece is packed with spots that mix jaw-dropping views, rich history, and some of the best food you'll ever taste. 
 
@@ -33,7 +32,7 @@ From the ancient vibes of Athens to the party scenes in Mykonos, and the picture
 
 ## 1\. Athens
 
-![Nighttime view of Athens with illuminated ancient ruins.](https://contenu.nyc3.digitaloceanspaces.com/journalist/c05ffb1a-fe8b-4d29-8c5e-44612d754573/thumbnail.jpeg)
+![Nighttime view of Athens with illuminated ancient ruins.](/imgs/greece/ruins.webp)
 
 Welcome to Athens, a city where ancient history meets modern life. This place is more than just a stopover; it's a vibrant blend of old and new, where every corner tells a story.
 
@@ -64,7 +63,7 @@ The markets in Athens are bustling with life. Monastiraki Flea Market offers eve
 --- 
 ## 2\. Mykonos
 
-![Mykonos at dusk](/imgs/greece/mykonos-17156_640.jpg)
+![Mykonos at dusk](/imgs/greece/mykonos-17156_640.webp)
 
 Mykonos is like the party hub of Greece. It's buzzing with energy and a favorite spot for those who love to dance the night away. But that's not all this island offers.
 
@@ -74,7 +73,9 @@ The nightlife in Mykonos is legendary. Clubs and bars line the beaches, and ther
 
 ### Culture
 
-Beyond the parties, Mykonos is steeped in culture. The island's architecture, with its iconic white-washed buildings and narrow streets, offers a glimpse into its rich history. Don’t miss a visit to the [Little Venice](https://www.tripadvisor.com/Attractions-g189430-Activities-Mykonos_Cyclades_South_Aegean.html) area, where you can enjoy a drink with a view.
+Beyond the parties, Mykonos is steeped in culture. The island's architecture, with its iconic white-washed buildings and narrow streets, offers a glimpse into its rich history. 
+
+Don’t miss a visit to the [Little Venice](https://www.tripadvisor.com/Attractions-g189430-Activities-Mykonos_Cyclades_South_Aegean.html) area, where you can enjoy a drink with a view.
 
 ### Food
 
@@ -94,13 +95,15 @@ Finally, don't forget to explore the local markets. Matoyianni Street is the pla
 
 ## 3\. Santorini
 
-![White houses on a hillside in Santanori](/imgs/greece/town-8310950_640.jpg)
+![White houses on a hillside in Santanori](/imgs/greece/town-8310950_640.webp)
 
 Santorini, often hailed as the jewel of the Aegean, is a must-visit for anyone looking to experience the quintessential Greek island life. **This island's beauty is unmatched, with its iconic white-washed buildings and stunning views of the caldera.** Whether you're here for the romance, the adventure, or just to relax, Santorini has it all.
 
 ### Nightlife
 
-Santorini's nightlife may not be as wild as Mykonos, but it offers a more laid-back and intimate experience. Head over to Fira, the island's capital, where you can find a variety of bars and clubs. Enjoy a cocktail while watching the sunset over the caldera, or dance the night away at one of the local clubs.
+Santorini's nightlife may not be as wild as Mykonos, but it offers a more laid-back and intimate experience. Head over to Fira, the island's capital, where you can find a variety of bars and clubs. 
+
+Enjoy a cocktail while watching the sunset over the caldera, or dance the night away at one of the local clubs.
 
 ### Culture
 
@@ -108,7 +111,9 @@ The island is steeped in history and culture. Visit the ancient city of Akrotiri
 
 ### Food
 
-Santorini is a paradise for food lovers. The island is famous for its fresh seafood and unique local dishes. Try the _fava me koukia_, a creamy yellow split pea puree, or the delicious tomato fritters known as "domatokeftedes." Pair your meal with a glass of Assyrtiko wine, made from grapes grown in the island's volcanic soil.
+Santorini is a paradise for food lovers. The island is famous for its fresh seafood and unique local dishes. Try the _fava me koukia_, a creamy yellow split pea puree, or the delicious tomato fritters known as "domatokeftedes." 
+
+Pair your meal with a glass of Assyrtiko wine, made from grapes grown in the island's volcanic soil.
 
 ### Attractions
 
@@ -124,9 +129,11 @@ For a taste of local life, visit one of Santorini's bustling markets. Here, you 
 
 ## 4\. Crete
 
-![Beach in Crete with sunbathers and clear blue skies.](https://contenu.nyc3.digitaloceanspaces.com/journalist/1d4c7f2f-42bc-483a-9ad5-2039404b2396/thumbnail.jpeg)
+![Beach in Crete with sunbathers and clear blue skies.](/imgs/greece/beach.webp)
 
-Crete is the largest of the Greek islands, offering a mix of history, culture, and natural beauty. **It's a place where ancient history meets modern charm.** Whether you're hiking the rugged trails of Samaria Gorge or lounging on the soft sands of Elafonissi Beach, Crete has something for everyone.
+Crete is the largest of the Greek islands, offering a mix of history, culture, and natural beauty. **It's a place where ancient history meets modern charm.** 
+
+Whether you're hiking the rugged trails of Samaria Gorge or lounging on the soft sands of Elafonissi Beach, Crete has something for everyone.
 
 ### Nightlife
 
@@ -155,8 +162,8 @@ Whether you're a history buff, a foodie, or a beach lover, Crete promises an unf
 ---
 
 ## 5\. Nafplio
-
-![Nafplio old town at sunset with colorful buildings.](https://contenu.nyc3.digitaloceanspaces.com/journalist/4191fd2e-6754-4ae6-94a9-a5aad296e78c/thumbnail.jpeg)
+g
+![Nafplio old town at sunset with colorful buildings.](/imgs/greece/town.webp)
 
 Nafplio, a picturesque coastal town in the Peloponnese, is known for its romantic charm and rich history. As Greece's first capital, it offers a blend of neoclassical architecture and cultural significance. **It's a place where cobblestone streets meet the azure sea, creating a perfect backdrop for exploration.**
 
@@ -174,7 +181,9 @@ For food lovers, Nafplio is a delight. Try seafood at Savouras, or savor Greek d
 
 ### Attractions
 
-Nafplio is home to several attractions that offer a glimpse into its storied past. Besides the Palamidi Fortress, the Bourtzi Castle located on a small island in the harbor is accessible by boat and provides stunning views of the town. The Archaeological Museum of Nauplion is another highlight, showcasing artifacts from the region's rich history.
+Nafplio is home to several attractions that offer a glimpse into its storied past. Besides the Palamidi Fortress, the Bourtzi Castle located on a small island in the harbor is accessible by boat and provides stunning views of the town. 
+
+The Archaeological Museum of Nauplion is another highlight, showcasing artifacts from the region's rich history.
 
 ### Local Markets
 
@@ -190,7 +199,7 @@ The best time to visit Nafplio is during the spring (April to mid-June) or fall 
 
 ## 6\. Kefalonia
 
-![Kefalonia bay with a mountain backdrop](/imgs/greece/grecia-5093019_640.jpg)
+![Kefalonia bay with a mountain backdrop](/imgs/greece/grecia-5093019_640.webp)
 
 Kefalonia, the largest of the Ionian Islands, is a true gem for those seeking both adventure and relaxation. **Its dramatic landscapes and pristine beaches make it a must-visit destination in Greece.**
 
@@ -222,7 +231,7 @@ Visit the local markets in Argostoli for a taste of Kefalonia's fresh produce an
 
 ## 7\. Paros
 
-![Ferry departing from Paros port](/imgs/greece/port-8016311_640.jpg)
+![Ferry departing from Paros port](/imgs/greece/port-8016311_640.webp)
 
 Paros is a gem in the Cyclades, offering a perfect mix of relaxation and excitement. If you're looking for a place that balances traditional Greek charm with modern amenities, Paros might just be your ideal spot.
 
@@ -254,7 +263,7 @@ Explore the local markets for handmade crafts, fresh produce, and unique souveni
 
 ## 8\. Rhodes
 
-![Rhodes sea overlooked by hillside white walled village](/imgs/greece/lindos-3608908_640.jpg)
+![Rhodes sea overlooked by hillside white walled village](/imgs/greece/lindos-3608908_640.webp)
 
 Rhodes is an island that offers a bit of everything: history, beaches, and a vibrant scene. **It's a place where the past and present collide beautifully.**
 
@@ -286,7 +295,7 @@ In Rhodes, every corner tells a story, and every meal is a celebration. Whether 
 
 ## 9\. Zakynthos
 
-![Vibrant beach scene in Zakynthos, Greece with turquoise waters.](https://contenu.nyc3.digitaloceanspaces.com/journalist/299fe701-162c-41d9-8a95-fce388d752f8/thumbnail.jpeg)
+![Vibrant beach scene in Zakynthos, Greece with turquoise waters.](/imgs/greece/beach-2.webp)
 
 Zakynthos, often called Zante, is a vibrant island in the Ionian Sea known for its stunning landscapes and lively atmosphere. Whether you're a beach lover, a party-goer, or someone who enjoys exploring nature, Zakynthos has something for everyone.
 
@@ -316,7 +325,7 @@ For a taste of local life, visit the bustling markets in Zakynthos Town. Here, y
 
 ## 10\. Corfu
 
-![Corfu beach](/imgs/greece/greece-4713035_640.jpg)
+![Corfu beach](/imgs/greece/greece-4713035_640.webp)
 
 Welcome to Corfu, often called the "Emerald Isle" for its lush landscapes and stunning coastline. This island is a perfect blend of relaxation and adventure, offering something for everyone.
 

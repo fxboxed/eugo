@@ -10,8 +10,8 @@ author = ["eugo"]
 tab = "Luxembourg"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/luxembourg/thumbnail.jpeg"
-alt_txt = "Luxembourg nightlife with lively streets and historic buildings."
+image = "/imgs/luxembourg/thumbnail.jpg"
+alt_txt = "Quaint Luxembourg village surrounded by trees."
 +++
 
 ---

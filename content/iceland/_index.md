@@ -10,8 +10,8 @@ author = ["eugo"]
 tab = "Iceland"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/iceland/thumbnail.jpeg"
-alt_txt = "Aerial view of Iceland's landscapes and northern lights."
+image = "/imgs/iceland/thumbnail.jpg"
+alt_txt = "Group of tourists vieing a waterfall with a rainbow in front of them."
 +++
 
 ---

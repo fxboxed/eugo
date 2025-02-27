@@ -10,8 +10,8 @@ author = ["eugo"]
 tab = "Malta"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/malta/thumbnail.jpeg"
-alt_txt = "Scenic view of Malta's coastline with beachgoers and sunset."
+image = "/imgs/malta/thumbnail.jpg"
+alt_txt = "Scenic view of Malta's coastline with a stone arch."
 +++
 
 ---

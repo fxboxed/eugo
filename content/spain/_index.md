@@ -8,7 +8,7 @@ author = ["eugo"]
 tab = "Spain"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/spain/thumbnail.jpeg"
+image = "/imgs/spain/thumbnail.webp"
 alt_txt = "Collage of Spanish food, culture, and lively attractions."
 +++
 
@@ -24,11 +24,9 @@ From jaw-dropping architecture to vibrant nightlife, Spain's got it all. So, if 
 *   Visit the grand Palacio Real in Madrid to soak up royal vibes.
 *   Explore the unique design of Casa Mila, another Gaudi masterpiece.
 
----
-
 ## 1\. La Sagrada Familia
 
-![La Sagrada Familia's intricate architecture and colorful details.](https://contenu.nyc3.digitaloceanspaces.com/journalist/cd2da432-6aa9-424a-b1e6-977797f60e6e/thumbnail.jpeg)
+![La Sagrada Familia's intricate architecture and colorful details.](/imgs/spain/abbey.webp)
 
 La Sagrada Familia is one of those places that just sticks with you. It's not just any basilica; it's a masterpiece by the legendary architect Antoni Gaudí. 
 
@@ -48,7 +46,7 @@ When you visit, don't forget your camera. This place is incredibly photogenic. A
 
 ## 2\. La Alhambra
 
-![An ariel view of La Alhambra, Spain](/imgs/spain/spain-3756641_640.jpg)
+![An ariel view of La Alhambra, Spain](/imgs/spain/spain-3756641_640.webp)
 
 La Alhambra is a must-see when you're in Spain. This ancient fortress in Granada is a stunning example of Moorish architecture. **The intricate designs and expansive gardens transport you back to a time when art and architecture were deeply intertwined.**
 
@@ -68,7 +66,9 @@ Originally built as a small fortress in AD 889, La Alhambra was largely ignored 
 2.  **Visit Early or Late**: Avoid the midday crowds for a more relaxed experience.
 3.  **Wear Comfortable Shoes**: You'll be doing a lot of walking on uneven surfaces.
 
-> Visiting La Alhambra is not just about seeing a beautiful building; it's about experiencing a piece of history that has survived wars, changes in power, and the test of time. You'll leave with a deeper appreciation for the artistry and craftsmanship that went into its creation.
+> Visiting La Alhambra is not just about seeing a beautiful building; it's about experiencing a piece of history that has survived wars, changes in power, and the test of time. 
+> 
+> You'll leave with a deeper appreciation for the artistry and craftsmanship that went into its creation.
 
 ---
 
@@ -76,7 +76,11 @@ Originally built as a small fortress in AD 889, La Alhambra was largely ignored 
 
 ![Colorful mosaics and unique architecture at Parc Guell.](https://contenu.nyc3.digitaloceanspaces.com/journalist/a23a10aa-1dc4-41b8-b5a7-af0b36d5b4b8/thumbnail.jpeg)
 
-Parc Guell is one of Barcelona's most iconic spots, designed by the legendary Antoni Gaudi. This park isn't just a regular park; it's a _mosaic masterpiece_ that showcases Gaudi's unique style. As you wander through, you'll see vibrant mosaics and whimsical structures that seem to come straight out of a fairy tale.
+Parc Guell is one of Barcelona's most iconic spots, designed by the legendary Antoni Gaudi. 
+
+This park isn't just a regular park; it's a _mosaic masterpiece_ that showcases Gaudi's unique style. 
+
+As you wander through, you'll see vibrant mosaics and whimsical structures that seem to come straight out of a fairy tale.
 
 *   Vibrant Mosaics: Everywhere you look, there's a burst of color. The mosaics here are made up of tiny tiles, each contributing to a larger, breathtaking picture.
 *   Whimsical Architecture: Gaudi's touch is evident in the flowing curves and unconventional shapes that define the park.
@@ -84,7 +88,9 @@ Parc Guell is one of Barcelona's most iconic spots, designed by the legendary An
 
 > Walking through Parc Guell feels like stepping into a dream. The blend of natural beauty and artistic flair creates an atmosphere that's both relaxing and inspiring.
 
-If you're planning a visit, consider going early in the morning or late in the afternoon to avoid the crowds. This way, you can fully appreciate the tranquility and beauty of the park. Parc Guell is not just a park; it's a testament to Gaudi's genius and a must-see for anyone visiting Barcelona. 
+If you're planning a visit, consider going early in the morning or late in the afternoon to avoid the crowds. This way, you can fully appreciate the tranquility and beauty of the park. 
+
+Parc Guell is not just a park; it's a testament to Gaudi's genius and a must-see for anyone visiting Barcelona. 
 
 For more details on Gaudi's work, check out [Park Güell features vibrant mosaics and flowing curves](https://www.tripadvisor.com/Attraction_Review-g187497-d190624-Reviews-Park_Guell-Barcelona_Catalonia.html).
 
@@ -92,9 +98,11 @@ For more details on Gaudi's work, check out [Park Güell features vibrant mosaic
 
 ## 4\. Palacio Real
 
-![The Grand Staircase Palacio real Spain](/imgs/spain/Palace-real-Spain.jpg)
+![The Grand Staircase Palacio real Spain](/imgs/spain/Palace-real-Spain.webp)
 
-The Palacio Real, or the Royal Palace of Madrid, stands as a testament to Spain's rich history and grand architectural prowess. Originally commissioned by Felipe V after a devastating fire in 1734, this magnificent palace was designed to rival the most opulent royal residences across Europe. **It's not just a building; it's a symbol of the Spanish monarchy's power and prestige**.
+The Palacio Real, or the Royal Palace of Madrid, stands as a testament to Spain's rich history and grand architectural prowess. 
+
+Originally commissioned by Felipe V after a devastating fire in 1734, this magnificent palace was designed to rival the most opulent royal residences across Europe. **It's not just a building; it's a symbol of the Spanish monarchy's power and prestige**.
 
 ### A Glimpse into History
 
@@ -116,20 +124,26 @@ The Palacio Real, or the Royal Palace of Madrid, stands as a testament to Spain'
 
 > "Walking through the halls of the Palacio Real is like stepping back in time. Each room tells a story of Spain's royal past, with art and architecture that speak volumes of its cultural heritage."
 
-Whether you're an architecture enthusiast or a history buff, the Palacio Real offers a glimpse into the grandeur of Spain's royal legacy. Don't miss the chance to explore this iconic landmark on your visit to Madrid. For more insights about its history, check out [this guide](https://www.frommers.com/destinations/madrid/attractions/palacio-real).
+Whether you're an architecture enthusiast or a history buff, the Palacio Real offers a glimpse into the grandeur of Spain's royal legacy. 
+
+Don't miss the chance to explore this iconic landmark on your visit to Madrid. For more insights about its history, check out [this guide](https://www.frommers.com/destinations/madrid/attractions/palacio-real).
 
 ---
 
 ## 5\. Casa Mila
 
-![Casa Mila Spain](/imgs/spain/gaudi-1911036_640.jpg)
+![Casa Mila Spain](/imgs/spain/gaudi-1911036_640.webp)
 
-Casa Mila, also known as La Pedrera, is one of Antoni Gaudí's most iconic works in Barcelona. Built between 1906 and 1912, this architectural masterpiece captures Gaudí's unique style and vision. **It's a must-see for anyone interested in architecture and art.**
+Casa Mila, also known as La Pedrera, is one of Antoni Gaudí's most iconic works in Barcelona. Built between 1906 and 1912, this architectural masterpiece captures Gaudí's unique style and vision. 
+
+**It's a must-see for anyone interested in architecture and art.**
 
 ### Architectural Marvel
 
 *   Casa Mila is famous for its unconventional stone facade and wrought-iron balconies, which give it a unique, wave-like appearance.
 *   The building's design was influenced by Gaudí's fascination with nature, evident in its organic shapes and forms.
+*   
+
 *   The rooftop is adorned with chimneys that resemble warriors, offering a stunning view of the city.
 
 ### Visitor Experience
@@ -150,11 +164,17 @@ Casa Mila, also known as La Pedrera, is one of Antoni Gaudí's most iconic works
 
 ## 6\. Giralda
 
-![Giralda Spain, showing a tower and people walking by the riverside](/imgs/spain/Giralda-Spain.jpg)
+![Giralda Spain, showing a tower and people walking by the riverside](/imgs/spain/Giralda-Spain.webp)
 
-The Giralda stands as an iconic symbol of Seville, a testament to the city's rich history and architectural splendor. Originally constructed as a minaret for the Great Mosque of Seville in the 12th century, it was later transformed into a bell tower for the Seville Cathedral. This blend of Islamic and Christian architecture creates a unique visual experience that captivates visitors from around the world.
+The Giralda stands as an iconic symbol of Seville, a testament to the city's rich history and architectural splendor. 
 
-**Climbing the Giralda** is a must-do activity when visiting Seville. The ascent is surprisingly easy, thanks to a series of ramps instead of stairs, designed to accommodate horseback riders in the past. As you make your way up, you'll pass through a series of archways and get glimpses of the city below.
+Originally constructed as a minaret for the Great Mosque of Seville in the 12th century, it was later transformed into a bell tower for the Seville Cathedral. 
+
+This blend of Islamic and Christian architecture creates a unique visual experience that captivates visitors from around the world.
+
+**Climbing the Giralda** is a must-do activity when visiting Seville. The ascent is surprisingly easy, thanks to a series of ramps instead of stairs, designed to accommodate horseback riders in the past. 
+
+As you make your way up, you'll pass through a series of archways and get glimpses of the city below.
 
 ### What to Expect at the Top
 
@@ -162,13 +182,20 @@ Reaching the top rewards you with breathtaking panoramic views of Seville. From 
 
 ### Activities Around Giralda
 
-To fully [experience Torre Giralda](https://www.tripadvisor.com/Attraction_Review-g187443-d195119-Reviews-Torre_Giralda-Seville_Province_of_Seville_Andalucia.html), consider joining a guided tour of the nearby Alcazar and Cathedral. These tours provide insightful historical context and allow you to explore the intricate details of these remarkable sites. Alternatively, a sunset bike tour offers a leisurely way to see the city as the day cools down, or you might opt for private walking tours to delve deeper into Seville's vibrant streets.
+To fully [experience Torre Giralda](https://www.tripadvisor.com/Attraction_Review-g187443-d195119-Reviews-Torre_Giralda-Seville_Province_of_Seville_Andalucia.html), consider joining a guided tour of the nearby Alcazar and Cathedral. 
 
-> Visiting the Giralda is not just about the view; it's about immersing yourself in the history and culture of Seville. As you stand atop this magnificent structure, you can't help but feel a connection to the past and a sense of wonder at the architectural prowess of those who built it.
+These tours provide insightful historical context and allow you to explore the intricate details of these remarkable sites. 
+
+Alternatively, a sunset bike tour offers a leisurely way to see the city as the day cools down, or you might opt for private walking tours to delve deeper into Seville's vibrant streets.
+
+> Visiting the Giralda is not just about the view; it's about immersing yourself in the history and culture of Seville. 
+> 
+> As you stand atop this magnificent structure, you can't help but feel a connection to the past and a sense of wonder at the architectural prowess of those who built it.
 
 ### Tips for Visiting
 
 *   **Timing:** Visit early in the morning or late in the afternoon to avoid the crowds and enjoy a more peaceful experience.
+*   
 *   **Footwear:** Wear comfortable shoes, as you'll be walking a lot, especially if you plan to explore the surrounding areas.
 *   **Camera:** Don't forget your camera to capture the stunning views and architectural details.
 
@@ -178,13 +205,17 @@ The Giralda is more than just a tower; it's a journey through time and a highlig
 
 ## 7\. Ciudad de las Artes y las Ciencias
 
-![Ciudad de las Artes y las Ciencias](/imgs/spain/las-Ciencias.jpg)
+![Ciudad de las Artes y las Ciencias](/imgs/spain/las-Ciencias.webp)
 
-Welcome to the [City of Arts and Sciences](https://www.tripadvisor.com/Attraction_Review-g187529-d244246-Reviews-Ciudad_de_las_Artes_y_las_Ciencias-Valencia_Province_of_Valencia_Valencian_Communi.html) in Valencia, a futuristic wonderland that blends scientific exploration with cultural experiences. This architectural marvel is a must-see for anyone visiting Spain.
+Welcome to the [City of Arts and Sciences](https://www.tripadvisor.com/Attraction_Review-g187529-d244246-Reviews-Ciudad_de_las_Artes_y_las_Ciencias-Valencia_Province_of_Valencia_Valencian_Communi.html) in Valencia, a futuristic wonderland that blends scientific exploration with cultural experiences. 
+
+This architectural marvel is a must-see for anyone visiting Spain.
 
 ### A Futuristic Marvel
 
-Designed by the renowned architect Santiago Calatrava, this complex is a stunning example of modern architecture. The structures are as much a work of art as the exhibits inside. Whether you're an architecture buff or just love taking cool photos, this place won't disappoint.
+Designed by the renowned architect Santiago Calatrava, this complex is a stunning example of modern architecture. The structures are as much a work of art as the exhibits inside. 
+
+Whether you're an architecture buff or just love taking cool photos, this place won't disappoint.
 
 ### What to Do
 
@@ -200,13 +231,13 @@ Valencia is a year-round destination, but if you want to avoid the crowds, consi
 
 Make sure to bring your camera, because every corner of this place is Instagram-worthy. Whether you're into science, architecture, or just looking for a unique experience, the City of Arts and Sciences has something for everyone.
 
----
-
 ## 8\. Prado Museum
 
-![Prado Museum Spain viewed from the entrance](/imgs/spain/Prado-Museum.jpg)
+![Prado Museum Spain viewed from the entrance](/imgs/spain/Prado-Museum.webp)
 
-The Prado Museum in Madrid is an absolute must-see for art enthusiasts. **It's one of the most prestigious art galleries in the world**, showcasing a stunning collection of European art dating from the 12th to the early 20th century. You can spend hours wandering through its halls, but even a short visit will leave a lasting impression.
+The Prado Museum in Madrid is an absolute must-see for art enthusiasts. **It's one of the most prestigious art galleries in the world**, showcasing a stunning collection of European art dating from the 12th to the early 20th century. 
+
+You can spend hours wandering through its halls, but even a short visit will leave a lasting impression.
 
 ### Highlights to Explore
 
@@ -230,12 +261,16 @@ Whether you're a seasoned art lover or just curious, the Prado Museum offers an 
 
 ![Reina Sofia Museum's striking architecture and lively outdoor scene.](https://contenu.nyc3.digitaloceanspaces.com/journalist/63b74810-cc42-4d92-92cb-c8525c8ab2a6/thumbnail.jpeg)
 
-The Reina Sofia Museum in Madrid is a treasure trove for those who appreciate modern and contemporary art. It houses an extensive collection of works by Spanish artists, making it a must-visit for any art lover. Here, you'll find **Picasso's iconic "Guernica"**, a powerful masterpiece that draws crowds from all over the world.
+The Reina Sofia Museum in Madrid is a treasure trove for those who appreciate modern and contemporary art. It houses an extensive collection of works by Spanish artists, making it a must-visit for any art lover. 
+
+Here, you'll find **Picasso's iconic "Guernica"**, a powerful masterpiece that draws crowds from all over the world.
 
 ### Highlights of the Collection
 
 *   _Picasso's Guernica_: This painting is the centerpiece of the museum, offering a profound insight into the horrors of war.
-*   Works by Salvador Dalí: Explore the surreal world of Dalí with several of his notable pieces on display.
+*   Works by Salvador Dalí: 
+*   
+*   Explore the surreal world of Dalí with several of his notable pieces on display.
 *   Joan Miró's Art: Dive into Miró's colorful and abstract universe through his various artworks.
 
 ### Visiting Tips
@@ -246,7 +281,10 @@ The Reina Sofia Museum in Madrid is a treasure trove for those who appreciate mo
 
 > The Reina Sofia is more than just a museum; it's a journey through the evolution of Spanish art, offering a glimpse into the country's rich cultural tapestry.
 
-While you're there, don't miss the chance to explore other galleries and temporary exhibits that showcase a wide range of artistic expressions. The museum's modern architecture itself is worth admiring, blending seamlessly with the art it houses. For anyone visiting Madrid, the [Reina Sofia Museum](https://thetourguy.com/travel-blog/spain/madrid/reina-sofia/top-things-to-see-at-reina-sofia-this-year/) is an essential stop to truly appreciate Spain's contribution to the world of art.
+While you're there, don't miss the chance to explore other galleries and temporary exhibits that showcase a wide range of artistic expressions. 
+The museum's modern architecture itself is worth admiring, blending seamlessly with the art it houses. 
+
+For anyone visiting Madrid, the [Reina Sofia Museum](https://thetourguy.com/travel-blog/spain/madrid/reina-sofia/top-things-to-see-at-reina-sofia-this-year/) is an essential stop to truly appreciate Spain's contribution to the world of art.
 
 ---
 
@@ -272,13 +310,19 @@ The Guggenheim Museum in Bilbao is a masterpiece of modern architecture and a mu
 
 > "The Guggenheim Museum Bilbao isn't just a place to see art—it's a place to experience it. From the moment you approach the building to the time you spend inside, it offers a journey through creativity and innovation."
 
-For those planning a visit, consider exploring the [Guggenheim Museum Bilbao](https://www.tripadvisor.com/Attraction_Review-g187454-d190276-Reviews-Guggenheim_Museum_Bilbao-Bilbao_Province_of_Vizcaya_Basque_Country.html) with various experiences, including a 3-day bike tour and ticket options that allow you to discover the best ways to enjoy the museum and the surrounding Basque Country over a full five-day itinerary. Whether you're an art enthusiast or just looking for something unique to see in Spain, the Guggenheim Museum is sure to impress.
+For those planning a visit, consider exploring the [Guggenheim Museum Bilbao](https://www.tripadvisor.com/Attraction_Review-g187454-d190276-Reviews-Guggenheim_Museum_Bilbao-Bilbao_Province_of_Vizcaya_Basque_Country.html) with various experiences, including a 3-day bike tour and ticket options that allow you to discover the best ways to enjoy the museum and the surrounding Basque Country over a full five-day itinerary. 
+
+Whether you're an art enthusiast or just looking for something unique to see in Spain, the Guggenheim Museum is sure to impress.
 
 ---
 
 ## Wrapping Up Your Spanish Adventure
 
-So, there you have it, a whirlwind tour of Spain's best. Whether you're munching on tapas in a bustling market, dancing the night away in a flamenco club, or soaking up the sun on a hidden beach, Spain's got a little something for everyone. It's a place where history and modern life blend seamlessly, offering experiences that are as diverse as its landscapes. Don't just take our word for it—pack your bags and see for yourself. Spain's waiting, and trust me, you won't be disappointed. Safe travels!
+So, there you have it, a whirlwind tour of Spain's best. Whether you're munching on tapas in a bustling market, dancing the night away in a flamenco club, or soaking up the sun on a hidden beach, Spain's got a little something for everyone. 
+
+It's a place where history and modern life blend seamlessly, offering experiences that are as diverse as its landscapes. 
+
+Don't just take our word for it—pack your bags and see for yourself. Spain's waiting, and trust me, you won't be disappointed. Safe travels!
 
 ---
 

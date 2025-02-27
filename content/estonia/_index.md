@@ -10,8 +10,8 @@ author = ["eugo"]
 tab = "Estonia"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/estonia/thumbnail.jpeg"
-alt_txt = " Collage of Estonia's tourist hotspots and vibrant scenes."
+image = "/imgs/estonia/thumbnail.webp"
+alt_txt = "Pond surrounded by lush green trees."
 +++
 
 
@@ -31,7 +31,7 @@ From the cobblestone streets of Tallinn to the chilled-out beaches of Pärnu, th
 
 ## 1\. Tallinn Old Town
 
-![Old buildings by the side of a canal in Tallinn Old Town](/imgs/estonia/Tallinn-Old-Town.jpg)
+![Old buildings by the side of a canal in Tallinn Old Town](/imgs/estonia/tallinn-old-town.webp)
 Tallinn's Old Town is like stepping into a fairy tale. **This UNESCO World Heritage Site is one of the best-preserved medieval cities in Europe.** The cobbled streets and colorful medieval buildings transport you back in time. As you wander through, you might feel like you've been cast in a historical drama.
 
 ### Highlights of Tallinn Old Town

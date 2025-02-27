@@ -33,7 +33,7 @@ So, grab your travel list and let's dive into what makes Portugal a top pick for
 
 ## 1\. Lisbon
 
-![Hillside with houses and a castle at the top](/imgs/portugal/lisbon-4519390_640.jpg)
+![Hillside with houses and a castle at the top](/imgs/portugal/lisbon-4519390_640.webp)
 
 Welcome to Lisbon, a city that effortlessly blends the old with the new. **Lisbon is a sensory delight**, offering everything from historical charm to modern vibrancy. Situated on seven hills overlooking the Tagus River, this capital city is a must-visit for anyone traveling to Portugal.
 
@@ -65,7 +65,7 @@ Indulge in Lisbon's culinary scene, where you can savor the famous _pasteis de n
 
 ## 2\. Porto
 
-![Colorful Porto riverside with bridges and lively cafes.](https://contenu.nyc3.digitaloceanspaces.com/journalist/cd9af08e-e016-4fe0-8462-4528824afa72/thumbnail.jpeg)
+![Colorful Porto riverside with bridges and lively cafes.](/imgs/portugal/boats.webp)
 
 Porto, Portugal's second-largest city, is a vibrant destination that beautifully blends the old with the new. **Known worldwide for its production of Port wine**, Porto offers a rich tapestry of experiences that cater to all types of travelers.
 
@@ -95,7 +95,7 @@ Porto serves as a great base for exploring the surrounding areas. Consider a day
 
 ## 3\. Algarve
 
-![A beach cove on the Algarve](/imgs/portugal/sea-2726056_640.jpg)
+![A beach cove on the Algarve](/imgs/portugal/sea-2726056_640.webp)
 
 Welcome to the Algarve, Portugal's southern gem. This region is a paradise for sun-seekers and adventure lovers. Its coastline is dotted with golden beaches, rugged cliffs, and hidden caves. **The Algarve is often called the 'Florida of Europe' for its stunning landscapes and vibrant atmosphere.**
 
@@ -131,7 +131,7 @@ In summary, the Algarve is a destination that offers a perfect blend of relaxati
 
 ## 4\. Sintra
 
-![Rocky beach cove in Sintra, Portugal](/imgs/portugal/portugal-1209453_640.jpg)
+![Rocky beach cove in Sintra, Portugal](/imgs/portugal/portugal-1209453_640.webp)
 
 Sintra is like something out of a fairytale with its vibrant palaces and lush gardens. Nestled in the Serra de Sintra hills, this town is just a hop away from Lisbon, making it perfect for a day trip or a weekend getaway.
 
@@ -161,7 +161,7 @@ Sintra's blend of history, culture, and natural beauty makes it a must-see on an
 
 ## 5\. Évora
 
-![Historic architecture and vibrant markets in Évora, Portugal.](https://contenu.nyc3.digitaloceanspaces.com/journalist/304abea8-c4e2-4950-a7cf-8b55b291c4c5/thumbnail.jpeg)
+![Historic architecture and vibrant markets in Évora, Portugal.](/imgs/portugal/market.webp)
 
 Nestled in the heart of the Alentejo region, Évora is a city that feels like a living museum. **Its rich tapestry of history and culture** is woven into every corner of this UNESCO World Heritage site. If you're a history buff, you'll be thrilled by the Roman Temple of Évora, which stands majestically amidst the modern hustle.
 
@@ -189,7 +189,7 @@ One of the most intriguing spots is the Chapel of Bones. Decorated with human bo
 
 ## 6\. Lagos
 
-![Coastal cliffs, Lagos, Portugal](/imgs/portugal/portugal-3393109_640.jpg)
+![Coastal cliffs, Lagos, Portugal](/imgs/portugal/portugal-3393109_640.webp)
 
 Lagos, nestled in the beautiful Algarve region, is a perfect blend of history, culture, and stunning natural beauty. This charming town is famous for its dramatic cliffs, golden beaches, and vibrant atmosphere.
 
@@ -219,7 +219,7 @@ Lagos is not just about relaxation; it's also a hub for exciting activities. Fro
 
 ## 7\. Tavira
 
-![Scenic view of Tavira's historic buildings and river.](https://contenu.nyc3.digitaloceanspaces.com/journalist/3a0b8be6-a1a9-4247-b27a-ac1ab3a65e18/thumbnail.jpeg)
+![Scenic view of Tavira's historic buildings and river.](/imgs/portugal/river.webp)
 
 Tavira, nestled in the eastern Algarve, is a gem that has managed to keep its authentic Portuguese charm intact. Unlike other parts of the Algarve, which have given in to mass tourism, Tavira remains a quaint and peaceful town. **This town is a perfect blend of history and natural beauty, making it a must-visit destination.**
 
@@ -245,7 +245,7 @@ If you're looking for a laid-back holiday, Tavira offers just that. The town ope
 
 ## 8\. Guimarães
 
-![Guimarães castle, Portugal](/imgs/portugal/portugal-601457_640.jpg)
+![Guimarães castle, Portugal](/imgs/portugal/portugal-601457_640.webp)
 
 Guimarães is often celebrated as the "birthplace of Portugal," a city steeped in history and charm. This is where the first king of Portugal, Afonso I, was born, and it's where the country began to take shape back in 1128. Walking through Guimarães is like stepping back in time, with its cobbled streets and ancient buildings whispering tales of the past.
 
@@ -279,7 +279,7 @@ Guimarães is a charming blend of history, culture, and nature, making it a must
 
 ## 9\. Viana do Castelo
 
-![Viana do Castelo, northern Portugal](/imgs/portugal/castelo-4591771_640.jpg)
+![Viana do Castelo, northern Portugal](/imgs/portugal/castelo-4591771_640.webp)
 
 Nestled in the stunning landscape of northern Portugal, Viana do Castelo offers a captivating blend of history, culture, and natural beauty. This city, often overlooked by the typical tourist crowd, is a hidden gem waiting to be explored.
 
@@ -313,7 +313,7 @@ With its rich history, stunning landscapes, and warm hospitality, Viana do Caste
 
 ## 10\. Nazaré
 
-![Nazaré beach with surfers and colorful umbrellas.](https://contenu.nyc3.digitaloceanspaces.com/journalist/d330241d-8d35-4a7f-892d-750c1799d3f1/thumbnail.jpeg)
+![Nazaré beach with surfers and colorful umbrellas.](/imgs/portugal/cove/webp)
 
 Nazaré, a charming coastal town in Portugal, is well-known for its gigantic waves and vibrant beach town vibe. **It's a must-visit for thrill-seekers and those who appreciate a good beach day.**
 

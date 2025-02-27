@@ -10,11 +10,9 @@ author = ["eugo"]
 tab = "Liechtenstein"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/liechtenstein/thumbnail.jpeg"
-alt_txt = " Collage of Liechtenstein’s landmarks, food, and nightlife scenes."
+image = "/imgs/leichtenstien/thumbnail.jpg"
+alt_txt = " Snow covered Liechtenstein Castle with a clear blue sky background."
 +++
-
----
 
 ## Exploring Liechtenstein: Culture and Nightlife
 

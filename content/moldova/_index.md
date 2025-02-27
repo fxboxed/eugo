@@ -10,8 +10,8 @@ author = ["eugo"]
 tab = "Moldova"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/moldova/thumbnail.jpeg"
-alt_txt = "Collage of top tourist resorts in Moldova."
+image = "/imgs/moldova/thumbnail.jpg"
+alt_txt = "Moldovan children doing a traditional dance."
 +++
 
 ---

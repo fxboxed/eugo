@@ -53,7 +53,7 @@ Whether you're exploring historic towns or lounging on the beach, the Black Sea 
 
 ## 2\. Varna
 
-![Varna beach at sunset with umbrellas and water activities.](/imgs/bulgaria/varna-beack.webp)
+![Varna beach at sunset with umbrellas and water activities.](/imgs/bulgaria/varna-beach.webp)
 
 Welcome to Varna, a vibrant city nestled on the _Black Sea Coast_, often dubbed the "Sea Capital of Bulgaria." This bustling city is the third largest in the country and is a favorite summer destination for locals and tourists alike.
 
@@ -112,7 +112,7 @@ Sunny Beach is a dynamic destination that promises fun and excitement for all. W
 
 ## 4\. Rila Monastery
 
-![Rila Monastery in the mountains of Bulgaria.](/imgs/bulgaria/rila-monestery.webp)
+![Rila Monastery in the mountains of Bulgaria.](/imgs/bulgaria/rila-monastery.webp)
 
 Nestled in the heart of the _Rila Mountains_, Rila Monastery is an iconic symbol of Bulgaria's spiritual and cultural heritage. **This UNESCO World Heritage site is a must-see for anyone exploring the country.** Located about an hour and 45 minutes from Sofia, it's a perfect day trip.
 
