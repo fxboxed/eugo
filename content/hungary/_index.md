@@ -79,8 +79,6 @@ Step into the world of relaxation at the Széchenyi Thermal Bath, one of Europe'
 
 > Visiting the Széchenyi Thermal Bath is more than just a dip in the water; it's a step into a world where history, culture, and relaxation blend seamlessly. Whether you're there to unwind or to enjoy the lively night parties, this iconic Hungarian spa offers something for everyone.
 
----
-
 ## 3\. Hungarian Parliament Building
 
 ![Hungarian Parliament Building illuminated at twilight by the Danube.](/imgs/hungary/parliament.webp)
@@ -107,8 +105,6 @@ With its Neo-Gothic style, the building is a feast for the eyes, featuring intri
 
 For more on this iconic landmark, check out a [photo tour of the Hungarian Parliament](https://www.travelyesplease.com/travel-blog-hungarian-parliament-building-budapest/) that offers intriguing facts and tips for your visit.
 
-
----
 
 ## 4\. Fisherman’s Bastion
 
@@ -191,7 +187,7 @@ The decor is quirky and mismatched, with old furniture, retro items, and lots of
 
 ## 7\. Danube River Cruises
 
-![A river barge cruising along the Danube](/imgs/hungary/danube-2528221_640.webp)
+![A river barge cruising along the Danube](/imgs/hungary/riverboat.webp)
 
 Floating along the Danube River is like stepping into a postcard. 
 

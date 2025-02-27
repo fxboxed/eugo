@@ -7,7 +7,7 @@ tab ='Budapest'
 type = 'cities'
 layout = 'cities'
 tags = ['Hungary cities']
-image = "/imgs/hungary/imgs/bud-thumb.webp"
+image = "/imgs/hungary/bud-thumb.webp"
 alt_txt = " Budapest skyline featuring Parliament and Chain Bridge"
 +++
 ## Budapest: Culture and History Unveiled
@@ -26,7 +26,7 @@ This city is perfect for families, solo travelers, and everyone in between. With
 
 ## Discovering Budapest's Rich Historical Landmarks
 
-![Budapest skyline with Parliament and Buda Castle at sunset.](/imgs/hungary/bud-sundet.webp)
+![Budapest skyline with Parliament and Buda Castle at sunset.](/imgs/hungary/bud-sunset.webp)
 
 ### Exploring Buda Castle and Its Panoramic Views
 
