@@ -1,7 +1,7 @@
 +++
 title = "10 Unforgettable Things to See and Do in Slovakia: A Guide to Food, Drink, Culture, Nightlife, and Tourist Hot Spots"
 date = '2025-02-07T09:36:21Z'
-draft = false
+draft = true
 description = "Explore 10 things to see and do in Slovakia: food, culture, nightlife, and tourist hot spots await!"
 categories = ["General"]
 author = ["eugo"]

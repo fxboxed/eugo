@@ -1,6 +1,6 @@
 +++
 date = '2025-02-05T08:28:09Z'
-draft = false
+draft = true
 title = 'Exploring the Top Ten Tourist Hotspots in Estonia: A Journey Through Nightlife, History, Culture, Cuisine, and Shopping'
 
 description = "Discover Estonia's top ten tourist hotspots, from Tallinn's nightlife to cultural gems and shopping delights."
