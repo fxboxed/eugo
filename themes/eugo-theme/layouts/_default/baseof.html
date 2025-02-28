@@ -9,12 +9,17 @@
     <meta name="og:description" content="{{ .Params.description }}" />
     <meta name="description" content="{{ .Params.description }}" />
     <title>{{.Title}}</title>
-    {{ with site.Params.googleAnalytics }}
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8786MWRCY"></script>
+<script>
   window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', '{{ . }}');
-{{ end }}
+
+  gtag('config', 'G-J8786MWRCY');
+</script>
+
 </head>
   {{/*  {{ partial "head.html" . }}  */}}
 
