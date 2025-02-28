@@ -9,6 +9,12 @@
     <meta name="og:description" content="{{ .Params.description }}" />
     <meta name="description" content="{{ .Params.description }}" />
     <title>{{.Title}}</title>
+    {{ with site.Params.googleAnalytics }}
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '{{ . }}');
+{{ end }}
 </head>
   {{/*  {{ partial "head.html" . }}  */}}
 
