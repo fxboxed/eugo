@@ -2,7 +2,7 @@
 title = 'Andorra la Vella: Discover Geo-location, Climate, and Top Attractions for Couples, Families, and the Elderly'
 date = 2023-01-01T08:00:00-07:00
 description = "Discover Andorra la Vella's geo-location, climate, and top attractions for couples, families, and the elderly."
-draft = false
+draft = true
 tab ='La Vella'
 type = 'cities'
 layout = 'cities'

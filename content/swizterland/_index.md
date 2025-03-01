@@ -103,7 +103,7 @@ Each place offers its own unique charm and adventure.
 
 ## 3\. Lake Geneva
 
-![Scenic view of Lake Geneva with mountains and boats.](/imgs/sweden/geneva.webp)
+![Scenic view of Lake Geneva with mountains and boats.](/imgs/switzerland/mountains.webp)
 
 Lake Geneva is more than just a body of water; it's a hub of activity and culture nestled between Switzerland and France. 
 
@@ -137,7 +137,7 @@ Whether you're a nature lover, a foodie, or a culture enthusiast, this place has
 
 ## 4\. Lucerne
 
-![Lucerne's Chapel Bridge and mountain backdrop on Lake.](/imgs/sweden/chapel.webp)
+![Lucerne's Chapel Bridge and mountain backdrop on Lake.](/imgs/switzerland/bridge.webp)
 
 Nestled between the majestic Swiss Alps and the shimmering waters of Lake Lucerne, this city is a _perfect_ blend of history, culture, and natural beauty. 
 
@@ -177,7 +177,7 @@ For more on Lucerne's top attractions, including Lake Lucerne, Mount Rigi, and P
 
 ## 5\. Zurich
 
-![Zurich cityscape with lake, mountains, and lively streets.](/imgs/sweden/cityscape.webp)
+![Zurich cityscape with lake, mountains, and lively streets.](/imgs/switzerland/cityscape.webp)
 
 ### Discover the Charm of Zurich
 
@@ -309,7 +309,7 @@ Don't miss the chance to explore this iconic symbol of Swiss heritage.
 
 ## 8\. Interlaken
 
-![Lush valleys and snow-capped mountains in Interlaken, Switzerland.](/imgs/sweden/interlaken.webp)
+![Lush valleys and snow-capped mountains in Interlaken, Switzerland.](/imgs/switzerland/interlaken.webp)
 
 Nestled snugly between _Lake Thun_ and Lake Brienz, Interlaken is a gem of a town, just waiting to be explored. 
 

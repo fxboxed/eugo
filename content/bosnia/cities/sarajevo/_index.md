@@ -2,7 +2,7 @@
 title = 'Exploring Sarajevo: A Guide to Location, Climate, and Must-See Attractions for Couples, Families, and the Elderly'
 description = "Explore Sarajevo's location, climate, and top attractions for couples, families, and the elderly."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Sarajevo'
 type = 'cities'
 layout = 'cities'

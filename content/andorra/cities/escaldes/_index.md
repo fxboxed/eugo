@@ -2,7 +2,7 @@
 title = 'Exploring Escaldes-Engordany: A Guide to Location, Climate, and Top Attractions for Couples, Families, and the Elderly'
 description = "Explore Escaldes-Engordany's location, climate, and top attractions for couples, families, and the elderly."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab = 'Escaldes-Engordany'
 type = 'cities'
 layout = 'cities'

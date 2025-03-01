@@ -2,7 +2,7 @@
 title = 'Exploring Mostar: A Guide to Its Location, Climate, and Top Attractions for Couples, Families, and the Elderly'
 description = "Explore Mostar's location, climate, and top attractions for couples, families, and the elderly in this guide."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Mostar'
 type = 'cities'
 layout = 'cities'

@@ -1,6 +1,6 @@
 +++
 date = '2025-02-05T08:28:09Z'
-draft = false
+draft = true
 title = 'Discover the 10 Top Tourist Attractions and Resorts in Malta: A Guide to Nightlife, Food, Culture, and Local Events'
 
 description = "Explore Malta's top 10 attractions and resorts, featuring vibrant nightlife, diverse food, rich culture, and events."

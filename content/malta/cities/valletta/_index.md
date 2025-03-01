@@ -2,7 +2,7 @@
 title = 'Exploring Valletta: A Journey Through History, Culture, and Traditional Cuisine for Tourists'
 description = "Explore Valletta's history, culture, and cuisine with popular activities for tourists in this vibrant city."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Valletta'
 type = 'cities'
 layout = 'cities'

@@ -1,7 +1,7 @@
 +++
 title = "Discover the 10 Best Places to Visit in Sweden: Culture, Food, Drink, and Scenic Wonders"
 date = '2025-02-07T09:36:21Z'
-draft = false
+draft = true
 description = "Explore Sweden's top 10 destinations for culture, food, and scenic beauty. Discover Stockholm, Gothenburg, and more."
 categories = ["General"]
 author = ["eugo"]

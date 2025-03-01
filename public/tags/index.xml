@@ -9,13 +9,6 @@
     <lastBuildDate>Wed, 05 Feb 2025 08:28:09 +0000</lastBuildDate>
     <atom:link href="https://eugo.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Andorra</title>
-      <link>https://eugo.uk/tags/andorra/</link>
-      <pubDate>Wed, 05 Feb 2025 08:28:09 +0000</pubDate>
-      <guid>https://eugo.uk/tags/andorra/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Austria</title>
       <link>https://eugo.uk/tags/austria/</link>
       <pubDate>Wed, 05 Feb 2025 08:28:09 +0000</pubDate>
@@ -30,13 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Andorra Cities</title>
-      <link>https://eugo.uk/tags/andorra-cities/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/tags/andorra-cities/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Austria Cities</title>
       <link>https://eugo.uk/tags/austria-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
@@ -48,27 +34,6 @@
       <link>https://eugo.uk/tags/belgium-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
       <guid>https://eugo.uk/tags/belgium-cities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bosnia Cities</title>
-      <link>https://eugo.uk/tags/bosnia-cities/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/tags/bosnia-cities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bulgaia Cities</title>
-      <link>https://eugo.uk/tags/bulgaia-cities/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/tags/bulgaia-cities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bulgaria Cities</title>
-      <link>https://eugo.uk/tags/bulgaria-cities/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/tags/bulgaria-cities/</guid>
       <description></description>
     </item>
     <item>
@@ -128,20 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>Hungary Cities</title>
-      <link>https://eugo.uk/tags/hungary-cities/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/tags/hungary-cities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iceland Cities</title>
-      <link>https://eugo.uk/tags/iceland-cities/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/tags/iceland-cities/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ireland Cities</title>
       <link>https://eugo.uk/tags/ireland-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
@@ -163,13 +114,6 @@
       <description></description>
     </item>
     <item>
-      <title>Malta Cities</title>
-      <link>https://eugo.uk/tags/malta-cities/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/tags/malta-cities/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Netherlands Cities</title>
       <link>https://eugo.uk/tags/netherlands-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
@@ -181,6 +125,13 @@
       <link>https://eugo.uk/tags/norway-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
       <guid>https://eugo.uk/tags/norway-cities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poland Cities</title>
+      <link>https://eugo.uk/tags/poland-cities/</link>
+      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
+      <guid>https://eugo.uk/tags/poland-cities/</guid>
       <description></description>
     </item>
     <item>
@@ -202,6 +153,13 @@
       <link>https://eugo.uk/tags/spain-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
       <guid>https://eugo.uk/tags/spain-cities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Switzerland Cities</title>
+      <link>https://eugo.uk/tags/switzerland-cities/</link>
+      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
+      <guid>https://eugo.uk/tags/switzerland-cities/</guid>
       <description></description>
     </item>
     <item>

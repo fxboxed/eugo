@@ -2,7 +2,7 @@
 title = 'Discover Sozopol: A Comprehensive Guide to Location, Climate, and Activities for Couples, Families, and the Elderly in 2025'
 description = "Explore Sozopol in 2025: location, climate, and activities for couples, families, and elderly travelers."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Sozopol'
 type = 'cities'
 layout = 'cities'

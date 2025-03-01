@@ -2,7 +2,7 @@
 title = 'Exploring Budapest: A Cultural and Historical Journey Through Its Main Tourist Attractions and Activities for All Ages'
 description = "Explore Budapest's rich culture, history, and attractions for all ages in this captivating travel guide."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Budapest'
 type = 'cities'
 layout = 'cities'

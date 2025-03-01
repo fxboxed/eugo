@@ -2,7 +2,7 @@
 title = 'Exploring Sofia: A Comprehensive Guide to Location, Climate, and the Most Popular Places for Couples, Families, and the Elderly'
 description = "Explore Sofia's location, climate, and top spots for couples, families, and seniors in this ultimate guide."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Sofia'
 type = 'cities'
 layout = 'cities'

@@ -2,7 +2,7 @@
 title = 'Exploring Szeged: A Comprehensive Guide to Culture, Cuisine, and Family-Friendly Activities for Every Age Group'
 description = "Explore Szeged's culture, cuisine, and activities for all ages in this comprehensive guide."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Szeged'
 type = 'cities'
 layout = 'cities'

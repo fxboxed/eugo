@@ -2,7 +2,7 @@
 title = 'Reykjavik: Uncovering Reasons to Visit, Embrace Traditions, Celebrate Festivals, and Savor the Most Popular Dishes'
 description = "Explore Reykjavik's wonders, traditions, festivals, and cuisine. Discover reasons to visit this vibrant city."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Reykjavik'
 type = 'cities'
 layout = 'cities'

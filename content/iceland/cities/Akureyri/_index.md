@@ -2,7 +2,7 @@
 title = 'Exploring Akureyri: A Journey Through Traditions, Tourist Attractions, Cuisine, and History'
 description = "Explore Akureyri's traditions, attractions, cuisine, and history in a vibrant cultural journey."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Akureyri'
 type = 'cities'
 layout = 'cities'

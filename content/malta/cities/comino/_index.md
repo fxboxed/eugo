@@ -2,7 +2,7 @@
 title = 'Exploring Comino Island: A Journey Through History, Culture, and Traditional Cuisine for Tourists'
 description = "Explore Comino Island's history, culture, and cuisine. Discover activities for tourists in this serene paradise."
 date = 2023-01-01T08:00:00-07:00
-draft = false
+draft = true
 tab ='Comino Island'
 type = 'cities'
 layout = 'cities'
