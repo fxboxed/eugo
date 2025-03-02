@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>France Cities on eugo travel</title>
-    <link>https://eugo.uk/tags/france-cities/</link>
+    <link>http://localhost:1313/tags/france-cities/</link>
     <description>Recent content in France Cities on eugo travel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
-    <atom:link href="https://eugo.uk/tags/france-cities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/france-cities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Lyon: A Guide to Local Cuisine, Climate, and Activities for Couples, Families, and the Elderly</title>
-      <link>https://eugo.uk/france/cities/lyon/</link>
+      <link>http://localhost:1313/france/cities/lyon/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/france/cities/lyon/</guid>
+      <guid>http://localhost:1313/france/cities/lyon/</guid>
       <description>&lt;h2 id=&#34;lyon-a-comprehensive-travel-guide&#34;&gt;Lyon: A Comprehensive Travel Guide&lt;/h2&gt;&#xA;&lt;p&gt;Lyon is a city that truly has something for everyone. Whether you&amp;rsquo;re a food lover, a history buff, or just someone looking for a relaxing getaway, this French gem won&amp;rsquo;t disappoint.&lt;/p&gt;&#xA;&lt;p&gt;Known for its incredible local cuisine, vibrant seasons, and mix of activities for all ages, Lyon is a destination worth exploring.&lt;/p&gt;&#xA;&lt;p&gt;Couples can find romantic escapes, families will enjoy plenty of kid-friendly spots, and elderly travelers will appreciate the city&amp;rsquo;s slower-paced charms. Let’s dive into what makes Lyon so special.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring Paris: Top Activities, Cuisine, and Attractions for Couples, Families, and the Elderly</title>
-      <link>https://eugo.uk/france/cities/paris/</link>
+      <link>http://localhost:1313/france/cities/paris/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>https://eugo.uk/france/cities/paris/</guid>
+      <guid>http://localhost:1313/france/cities/paris/</guid>
       <description>&lt;h2 id=&#34;paris-travel-guide-for-all-ages&#34;&gt;Paris Travel Guide for All Ages&lt;/h2&gt;&#xA;&lt;p&gt;Paris is one of those cities that feels like it has something for everyone. Whether you&amp;rsquo;re wandering through cobblestone streets, biting into a buttery croissant, or soaking in the beauty of the Eiffel Tower, it&amp;rsquo;s hard not to fall in love.&lt;/p&gt;&#xA;&lt;p&gt;But planning a trip here can feel overwhelming, especially if you&amp;rsquo;re traveling as a couple, with kids, or with older family members.&lt;/p&gt;&#xA;&lt;p&gt;This guide breaks it all down, covering activities, food, and attractions tailored to different kinds of travelers.&lt;/p&gt;</description>
     </item>
   </channel>
