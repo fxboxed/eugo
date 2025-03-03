@@ -10,6 +10,13 @@
     <meta name="description" content="{{ .Params.description }}" />
     <title>{{.Title}}</title>
 
+    {{ with .Params.relcanonical }}
+    <link rel="canonical" href="{{ . | relLangURL }}" itemprop="url" />
+  {{ else -}}
+    <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
+  {{ end -}}
+
+
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J8786MWRCY"></script>
 <script>

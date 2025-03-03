@@ -445,52 +445,6 @@ nav.footer-nav .footer-link {
 nav.footer-nav .footer-link:hover {
   color: #2f3441;
 }
-.topnav.country-dropdown {
-  background: #2f3441;
-  display: grid;
-  gap: 8px;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  margin: auto;
-  max-width: 400px;
-  padding-bottom: 32px;
-  position: absolute;
-  top: 32px;
-  transform: scale(0);
-  width: 100%;
-}
-.topnav.country-dropdown a {
-  background: #7a0000;
-  color: #fff;
-  font-weight: bold;
-  padding: 6px 8px;
-  text-decoration: underline;
-}
-.country-dropdown {
-  left: 2.5%;
-  transform: translateX(-75%);
-}
-.topnav.country-dropdown.show-country-list {
-  height: auto;
-  transform: scale(1);
-  transition: all 0.5s;
-  z-index: 100;
-}
-.country-list button {
-  background: #2f3441;
-  border: 5px solid #374f83;
-  color: #fff;
-  font-size: 1.2rem;
-  grid-column: 1/-1;
-  height: 50px;
-  margin: auto;
-  width: 140px;
-}
-@media (min-width: 600px) {
-  .topnav.country-dropdown {
-    margin-top: 0;
-    max-width: 600px;
-  }
-}
 .city-nav,
 #city-nav {
   display: flex;
@@ -551,6 +505,52 @@ span.city-nav-title {
   background: rgba(122,0,0,0.4);
   color: rgba(255,255,255,0.6);
   padding: 8px;
+}
+.topnav.country-dropdown {
+  background: #434855;
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  margin: auto;
+  max-width: 400px;
+  padding-bottom: 60px;
+  position: absolute;
+  top: 32px;
+  transform: scale(0);
+  width: 100%;
+}
+.topnav.country-dropdown a {
+  background: #252a37;
+  color: #fff;
+  font-weight: bold;
+  padding: 6px 8px;
+  text-decoration: underline;
+}
+.country-dropdown {
+  left: 2.5%;
+  transform: translateX(-75%);
+}
+.topnav.country-dropdown.show-country-list {
+  height: auto;
+  transform: scale(1);
+  transition: all 0.5s;
+  z-index: 100;
+}
+.country-list button {
+  background: #2f3441;
+  border: 5px solid #374f83;
+  color: #fff;
+  font-size: 1.2rem;
+  grid-column: 1/-1;
+  height: 50px;
+  margin: auto;
+  width: 140px;
+}
+@media (min-width: 600px) {
+  .topnav.country-dropdown {
+    margin-top: 0;
+    max-width: 600px;
+  }
 }
 @font-face {
   font-family: 'Montserrat';

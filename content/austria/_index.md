@@ -11,6 +11,8 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/austria/hero-sec.webp"
 alt_txt = "Austrian lakeside village with tall green mountains in the background."
+
+relcanonical = "https://eugo.uk/austria/"
 +++
 
 Austria, with its stunning landscapes, rich history, and vibrant culture, is a top destination for travelers in 2025. 

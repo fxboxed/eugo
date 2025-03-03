@@ -12,6 +12,8 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/belgium/thumbnail.webp"
 alt_txt = " Collage of Belgium's landmarks, cafes, and local cuisine."
+
+relcanonical = "https://eugo.uk/belgium/"
 +++
 
 

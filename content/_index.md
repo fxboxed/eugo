@@ -9,6 +9,8 @@ tab = 'Europe'
 #layout = "custom"
 image = "/imgs/europe/landmarks.webp"
 alt_txt = " Collage of people wearing traditional European dresses"
+
+relcanonical = "https://uego.uk/austria"
 +++
 
 

@@ -12,6 +12,8 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/czechia/thumbnail.webp"
 alt_txt = " Lady holding two glasses of wine overlooking the Morovian wine region."
+
+relcanonical = "https://eugo.uk/czechia/"
 +++
 
 

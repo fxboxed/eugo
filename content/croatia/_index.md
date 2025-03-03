@@ -12,6 +12,8 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/croatia/thumbnail.webp"
 alt_txt = " Vibrant nightlife and cuisine in Croatia's cultural landscape."
+
+relcanonical = "https://eugo.uk/croatia/"
 +++
 
 
