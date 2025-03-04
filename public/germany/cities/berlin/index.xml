@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exploring Berlin: Top Activities and Cuisine for Couples, Families, and Seniors on eugo travel</title>
-    <link>https://eugo.uk/germany/cities/berlin/</link>
+    <link>http://localhost:36493/germany/cities/berlin/</link>
     <description>Recent content in Exploring Berlin: Top Activities and Cuisine for Couples, Families, and Seniors on eugo travel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://eugo.uk/germany/cities/berlin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36493/germany/cities/berlin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
