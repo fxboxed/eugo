@@ -12,6 +12,7 @@ layout = 'cities'
 image = "/imgs/cyprus/beach.webp"
 alt_txt = " Sandy beach, with blue sea and sun beds, Cyprus."
 
+relcanonical = "https://eugo.uk/cyprus/"
 +++
 
 

@@ -1,6 +1,6 @@
-baseURL = "https://eugo.uk/"
+baseURL = 'https://eugo.uk/'
 languageCode = 'en-US'
-
+title = 'European Tourists Guide'
 
 [[menus.main]]
 name = 'Home'

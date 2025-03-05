@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on eugo travel</title>
-    <link>http://localhost:36493/categories/</link>
+    <link>https://eugo.uk/categories/</link>
     <description>Recent content in Categories on eugo travel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Feb 2025 09:36:21 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36493/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eugo.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General</title>
-      <link>http://localhost:36493/categories/general/</link>
+      <link>https://eugo.uk/categories/general/</link>
       <pubDate>Fri, 07 Feb 2025 09:36:21 +0000</pubDate>
-      <guid>http://localhost:36493/categories/general/</guid>
+      <guid>https://eugo.uk/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Austria</title>
-      <link>http://localhost:36493/categories/austria/</link>
+      <link>https://eugo.uk/categories/austria/</link>
       <pubDate>Wed, 05 Feb 2025 08:28:09 +0000</pubDate>
-      <guid>http://localhost:36493/categories/austria/</guid>
+      <guid>https://eugo.uk/categories/austria/</guid>
       <description></description>
     </item>
     <item>
       <title>Country</title>
-      <link>http://localhost:36493/categories/country/</link>
+      <link>https://eugo.uk/categories/country/</link>
       <pubDate>Wed, 05 Feb 2025 08:28:09 +0000</pubDate>
-      <guid>http://localhost:36493/categories/country/</guid>
+      <guid>https://eugo.uk/categories/country/</guid>
       <description></description>
     </item>
   </channel>

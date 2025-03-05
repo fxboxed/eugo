@@ -13,6 +13,7 @@ layout = 'cities'
 image = "/imgs/croatia/thumbnail.webp"
 alt_txt = " Vibrant nightlife and cuisine in Croatia's cultural landscape."
 
+relcanonical = "https://eugo.uk/croatia/"
 +++
 
 
@@ -27,8 +28,6 @@ Croatia is a gem on the Adriatic Sea, offering travelers a mix of vibrant nightl
 *   Plitvice Lakes National Park offers breathtaking natural beauty and scenic hikes.
  --- 
 ## 1\. Dubrovnik
-
-![Dubrovnik UNESCO World Heritage site](/imgs/croatia/dubrovnik-croatia.webp)
 
 Welcome to Dubrovnik, a city that feels like stepping into a storybook with its ancient walls and breathtaking sea views. Often called the 'Pearl of the Adriatic,' this place is a treasure trove of history and stunning architecture.
 

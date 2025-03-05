@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on eugo travel</title>
-    <link>http://localhost:36493/tags/</link>
+    <link>https://eugo.uk/tags/</link>
     <description>Recent content in Tags on eugo travel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Feb 2025 08:28:09 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36493/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eugo.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Austria</title>
-      <link>http://localhost:36493/tags/austria/</link>
+      <link>https://eugo.uk/tags/austria/</link>
       <pubDate>Wed, 05 Feb 2025 08:28:09 +0000</pubDate>
-      <guid>http://localhost:36493/tags/austria/</guid>
+      <guid>https://eugo.uk/tags/austria/</guid>
       <description></description>
     </item>
     <item>
       <title>Country</title>
-      <link>http://localhost:36493/tags/country/</link>
+      <link>https://eugo.uk/tags/country/</link>
       <pubDate>Wed, 05 Feb 2025 08:28:09 +0000</pubDate>
-      <guid>http://localhost:36493/tags/country/</guid>
+      <guid>https://eugo.uk/tags/country/</guid>
       <description></description>
     </item>
     <item>
       <title>Austria Cities</title>
-      <link>http://localhost:36493/tags/austria-cities/</link>
+      <link>https://eugo.uk/tags/austria-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/austria-cities/</guid>
+      <guid>https://eugo.uk/tags/austria-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Belgium Cities</title>
-      <link>http://localhost:36493/tags/belgium-cities/</link>
+      <link>https://eugo.uk/tags/belgium-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/belgium-cities/</guid>
+      <guid>https://eugo.uk/tags/belgium-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Croatia Cities</title>
-      <link>http://localhost:36493/tags/croatia-cities/</link>
+      <link>https://eugo.uk/tags/croatia-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/croatia-cities/</guid>
+      <guid>https://eugo.uk/tags/croatia-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyprus Cities</title>
-      <link>http://localhost:36493/tags/cyprus-cities/</link>
+      <link>https://eugo.uk/tags/cyprus-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/cyprus-cities/</guid>
+      <guid>https://eugo.uk/tags/cyprus-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Czechia Cities</title>
-      <link>http://localhost:36493/tags/czechia-cities/</link>
+      <link>https://eugo.uk/tags/czechia-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/czechia-cities/</guid>
+      <guid>https://eugo.uk/tags/czechia-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Denmark Cities</title>
-      <link>http://localhost:36493/tags/denmark-cities/</link>
+      <link>https://eugo.uk/tags/denmark-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/denmark-cities/</guid>
+      <guid>https://eugo.uk/tags/denmark-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Finland Cities</title>
-      <link>http://localhost:36493/tags/finland-cities/</link>
+      <link>https://eugo.uk/tags/finland-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/finland-cities/</guid>
+      <guid>https://eugo.uk/tags/finland-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>France Cities</title>
-      <link>http://localhost:36493/tags/france-cities/</link>
+      <link>https://eugo.uk/tags/france-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/france-cities/</guid>
+      <guid>https://eugo.uk/tags/france-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Germany Cities</title>
-      <link>http://localhost:36493/tags/germany-cities/</link>
+      <link>https://eugo.uk/tags/germany-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/germany-cities/</guid>
+      <guid>https://eugo.uk/tags/germany-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Greece Cities</title>
-      <link>http://localhost:36493/tags/greece-cities/</link>
+      <link>https://eugo.uk/tags/greece-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/greece-cities/</guid>
+      <guid>https://eugo.uk/tags/greece-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Ireland Cities</title>
-      <link>http://localhost:36493/tags/ireland-cities/</link>
+      <link>https://eugo.uk/tags/ireland-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/ireland-cities/</guid>
+      <guid>https://eugo.uk/tags/ireland-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Italy Cities</title>
-      <link>http://localhost:36493/tags/italy-cities/</link>
+      <link>https://eugo.uk/tags/italy-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/italy-cities/</guid>
+      <guid>https://eugo.uk/tags/italy-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Karlovy Vary Cities</title>
-      <link>http://localhost:36493/tags/karlovy-vary-cities/</link>
+      <link>https://eugo.uk/tags/karlovy-vary-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/karlovy-vary-cities/</guid>
+      <guid>https://eugo.uk/tags/karlovy-vary-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Netherlands Cities</title>
-      <link>http://localhost:36493/tags/netherlands-cities/</link>
+      <link>https://eugo.uk/tags/netherlands-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/netherlands-cities/</guid>
+      <guid>https://eugo.uk/tags/netherlands-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Norway Cities</title>
-      <link>http://localhost:36493/tags/norway-cities/</link>
+      <link>https://eugo.uk/tags/norway-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/norway-cities/</guid>
+      <guid>https://eugo.uk/tags/norway-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Poland Cities</title>
-      <link>http://localhost:36493/tags/poland-cities/</link>
+      <link>https://eugo.uk/tags/poland-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/poland-cities/</guid>
+      <guid>https://eugo.uk/tags/poland-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Portugal Cities</title>
-      <link>http://localhost:36493/tags/portugal-cities/</link>
+      <link>https://eugo.uk/tags/portugal-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/portugal-cities/</guid>
+      <guid>https://eugo.uk/tags/portugal-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Saltzburg Cities</title>
-      <link>http://localhost:36493/tags/saltzburg-cities/</link>
+      <link>https://eugo.uk/tags/saltzburg-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/saltzburg-cities/</guid>
+      <guid>https://eugo.uk/tags/saltzburg-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Spain Cities</title>
-      <link>http://localhost:36493/tags/spain-cities/</link>
+      <link>https://eugo.uk/tags/spain-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/spain-cities/</guid>
+      <guid>https://eugo.uk/tags/spain-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Switzerland Cities</title>
-      <link>http://localhost:36493/tags/switzerland-cities/</link>
+      <link>https://eugo.uk/tags/switzerland-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/switzerland-cities/</guid>
+      <guid>https://eugo.uk/tags/switzerland-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>Turkey Cities</title>
-      <link>http://localhost:36493/tags/turkey-cities/</link>
+      <link>https://eugo.uk/tags/turkey-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/turkey-cities/</guid>
+      <guid>https://eugo.uk/tags/turkey-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>UK Cities</title>
-      <link>http://localhost:36493/tags/uk-cities/</link>
+      <link>https://eugo.uk/tags/uk-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/uk-cities/</guid>
+      <guid>https://eugo.uk/tags/uk-cities/</guid>
       <description></description>
     </item>
     <item>
       <title>X Cities</title>
-      <link>http://localhost:36493/tags/x-cities/</link>
+      <link>https://eugo.uk/tags/x-cities/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:36493/tags/x-cities/</guid>
+      <guid>https://eugo.uk/tags/x-cities/</guid>
       <description></description>
     </item>
   </channel>

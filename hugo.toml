@@ -5,5 +5,6 @@ theme = 'eugo-theme'
 enableRobotsTXT = "true"
 googleAnalytics = "G-J8786MWRCY"
 
-
+[params]
+  canonicalUrl = 'https://eugo.uk/'
 

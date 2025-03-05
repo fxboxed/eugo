@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exploring Tourism in Croatia: Uncovering Nightlife, Cuisine, History, Culture, and the Top 6 Attractions on eugo travel</title>
-    <link>http://localhost:36493/croatia/</link>
+    <link>https://eugo.uk/croatia/</link>
     <description>Recent content in Exploring Tourism in Croatia: Uncovering Nightlife, Cuisine, History, Culture, and the Top 6 Attractions on eugo travel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:36493/croatia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eugo.uk/croatia/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

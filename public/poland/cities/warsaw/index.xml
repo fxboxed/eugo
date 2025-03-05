@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exploring Warsaw: A Journey Through History, Culture, and Traditional Cuisine for Tourists on eugo travel</title>
-    <link>http://localhost:36493/poland/cities/warsaw/</link>
+    <link>https://eugo.uk/poland/cities/warsaw/</link>
     <description>Recent content in Exploring Warsaw: A Journey Through History, Culture, and Traditional Cuisine for Tourists on eugo travel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:36493/poland/cities/warsaw/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eugo.uk/poland/cities/warsaw/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
