@@ -8,9 +8,10 @@
     <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}" />
     <meta name="og:description" content="{{ .Params.description }}" />
     <meta name="description" content="{{ .Params.description }}" />
-    <meta name="google-adsense-account" content="ca-pub-5969503339690563">
+    {{/*  <meta name="google-adsense-account" content="ca-pub-5969503339690563">  */}}
 
-
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5969503339690563"
+    crossorigin="anonymous"></script>
     <title>{{.Title}}</title>
 
     {{ with .Params.relcanonical }}
