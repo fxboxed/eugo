@@ -2,6 +2,7 @@
 date = '2025-02-05T10:37:50Z'
 draft = false
 title = 'Privacy Policy'
+tab = 'Privacy'
 decription = ""
 categories = ["General"]
 author = ["eugo"]

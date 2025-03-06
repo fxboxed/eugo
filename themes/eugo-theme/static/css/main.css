@@ -189,7 +189,7 @@ nav.navbar {
   z-index: 1;
 }
 nav.navbar a {
-  color: #003;
+  color: #fff;
   display: inline-block;
   font-size: 1.2rem;
   font-weight: 500;
@@ -220,8 +220,14 @@ nav.navbar a:hover {
 .locations.show-country-list {
   transition: all 0.4s ease-in-out;
 }
+.contact-heading {
+  color: #fff;
+  font-size: 1.6rem;
+  line-height: 1;
+  margin: 0 0 6px;
+  text-align: center;
+}
 form.contact-form {
-  background: #fff;
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -235,11 +241,11 @@ form.contact-form .form-group {
   width: 100%;
 }
 form.contact-form textarea {
-  min-height: 200px;
+  min-height: 140px;
 }
 form.contact-form input,
 form.contact-form textarea {
-  background: #d1d4de;
+  background: #404658;
   border: 0;
   font-size: 1.2rem;
   outline: none;
@@ -248,9 +254,15 @@ form.contact-form textarea {
 }
 form.contact-form label {
   display: block;
-  color: #090a0d;
+  color: #fff;
   font-size: 1.2rem;
   margin: 16px 0 8px;
+}
+.send-btn {
+  background: #50596f;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 16px;
 }
 header.site-header {
   background: #7a0000;
@@ -420,7 +432,7 @@ p.foot-p {
 }
 .to-top {
   display: block;
-  color: #162034;
+  color: #fff;
   font-weight: 800;
   margin: 20px auto 32px;
   padding: 12px 24px;
@@ -583,6 +595,15 @@ body {
   color: #1c1f27;
   font-family: 'Montserrat';
   line-height: 1.4;
+}
+main {
+  color: #fff;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+main p,
+main h3 {
+  color: #fff;
 }
 a {
   text-decoration: none;

@@ -2,6 +2,7 @@
 date = '2025-02-05T10:37:50Z'
 draft = false
 title = 'About'
+tab = 'About'
 decription = ""
 categories = ["General"]
 author = ["eugo"]

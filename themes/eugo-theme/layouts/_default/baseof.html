@@ -32,17 +32,19 @@
 
 <body>
   <header id = "top-marker">
+    {{ partial "navbar.html" . }}
     {{ partial "header.html" . }}
  
   </header>
   {{- partial "breadcrumb.html" . -}}
   <main>
- 
+
     {{ block "main" . }}{{ end }}
   </main>
   <footer id="bottom-marker" >
     {{ partial "footer.html" . }}
   </footer>
   <script src="/js/countries.js" defer></script>
+
 </body>
 </html>
