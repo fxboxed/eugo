@@ -8,6 +8,9 @@
     <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}" />
     <meta name="og:description" content="{{ .Params.description }}" />
     <meta name="description" content="{{ .Params.description }}" />
+    <meta name="google-adsense-account" content="ca-pub-5969503339690563">
+
+
     <title>{{.Title}}</title>
 
     {{ with .Params.relcanonical }}
@@ -15,7 +18,7 @@
   {{ else -}}
     <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
   {{ end -}}
-  <meta name="google-adsense-account" content="ca-pub-5969503339690563">
+
 
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J8786MWRCY"></script>
