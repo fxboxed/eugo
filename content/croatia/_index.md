@@ -57,7 +57,7 @@ Dubrovnik isn't just about sights; it's a feast for the taste buds too. Dive int
 
 While the city itself is amazing, don't miss out on the surrounding areas. The Dubrovnik Riviera has charming towns like Cavtat and Ston, which are rich in history and natural beauty. Or take a boat trip to the Elaphiti Islands for some secluded beach time. And if you love wine, the Pelješac Peninsula is known for its excellent wineries.
 
----
+[ Exploring Dubrovnik: The Ideal Location and Climate for Couples, Families, and the Elderly](https://eugo.uk/croatia/cities/dubrovnik/)
 
 ## 2\. Split
 
@@ -135,6 +135,8 @@ The countryside of Hvar is a sight to behold, with its fragrant lavender fields 
 As night falls, Hvar turns into a lively entertainment hub. The main square in Hvar Town is the center of activity, with bars and cafes that keep the energy high. It's the perfect place to unwind and enjoy the island's vibrant nightlife.
 
 > Hvar is a blend of natural beauty, rich history, and vibrant culture, offering something for every traveler. Whether you're here to relax on the beach or explore the island's many attractions, Hvar promises an unforgettable experience.
+
+[Pristine Beaches and Crystal-clear Waters of Hvar](https://eugo.uk/croatia/cities/hvar/)
 
 ## 5\. Plitvice Lakes National Park
 

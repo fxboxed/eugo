@@ -50,7 +50,7 @@ Head to the [Staroměstské náměstí](https://www.tripadvisor.com/Attractions-
 
 > Prague is a city that seamlessly blends the old with the new, offering a rich tapestry of experiences that cater to every taste. Whether you're a history buff, a foodie, or a night owl, Prague promises an adventure that's hard to forget.
 
----
+[Exploring Prague: A Comprehensive Guide to Attractions for Couples, Families, and the Elderly ](https://eugo.uk/czechia/cities/prague/)
 
 ## 2\. Karlovy Vary
 
@@ -77,7 +77,7 @@ While in Karlovy Vary, be sure to try the local cuisine. The town is famous for 
 
 > Pro Tip: Take a leisurely walk along the Teplá River, where you can enjoy the serene atmosphere and perhaps catch a glimpse of a local artist at work.
 
----
+[Unforgettable Nightlife in Karlovy Vary: Top Activities for Couples, Families, and the Elderly](https://eugo.uk/czechia/cities/karlovy-vary/)
 
 ## 3\. Český Krumlov
 
@@ -111,7 +111,7 @@ If you time your visit right, you might catch one of Český Krumlov's vibrant f
 
 In Český Krumlov, every corner holds a story, and every visit feels like a journey back in time. Whether you're a history buff, a nature lover, or simply looking to unwind, this enchanting town has something for everyone.
 
----
+[Exploring Český Krumlov: A Culinary and Nightlife Adventure](https://eugo.uk/czechia/cities/%C4%8Desk%C3%BD-krumlov/)
 
 ## 4\. Plzeň
 

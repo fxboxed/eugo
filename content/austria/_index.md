@@ -39,6 +39,8 @@ Austria has something for everyone. This guide will take you through some of the
 ### Exploring the Historic Vienna State Opera
 Vienna State Opera is not just a building; it's a living testament to the city's deep love for music and the arts. Known as one of the world's most prestigious opera houses, it has hosted countless legendary performances. 
 
+[Vienna Travel Guide for All Ages](https://eugo.uk/austria/cities/vienna/)
+
 As you step inside, the opulence of the architecture takes your breath away. The grand staircase, the ornate ceilings, and the rich history echoing through its halls make it a must-visit. 
 
 Whether you're an opera aficionado or a curious traveler, a tour here offers a glimpse into the world of classical music that Vienna cherishes.
@@ -76,7 +78,7 @@ Every summer, Salzburg transforms into a cultural hub during the Salzburg Festiv
 
 From opera to classical concerts, the festival showcases the finest in performing arts. It's a highlight for anyone visiting Salzburg in the warmer months.
 
----
+[Discovering Salzburg: A Guide to Its Location, Climate, and Top Attractions](http://localhost:1313/austria/cities/saltzburg/)
 
 ## Innsbruck: Gateway to the Alps
 

@@ -60,7 +60,7 @@ Whether you're a comic book fan or just looking for something different to do, t
 
 > Brussels is a city that seamlessly blends the old with the new. From its historical squares to its modern murals, there's something here for everyone. Take your time to wander, explore, and let the city's charm unfold before you.
 
----
+[Exploring Brussels: The Ultimate Guide to Location, Climate, and Must-Visit Attractions for Couples, Families, and the Elderly](https://eugo.uk/belgium/cities/brussels/)
 
 ## The Medieval Magic of Bruges
 ![cobblestone streets of Bruges](/imgs/belgium/cobblestone-streets-of-Bruges.webp)
@@ -82,7 +82,7 @@ Bruges is not just about history and architecture; it's also a haven for those w
 
 Be sure to sample some while you're here. Additionally, Bruges is famous for its delicate lace, a craft that has been perfected over centuries. You can visit lace shops to see artisans at work and perhaps take home a piece of this intricate art.
 
----
+[The Medieval Magic of Bruges](https://eugo.uk/belgium/cities/bruges/)
 
 ## Antwerp: The Diamond Capital
 ![Antwerp diamond showroom](/imgs/belgium/Antwerp-diamond-showroom.webp)
@@ -130,7 +130,7 @@ Ghent is also home to numerous cultural festivals throughout the year, celebrati
 
 > Ghent is a city where the past and present coexist harmoniously. It's a place where you can lose yourself in the pages of history during the day and find yourself amidst a modern cultural renaissance by night. Whether you're exploring its ancient castles or enjoying its lively nightlife, Ghent offers a unique experience that captures the essence of both old and new.
 
----
+[ Exploring Ghent: A Culinary and Cultural Journey for Couples, Families, and the Elderly](https://eugo.uk/belgium/cities/ghent/)
 
 ## Belgium's Culinary Delights
 
