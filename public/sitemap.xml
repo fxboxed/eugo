@@ -92,7 +92,10 @@
     <loc>https://eugo.uk/denmark/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
-    <loc>https://eugo.uk/france/tgts/</loc>
+    <loc>https://eugo.uk/france/specials/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/france/specials/historical/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/tags/austria-cities/</loc>
@@ -119,7 +122,7 @@
     <loc>https://eugo.uk/denmark/cities/copenhagen/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://eugo.uk/france/tgts/families/</loc>
+    <loc>https://eugo.uk/france/specials/families/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/netherlands/cities/kinderdijk/</loc>
@@ -128,7 +131,7 @@
     <loc>https://eugo.uk/spain/cities/malaga/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://eugo.uk/france/tgts/beaches/</loc>
+    <loc>https://eugo.uk/france/specials/beaches/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/portugal/cities/lisbon/</loc>
@@ -137,7 +140,7 @@
     <loc>https://eugo.uk/austria/cities/saltzburg/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://eugo.uk/france/tgts/skiing/</loc>
+    <loc>https://eugo.uk/france/specials/skiing/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/swizterland/cities/zurich/</loc>
@@ -191,7 +194,10 @@
     <loc>https://eugo.uk/uk/cities/edinburgh/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://eugo.uk/france/tgts/surfing/</loc>
+    <loc>https://eugo.uk/france/specials/transport/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/france/specials/surfing/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/swizterland/cities/geneva/</loc>
@@ -311,6 +317,9 @@
     <loc>https://eugo.uk/tags/greece-cities/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/tags/historical/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/tags/ireland-cities/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
@@ -345,6 +354,9 @@
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/tags/switzerland-cities/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/tags/transport/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/tags/turkey-cities/</loc>

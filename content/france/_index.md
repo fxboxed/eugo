@@ -15,15 +15,12 @@ image = "/imgs/france/thumbnail.webp"
 alt_txt = " Carousel in an old cobble-stoned French village street."
 +++
 
-<div class='tgt'>
 
-<a href='/france/tgts/'>tgts</a>
-</div>
-
-# heading text.
-{.red}
 
 France is packed with places that make you go 'wow'. From the Eiffel Tower to the French Riviera, there's a bit of everything. 
+
+[Discovering the Best Ski Resorts in France](/france/specials/skiing)
+{.inline-link}
 
 Whether you're into history, love a good meal, or just want to shop till you drop, France has got you covered. 
 
@@ -37,11 +34,10 @@ Let's check out the top ten spots that are a must-see when you're in this amazin
 *   Mont Saint-Michel is a unique island commune with a rich history and breathtaking views.
 *   The French Riviera is famous for its beaches, nightlife, and luxury shopping.
 
----
 
 ## 1\. Eiffel Tower
 
-![Eiffel Tower lit up at night in Paris.](https://contenu.nyc3.digitaloceanspaces.com/journalist/1cc67b1a-5f1b-44cc-a31c-a6a57ecaea76/thumbnail.jpeg)
+![Eiffel Tower lit up at night in Paris.](/imgs/france/tower.webp)
 
 The _Eiffel Tower_ is not just an iron giant towering over Paris; it's a symbol of romance and adventure. **Standing tall at 1,083 feet (330 meters), this iconic landmark has been captivating visitors since it was completed in 1889.** 
 
@@ -67,6 +63,9 @@ Whether you're taking in the view from its observation decks or admiring it from
 
 > Visiting the Eiffel Tower is an experience like no other. From its breathtaking views to the twinkling lights at night, it captures the essence of Parisian charm and elegance. 
 > Be sure to discover 16 intriguing facts about this iconic landmark to enrich your visit even more.
+
+[A Tour of the Must See Historical Sites of France](/france/specials/historical)
+{.inline-link}
 
 ## 2\. Louvre Museum
 
@@ -94,8 +93,6 @@ Stepping into the Louvre Museum is like entering a world where art and history d
 > The Louvre isn't just a museum; it's a journey through time and art. Take your time, soak it in, and let each piece tell its own story.
 
 For art lovers, the [Louvre Museum](https://www.tripadvisor.com/Attraction_Review-g187147-d188757-Reviews-Louvre_Museum-Paris_Ile_de_France.html) is not just a destination; it's an experience that leaves a lasting impression.
-
----
 
 ## 3\. Palace of Versailles
 
@@ -153,7 +150,6 @@ Located within the palace, this museum offers a deep dive into French history. F
 
 After a day of exploration, unwind at the Orangerie Café. Enjoy a coffee or a pastry while taking in the view of the gardens, recharging for more adventures.
 
----
 
 ## 4\. Mont Saint-Michel
 
@@ -178,7 +174,6 @@ After a day of exploration, unwind at the Orangerie Café. Enjoy a coffee or a p
 
 Whether you're exploring the abbey, enjoying the local cuisine, or simply taking in the views, Mont Saint-Michel offers something for everyone. It's one of those places where every corner tells a story, and every view is postcard-perfect.
 
----
 
 ## 5\. Loire Valley
 
@@ -203,6 +198,8 @@ The Loire Valley is renowned for its exceptional wines. Spend a day at a local v
 *   **Amboise**: Wander through cobbled streets, enjoy local cafes, and visit the Château d’Amboise, where Leonardo da Vinci spent his last years.
 *   **Tours**: This town is a perfect blend of history and modernity. Explore the old town, visit the medieval cathedral, and relax in the bustling squares.
 
+[A tourist's guide to travelling around France](/france/specials/transport)
+{.inline-link}
 ### Enjoy Outdoor Adventures
 
 *   **Cycle Through the Countryside**: With well-marked bike paths, cycling through vineyards and past châteaux is a fantastic way to see the valley.
@@ -212,13 +209,16 @@ The Loire Valley is renowned for its exceptional wines. Spend a day at a local v
 
 For those eager to explore more, [discover the must-see attractions in the Loire Valley](https://www.tripadvisor.com/Attractions-g187196-Activities-Loire_Valley.html), including Château de Chambord and various wine tastings, to truly immerse yourself in the rich history and stunning landscapes of this enchanting region.
 
----
 
 ## 6\. French Riviera
 
 ![Colorful beach scene in the French Riviera.](/imgs/france/riviera.webp)
 
 The _French Riviera_, or Côte d’Azur, is a dazzling stretch of coastline in the Provence region, bordering Italy. Known for its glamorous beaches and luxurious resorts, this area is a magnet for travelers seeking both relaxation and adventure.
+{.inline-link}
+
+[Discover the Best Beach Vacations in France](/france/specials/beaches)
+{.inline-link}
 
 ### Sun-Kissed Beaches
 
@@ -251,8 +251,6 @@ Whether you're hunting for designer fashion or local crafts, the Riviera offers 
 > The French Riviera is more than just a destination; it’s a lifestyle. With its blend of natural beauty, cultural richness, and luxurious amenities, it’s no wonder that millions flock here each year to experience its unique charm.
 
 For a deeper dive into the region's [rich history](https://goaskalocal.com/blog/french-riviera-travel-guide) and vibrant culture, the French Riviera remains a top choice for travelers worldwide.
-
----
 
 ## 7\. Disneyland Paris
 
@@ -291,8 +289,6 @@ Don't miss the adjoining park, which features exciting areas like Toy Story Land
 Stroll down Main Street U.S.A. for some shopping. Whether you're looking for Disney merchandise or unique souvenirs, you'll find plenty of options here.
 
 Disneyland Paris isn't just a theme park; it's an experience that brings out the kid in everyone. Whether you're there for the rides, the shows, or just to soak in the atmosphere, you're guaranteed a magical time.
-
----
 
 ## 8\. Pont du Gard
 
@@ -342,8 +338,6 @@ A visit to Pont du Gard is a journey through time, offering a perfect mix of his
 
 Whether you're a history buff, a nature lover, or just looking for a beautiful place to unwind, this destination has something for everyone.
 
----
-
 ## 9\. Carcassonne
 
 ![Carcassonne castle fortress viewed from below with a clear blue sky backdrop.](/imgs/france/castle-1004841_640.webp)
@@ -375,8 +369,6 @@ Here’s what makes Carcassonne a must-see:
 
 For those interested in exploring the top attractions in Carcassonne, including the Cathar Castles, Église Saint-Nazaire, and Le Pont Vieux, check out our recommended [sightseeing experiences](https://www.tripadvisor.com/Attractions-g13320446-Activities-c47-Carcassonne_Aude_Occitanie.html) that highlight the region's rich history and stunning architecture.
 
----
-
 ## 10\. Palace of the Popes
  ![Palace of the Popes viewed from a corner](/imgs/france/papal-palace-1595513_640.webp)
 
@@ -403,8 +395,6 @@ When you visit, make sure to check out the [Palais des Papes](https://www.tripad
 
 Whether you're a history buff or just love a good story, this place has something for everyone.
 
----
-
 ## Conclusion
 
 Wrapping up our journey through France's top tourist resorts, it's clear that this country is a treasure trove of experiences. 
@@ -414,8 +404,6 @@ Whether you're dancing the night away in St. Tropez, soaking in the history at t
 The blend of rich culture, vibrant nightlife, and exquisite cuisine makes each visit unforgettable. So, whether you're a history buff, a foodie, or just looking to relax, France's resorts offer a little slice of paradise. 
 
 Until next time, keep dreaming of your next French adventure!
-
----
 
 ## Frequently Asked Questions
 

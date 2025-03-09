@@ -1,9 +1,0 @@
-+++
-title = 'Singles'
-+++
-
-
-
-
-
-# fr singles

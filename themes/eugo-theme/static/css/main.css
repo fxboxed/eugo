@@ -569,14 +569,23 @@ span.city-nav-title {
     max-width: 600px;
   }
 }
+.inline-link {
+  color: #00f;
+}
+.holy-grail a {
+  color: #c80000;
+  margin: auto;
+}
 .targeted-list {
   display: grid;
-  gap: 24px;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  max-width: 1480px;
   margin: 24px auto;
+  width: 100%;
 }
 .targeted-list a {
   color: #fff;
@@ -584,11 +593,14 @@ span.city-nav-title {
 .targeted-list .target {
   background: rgba(255,255,255,0.1);
   display: flex;
-  gap: 24px;
+  flex-direction: column;
+  gap: 12px;
+  margin: auto;
 }
 .targeted-list .target img {
   height: auto;
-  width: 30%;
+  margin: auto;
+  width: 100%;
 }
 .targeted-list h3 {
   font-size: 20px;
@@ -597,10 +609,10 @@ span.city-nav-title {
 }
 .targeted-list p {
   margin: 0;
-  line-height: 1.1;
+  line-height: 1.3;
 }
 .targeted-list .txt {
-  padding: 12px 12px 12px 0;
+  padding: 12px 12px 24px;
 }
 @font-face {
   font-family: 'Montserrat';
