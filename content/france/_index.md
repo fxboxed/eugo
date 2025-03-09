@@ -7,6 +7,7 @@ description = "Explore France's top 10 tourist resorts, rich in nightlife, histo
 categories = ["country"]
 tags = ["country"]
 author = ["eugo"]
+
 tab = "France"
 type = 'countries'
 layout = 'cities'
@@ -14,8 +15,13 @@ image = "/imgs/france/thumbnail.webp"
 alt_txt = " Carousel in an old cobble-stoned French village street."
 +++
 
+<div class='tgt'>
 
+<a href='/france/tgts/'>tgts</a>
+</div>
 
+# heading text.
+{.red}
 
 France is packed with places that make you go 'wow'. From the Eiffel Tower to the French Riviera, there's a bit of everything. 
 

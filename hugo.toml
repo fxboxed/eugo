@@ -3,8 +3,16 @@ languageCode = 'en-us'
 title = 'eugo travel'
 theme = 'eugo-theme'
 enableRobotsTXT = "true"
-googleAnalytics = "G-J8786MWRCY"
+
 
 [params]
   canonicalUrl = 'https://eugo.uk/'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+
+[markup.goldmark.renderer]
+  unsafe = true 

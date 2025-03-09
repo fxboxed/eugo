@@ -1,9 +1,25 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-
+  {{/*  <h1>{{ .Title }}</h1>  */}}
+  <div class="targeted-list">
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+  <a href="{{ .RelPermalink }}" class="target ">
+
+      <img src="{{.Params.image}}" alt="">
+    <div class="txt">
+    {{/*  <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>  */}}
+    {{/*  <h3>{{ .Params.title }}</h3>  */}}
+    <p class="summary">{{.Params.description}}</p>
+    </div>
+  </a>
+
   {{ end }}
-  {{ .Content }}
+</div>
+<div class="holy-grail">
+  <div class="main">
+    <h1 class="banner-item"> {{.Title}}</h1>
+    <img class="banner-item" src="{{.Params.image}}" alt="{{.Params.alt_txt}}">
+    {{ .Content }}
+  </div>
+</div>
+
 {{ end }}

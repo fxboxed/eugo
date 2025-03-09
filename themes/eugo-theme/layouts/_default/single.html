@@ -7,4 +7,14 @@
 
   {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  <h1>dingle</h1>
+
+
+  <h1>{{ .Title }}</h1>
+  <ul>
+    {{ range .Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
 {{ end }}
+

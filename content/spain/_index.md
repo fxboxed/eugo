@@ -8,6 +8,7 @@ author = ["eugo"]
 tab = "Spain"
 type = 'countries'
 layout = 'cities'
+target= 'sp beaches'
 image = "/imgs/spain/thumbnail.webp"
 alt_txt = "Collage of Spanish food, culture, and lively attractions."
 +++

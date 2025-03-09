@@ -13,13 +13,14 @@
           {{- end }}
         {{- end -}}
         {{ partial "inline/breadcrumb" . }}
-        {{/*  <li class="breadcrumb-item active" aria-current="page">  */}}
+
+        <li class="breadcrumb-item active" aria-current="page">
           <p class="breadcumb-end">
             {{ .Params.tab  }}            
           </p>
           {{/*  {{ .Params.tab  }}  */}}
-        {{/*  </li>  */}}
-      {{/*  </ul>  */}}
+        </li>
+      </ul>
 
   </nav>
 

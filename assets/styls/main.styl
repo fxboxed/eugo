@@ -18,6 +18,37 @@ delta = #4a6689
 // @require './city-nav.styl'
 
 
+.targeted-list 
+    //background red
+    display grid
+    gap 24px
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr) )
+    flex-wrap wrap
+    justify-content center
+    align-items center
+    //max-width 800px
+    margin 24px auto
+    //width 100%
+    a  
+        color light
+    .target 
+        //border 2px solid light
+        background rgba(light, .1)
+        display flex
+        gap 24px
+        //flex-wrap wrap
+        img 
+            height auto
+            width 30%
+    h3 
+        font-size 20px
+        font-weight 600
+        margin 0
+    p 
+        margin 0
+        line-height 1.1
+    .txt 
+        padding 12px 12px 12px 0
 @font-face 
     font-family 'Montserrat'
     font-style normal
@@ -46,6 +77,7 @@ body
     color alpha - (40%)
     font-family 'Montserrat'
     line-height 1.4
+    overflow-x hidden
 
 main 
     color light
@@ -87,7 +119,7 @@ h1
     text-align center
 
 h2 
-    color beta
+    color light //beta
     font-family 'Merienda'
     font-weight 200
     margin 20px 0 8px

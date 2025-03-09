@@ -1,0 +1,9 @@
++++
+title = 'Singles'
++++
+
+
+
+
+
+# fr singles

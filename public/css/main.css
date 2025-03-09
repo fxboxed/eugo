@@ -20,10 +20,13 @@
 }
 .holy-grail img {
   margin: 40px auto 40px;
-  max-height: 400px;
   height: 300px;
   max-width: 400px;
   width: 100%;
+}
+.holy-grail img.tgt-img {
+  height: 100px;
+  width: 100px;
 }
 .aside,
 .main {
@@ -32,7 +35,7 @@
 aside,
 .aside {
   border: 1px solid #7a0000;
-  display: none;
+  display: grid;
   align-items: start;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   height: 400px;
@@ -45,8 +48,7 @@ aside,
   font-weight: 400;
 }
 .holy-grail blockquote p {
-  background: #262a34;
-  border: 3px solid #620000;
+  background: #404658;
   color: #fff;
   font-style: italic;
   margin: 60px auto;
@@ -55,8 +57,8 @@ aside,
   z-index: 5;
 }
 .holy-grail blockquote p::after {
-  background: #7a0000;
-  border: 3px solid #374f83;
+  background: #2a2f3b;
+  border: 3px solid #404658;
   content: 'Info';
   font-size: 1.2rem;
   padding: 4px 12px;
@@ -166,7 +168,7 @@ td {
   }
   .holy-grail img {
     height: 375px;
-    width: 500px;
+    max-width: 500px;
   }
   .holy-grail ol {
     width: calc(100% - 32px);
@@ -567,6 +569,39 @@ span.city-nav-title {
     max-width: 600px;
   }
 }
+.targeted-list {
+  display: grid;
+  gap: 24px;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 24px auto;
+}
+.targeted-list a {
+  color: #fff;
+}
+.targeted-list .target {
+  background: rgba(255,255,255,0.1);
+  display: flex;
+  gap: 24px;
+}
+.targeted-list .target img {
+  height: auto;
+  width: 30%;
+}
+.targeted-list h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+}
+.targeted-list p {
+  margin: 0;
+  line-height: 1.1;
+}
+.targeted-list .txt {
+  padding: 12px 12px 12px 0;
+}
 @font-face {
   font-family: 'Montserrat';
   font-style: normal;
@@ -598,6 +633,7 @@ body {
   color: #1c1f27;
   font-family: 'Montserrat';
   line-height: 1.4;
+  overflow-x: hidden;
 }
 main {
   color: #fff;
@@ -638,7 +674,7 @@ h1 {
   text-align: center;
 }
 h2 {
-  color: #7a0000;
+  color: #fff;
   font-family: 'Merienda';
   font-weight: 200;
   margin: 20px 0 8px;
