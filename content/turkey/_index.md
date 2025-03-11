@@ -24,16 +24,14 @@ If you're on the fence about it, let me give you ten reasons why Turkey should b
 *   From bustling bazaars to modern malls, Turkey is a shopping paradise.
 *   The country's cuisine is diverse and flavorful, offering something for every palate.
 *   Turkey's nightlife is vibrant, with options ranging from traditional shows to modern clubs.
-
----
-
+*   
 ## 1\. Rich History And Culture
 
 ![Ancient ruins and vibrant market scene in Turkey.](/imgs/turkey/spire.webp)
 
 Turkey is a country where the past and present coexist in harmony. This land has been home to many civilizations, each leaving behind a unique legacy. 
 
-From ancient ruins to vibrant cultural practices, Turkey offers a rich tapestry of history and culture.
+From ancient ruins to vibrant [cultural practices](/turkey/specials/history), Turkey offers a rich tapestry of history and culture.
 
 ### A Tapestry of Civilizations
 
@@ -238,7 +236,7 @@ So, whether you're looking to dance the night away or enjoy a quiet drink by the
 
 Turkey is a playground for thrill-seekers, offering an array of adventure activities that cater to all interests. 
 
-Whether you're into adrenaline-pumping sports or more relaxed outdoor experiences, Turkey's diverse landscapes provide the perfect backdrop.
+Whether you're into adrenaline-pumping [water sports](/turkey/specials/water) or more relaxed outdoor experiences, Turkey's diverse landscapes provide the perfect backdrop.
 
 ### Land Adventures
 
@@ -363,6 +361,7 @@ Imagine yourself lounging on the soft sand, watching the waves gently lap at the
 
 > The Turkish Riviera isn't just about the beaches. It's about the feeling you get when you see the sunset over the Mediterranean, the taste of fresh seafood by the shore, and the sound of waves that lull you to sleep. It's an experience that stays with you.
 
+[Take a lok at the best beaches that Turkey has to offer](/turkey/specials/beaches)
 ### Activities
 
 *   **Explore Ancient Ruins**: Many beaches are near historical sites, offering a mix of relaxation and exploration.
@@ -370,8 +369,6 @@ Imagine yourself lounging on the soft sand, watching the waves gently lap at the
 *   **Local Cuisine**: Enjoy the delicious local dishes at beachside restaurants.
 
 Whether you're looking for adventure or relaxation, the Turkish Riviera has something to offer. Pack your bags and get ready for a beach vacation like no other!
-
----
 
 ## Wrapping Up Your Turkish Adventure
 
@@ -382,8 +379,6 @@ Whether you're a history buff, a foodie, or just someone looking to soak up some
 From the bustling streets of Istanbul to the serene beaches of the Turkish Riviera, every corner of this country offers a new adventure. 
 
 And let's not forget the mouth-watering cuisine that'll have you coming back for seconds. So why wait? Start planning your trip to Turkey now and get ready for an unforgettable experience. Safe travels!
-
----
 
 ## Frequently Asked Questions
 
