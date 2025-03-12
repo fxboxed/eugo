@@ -13,7 +13,7 @@ alt_txt = "People enjoying water sports in a sunny Italian coastal setting."
 
 ## Top Water Sports Destinations in Italy 2025
 
-Italy is a paradise for water sports enthusiasts, offering stunning coastlines and diverse marine environments.
+Italy is a paradise for water sports [and infinity pools](/italy/specials/pools) enthusiasts offering stunning coastlines and diverse marine environments.
 
 Whether you're looking to ride the waves, explore underwater life, or simply enjoy the sun, there's a spot for everyone.
 

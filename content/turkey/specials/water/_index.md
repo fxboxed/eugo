@@ -414,6 +414,8 @@ Whether you're just starting out or looking for a challenge, you'll find the per
 
 The combination of clear waters and consistent winds makes it an ideal destination.
 
+[The best infinity pools in Turkey](/turkey/specials/pools)
+
 Let's explore some of the best locations:
 
 ### Çeşme: Windsurfing Hotspot
