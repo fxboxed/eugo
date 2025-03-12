@@ -17,6 +17,8 @@ relcanonical = "https://uego.uk/austria"
 
 ## Why visit Europe?
 
+[Europe's best and biggest](/europe/)<br><br>
+
 Europe is like a big playground for travellers. 
 
 It's packed with cool spots, both famous and hidden. You can dive into history, munch on unique foods, and soak up stunning views. But there's more than just the well-known places. 

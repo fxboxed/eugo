@@ -3,16 +3,18 @@
       <a href="{{ .RelPermalink }}" class="country-link ">{{ .Params.tab }}</a>
     {{ end }}
 
+    <a href="https://eugo.uk/europe/" class="euro-link">European highlights</a>
 
-    {{ range where .Data.Pages "Type" "cities"   }}
+    <button tabindex="-1" class="close-country-dropdown country-dropdown-btn">Close</button>
+    {{/*  {{ range where .Data.Pages "Type" "cities"   }}
     <a href="{{ .RelPermalink }}" class="country-link ">{{ .Params.tab }}</a>
-  {{ end }}
+  {{ end }}  */}}
 
   {{/*  open this when accoms added  */}}
   
   {{/*  {{ range where .Data.Pages "Type" "accoms"   }}
   <a href="{{ .RelPermalink }}" class="country-link ">{{ .Params.tab }}</a>
 {{ end }}  */}}
-    <button tabindex="-1" class="close-country-dropdown country-dropdown-btn">Close</button>
+   
 
    </nav>

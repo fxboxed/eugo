@@ -543,6 +543,12 @@ span.city-nav-title {
   padding: 6px 8px;
   text-decoration: underline;
 }
+.topnav.country-dropdown a.euro-link {
+  position: absolute;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+}
 .country-dropdown {
   left: 2.5%;
   transform: translateX(-75%);
