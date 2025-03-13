@@ -7,6 +7,7 @@ categories = [""]
 tags = [""]
 author = ["eugo"]
 tab = "River boat cruises"
+batch = "Top European River Cruises Guide"
 type = 'single'
 layout = 'single'
 image = "/imgs/europe/river-thumb.webp"

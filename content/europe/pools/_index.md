@@ -7,6 +7,7 @@ categories = [""]
 tags = [""]
 author = ["eugo"]
 tab = "Infinity pools"
+batch = "Exploring Europe's biggest and best infinity pools"
 type = 'single'
 layout = 'single'
 image = "/imgs/europe/pool-thumb.webp"

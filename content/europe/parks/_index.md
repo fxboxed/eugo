@@ -7,6 +7,7 @@ categories = [""]
 tags = [""]
 author = ["eugo"]
 tab = "Theme parks"
+batch = "Top 5 European Theme Parks to Visit"
 type = 'single'
 layout = 'single'
 image = "/imgs/europe/park-thumb.webp"

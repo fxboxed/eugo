@@ -7,6 +7,7 @@ categories = [""]
 tags = [""]
 author = ["eugo"]
 tab = "Waterfalls"
+batch = "Europe's Stunning Waterfalls Unveiled"
 type = 'targeted'
 layout = 'targeted'
 image = "/imgs/europe/wf-thumb.webp"
