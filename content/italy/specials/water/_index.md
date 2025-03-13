@@ -7,11 +7,12 @@ tab ='Water Sports'
 type = 'targeted'
 layout = 'targeted'
 tags = ['water']
+batch = "Top Water Sports Destinations in Italy"
 image = "/imgs/italy/water-thumb.jpeg"
 alt_txt = "People enjoying water sports in a sunny Italian coastal setting."
 +++
 
-## Top Water Sports Destinations in Italy 2025
+## Top Water Sports Destinations in Italy
 
 Italy is a paradise for water sports [and infinity pools](/italy/specials/pools) enthusiasts offering stunning coastlines and diverse marine environments.
 

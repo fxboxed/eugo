@@ -7,6 +7,7 @@ tab ='Skiing'
 type = 'targeted'
 layout = 'targeted'
 tags = ['skiing']
+batch = "Top Ski Resorts in France 2025 Guide"
 image = "/imgs/france/ski-thumb.jpeg"
 alt_txt = "Snowy French Alps with skiers on scenic slopes."
 +++

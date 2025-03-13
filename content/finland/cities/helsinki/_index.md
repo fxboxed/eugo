@@ -4,6 +4,7 @@ description = "Discover Helsinki's top attractions for couples, families, and th
 date = 2023-01-01T08:00:00-07:00
 draft = false
 tab ='Helsinki'
+batch = 'Helsinki Attractions for All Ages'
 type = 'cities'
 layout = 'cities'
 tags = ['Finland cities']

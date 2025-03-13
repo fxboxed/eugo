@@ -8,6 +8,7 @@ type = 'targeted'
 layout = 'targeted'
 tags = ['']
 categories = ['pools']
+batch = "Luxurious Infinity Pools in France"
 image = "/imgs/france/pools-thumb.webp"
 alt_txt = "Infinity pool with scenic French countryside view."
 +++

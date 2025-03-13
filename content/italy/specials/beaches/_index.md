@@ -4,6 +4,7 @@ description = "Explore the best beaches in Italy for 2025, from Sardinia to Sici
 date = 2023-01-01T08:00:00-07:00
 draft = false
 tab ='Best beaches'
+batch = 'Top Italian Beaches to Visit'
 type = 'targeted'
 layout = 'targeted'
 tags = ['beaches']

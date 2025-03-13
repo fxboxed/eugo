@@ -7,11 +7,12 @@ tab ='Family resorts'
 type = 'targeted'
 layout = 'targeted'
 tags = ['resorts']
+batch = "Top Spanish Resorts for Getaways"
 image = "/imgs/spain/resorts-thumb.webp"
 alt_txt = "Stunning beach resort in Spain with sunset and palm trees."
 +++
 
-## Top Spanish Resorts for 2025 Getaways
+## Top Spanish Resorts for Getaways
 
 As we look forward to 2025, Spain is set to welcome travelers with its stunning landscapes, rich history, and vibrant culture.
 

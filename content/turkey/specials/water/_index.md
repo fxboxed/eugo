@@ -7,11 +7,12 @@ tab ='Water sports'
 type = 'targeted'
 layout = 'targeted'
 tags = ['water']
+batch = "Top Water Sports Destinations in Turkey"
 image = "/imgs/turkey/water-thumb.webp"
 alt_txt = "People enjoying water sports in Turkey's beautiful coastline."
 +++
 
-## Top Water Sports Destinations in Turkey 2025
+## Top Water Sports Destinations in Turkey
 
 If you're on the hunt for some thrilling water sports, Turkey is the place to be.
 

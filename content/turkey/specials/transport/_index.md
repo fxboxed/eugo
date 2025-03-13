@@ -7,6 +7,7 @@ tab ='Transport'
 type = 'targeted'
 layout = 'targeted'
 tags = ['transport']
+batch = "Turkey: Accessible Travel Guide"
 image = "/imgs/turkey/trans-thumb.webp"
 alt_txt = "Colorful street scene with various transportation options in Turkey."
 +++

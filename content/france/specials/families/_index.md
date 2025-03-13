@@ -7,11 +7,12 @@ tab ='Family resorts'
 type = 'targeted'
 layout = 'targeted'
 tags = ['family resorts']
+batch = "Top Family Resorts in France"
 image = "/imgs/france/families-thumb.webp"
 alt_txt = "Family enjoying a resort pool under sunny skies in France."
 +++
 
-## Top Family Resorts in France 2025
+## Top Family Resorts in France
 
 Are you dreaming of a family getaway to France in 2025? Look no further! 
 

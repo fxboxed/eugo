@@ -7,11 +7,12 @@ tab ='Water sports'
 type = 'targeted'
 layout = 'targeted'
 tags = ['water-sports']
+batch = "Top Water Sports Destinations in Greece"
 image = "/imgs/greece/water-thumb.webp"
 alt_txt = "People engaged in water sports activities in Greece"
 +++
 
-## Top Water Sports Destinations in Greece 2025
+## Top Water Sports Destinations in Greece
 
 Greece is a paradise for water sports lovers, offering stunning coastlines, clear waters, and a variety of activities to get your adrenaline pumping.
 

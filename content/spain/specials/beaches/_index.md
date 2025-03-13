@@ -7,11 +7,12 @@ tab ='Beaches'
 type = 'targeted'
 layout = 'targeted'
 tags = ['beaches']
+batch = "Top Spanish Beaches"
 image = "/imgs/spain/beaches-thumb.jpeg"
 alt_txt = "Aerial view of beautiful sandy beach in Spain."
 +++
 
-## Top Spanish Beaches for 2025
+## Top Spanish Beaches
 
 Spain is home to some of the most beautiful beaches in the world. Whether you're looking for a quiet spot to relax or a vibrant area filled with activities, the country's coastline has something for everyone. In this guide, we’ll explore the best beaches in Spain for 2025, from hidden gems to popular tourist spots, ensuring you find the perfect sun-kissed shore for your next getaway.
 

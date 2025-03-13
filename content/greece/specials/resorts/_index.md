@@ -7,6 +7,7 @@ tab ='Family resorts'
 type = 'targeted'
 layout = 'targeted'
 tags = ['']
+batch = "Top Family Coastal Resorts in Greece"
 image = "/imgs/greece/resorts-thumb.webp"
 alt_txt = "Family enjoying a beach day at a Greek resort."
 +++

@@ -7,6 +7,7 @@ tab ='Historical sites'
 type = 'targeted'
 layout = 'targeted'
 tags = ['historical']
+batch = "Exploring France's Historical Heritage"
 image = "/imgs/france/hist-thumb.webp"
 alt_txt = "Iconic historical landmarks of France in a beautiful setting."
 +++

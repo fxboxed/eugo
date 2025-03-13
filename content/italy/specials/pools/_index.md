@@ -7,6 +7,7 @@ tab ='Infinity pools'
 type = 'targeted'
 layout = 'targeted'
 categories = ['pools']
+batch = 'Luxury Infinity Pools in Italy'
 tags = ['']
 image = "/imgs/italy/pools-thumb.webp"
 alt_txt = "Infinity pool with scenic Italian landscape and blue sky."

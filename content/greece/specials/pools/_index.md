@@ -7,6 +7,7 @@ tab ='Infinity pools'
 type = 'targeted'
 layout = 'targeted'
 tags = ['']
+batch = "Greece's Top Infinity Pools for Travelers"
 image = "/imgs/greece/pools-thumb.webp"
 alt_txt = "Luxurious infinity pool with sea view in Greece."
 +++

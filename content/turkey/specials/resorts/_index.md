@@ -7,6 +7,7 @@ tab ='Resorts'
 type = 'targeted'
 layout = 'targeted'
 tags = ['resorts']
+batch = "Top Family Coastal Resorts in Turkey"
 image = "/imgs/turkey/resorts-thumb.webp"
 alt_txt = "Family enjoying a beach day at a Turkish resort."
 +++
