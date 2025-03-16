@@ -1,11 +1,11 @@
 +++
-title = " Exploring Europe: A Tourist's Treasure Trove"
+title = "6. Exploring Europe: A Tourist's Treasure Trove"
 date = '2025-02-07T09:36:21Z'
 draft = false
-description = "Each European country offers its unique blend of cuisine, culture, and tourist attractions, making it an ideal destination for various types of vacation. "
+description = "Each European country offers its unique blend of cuisine, culture, and tourist attractions, making it an ideal destination for various types of vacation."
 categories = ["General"]
 author = ["eugo"]
-tab = 'Europe'
+tab = 'Home'
 #layout = "custom"
 image = "/imgs/europe/landmarks.webp"
 alt_txt = " Collage of people wearing traditional European dresses"
@@ -18,6 +18,7 @@ relcanonical = "https://uego.uk/austria"
 ## Why visit Europe?
 
 [Europe's best and biggest](/europe/)<br><br>
+[Seasonal travel in Europe](/europe/seasonal)<br><br>
 
 Europe is like a big playground for travellers. 
 
