@@ -10,6 +10,7 @@ tags = ['water']
 batch = "Top Water Sports Destinations in Turkey"
 image = "/imgs/turkey/water-thumb.webp"
 alt_txt = "People enjoying water sports in Turkey's beautiful coastline."
+relcanonical = "https://eugo.uk/turkey/specials/water/"
 +++
 
 ## Top Water Sports Destinations in Turkey

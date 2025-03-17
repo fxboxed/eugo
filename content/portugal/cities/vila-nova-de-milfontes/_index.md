@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Portugal cities']
 image = "/imgs/portugal/vil-thumb.webp"
 alt_txt = "Romantic outdoor table, family enjoying coastal seafood in vibrant setting."
+relcanonical = "https://eugo.uk/portugal/cities/lagos/vila-nova-de-milfontes"
 +++
 ## Culinary and Family Activities in Vila Nova
 

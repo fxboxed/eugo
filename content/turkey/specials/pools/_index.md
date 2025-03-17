@@ -11,6 +11,7 @@ categories = ['pools']
 batch = "Luxury Infinity Pools in Turkey"
 image = "/imgs/turkey/pools-thumb.webp"
 alt_txt = "Infinity pool with a view of Turkey's landscape"
+relcanonical = "https://eugo.uk/turkey/specials/pools/"
 +++
 ## Luxury Infinity Pools in Turkey
 

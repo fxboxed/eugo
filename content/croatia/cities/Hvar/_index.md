@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Croatia cities']
 image = "/imgs/croatia/hvar-thumb.webp"
 alt_txt = "Couples and families enjoying the scenic beauty of Hvar."
+relcanonical = "https://eugo.uk/croatia/cities/hvar"
 +++
 ## Hvar Island Travel Guide
 

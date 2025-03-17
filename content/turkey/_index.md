@@ -10,6 +10,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/turkey/thumbnail.webp"
 alt_txt = "Turkey's culture, food, nightlife, and tourist attractions"
+relcanonical = "https://eugo.uk/turkey/"
 +++
 
 

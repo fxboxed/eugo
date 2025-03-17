@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Belgium cities']
 image = "/imgs/belgium/bruges-thumb.webp"
 alt_txt = "Canals of Bruges with medieval architecture and flowers."
+relcanonical = "https://uego.uk/belgium/cities/bruges"
 +++
 ## Bruges Travel Guide for All Ages
 

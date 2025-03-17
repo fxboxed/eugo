@@ -10,6 +10,7 @@ tags = ['hiking']
 batch = "Adventure Activities in Spain"
 image = "/imgs/spain/hiking-thumb.jpeg"
 alt_txt = "Hikers and skiers enjoying Spain's beautiful mountainous landscapes."
+relcanonical = "https://eugo.uk/spain/specials/hiking/"
 +++
 
 ## Adventure Activities in Spain

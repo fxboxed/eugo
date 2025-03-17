@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Belgium cities']
 image = "/imgs/belgium/brussels-thumb.webp"
 alt_txt = ""
+relcanonical = "https://uego.uk/belgium/cities/brussels"
 +++
 ## Brussels Travel Guide for All Ages
 

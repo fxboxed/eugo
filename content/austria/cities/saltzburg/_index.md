@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Saltzburg cities']
 image = "/imgs/austria/saltzburg-thumb.webp"
 alt_txt = " Salzburg skyline with mountains and historic architecture."
+relcanonical = "https://uego.uk/austria/cities/salzburg"
 +++
 # Salzburg Travel Guide for All Ages
 

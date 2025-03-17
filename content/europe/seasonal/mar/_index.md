@@ -11,6 +11,7 @@ batch = 'Best European Destinations in March'
 tags = ['culture']
 image = "/imgs/europe/seasonal/mar-thumb.webp"
 alt_txt = " Collage of European landmarks perfect for March travel."
+relcanonical = "https://eugo.uk/europe/seasonal/mar/"
 +++
 
 ## Best European Destinations in March

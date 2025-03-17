@@ -13,6 +13,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/france/thumbnail.webp"
 alt_txt = " Carousel in an old cobble-stoned French village street."
+relcanonical = "https://eugo.uk/france/"
 +++
 
 

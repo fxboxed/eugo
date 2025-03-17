@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Switzerland cities']
 image = "/imgs/switzerland/zu-thumb.webp"
 alt_txt = "Scenic view of Zurich's lake and historic buildings."
+relcanonical = "https://eugo.uk/switzerland/cities/zurich/"
 +++
 # Exploring Zurich: Attractions and Culture
 

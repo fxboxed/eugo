@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/netherlands/thumbnail.jpeg"
 alt_txt = "Colorful collage of Dutch landscapes, food, and nightlife."
+relcanonical = "https://eugo.uk/netherlands/"
 +++
 
 ## Netherlands Travel Guide: Food & Culture

@@ -10,6 +10,7 @@ tags = ['beaches']
 batch = "Top Turkish Beaches: A Sun-Soaked Guide"
 image = "/imgs/turkey/beaches-thumb.webp"
 alt_txt = "Sandy beach in Turkey with turquoise waters and greenery."
+relcanonical = "https://eugo.uk/turkey/specials/beaches/"
 +++
 
 ## Top Turkish Beaches: A Sun-Soaked Guide

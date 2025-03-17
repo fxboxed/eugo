@@ -10,6 +10,7 @@ tags = ['resorts']
 batch = 'Top Family Beach Resorts in Italy'
 image = "/imgs/italy/resorts-thumb.webp"
 alt_txt = "Families enjoying a sunny beach day in Italy."
+relcanonical = "https://eugo.uk/italy/specials/resorts/"
 +++
 
 ## Top Family Beach Resorts in Italy

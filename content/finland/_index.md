@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/finland/thumbnail.webp"
 alt_txt = " Collage of Finland's top tourist resorts at night."
+relcanonical = "https://eugo.uk/finland/"
 +++
 
 

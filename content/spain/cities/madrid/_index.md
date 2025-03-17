@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Spain cities']
 image = "/imgs/spain/mad-thumb.webp"
 alt_txt = "Madrid street scene with vibrant landmarks, lively people, and daylight."
+relcanonical = "https://eugo.uk/spain/cities/madrid/"
 +++
 ## Madrid: Top Activities for All Ages in 2025
 

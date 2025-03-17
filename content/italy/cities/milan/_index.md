@@ -9,6 +9,7 @@ layout = 'Italy cities'
 tags = ['Greece cities']
 image = "/imgs/italy/mi-thumb.webp"
 alt_txt = "Collage of Milan's landmarks and local cuisine."
+relcanonical = "https://eugo.uk/italy/cities/milan/"
 +++
 ## Milan: Attractions and Local Experiences
 

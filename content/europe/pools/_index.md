@@ -12,6 +12,7 @@ type = 'single'
 layout = 'single'
 image = "/imgs/europe/pool-thumb.webp"
 alt_txt = "An infity poool surrounded by trees and overlooking a deep blue sea"
+relcanonical = "https://eugo.uk/europe/pools"
 +++
 ## Exploring Europe's biggest and best infinity pools
 

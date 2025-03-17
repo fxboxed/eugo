@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/ireland/thumbnail.webp"
 alt_txt = "Ireland Castle in front of a calm lake."
+relcanonical = "https://eugo.uk/ireland/"
 +++
 
 ## Top Ten Tourist Attractions in Ireland

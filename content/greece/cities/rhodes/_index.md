@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Greece cities']
 image = "/imgs/greece/rh-thumb.webp"
 alt_txt = "Rhodes nightlife with families, couples, and local cuisine."
+relcanonical = "https://eugo.uk/greece/cities/rhodes/"
 +++
 ## Rhodes: Nightlife, Culture, and Activities Guide
 

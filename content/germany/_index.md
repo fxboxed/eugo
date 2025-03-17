@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/germany/thumbnail.webp"
 alt_txt = " The Bastei Bridge with moss covered rock formation."
+relcanonical = "https://eugo.uk/gemany/"
 +++
 
 

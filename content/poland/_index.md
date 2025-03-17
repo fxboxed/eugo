@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/poland/thumbnail.webp"
 alt_txt = "Vibrant Poland culture, landmarks, markets, and traditional food."
+relcanonical = "https://eugo.uk/poland/"
 +++
 
 

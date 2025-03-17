@@ -10,6 +10,7 @@ tags = ['resorts']
 batch = "Top Family Coastal Resorts in Turkey"
 image = "/imgs/turkey/resorts-thumb.webp"
 alt_txt = "Family enjoying a beach day at a Turkish resort."
+relcanonical = "https://eugo.uk/turkey/specials/resorts/"
 +++
 
 ## Top Family Coastal Resorts in Turkey

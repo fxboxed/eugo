@@ -10,6 +10,7 @@ tags = ['skiing']
 batch = "Top Ski Resorts in France 2025 Guide"
 image = "/imgs/france/ski-thumb.jpeg"
 alt_txt = "Snowy French Alps with skiers on scenic slopes."
+relcanonical = "https://eugo.uk/france/specials/skiing"
 +++
 # Top Ski Resorts in France 2025 Guide
 

@@ -10,6 +10,7 @@ tags = ['surfing']
 batch = "Surfing Adventures in Spain"
 image = "/imgs/spain/surf-thumb.webp"
 alt_txt = " Surfers riding waves on Spain's beautiful coastline."
+relcanonical = "https://eugo.uk/spain/specials/surfing/"
 +++
 
 ## Surfing Adventures in Spain

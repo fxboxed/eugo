@@ -11,4 +11,5 @@ type = 'euro'
 layout = 'euro'
 image = ""
 alt_txt = ""
+relcanonical = "https://eugo.uk/europe/seasonal/sept/"
 +++

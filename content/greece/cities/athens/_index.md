@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Greece cities']
 image = "/imgs/greece/ath-thumb.webp"
 alt_txt = "Couples dining with a sunset view of the Acropolis."
+relcanonical = "https://eugo.uk/greece/cities/athens/"
 +++
 # Xxxx city 1 index content
 

@@ -10,6 +10,7 @@ tags = ['water-sports']
 batch = "Top Water Sports Destinations in Greece"
 image = "/imgs/greece/water-thumb.webp"
 alt_txt = "People engaged in water sports activities in Greece"
+relcanonical = "https://eugo.uk/greece/specials/water/"
 +++
 
 ## Top Water Sports Destinations in Greece

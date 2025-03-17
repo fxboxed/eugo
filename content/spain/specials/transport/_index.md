@@ -10,6 +10,7 @@ tags = ['transport']
 batch = "Spain Travel: Transport and Accessibility Guide"
 image = "/imgs/spain/trans-thumb.webp"
 alt_txt = "Colorful street scene in Spain with diverse transportation options."
+relcanonical = "https://eugo.uk/spain/specials/transport/"
 +++
 
 # Spain Travel: Transport and Accessibility Guide

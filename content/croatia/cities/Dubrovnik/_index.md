@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Croatia cities']
 image = "/imgs/croatia/dubrovnik-thumb.webp"
 alt_txt = " Couples and families enjoying Dubrovnik's beautiful streets at sunset."
+relcanonical = "https://eugo.uk/croatia/cities/dubrovnik"
 +++
 ## Dubrovnik: A Perfect Destination for All
 

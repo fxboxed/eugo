@@ -10,6 +10,7 @@ tags = ['water']
 batch = "Top Water Sports Destinations in Italy"
 image = "/imgs/italy/water-thumb.jpeg"
 alt_txt = "People enjoying water sports in a sunny Italian coastal setting."
+relcanonical = "https://eugo.uk/italy/specials/water/"
 +++
 
 ## Top Water Sports Destinations in Italy

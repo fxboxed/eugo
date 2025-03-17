@@ -10,6 +10,7 @@ tags = ['family resorts']
 batch = "Top Family Resorts in France"
 image = "/imgs/france/families-thumb.webp"
 alt_txt = "Family enjoying a resort pool under sunny skies in France."
+relcanonical = "https://eugo.uk/france/specials/families/"
 +++
 
 ## Top Family Resorts in France

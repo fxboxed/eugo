@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['UK cities']
 image = "/imgs/uk/ed-thumb.webp"
 alt_txt = "Edinburgh nighttime scene with vibrant couples, families, and elderly outdoors"
+relcanonical = "https://eugo.uk/uk/cities/edinburgh"
 +++
 ## Edinburgh tourist highlights for All Ages
 

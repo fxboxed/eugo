@@ -12,6 +12,7 @@ type = 'single'
 layout = 'single'
 image = "/imgs/europe/river-thumb.webp"
 alt_txt = "Scenic river cruise with boats and lush landscapes."
+relcanonical = "https://eugo.uk/europe/river-cruises"
 +++
 
 ## Top European River Cruises Guide

@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Denmark cities']
 image = "/imgs/denmark/ra-thumb.webp"
 alt_txt = "Culinary and nightlife scene in Randers at night."
+relcanonical = "https://eugo.uk/denmark/cities/randers"
 +++
 ## Randers Culinary and Nightlife Guide
 

@@ -10,6 +10,7 @@ tags = ['']
 batch = "Top Hiking Destinations in Greece"
 image = "/imgs/greece/hiking-thumb.webp"
 alt_txt = "Hiker overlooking a scenic Greek landscape with mountains."
+relcanonical = "https://eugo.uk/greece/specials/hiking/"
 +++
 
 ## Top Hiking Destinations in Greece

@@ -10,6 +10,7 @@ batch = 'April Travel: Top 5 European Destinations'
 tags = ['seasonal']
 image = "/imgs/europe/seasonal/apr-thumb.webp"
 alt_txt = "Beautiful European landmarks in springtime bloom and sunshine."
+relcanonical = "https://eugo.uk/europe/seasonal/apr"
 +++
 
 ## April Travel: Top 5 European Destinations

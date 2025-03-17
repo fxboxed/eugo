@@ -11,6 +11,7 @@ batch = 'Europe: Top European Destinations in January'
 tags = ['seasonal']
 image = "/imgs/europe/seasonal/jan-thumb.webp"
 alt_txt = "Winter scene in a European city during January."
+relcanonical = "https://eugo.uk/europe/seasonal/jan/"
 +++
 
 January can feel like a long month, especially after the excitement of the holidays. But it’s also a great time to explore Europe, where you can find some warm spots to escape the winter chill. Whether you're looking for a sunny getaway or a cozy city adventure, there are plenty of options. Here are the top 5 best European countries to visit in January, perfect for singles, couples, and families alike!

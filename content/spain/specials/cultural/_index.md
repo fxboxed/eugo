@@ -10,6 +10,7 @@ tags = ['cultural']
 batch = "Discovering Spain's Hidden Treasures"
 image = "/imgs/spain/culture-thumb.webp"
 alt_txt = "Collage of Spain's historic architecture and cultural landmarks."
+relcanonical = "https://eugo.uk/spain/specials/culteral/"
 +++
 
 ## Discovering Spain's Hidden Treasures

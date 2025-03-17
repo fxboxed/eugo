@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/greece/thumbnail.webp"
 alt_txt = " Crowded Zakynthos beach with clear blue sky."
+relcanonical = "https://eugo.uk/greece/"
 +++
 
 Dreaming of a Greek getaway? Well, you're in for a treat. Greece is packed with spots that mix jaw-dropping views, rich history, and some of the best food you'll ever taste. 

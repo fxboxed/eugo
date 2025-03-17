@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Karlovy Vary cities']
 image = "/imgs/czechia/karkovy-thumb.webp"
 alt_txt = "Nightlife scene in Karlovy Vary with couples and families"
+relcanonical = "https://eugo.uk/czechia/cities/karlovy-vary"
 +++
 ## Karlovy Vary: Nightlife and Activities Guide
 

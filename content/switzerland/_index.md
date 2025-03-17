@@ -9,7 +9,9 @@ tab = "Switzerland"
 type = 'countries'
 layout = 'cities'
 image = "/imgs/switzerland/thumbnail.webp"
-alt_txt = "Scenic landscapes, food, nightlife, and culture of Slovakia."
+alt_txt = "Scenic landscapes, food, nightlife, and culture of Switzerland."
+relcanonical = "https://eugo.uk/switzerland/"
+
 +++
 
 

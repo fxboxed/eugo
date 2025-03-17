@@ -10,6 +10,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/uk/thumbnail.jpeg"
 alt_txt = "Collage of famous UK landmarks including Big Ben and Stonehenge"
+relcanonical = "https://eugo.uk/uk/"
 +++
 
 Thinking about visiting the UK? You're in for a treat! The UK is packed with famous spots that are just waiting to be explored. From ancient stones to royal palaces, there's a bit of history and wonder around every corner. 

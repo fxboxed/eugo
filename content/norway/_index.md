@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/norway/thumbnail.webp"
 alt_txt = "Scenic landscapes of Norway with fjords and wooden houses."
+relcanonical = "https://eugo.uk/norway/"
 +++
 
 

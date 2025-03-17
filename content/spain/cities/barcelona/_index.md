@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Spain cities']
 image = "/imgs/spain/bar-thumb.webp"
 alt_txt = "Sunny Barcelona street with traditional architecture and lively public squares."
+relcanonical = "https://eugo.uk/spain/cities/barcelona/"
 +++
 ## Barcelona Travel Guide for All Ages
 

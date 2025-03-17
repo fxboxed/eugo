@@ -10,6 +10,7 @@ tags = ['skiing']
 batch = "Italy's Top Hiking and Skiing Destinations"
 image = "/imgs/italy/skiing-thumb.webp"
 alt_txt = "Italian Alps landscape with hiking trail and snowy peaks."
+relcanonical = "https://eugo.uk/italy/specials/skiing/"
 +++
 
 ## Italy's Top Hiking and Skiing Destinations

@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['France cities']
 image = "/imgs/france/par-thumb.webp"
 alt_txt = " Couple having a picnic near the Eiffel Tower."
+relcanonical = "https://eugo.uk/france/cities/paris/"
 +++
 ## Paris Travel Guide for All Ages
 

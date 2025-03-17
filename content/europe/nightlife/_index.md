@@ -12,6 +12,7 @@ type = 'single'
 layout = 'single'
 image = "/imgs/europe/nl-thumb.webp"
 alt_txt = "Colorful city nightlife with lively streets and illuminated building"
+relcanonical = "https://eugo.uk/europe/nightlife"
 +++
 
 ## Top European Cities for Nightlife Adventures

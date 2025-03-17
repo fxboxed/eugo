@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Denmark cities']
 image = "/imgs/denmark/cop-thumb.webp"
 alt_txt = "Colorful buildings along Nyhavn waterfront in Copenhagen."
+relcanonical = "https://eugo.uk/denmark/cities/copenhagen"
 +++
 ## Copenhagen Travel Guide for All Ages
 

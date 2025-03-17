@@ -10,4 +10,5 @@ type = 'euro'
 layout = 'euro'
 image = ""
 alt_txt = ""
+relcanonical = "https://uego.uk/austria/cities/"
 +++

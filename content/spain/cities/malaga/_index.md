@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Spain cities']
 image = "/imgs/spain/ma-thumb.webp"
 alt_txt = " Málaga's vibrant culture, cuisine, and scenic coastal views."
+relcanonical = "https://eugo.uk/spain/cities/malaga/"
 +++
 # # Málaga 2025: Events and Local Highlights
 

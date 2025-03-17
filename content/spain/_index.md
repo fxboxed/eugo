@@ -11,6 +11,7 @@ layout = 'cities'
 target= 'sp beaches'
 image = "/imgs/spain/thumbnail.webp"
 alt_txt = "Collage of Spanish food, culture, and lively attractions."
+relcanonical = "https://eugo.uk/spain/"
 +++
 
 Spain's got this magic mix of old and new that's just hard to resist. Whether you're wandering through ancient streets, munching on tapas, or dancing the night away, there's something for everyone. 

@@ -10,6 +10,7 @@ tags = ['resorts']
 batch = "Top Spanish Resorts for Getaways"
 image = "/imgs/spain/resorts-thumb.webp"
 alt_txt = "Stunning beach resort in Spain with sunset and palm trees."
+relcanonical = "https://eugo.uk/spain/specials/resorts/"
 +++
 
 ## Top Spanish Resorts for Getaways

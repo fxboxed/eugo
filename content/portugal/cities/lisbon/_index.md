@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Portugal cities']
 image = "/imgs/portugal/lis-thumb.webp"
 alt_txt = "Colorful streets of Lisbon with outdoor cafes and couples."
+relcanonical = "https://eugo.uk/portugal/cities/lisbon/"
 +++
 # Exploring Lisbon: Culture, Food, and Fun
 

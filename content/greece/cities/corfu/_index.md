@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['X cities']
 image = "/imgs/greece/cor-thumb.webp"
 alt_txt = "Scenic landscape of Corfu with beaches and hills."
+relcanonical = "https://eugo.uk/greece/cities/corfu/"
 +++
 ## Corfu Travel Guide for All Ages
 

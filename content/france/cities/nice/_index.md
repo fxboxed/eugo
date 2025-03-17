@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['France cities']
 image = "/imgs/france/ni-thumb.webp"
 alt_txt = "Couples and families dining by the seaside in Nice."
+relcanonical = "https://eugo.uk/france/cities/nice/"
 +++
 ## Nice: Nightlife, Traditions, and Cuisine Guide
 

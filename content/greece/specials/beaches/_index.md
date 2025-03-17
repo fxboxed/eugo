@@ -10,6 +10,7 @@ tags = ['beaches']
 batch = "Greece's Top Beaches: A Travel Guide"
 image = "/imgs/greece/beaches-thumb.webp"
 alt_txt = "Aerial view of a beautiful Greek beach with turquoise water."
+relcanonical = "https://eugo.uk/greece/specials/beaches/"
 +++
 
 ## Greece's Top Beaches: A Travel Guide

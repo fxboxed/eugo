@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Germany cities']
 image = "/imgs/germany/ha-thumb.webp"
 alt_txt = " Scenic view of Hamburg's skyline and vibrant streets."
+relcanonical = "https://eugo.uk/germany/cities/hamburg/"
 +++
 ## Hamburg: A Comprehensive Local Guide
 

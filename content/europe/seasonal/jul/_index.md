@@ -11,6 +11,7 @@ batch = 'Top European Destinations for July Travel'
 tags = ['seasonal']
 image = "/imgs/europe/seasonal/jul-thumb.webp"
 alt_txt = " Iconic European landmarks in a sunny July atmosphere."
+relcanonical = "https://eugo.uk/europe/seasonal/jul/"
 +++
 ## Top European Destinations for July Travel
 

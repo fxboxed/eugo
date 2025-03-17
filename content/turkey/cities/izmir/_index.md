@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Turkey cities']
 image = "/imgs/turkey/iz-thumb.webp"
 alt_txt = "Coastal sunset in Izmir with people enjoying leisure."
+relcanonical = "https://eugo.uk/turkey/cities/izmir/"
 +++
 ## Exploring Izmir: A Guide for All
 

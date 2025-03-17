@@ -10,6 +10,7 @@ batch = 'Top European Travel Destinations'
 tags = ['culture']
 image = "/imgs/europe/places-thumb.webp"
 alt_txt = "Collage of famous European landmarks and scenic views."
+relcanonical = "https://eugo.uk/europe/best-spots"
 +++
 
 ## Top European Travel Destinations

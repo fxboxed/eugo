@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/denmark/thumbnail.webp"
 alt_txt = " Colorful Danish landmarks and street food collage image"
+relcanonical = "https://eugo.uk/denmark/"
 +++
 
 Denmark's got a bit of everything for everyone. Whether you're into history, culture, nightlife, or just good food, there's something here that'll catch your eye. We’re diving into the top 10 must-see tourist attractions in Denmark. 

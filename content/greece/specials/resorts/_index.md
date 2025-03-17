@@ -10,6 +10,7 @@ tags = ['']
 batch = "Top Family Coastal Resorts in Greece"
 image = "/imgs/greece/resorts-thumb.webp"
 alt_txt = "Family enjoying a beach day at a Greek resort."
+relcanonical = "https://eugo.uk/greece/specials/resorts/"
 +++
 
 ## Top Family Coastal Resorts in Greece

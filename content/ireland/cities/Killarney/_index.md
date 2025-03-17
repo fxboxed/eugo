@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Ireland cities']
 image = "/imgs/ireland/kil-thumb.webp"
 alt_txt = "Scenic Killarney landscape with cottages and lush greenery."
+relcanonical = "https://eugo.uk/ireland/cities/killarney/" 
 +++
 # Killarney: Traditions, Activities, and Cuisine
 

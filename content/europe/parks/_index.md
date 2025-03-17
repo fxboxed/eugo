@@ -12,6 +12,7 @@ type = 'single'
 layout = 'single'
 image = "/imgs/europe/park-thumb.webp"
 alt_txt = "Disneyland Paris lit up against a night time sky"
+relcanonical = "https://eugo.uk/europe/parks"
 +++
 
 ## Top 5 European Theme Parks to Visit

@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Norway cities']
 image = "/imgs/norway/ber-thumb.webp"
 alt_txt = "Bergen waterfront with colorful houses and traditional cuisine."
+relcanonical = "https://eugo.uk/norway/cities/bergen/"
 +++
 # # Bergen: History, Culture, and Cuisine
 

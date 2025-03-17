@@ -11,6 +11,7 @@ batch = 'Top European Destinations for June Travel'
 tags = ['seasonal']
 image = "/imgs/europe/seasonal/jun-thumb.webp"
 alt_txt = "Colorful summer scene in Europe with outdoor cafes."
+relcanonical = "https://eugo.uk/europe/seasonal/jun/"
 +++
 
 ## Top European Destinations for June Travel

@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Cyprus cities']
 image = "/imgs/cyprus/pa-thumb.webp"
 alt_txt = "Beautiful coastal view of Paphos with families enjoying"
+relcanonical = "https://eugo.uk/cyprus/cities/paphos"
 +++
 ## Paphos Travel Guide 2025
 

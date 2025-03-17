@@ -10,6 +10,7 @@ tags = ['history']
 batch= "Turkey's Rich Historical and Cultural Heritage"
 image = "/imgs/turkey/hist-thumb.webp"
 alt_txt = "A collage of Turkey's historical sites and cultural elements."
+relcanonical = "https://eugo.uk/turkey/specials/history/"
 +++
 
 ## Turkey's Rich Historical and Cultural Heritage

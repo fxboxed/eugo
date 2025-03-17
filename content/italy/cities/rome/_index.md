@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Italy cities']
 image = "/imgs/italy/rome-thumb.webp"
 alt_txt = "Scenic view of Rome with couples and landmarks."
+relcanonical = "https://eugo.uk/italy/cities/rome/"
 +++
 ## Rome Travel Guide for All Ages
 

@@ -10,6 +10,7 @@ layout = 'targeted'
 tags = ['beaches']
 image = "/imgs/italy/beach-thumb.webp"
 alt_txt = " Beautiful Italian beach with clear waters and golden sands."
+relcanonical = "https://eugo.uk/italy/specials/beaches/"
 +++
 
 ## Top Italian Beaches to Visit

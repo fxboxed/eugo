@@ -10,6 +10,7 @@ batch = 'Top European Destinations for May Travel'
 tags = ['seasonal']
 image = "/imgs/europe/seasonal/may-thumb.webp"
 alt_txt = "Scenic European landscape with blooming flowers and sunshine."
+relcanonical = "https://eugo.uk/europe/seasonal/may/"
 +++
 
 ## Top European Destinations for May Travel

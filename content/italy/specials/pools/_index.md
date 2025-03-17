@@ -11,6 +11,7 @@ batch = 'Luxury Infinity Pools in Italy'
 tags = ['']
 image = "/imgs/italy/pools-thumb.webp"
 alt_txt = "Infinity pool with scenic Italian landscape and blue sky."
+relcanonical = "https://eugo.uk/italy/specials/pools/"
 +++
 
 ## Luxury Infinity Pools in Italy

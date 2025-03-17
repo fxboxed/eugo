@@ -10,6 +10,7 @@ tags = ['travel']
 batch = "Greece Travel: Transport and Accessibility Guide"
 image = "/imgs/greece/travel-thumb.webp"
 alt_txt = "Aerial view of Greece's coastline with boats and villages"
+relcanonical = "https://eugo.uk/greece/specials/transport/"
 +++
 
 ## Greece Travel: Transport and Accessibility Guide

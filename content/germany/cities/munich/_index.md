@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Germany cities']
 image = "/imgs/germany/mun-thumb.webp"
 alt_txt = "Couples, families, and elderly enjoying Munich's lively nightlife."
+relcanonical = "https://eugo.uk/germany/cities/munich/"
 +++
 ## Munich Nightlife for All Ages
 

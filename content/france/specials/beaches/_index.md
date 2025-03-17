@@ -10,6 +10,7 @@ tags = ['beaches']
 batch = "Discover the Best Beach Vacations in France"
 image = "/imgs/france/beach-thumb.jpeg"
 alt_txt = "Beautiful beach in France with turquoise waters and umbrellas."
+relcanonical = "https://eugo.uk/france/specials/beaches"
 +++
 ## Discover the Best Beach Vacations in France
 

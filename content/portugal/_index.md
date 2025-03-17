@@ -12,6 +12,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/portugal/thumbnail.jpeg"
 alt_txt = " Colorful landscapes and cuisine of popular tourist spots in Portugal"
+relcanonical = "https://eugo.uk/portugal/"
 +++
 
 

@@ -12,6 +12,7 @@ type = 'single'
 layout = 'single'
 image = "/imgs/europe/warm-thumb.webp"
 alt_txt = "Colorful spring landscape with travelers in a warm destination."
+relcanonical = "https://eugo.uk/europe/warm"
 +++
 
 ## Warm European Destinations for April Travel

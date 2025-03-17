@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Cyprus cities']
 image = "/imgs/cyprus/larn-thumb.webp"
 alt_txt = "Couples and families enjoying Larnaca's beach at sunset."
+relcanonical = "https://eugo.uk/cyprus/cities/larnaca"
 +++
 ## Larnaca Travel Guide for All Ages
 

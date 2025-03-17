@@ -10,6 +10,7 @@ tags = ['culture']
 batch = 'Accessible Travel in Italy'
 image = "/imgs/italy/trans-thumb.webp"
 alt_txt = "Vibrant transport options amidst Italy's famous landmarks."
+relcanonical = "https://eugo.uk/italy/specials/transport/"
 +++
 
 ## Accessible Travel in Italy

@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Turkey cities']
 image = "/imgs/turkey/ist-thumb.webp"
 alt_txt = " Istanbul skyline at sunset with ancient mosques and vibrant streets."
+relcanonical = "https://eugo.uk/turkey/cities/istanbul/"
 +++
 ## Istanbul Travel Guide for All Ages
 

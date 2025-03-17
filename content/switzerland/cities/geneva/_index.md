@@ -9,6 +9,7 @@ layout = 'cities'
 tags = ['Switzerland cities']
 image = "/imgs/switzerland/gen-thumb.webp"
 alt_txt = "Collage of Geneva's landmarks, cuisine, and nightlife."
+relcanonical = "https://eugo.uk/switzerland/cities/geneva/"
 +++
 ## Geneva: Attractions, Culture, and Cuisine
 
