@@ -1,6 +1,6 @@
 
 +++
-title = "8. Best European countries to visit in December"
+title = "L. Best European countries to visit in December"
 description = "Explore the top 5 European countries to visit in December for festive markets, sightseeing, and family fun!"
 date = 2023-01-01T08:00:00-07:00
 draft = false

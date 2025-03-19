@@ -1,6 +1,6 @@
 
 +++
-title = "6. Best European countries to visit in June"
+title = "F. Best European countries to visit in June"
 description = "Explore the best European countries to visit in June for festivals, sightseeing, and perfect weather."
 date = 2023-01-01T08:00:00-07:00
 draft = false

@@ -1,6 +1,6 @@
 
 +++
-title = "7. Best European countries to visit in July"
+title = "G. Best European countries to visit in July"
 description = "Explore the top 5 best European countries to visit in July for festivals, sightseeing, and perfect summer climates."
 date = 2023-01-01T08:00:00-07:00
 draft = false

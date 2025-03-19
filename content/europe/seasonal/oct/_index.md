@@ -1,6 +1,6 @@
 
 +++
-title = "8. Best European countries to visit in October"
+title = "J. Best European countries to visit in October"
 description = "Discover the top 5 best European countries to visit in October for festivals, sightseeing, and perfect climates."
 date = 2023-01-01T08:00:00-07:00
 draft = false

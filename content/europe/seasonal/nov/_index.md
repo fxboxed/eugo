@@ -1,6 +1,6 @@
 
 +++
-title = "8. Best European countries to visit in November"
+title = "K. Best European countries to visit in November"
 description = "Explore the top European countries to visit in November for markets, festivals, and sightseeing."
 date = 2023-01-01T08:00:00-07:00
 draft = false
