@@ -7,7 +7,7 @@ tab = 'Scuba diving'
 type = 'single'
 layout = 'single'
 batch = 'Top European Scuba Diving Destinations for all ages'
-tags = ['adventure']
+
 image = "/imgs/europe/adventure/sd-thumb.webp"
 alt_txt = "Scuba diver exploring colorful coral reefs underwater."
 relcanonical = "https://eugo.uk/europe/adventure/scuba-diving"
@@ -77,7 +77,7 @@ You'll see stuff like eagle rays, octopus, and maybe even a scorpionfish. Most p
 
 ## 5\. Malta
 
-Malta, a jewel in the Mediterranean, is calling your name! You'll find a mix of caves, reefs, and wrecks that make it a top spot for underwater exploration. Malta's strategic location has made it a focal point throughout history, and you can explore shipwrecks dating back to World War II. The accessibility of [Malta's underwater landscape](https://www.tripadvisor.com/Attractions-g190311-Activities-c61-t194-Malta.html), whether from shore or by boat, makes it perfect for both beginners and advanced divers.
+Malta, a jewel in the Mediterranean, is calling your name! You'll find a mix of caves, reefs, and wrecks that make it a top spot for underwater exploration. Malta's strategic location has made it a focal point throughout history, and you can explore shipwrecks dating back to World War II. The accessibility of Malta's underwater landscape, whether from shore or by boat, makes it perfect for both beginners and advanced divers.
 
 *   Warm waters
 *   _Easily reachable islands_
@@ -136,7 +136,7 @@ France, stretching from the North Sea to the Mediterranean, presents some cool d
 *   Marseille and the Calanques National Park
 *   Nice & Cap Ferrat
 
-One of the best things about diving in France is the chance to see some awesome marine life. Think groupers, octopuses, and even seahorses! **It's a great place for experienced divers**, especially if you're into wreck diving. You can [sail to the Lerins Islands](https://www.tripadvisor.com/Attractions-g187221-Activities-c61-t194-Cannes_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html) and enjoy the _turquoise waters_.
+One of the best things about diving in France is the chance to see some awesome marine life. Think groupers, octopuses, and even seahorses! **It's a great place for experienced divers**, especially if you're into wreck diving. You can sail to the Lerins Islands and enjoy the _turquoise waters_.
 
 > Diving in France is an experience that combines history, nature, and a bit of adventure. It's not just about what you see underwater, but also about the beautiful landscapes and culture you experience on land.
 
@@ -173,7 +173,7 @@ Here's a quick look at what you might see:
 
 ## 11\. Madeira
 
-Madeira, a Portuguese island, is a fantastic spot for diving. The water is clear, and the marine life is abundant. You'll find a mix of underwater landscapes, from reefs to wrecks, making it a diverse place to explore. It's a great option if you're looking for something a little different from the typical Mediterranean [diving locations](https://www.tripadvisor.com/Attractions-g189165-Activities-c61-t194-Madeira_Islands.html).
+Madeira, a Portuguese island, is a fantastic spot for diving. The water is clear, and the marine life is abundant. You'll find a mix of underwater landscapes, from reefs to wrecks, making it a diverse place to explore. It's a great option if you're looking for something a little different from the typical Mediterranean diving locations.
 
 One of the cool things about diving here is the year-round mild climate. This means you can pretty much plan a trip any time and still have good conditions. Plus, the island itself is beautiful, so you can combine your underwater adventures with some hiking and sightseeing.
 
@@ -199,13 +199,13 @@ Scotland is a great place for _wreck diving_ enthusiasts. The cold waters have p
 
 > Diving in Scotland is an adventure. The visibility can vary, and the conditions can be challenging, but the rewards are well worth it. You'll see things you won't find anywhere else, and you'll come away with some incredible stories to tell.
 
-**Scapa Flow is probably the most famous diving spot in Scotland**, known for its WWI and WWII shipwrecks. But don't overlook other great locations like the Sound of Mull and St. Abbs. Each offers its own unique charm and underwater scenery. If you're looking for a guided experience, check out [Basking Shark Scotland](https://www.tripadvisor.com/Attractions-g186485-Activities-c61-t194-Scotland.html) for an unforgettable adventure.
+**Scapa Flow is probably the most famous diving spot in Scotland**, known for its WWI and WWII shipwrecks. But don't overlook other great locations like the Sound of Mull and St. Abbs. Each offers its own unique charm and underwater scenery. If you're looking for a guided experience, check out Basking Shark Scotland for an unforgettable adventure.
 
 ## 13\. Turkey
 
 Turkey, where the Aegean and Mediterranean seas meet, is a fantastic place for diving. You'll find a mix of ancient history and natural beauty here. Kaş is often called the diving capital of Turkey, and it's a popular spot for divers from all over. **It's even ranked as one of the top 100 dive sites in the world!** You'll be amazed by the colorful sea life and historical artifacts you can see underwater.
 
-Then there's Çanakkale, also known as Gallipoli. It's home to WWI wrecks that are still in good condition, perfect for technical divers. But that's not all – Bodrum, Fethiye, Antalya, and Ayvalik are also great places to [explore the Aegean](https://www.tripadvisor.com/Attractions-g297962-Activities-c61-t194-Antalya_Turkish_Mediterranean_Coast.html) if you're looking to dive in Turkey.
+Then there's Çanakkale, also known as Gallipoli. It's home to WWI wrecks that are still in good condition, perfect for technical divers. But that's not all – Bodrum, Fethiye, Antalya, and Ayvalik are also great places to explore the Aegean if you're looking to dive in Turkey.
 
 *   Kaş: Known as the diving capital.
 *   Çanakkale (Gallipoli): Famous for WWI wrecks.
@@ -269,7 +269,7 @@ Alright, let's talk about the Canary Islands. You might know them for their beac
 
 ### Diving in Tenerife
 
-Tenerife is a big draw, and for good reason. The island's volcanic past has sculpted an underwater playground of caves, tunnels, and unique rock formations. You'll find black sand beaches above water, and below, a thriving marine ecosystem. You can [explore scuba diving in Tenerife](https://www.tripadvisor.com/Attractions-g187466-Activities-c61-t194-Canary_Islands.html) with a personal instructor.
+Tenerife is a big draw, and for good reason. The island's volcanic past has sculpted an underwater playground of caves, tunnels, and unique rock formations. You'll find black sand beaches above water, and below, a thriving marine ecosystem. You can explore scuba diving in Tenerife with a personal instructor.
 
 ### What You'll See
 

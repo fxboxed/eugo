@@ -56,13 +56,13 @@ Málaga in March? Yes, please! You're probably thinking of escaping the last of 
 
 > Málaga is a city that offers a great mix of culture, history, and relaxation. You can visit the Picasso Museum, explore the Alcazaba fortress, or simply wander through the charming streets of the old town. And don't forget to indulge in the local cuisine – the seafood is amazing!
 
-If you're looking for a relaxed and sunny getaway, Málaga in March is definitely worth considering. You can even book a [local tour guide](https://www.tripadvisor.com/Attraction_Review-g187438-d15220482-Reviews-Oh_My_Good_Guide_Tour_Malaga_like_a_local-Malaga_Costa_del_Sol_Province_of_Malag.html) to show you around!
+If you're looking for a relaxed and sunny getaway, Málaga in March is definitely worth considering. You can even book a local tour guide to show you around!
 
 ## 3\. London
 
 ![Spring in London with cherry blossoms and iconic landmarks.](/imgs/europe/seasonal/mar-3.webp)
 
-Okay, so [London](/uk/cities/london) in March might not scream 'tropical paradise,' but hear me out. It's got a certain _charm_ that's hard to resist, especially if you're after a [United Kimgdom](/uk/cities/london)  city break packed with culture and history. Plus, you won't be battling the summer crowds, which is always a win.
+Okay, so [London](/uk/cities/london) in March might not scream 'tropical paradise,' but hear me out. It's got a certain _charm_ that's hard to resist, especially if you're after a United Kimgdom city break packed with culture and history. Plus, you won't be battling the summer crowds, which is always a win.
 
 First off, **the museums are incredible and mostly free**. You could spend days just wandering around the British Museum or the National Gallery. And let's not forget the Tower of London – a must-see, even if it's a bit touristy.
 

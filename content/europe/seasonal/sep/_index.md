@@ -149,7 +149,7 @@ Here's a few things you might want to consider:
 *   Visiting the charming villages like Betws-y-Coed.
 *   Taking a ride on the Snowdon Mountain Railway.
 
-I've heard the [best times to visit](https://www.tripadvisor.co.uk/ShowTopic-g186445-i2065-k15060545-Best_Week_to_Visit_Snowdonia-Snowdonia_Eryri_National_Park_North_Wales_Wales.html) are the last week of June to the first week of July, but September is a close second. You'll miss the school holiday rush, and the scenery is just gorgeous. Plus, you might even snag a deal on accommodation since it's the shoulder season. _Definitely_ worth checking out if you're into nature and adventure.
+I've heard the best times to visit are the last week of June to the first week of July, but September is a close second. You'll miss the school holiday rush, and the scenery is just gorgeous. Plus, you might even snag a deal on accommodation since it's the shoulder season. _Definitely_ worth checking out if you're into nature and adventure.
 
 ## 9\. Brussels
 
@@ -245,7 +245,7 @@ September in [Munich]? Oh, you're in for a treat! The weather is usually pretty 
 Here are a few things you might want to consider on [your trip to Munich(/germany/cities/munich)]:
 
 *   The Deutsches Museum is a must-see for science and technology buffs.
-*   Take a day trip to Neuschwanstein Castle; it's straight out of a fairytale. Consider booking [tours to Neuschwanstein Castle](https://www.tripadvisor.com/Attractions-g187309-Activities-Munich_Upper_Bavaria_Bavaria.html) in advance.
+*   Take a day trip to Neuschwanstein Castle; it's straight out of a fairytale. Consider booking tours to Neuschwanstein Castlein advance.
 *   Don't forget to sample some traditional Bavarian food – pretzels, sausages, and, of course, beer!
 
 ## 15\. Santorini
@@ -347,7 +347,6 @@ Here are a few things you might want to check out:
 *   CERN Science Gateway: If you're into science, this is a must-see.
 *   Old Town: Explore the historic streets and buildings.
 
-Don't forget to check out the [personalized recommendations](https://www.tripadvisor.com/Attractions-g188057-Activities-Geneva.html) for tailored suggestions.
 
 ## 21\. Edinburgh
 
@@ -417,7 +416,7 @@ Here are a few things you might want to consider:
 *   **Visit Lake Zurich:** Take a boat trip or just stroll along the shore. It's super relaxing.
 *   **Hike Uetliberg:** For amazing views of the city and the Alps. It's a bit of a climb, but totally worth it.
 
-And don't forget to try some Swiss chocolate! You can [explore Lake Zurich](https://www.tripadvisor.com/Attractions-g188113-Activities-Zurich.html) and the surrounding area, it's a must.
+And don't forget to try some Swiss chocolate! You can [xplore Lake Zurich] and the surrounding area, it's a must.
 
 ## 25\. Malta and more
 

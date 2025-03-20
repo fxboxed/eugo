@@ -59,7 +59,7 @@ Here are a few things you might want to check out:
 
 > Don't forget to try some tapas! Barcelona is known for its delicious food, and tapas are a great way to sample a variety of dishes. Find a local spot away from the main tourist areas for a more authentic experience.
 
-If you're traveling with kids, Barcelona is a fantastic choice. It's a very walkable city, and there are plenty of parks and playgrounds to keep them entertained. Plus, many of the attractions are kid-friendly, like the [Sagrada Familia](https://www.tripadvisor.com/Attractions-g187497-Activities-Barcelona_Catalonia.html) and the Barcelona Aquarium. You can also consider booking tours for popular attractions like the Picasso Museum. The city’s public transportation is also easy to use, making getting around a breeze.
+If you're traveling with kids, Barcelona is a fantastic choice. It's a very walkable city, and there are plenty of parks and playgrounds to keep them entertained. Plus, many of the attractions are kid-friendly, like the Sagrada Familia and the Barcelona Aquarium. You can also consider booking tours for popular attractions like the Picasso Museum. The city’s public transportation is also easy to use, making getting around a breeze.
 
 ## 3\. Berlin, Germany
 

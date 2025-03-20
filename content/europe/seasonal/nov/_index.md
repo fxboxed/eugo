@@ -406,8 +406,6 @@ Here's a few things you can do:
 
 And don't forget the food! Antwerp is known for its delicious chocolate, waffles, and beer. November is the perfect time to indulge in these treats, warming up with a hot chocolate or a hearty Belgian beer after a day of exploring. **You'll find plenty of cozy cafes and restaurants where you can relax and enjoy the local cuisine.**
 
-Consider joining some [walking tours](https://www.tripadvisor.com/Attractions-g188636-Activities-Antwerp_Antwerp_Province.html) to discover hidden gems.
-
 ## 25\. and more
 
 Okay, so you've seen the main contenders for a November getaway in Europe, but what if none of those quite hit the spot? Don't worry, there are _plenty_ more options out there. Europe is a big place, and November can be surprisingly pleasant in lots of different corners.

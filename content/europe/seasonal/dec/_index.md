@@ -95,7 +95,7 @@ And if you're looking for some affordable attractions, consider these:
 
 ## 5\. Innsbruck, Austria
 
-[The Astrian city of Innsbruck](/austria/cities/innsbruck) in December? Get ready for some serious alpine charm! You're in for a treat with a mix of winter sports and rich history. It's like stepping into a postcard, but with more _snow_.
+The Astrian city of Innsbruck in December? Get ready for some serious alpine charm! You're in for a treat with a mix of winter sports and rich history. It's like stepping into a postcard, but with more _snow_.
 
 Innsbruck is known as the site of the 1964 and 1976 Winter Olympic Games. **The city is surrounded by a bunch of ski areas, offering over 500km of trails.** You can even hop on a funicular right from the city center to reach one of the mountain resorts. How cool is that?
 

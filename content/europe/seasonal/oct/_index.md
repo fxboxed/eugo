@@ -388,7 +388,7 @@ Now, what to do? Well, besides just wandering around Tallinn, there are a few th
 
 And if you're feeling adventurous, you could even take a day trip to Lahemaa National Park. It's a bit outside of Tallinn, but it's worth it for the stunning scenery and hiking trails. Just be prepared for some potentially chilly weather.
 
-Honestly, Estonia in October is all about embracing the _quiet beauty_ of the season. It's a chance to slow down, relax, and enjoy a different kind of travel experience. And who knows, you might just fall in love with this little Baltic gem. If you're looking for [Tallinn tours](https://www.tripadvisor.com/Attraction_Review-g274958-d7211877-Reviews-Discover_Estonia-Tallinn_Harju_County.html), you'll find plenty of options.
+Honestly, Estonia in October is all about embracing the _quiet beauty_ of the season. It's a chance to slow down, relax, and enjoy a different kind of travel experience. And who knows, you might just fall in love with this little Baltic gem. If you're looking for Tallinn tour, you'll find plenty of options.
 
 ## 21\. Slovenia
 
@@ -420,9 +420,7 @@ October in Ireland is a gamble, weather-wise, but if you pack accordingly, you'r
 
 ## 23\. Wales
 
-![Autumn landscape of Wales with colorful foliage and castle.](https://contenu.nyc3.digitaloceanspaces.com/journalist/9b2ba2d3-3dc9-43b6-aa74-ca8252fa21b5/thumbnail.jpeg)
-
-(/imgs/europe/seasonal/-oct-4.webp)
+![Autumn landscape of Wales with colorful foliage and castle.](/imgs/europe/seasonal/-oct-4.webp)
 
 October in Wales? Absolutely! You might not think of it right away, but it's a fantastic time to visit. The summer crowds have thinned out, leaving you with more space to explore the stunning landscapes and historic sites. Plus, the autumn colors are just breathtaking. I went a few years back, and I'm already planning my next trip.
 
@@ -436,7 +434,7 @@ Think about it: crisp air, golden leaves, and cozy pubs. What's not to love? You
 
 **October is a great time to visit Wales if you're looking for fewer crowds and beautiful autumn scenery.**
 
-Don't forget to check out some of the local festivals and events happening during October. You might stumble upon a traditional music performance or a harvest festival. It's a great way to experience the _Welsh culture_ firsthand. If you're planning a [day tour](https://www.tripadvisor.com/Attractions-g186425-Activities-c42-Wales.html), make sure to book in advance, especially for popular attractions.
+Don't forget to check out some of the local festivals and events happening during October. You might stumble upon a traditional music performance or a harvest festival. It's a great way to experience the _Welsh culture_ firsthand. If you're planning a day tour, make sure to book in advance, especially for popular attractions.
 
 ## 24\. Czech Republic
 
@@ -458,7 +456,7 @@ If you're planning a trip, consider these activities:
 2.  Take a day trip to Český Krumlov, a charming medieval town.
 3.  Visit a local brewery and sample some Czech beer.
 
-And if you're looking for a guided experience, consider a [Prague and Budapest tour](https://www.tripadvisor.com/Attractions-g274684-Activities-c42-t288-Czech_Republic.html) to see the best of both cities. You won't regret it!
+And if you're looking for a guided experience, consider a Prague and Budapest tour) to see the best of both cities. You won't regret it!
 
 ## 25\. And More
 

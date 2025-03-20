@@ -7,7 +7,6 @@ tab = 'Skiing'
 type = 'single'
 layout = 'single'
 batch = 'Hidden Gem Ski Resorts in Europe'
-tags = ['adventure']
 image = "/imgs/europe/adventure/sk-thumb.webp"
 alt_txt = " Snowy mountains and skiers at a picturesque ski resort."
 relcanonical = "https://eugo.uk/europe/adventure/skiing"
@@ -193,7 +192,7 @@ Eastern Europe is starting to get noticed for its awesome ski resorts. They're o
 
 ### Affordable Skiing Options
 
-If you're watching your wallet, Eastern Europe is a great choice. You can find some seriously good deals on lift tickets, lodging, and food. **Places like Bulgaria, Romania, and Poland offer skiing at a fraction of the cost compared to Western Europe.** This means you can ski more and spend less. For example, Borovets, Bansko, and Pamporovo) are known for their affordability and accessibility.
+If you're watching your wallet, Eastern Europe is a great choice. You can find some seriously good deals on lift tickets, lodging, and food. **Places like Bulgaria, Romania, and Poland offer skiing at a fraction of the cost compared to Western Europe.** This means you can ski more and spend less. For example, Borovets, Bansko, and Pamporovo are known for their affordability and accessibility.
 
 ### Unique Local Experiences
 

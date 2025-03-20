@@ -8,7 +8,6 @@ tab = 'January'
 type = 'single'
 layout = 'single'
 batch = 'Europe: Top European Destinations in January'
-tags = ['seasonal']
 image = "/imgs/europe/seasonal/jan-thumb.webp"
 alt_txt = "Winter scene in a European city during January."
 relcanonical = "https://eugo.uk/europe/seasonal/jan/"

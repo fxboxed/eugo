@@ -341,7 +341,7 @@ Oslo is a city that blends urban life with nature seamlessly. You can spend the 
 
 > August is a sweet spot because the days are long, and the temperatures are mild. It's perfect for exploring the city on foot or by bike. Just be prepared for the occasional rain shower – it is Norway, after all!
 
-One of the best things about Oslo is how easy it is to get around. The public transportation system is efficient and reliable, and the city is also very walkable. You can easily explore different neighborhoods and attractions without feeling overwhelmed. And if you're feeling adventurous, you can even take a boat trip to one of the nearby islands. Consider a [private walking tour](https://www.tripadvisor.com/AttractionProductReview-g190479-d15209648-Oslo_Highlights_Best_Private_Walking_Tour_of_Oslo_with_a_Local_Guide-Oslo_Eastern_.html) to see the city's highlights.
+One of the best things about Oslo is how easy it is to get around. The public transportation system is efficient and reliable, and the city is also very walkable. You can easily explore different neighborhoods and attractions without feeling overwhelmed. And if you're feeling adventurous, you can even take a boat trip to one of the nearby islands. Consider a private walking tour to see the city's highlights.
 
 Here are a few things you might want to check out:
 
@@ -443,7 +443,7 @@ Okay, so you're thinking about Marbella, huh? Good choice! But let's be real, Eu
 
 Here are a few other places you might want to consider:
 
-*   **Mallorca, Spain**: Similar vibes to Marbella, but with its own unique charm. Think stunning coves and historic streets. You can explore the [top attractions](https://www.tripadvisor.com/Attractions-g187439-Activities-Marbella_Costa_del_Sol_Province_of_Malaga_Andalucia.html) and activities.
+*   **Mallorca, Spain**: Similar vibes to Marbella, but with its own unique charm. Think stunning coves and historic streets. You can explore the top attractions and activities.
 *   **Lisbon, Portugal**: A bit further afield, but totally worth it. Amazing food, vibrant culture, and those iconic yellow trams. Plus, the views are incredible.
 *   **Venice, Italy**: Okay, it's going to be busy, but there's a reason why everyone wants to go. Get lost in the canals, eat some gelato, and soak it all in. Just maybe book your accommodation way in advance.
 
