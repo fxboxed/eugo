@@ -89,7 +89,7 @@ Whether it's learning to dance the flamenco in Spain or participating in a tradi
 
 ### Exploring Historical Landmarks
 
-![The Palace of Versailles](imgs/europe/Palace-of-Versailles.jpg.webp )
+![The Palace of Versailles](imgs/europe/Palace-of-Versailles.webp )
 
 Europe is dotted with historical landmarks that tell the stories of its past. 
 
@@ -151,11 +151,9 @@ And for those looking to explore, the fjords of Norway offer a chance to see nat
 
 Don't miss the chance to discover Europe's breathtaking natural wonders and cultural heritage sites with Emerald Cruises, offering an escape from city life.
 
-![Norwegian fjord with snow capped mountains](imgs/europe/fjords-of-Norway.webp)
+![Norwegian fjord with snow capped mountains](imgs/europe/eu-2.webp)
 
 > Standing on the edge of Europe's natural wonders, you can't help but feel a sense of awe. The landscapes are as diverse as they are beautiful, each one telling its own story.
-
----
 
 ## Culinary Adventures Across Europe
 
