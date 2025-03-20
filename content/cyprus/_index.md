@@ -50,7 +50,7 @@ If you're visiting Cyprus, you can't miss the breathtaking **Aphrodite’s Rock*
 
 > A visit to Aphrodite's Rock isn't just about seeing a natural landmark; it's about connecting with the myths and stories that have shaped the cultural tapestry of Cyprus.
 
-For those interested in the mythological and cultural significance of this landmark, [Petra tou Romiou](https://www.tripadvisor.com/Attraction_Review-g850702-d878112-Reviews-Aphrodite_s_Rock-Kouklia_Paphos_District.html) offers a glimpse into the rich history that envelops this beautiful island.
+For those interested in the mythological and cultural significance of this landmark, Petra tou Romiouoffers a glimpse into the rich history that envelops this beautiful island.
 
 ---
 
@@ -58,7 +58,7 @@ For those interested in the mythological and cultural significance of this landm
 
 ![Ancient ruins and mosaics at Kato Paphos Park.](/imgs/cyprus/mosaics.webp)
 
-Stepping into the [Kato Paphos Archaeological Park](https://www.tripadvisor.com/Attraction_Review-g190384-d527731-Reviews-Kato_Paphos_Archaeological_Park-Paphos_Paphos_District.html) is like taking a walk through time. This UNESCO World Heritage site is a treasure trove of ancient history, showcasing a mix of Greek and Roman ruins. **The mosaics here are truly breathtaking**, offering a glimpse into the artistry of the past.
+Stepping into the Kato Paphos Archaeological Park is like taking a walk through time. This UNESCO World Heritage site is a treasure trove of ancient history, showcasing a mix of Greek and Roman ruins. **The mosaics here are truly breathtaking**, offering a glimpse into the artistry of the past.
 
 The park is home to several significant structures:
 
@@ -93,7 +93,7 @@ Nestled in the heart of Cyprus, the Troodos Mountains are a haven for nature lov
 ### Discover the Villages
 
 *   **Omodos**: A quaint village known for its cobbled streets and charming vineyards. Don't miss the Monastery of the Holy Cross, a site rich with history.
-*   **Platres**: Perfect for those seeking cooler temperatures and scenic beauty. It's also home to the [Millomeris Waterfalls](https://www.tripadvisor.com/Attractions-g190390-Activities-Troodos_Mountains.html), a must-visit.
+*   **Platres**: Perfect for those seeking cooler temperatures and scenic beauty. It's also home to the Millomeris Waterfalls, a must-visit.
 *   **Kakopetria**: A picturesque village that offers a glimpse into traditional Cypriot life.
 
 ### Natural Wonders
@@ -138,8 +138,6 @@ Take a leisurely stroll along the harbor's promenade, where you'll encounter a v
 
 Whether you're a history buff or simply looking to enjoy the stunning views, Kyrenia Harbor and Castle has something for everyone.
 
----
-
 ## 5\. Ayia Napa Sea Caves
 
 ![Ayia Napa Sea Caves](/imgs/cyprus/sea-caves.webp)
@@ -172,7 +170,7 @@ Nicosia, the capital of Cyprus, is a city that stands out with its unique blend 
 
 Wandering through the old city, you'll find narrow streets lined with traditional Cypriot architecture. The vibrant markets are a feast for the senses, offering everything from local crafts to delicious Cypriot food. 
 
-Don't miss the chance to cross over to the Turkish side, where you can explore the bustling [Ledra Street Crossing Point](https://www.tripadvisor.com/Attractions-g190383-Activities-Nicosia_Nicosia_District.html), a hub of activity with numerous attractions.
+Don't miss the chance to cross over to the Turkish side, where you can explore the bustling Ledra Street Crossing Point, a hub of activity with numerous attractions.
 
 ### Must-See Landmarks
 
@@ -194,8 +192,6 @@ Nicosia offers a rich culinary scene. Try some Turkish sweets or indulge in loca
 
 Whether you're a history buff or just looking to soak in the local culture, Nicosia Old City offers a unique experience that shouldn't be missed. It's a place where the past and present coexist beautifully, inviting you to explore its depths.
 
----
-
 ## 7\. Larnaca Salt Lake and Hala Sultan Tekke
 
 ![The stunning natural Larnaca Salt Lake ](/imgs/cyprus/salt-lake.webp)
@@ -206,7 +202,7 @@ Larnaca Salt Lake is a stunning natural wonder that transforms with the seasons.
 
 *   **Bird Watching:** The lake is a prime location for spotting various migratory birds, especially during the rainy season. It's a paradise for both amateur and professional bird watchers.
 *   **Cycling Routes:** There are numerous cycling paths around the lake, offering an excellent way to explore the surroundings while enjoying a leisurely ride.
-*   **Nearby Attractions:** Just a stone's throw away is the [Hala Sultan Tekke](https://www.tripadvisor.com/Attraction_Review-g190379-d3601049-Reviews-Larnaka_Salt_Lake-Larnaca_Larnaka_District.html), a revered mosque nestled by the lake. This site is not only significant for its religious importance but also for its serene ambiance.
+*   **Nearby Attractions:** Just a stone's throw away is the Hala Sultan Tekke, a revered mosque nestled by the lake. This site is not only significant for its religious importance but also for its serene ambiance.
 
 ### Seasonal Changes
 
@@ -221,7 +217,6 @@ Larnaca Salt Lake is a stunning natural wonder that transforms with the seasons.
 
 Visiting Larnaca Salt Lake is like stepping into a different world, where nature and history coexist beautifully. Whether you're cycling around the lake or simply soaking in the views, this spot is a must-visit on your Cyprus journey.
 
-[Exploring Larnaca: Top Activities and Must-Visit Places for Couples, Families, and Seniors ](https://eugo.uk/cyprus/cities/larnaca/)
 
 ## 8\. Cape Greco National Park
 
@@ -242,7 +237,7 @@ Nestled on the southeastern tip of Cyprus, Cape Greco National Park is a stunnin
 
 > Cape Greco is more than just a park; it's a place where the land meets the sea in the most spectacular way. The sunsets here are something you’ll remember for a lifetime.
 
-For those interested in exploring further, consider [a tour of the Cape Greco Blue Lagoon and Ayia Napa](https://www.tripadvisor.com/Attraction_Review-g262055-d3533888-Reviews-Cape_Greco_National_Forest_Park-Ayia_Napa_Famagusta_District.html). Whether you opt for a day trip or a private guided exploration, the park's wonders are waiting to be discovered.
+For those interested in exploring further, consider a tour of the Cape Greco Blue Lagoon and Ayia Napa. Whether you opt for a day trip or a private guided exploration, the park's wonders are waiting to be discovered.
 
 ---
 
@@ -268,7 +263,7 @@ As you cross the drawbridge, you’re stepping into a world where _medieval arch
 
 > Kolossi Castle isn't just a historical site; it's a journey through time, offering a peek into the lives of those who once walked its halls. Visiting this castle is like opening a window to the past, where every stone has a story to tell.
 
-For those keen on exploring more, [Kolossi Castle](https://www.lonelyplanet.com/cyprus/the-republic-of-cyprus/around-lemesos/attractions/kolossi-castle/a/poi-sig/1434809/358809) is an unmissable part of any itinerary in Cyprus, blending historical intrigue with stunning views.
+For those keen on exploring more, Kolossi Castle is an unmissable part of any itinerary in Cyprus, blending historical intrigue with stunning views.
 
 ---
 
@@ -295,8 +290,6 @@ When you step into Kourion, you're walking on grounds that date back to the Hell
 > Visiting Ancient Kourion is like stepping back in time. The echoes of the past resonate through the ruins, offering a tangible connection to the people who once thrived here. It's a place where history comes alive, allowing you to immerse yourself in the stories of ancient Cyprus.
 
 Whether you're a history buff or just someone who appreciates beautiful views, Kourion is sure to leave a lasting impression.
-
----
 
 ## Conclusion
 

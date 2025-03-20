@@ -75,7 +75,7 @@ Europe is a treasure trove of cultural experiences waiting to be explored. From 
 
 ### Engaging with Local Traditions
 
-![Men and a woman standing in colourful traditional robes](/imgs/europe/euro-dress.jpg)
+![Men and a woman standing in colourful traditional robes](/imgs/europe/euro-dress.webp)
 
 Engaging with local traditions is like opening a window to the soul of a place. 
 
@@ -115,7 +115,7 @@ Whether it's the colorful Carnival in Venice or the lively Oktoberfest in Munich
 
 > Experiencing Europe's cultural riches is more than just visiting famous sites; it's about connecting with the traditions and stories that make each place unique. It's about leaving with memories that go beyond photographs and souvenirs, memories that have a lasting impact on how you see the world.
 
-Exploring Europe's cultural [rich cities](https://www.insightvacations.com/blog/europes-most-culturally-rich-cities/) like Venice, Paris, and Barcelona can provide a unique blend of historical and artistic experiences, making each visit a journey through time and creativity.
+Exploring Europe's cultural rich cities like Venice, Paris, and Barcelona can provide a unique blend of historical and artistic experiences, making each visit a journey through time and creativity.
 
 ---
 
@@ -149,9 +149,9 @@ Whether it's the dramatic cliffs of the Amalfi Coast or the serene beaches of th
 
 And for those looking to explore, the fjords of Norway offer a chance to see nature at its most majestic. 
 
-Don't miss the chance to discover [Europe's breathtaking natural wonders](https://www.emeraldcruises.co.uk/blogs/europes-most-stunning-natural-wonders) and cultural heritage sites with Emerald Cruises, offering an escape from city life.
+Don't miss the chance to discover Europe's breathtaking natural wonders and cultural heritage sites with Emerald Cruises, offering an escape from city life.
 
-![Norwegian fjord with snow capped mountains](imgs/europe/fjords-of-Norway.jpg.webp)
+![Norwegian fjord with snow capped mountains](imgs/europe/fjords-of-Norway.webp)
 
 > Standing on the edge of Europe's natural wonders, you can't help but feel a sense of awe. The landscapes are as diverse as they are beautiful, each one telling its own story.
 
@@ -159,7 +159,7 @@ Don't miss the chance to discover [Europe's breathtaking natural wonders](https:
 
 ## Culinary Adventures Across Europe
 
-![Colorful European dishes on a rustic wooden table.](https://contenu.nyc3.digitaloceanspaces.com/journalist/1e77cf1d-6da6-44e9-9d9e-82d8f4a1ed54/thumbnail.jpeg)
+![Colorful European dishes on a rustic wooden table.](/imgs/europe/table.webp)
 
 ### Savoring Local Delicacies
 
@@ -273,7 +273,7 @@ Autumn (September to November) is a favorite for wine enthusiasts, as many regio
 
 Europe is a continent that loves to celebrate, and there are countless festivals throughout the year that attract visitors from all over the globe. Here are a few highlights:
 
-*   [Carnival of Venice](https://expatexplore.com/blog/europes-most-popular-festivals-and-cultural-events/): Known for its elaborate masks and costumes, this festival is a must-see if you're visiting Italy in February.
+*   Carnival of Venice: Known for its elaborate masks and costumes, this festival is a must-see if you're visiting Italy in February.
 *   Oktoberfest in Munich: A haven for beer lovers, this event in late September to early October is a cultural experience like no other.
 *   La Tomatina in Spain: Held in August, this tomato-throwing festival is a fun and messy way to enjoy Spanish culture.
 

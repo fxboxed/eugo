@@ -390,7 +390,7 @@ Here's what you might expect:
 
 > Diving the Bowbelle Wreck is a different experience. It's not about the vibrant corals or exotic fish. It's about the story, the history, and the respect for those who were affected by the tragedy. It's a dive that stays with you.
 
-Before you jump in, make sure you're prepared for the conditions. The Thames isn't known for its crystal-clear waters, and currents can be strong. It's a dive best suited for experienced divers who are comfortable with limited visibility and challenging conditions. If you are looking for [diving enthusiasts](https://randomtrip.net/madeira-travel-guide/), this is a great place to start.
+Before you jump in, make sure you're prepared for the conditions. The Thames isn't known for its crystal-clear waters, and currents can be strong. It's a dive best suited for experienced divers who are comfortable with limited visibility and challenging conditions. If you are looking for diving enthusiasts, this is a great place to start.
 
 ## 25\. Zakynthos and more
 

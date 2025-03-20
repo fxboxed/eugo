@@ -31,7 +31,7 @@ With activities suitable for all ages, this guide will help you discover the bes
 
 Randers offers a unique experience where you get to taste true local flavor mixed with influences from around the world.
 
-While you're exploring, you'll discover dishes that tell a local story and transport you right into the heart of Danish tradition, like the renowned [Danish dish delight](https://boondockingrecipes.com/danish-morbradgryde-recipe/) which captures the cozy spirit of home cooking.
+While you're exploring, you'll discover dishes that tell a local story and transport you right into the heart of Danish tradition, like the renowned Danish dish delight which captures the cozy spirit of home cooking.
 
 ### Local Danish Cuisine
 
@@ -113,7 +113,7 @@ There’s usually a mix of new sounds and familiar tunes, making it a great spot
 
 Check out the schedule and book your spot early if you find a performance you like.
 
-You might even stumble upon a hidden gem like [water wellness](https://www.tripadvisor.com/Attraction_Review-g227594-d7729397-Reviews-Randers_Water_Wellness-Randers_East_Jutland_Jutland.html) that offers an unexpected twist to your night out.
+You might even stumble upon a hidden gem like water wellness that offers an unexpected twist to your night out.
 
 *   Arrive early to grab a good seat.
 *   Enjoy tracks that suit your mood.
@@ -154,8 +154,6 @@ When the cold sets in, you'll find that winter festivals in Randers are a must-v
 You might stumble upon local markets, decorative displays, and events that let you cozy up indoors with friends and family.
 
 **Embrace the chill and let the warmth of community celebrations brighten your day.** During these times, bear in mind that unexpected weather changes are common.
-
-For a different angle on seasonal patterns, check out [RNN insights](https://www.sciencedirect.com/science/article/pii/S1470160X25000482).
 
 ### Summer Outdoor Events
 
@@ -278,7 +276,7 @@ Randers has a neat scene for live performances that feels welcoming.
 
 Whether you’re checking out a small, intimate play or a spontaneous street performance, each show has its own charm.
 
-**You absolutely must experience a local theater performance at least once.** Sometimes, you'll even catch a show at [Værket events](https://www.visitaarhus.com/aarhus-region/plan-your-trip/culture-center-vaerket-gdk634254) where local talent lights up the stage.
+**You absolutely must experience a local theater performance at least once.** Sometimes, you'll even catch a show at Værket events where local talent lights up the stage.
 
 Here are some tips when exploring local performances:
 
@@ -306,7 +304,7 @@ Each landmark gives you a glimpse into how earlier generations experienced life 
 
 ## Outdoor Activities for Everyone
 
-![Outdoor activities in Randers for all ages.](https://contenu.nyc3.digitaloceanspaces.com/journalist/86c8c32c-005c-4369-9f1b-4e4b388a0548/thumbnail.jpeg)
+![Outdoor activities in Randers for all ages.](/imgs/denmark/rd-1.webp)
 
 Exploring the great outdoors in Randers means you get to enjoy a mix of relaxation and a touch of adventure.
 
@@ -326,7 +324,6 @@ Some ideas for your park visit:
 *   Enjoy a picnic under mature trees
 *   Join community events and outdoor yoga sessions
 
-Plus, don't miss the nearby [adventure parks](https://www.tripadvisor.com/Attractions-g189512-Activities-c61-t245-Denmark.html) that add a hint of thrill to your day out.
 
 You can also take a moment to appreciate the _nature_ that surrounds you.
 
@@ -447,7 +444,6 @@ Consider this table below for a quick look at what you might encounter:
 | Merlot | $10 | Soft with a hint of oak |
 | Cabernet Sauvignon | $12 | Bold and memorable |
 
-Also, make sure to visit the [wine shop](https://www.tripadvisor.com/Attraction_Review-g227594-d11638093-Reviews-Cold_Hand_Winery-Randers_East_Jutland_Jutland.html) near the tasting room—it’s a neat spot with a curated selection.
 
 **You deserve to try the finest drinks Randers has to offer.**
 
@@ -523,7 +519,7 @@ Consider these tips for a great family outing:
 2. Look for activities that combine entertainment with learning.
 3. Pack some snacks and water to stay refreshed during outdoor events.
 
-For an exciting nighttime excursion that even the kids might enjoy, consider checking out [LEGOLAND fun](https://www.tripadvisor.com/Attractions-g189527-Activities-zft11306-Jutland.html) to spark a little additional wonder in your night.
+For an exciting nighttime excursion that even the kids might enjoy, consider checking out to spark a little additional wonder in your night.
 
 > Nighttime in Randers can surprise you with a mix of calm strolls and vibrant cultural displays, making it a perfect time to explore what the city has to offer.
 

@@ -58,7 +58,7 @@ For a truly unique experience, look for beach bars that combine live music with 
 
 One of the most magical ways to spend time together in Ayia Napa is by embarking on a sunset cruise. Picture this: the sky painted in hues of orange and pink, the gentle sway of the boat, and the company of your partner. 
 
-These cruises often include light refreshments and music, making it a perfect setting for romance. If you prefer something more private, pack a picnic and head to one of the quieter beaches, like [Nissi Beach](https://www.tripadvisor.com/Attractions-g262055-Activities-zft12169-Ayia_Napa_Famagusta_District.html). Spread out a blanket, enjoy some local wine, and soak in the serene atmosphere.
+These cruises often include light refreshments and music, making it a perfect setting for romance. If you prefer something more private, pack a picnic and head to one of the quieter beaches, like Nissi Beach. Spread out a blanket, enjoy some local wine, and soak in the serene atmosphere.
 
 ### Fine Dining Experiences by the Sea
 
@@ -110,7 +110,7 @@ The _beautifully preserved_ architecture and lush courtyard provide a calm setti
 
 For a truly relaxing experience, consider staying at one of Ayia Napa’s senior-friendly resorts. Many of these accommodations feature amenities like heated pools, quiet lounges, and easy access to the beach. 
 
-Resorts such as [this one](https://www.tripadvisor.com/Hotel_Review-g262055-d17792961-Reviews-or20-Chrysomare_Beach_Hotel_and_Resort-Ayia_Napa_Famagusta_District.html) offer a mix of comfort and convenience, with on-site dining and spa services to make your stay extra special. Whether you’re lounging by the pool or enjoying a slow-paced day at the spa, these resorts are designed to cater to your needs.
+Resorts offer a mix of comfort and convenience, with on-site dining and spa services to make your stay extra special. Whether you’re lounging by the pool or enjoying a slow-paced day at the spa, these resorts are designed to cater to your needs.
 
 ## Exploring Ayia Napa's Stunning Beaches
 
@@ -138,7 +138,7 @@ The weather is still warm, but the crowds have thinned out. Weekdays are also a 
 
 If you're a fan of water sports, Ayia Napa has you covered. From jet skiing to parasailing, the crystal-clear waters of this coastal town are perfect for adrenaline-pumping activities. **Scuba diving** is a must-try here, especially with sites like the Blue Lagoon and Turtle Cove offering stunning underwater views. 
 
-Kayaking and paddleboarding are also great options if you prefer something a little more relaxed but still adventurous. For those interested in a mix of fun and exploration, consider a [cruise to the Blue Lagoon and Turtle Cove](https://www.tripadvisor.com/Attractions-g262055-Activities-c61-Ayia_Napa_Famagusta_District.html) — it's an unforgettable experience.
+Kayaking and paddleboarding are also great options if you prefer something a little more relaxed but still adventurous. For those interested in a mix of fun and exploration, consider a cruise to the Blue Lagoon and Turtle Cove — it's an unforgettable experience.
 
 ### Cycling and Hiking Trails
 
@@ -230,7 +230,7 @@ Whether you’re traveling solo or with loved ones, a boat tour is a fantastic w
 
 Ayia Napa’s vibe changes with the seasons, so picking the right time to visit depends on what you’re after. **Spring (March to May)** is a fantastic time to explore with mild temperatures, fewer crowds, and affordable rates. 
 
-Popular activities like [boat tours and hiking](https://lamerhomes.com/guides/when-is-the-best-time-to-visit-ayia-napa/) are especially enjoyable during this period. 
+Popular activities like boat tours and hiking are especially enjoyable during this period. 
 
 Summer brings the party scene to life, with June through August being the busiest months. If you’re aiming for tranquility, late September to October is ideal, offering warm weather without the summer chaos.
 
@@ -266,7 +266,7 @@ With sea-view rooms, private pools, and gourmet dining options, this resort sets
 
 ### Affordable Family Accommodations
 
-Traveling with the family? Ayia Napa offers plenty of budget-friendly options that don’t skimp on comfort. [La Casa Di Napa Apartments](https://www.booking.com/budget/city/cy/ayia-napa.html) is a great choice, featuring spacious rooms with kitchenettes and a family-friendly pool area. For those who want to stay close to the beach, the **Okeanos Beach Boutique Hotel** provides excellent amenities at reasonable prices. 
+Traveling with the family? Ayia Napa offers plenty of budget-friendly options that don’t skimp on comfort. La Casa Di Napa Apartments is a great choice, featuring spacious rooms with kitchenettes and a family-friendly pool area. For those who want to stay close to the beach, the **Okeanos Beach Boutique Hotel** provides excellent amenities at reasonable prices. 
 
 It’s ideal for families who want to balance relaxation with easy access to local attractions.
 

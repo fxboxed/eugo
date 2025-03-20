@@ -57,7 +57,7 @@ The rides cater to all ages, so whether you're a thrill-seeker or have little on
 
 Don't forget to try the food. With a variety of restaurants and food stalls, you can savor everything from traditional Danish dishes to international cuisine.
 
-Whether you're a local or a tourist, [Tivoli Gardens](https://www.tripadvisor.com/Attraction_Review-g189541-d197738-Reviews-Tivoli_Gardens-Copenhagen_Zealand.html) is a place where memories are made. It's no wonder it's a favorite for both visitors and Copenhageners alike.
+Whether you're a local or a tourist, Tivoli Gardens is a place where memories are made. It's no wonder it's a favorite for both visitors and Copenhageners alike.
 
 ---
 
@@ -85,7 +85,7 @@ Nyhavn is a year-round destination, but it truly shines in the summer when the o
 
 ![the long Langelinie-promenade overlooking a blue ocean](/imgs/denmark/Langelinie-promenade.webp)
 
-When you think of Copenhagen, one of the first images that might pop into your head is the iconic [Little Mermaid statue](https://www.tripadvisor.com/Attraction_Review-g189541-d245024-Reviews-The_Little_Mermaid-Copenhagen_Zealand.html). Perched gracefully on a rock by the Langelinie promenade, this petite bronze sculpture has been a symbol of the city since 1913.
+When you think of Copenhagen, one of the first images that might pop into your head is the iconic Little Mermaid statue. Perched gracefully on a rock by the Langelinie promenade, this petite bronze sculpture has been a symbol of the city since 1913.
 
 ### A Symbol of Storytelling
 
@@ -111,7 +111,7 @@ Inspired by Hans Christian Andersen's famous fairy tale, the statue perfectly ca
 
 ![Legoland Billund](/imgs/denmark/Legoland-Billund-Denmark.jpg)
 
-Welcome to the world of _bricks_ and imagination at [LEGOLAND Billund](https://www.tripadvisor.com/Attraction_Review-g189531-d232298-Reviews-LEGOLAND_Billund-Billund_South_Jutland_Jutland.html), Denmark's premier amusement park. If you're a fan of LEGO, or traveling with family, this place is a dream come true. **It's where creativity takes flight**, offering a perfect mix of fun, speed, and action for everyone.
+Welcome to the world of _bricks_ and imagination at LEGOLAND Billund, Denmark's premier amusement park. If you're a fan of LEGO, or traveling with family, this place is a dream come true. **It's where creativity takes flight**, offering a perfect mix of fun, speed, and action for everyone.
 
 ### Attractions and Rides
 
@@ -145,7 +145,7 @@ Nestled in the heart of Aarhus, this vibrant food market is a melting pot of fla
 
 > Aarhus Street Food isn't just about the food; it's about the experience. Picture this: you're sitting on a communal bench, surrounded by the chatter of locals and tourists alike, all while enjoying a cold craft beer or a fancy cocktail. It's the perfect spot to unwind and soak in the lively atmosphere.
 
-For those who love variety, Aarhus Street Food offers a [diverse range of food stalls](https://www.tripadvisor.com/Restaurant_Review-g189530-d10767038-Reviews-Aarhus_Street_Food-Aarhus_East_Jutland_Jutland.html) featuring cuisines from around the world, including sushi, Vietnamese, Thai, Greek, Danish, Mexican, Turkish, Italian, Indian, and fish dishes. 
+For those who love variety, Aarhus Street Food offers a diverse range of food stalls featuring cuisines from around the world, including sushi, Vietnamese, Thai, Greek, Danish, Mexican, Turkish, Italian, Indian, and fish dishes. 
 
 Whether you're a fan of spicy or sweet, there's something here for everyone.
 
@@ -171,11 +171,12 @@ Step back in time at _Den Gamle By_, an open-air museum located in Aarhus. This 
 
 > Visiting Den Gamle By is like taking a leisurely stroll through history, where every corner holds a new story waiting to be discovered.
 
-If you're in [Aarhus](https://www.tripadvisor.com/Attraction_Review-g189530-d232303-Reviews-Den_Gamle_By-Aarhus_East_Jutland_Jutland.html), this museum is a must-see. It's not just about looking at old stuff; it's about feeling the history all around you. Whether you're a history buff or just curious, you'll find something to love here.
+If you're in Aarhus, this museum is a must-see. It's not just about looking at old stuff; it's about feeling the history all around you. Whether you're a history buff or just curious, you'll find something to love here.
 
 ## 7\. Skagen
 
 ![Isolated cottages overlooking the sea at Skagen](/imgs/denmark/Skagen.webp)
+
 Skagen, the northernmost tip of Denmark, is a place where nature puts on a spectacular show. **Here, the North Sea and the Baltic Sea meet**, creating a unique natural phenomenon that's a must-see for any traveler. It's a Danish tradition to stand with one foot in each sea, feeling the waters from different oceans lapping at your feet.
 
 ### Grenen
@@ -188,7 +189,7 @@ Not far from Skagen is Råbjerg Mile, a massive migrating sand dune that's the l
 
 ### Skagens Museum
 
-For art lovers, the [Skagens Museum](https://www.tripadvisor.com/Attractions-g285705-Activities-Skagen_North_Jutland_Jutland.html) is a treasure trove of works by local artists who were inspired by the unique light and landscape of the area. The museum offers a glimpse into the artistic heritage of Skagen, showcasing paintings that capture the essence of this beautiful region.
+For art lovers, the Skagens Museums a treasure trove of works by local artists who were inspired by the unique light and landscape of the area. The museum offers a glimpse into the artistic heritage of Skagen, showcasing paintings that capture the essence of this beautiful region.
 
 > Skagen is not just about the sights; it's about the experience. Imagine spending a summer evening on the beach, the sun barely dipping below the horizon, and the sky painted with hues of orange and pink. It's a place where time seems to slow down, letting you soak in every moment.
 
@@ -206,7 +207,7 @@ With its stunning natural beauty and rich cultural offerings, Skagen is a destin
 
 ![Rows of empty pews at Aros Art Museum](/imgs/denmark/Aros-Art-Museum.webp)
 
-When you're in Aarhus, a visit to the [ARoS Art Museum](https://www.tripadvisor.com/Attraction_Review-g189530-d243845-Reviews-Aros-Aarhus_East_Jutland_Jutland.html) is a must. This isn't just any art museum; it's a journey through time and creativity. **Established back in 1859**, ARoS is Denmark's oldest art museum, and it never fails to impress with its blend of classic and modern art. The museum's architecture itself is a masterpiece, with its iconic rainbow panorama walkway offering breathtaking views of the city.
+When you're in Aarhus, a visit to the ARoS Art Museum is a must. This isn't just any art museum; it's a journey through time and creativity. **Established back in 1859**, ARoS is Denmark's oldest art museum, and it never fails to impress with its blend of classic and modern art. The museum's architecture itself is a masterpiece, with its iconic rainbow panorama walkway offering breathtaking views of the city.
 
 ### Exhibitions
 
@@ -278,7 +279,7 @@ When you wander along Stevns Klint, you're not just seeing a pretty landscape; y
 
 ### Nearby Attractions
 
-While you're in the area, don't miss the chance to [explore the Land of Legends](https://www.tripadvisor.com/AttractionProductReview-g189541-d26965224-Stevns_Klint_UNESCO_and_Viking_Kings_Hall_Tour_from_Copenhagen-Copenhagen_Zealand.html), where the largest Viking King's Hall from Denmark's Viking Age has been reconstructed. It's a short drive away and offers a peek into the country's rich history.
+While you're in the area, don't miss the chance to explore the Land of Legends where the largest Viking King's Hall from Denmark's Viking Age has been reconstructed. It's a short drive away and offers a peek into the country's rich history.
 
 > Stevns Klint is more than just a pretty face; it's a place where history and nature come together in the most beautiful way. Spend a day here, and you'll leave with memories as vivid as the cliffs themselves.
 

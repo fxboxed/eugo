@@ -1,15 +1,15 @@
++++
 date = '2025-02-05T10:37:50Z'
 draft = false
-title = 'Terma and Conditions'
+title = 'Terms and Conditions'
 decription = ""
 categories = ["General"]
+tab = "Terms and conditions"
+image = "/imgs/europe/nl-thumb.webp"
+alt_txt = "Colorful city nightlife with lively streets and illuminated building"
 author = ["eugo"]
 layout = "custom"
 +++
-
-
-
-
 Welcome to Eugo.co.uk. These Terms and Conditions govern your use of our website and services. By accessing or using Eugo.co.uk, you agree to comply with and be bound by these terms. If you do not agree with any part of these terms, you must not use our site.
 
 1. Acceptance of Terms

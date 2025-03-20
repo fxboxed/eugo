@@ -72,7 +72,7 @@ You can grab some pasta in Italy, then head over to Spain for some tapas. It's p
 Here's what makes it stand out:
 
 *   The sheer size. Seriously, wear comfortable shoes.
-*   The variety of rides. There's something for everyone, from thrill-seekers to families with small kids. They have [excellent rides](https://www.tripadvisor.com/Attraction_Review-g488293-d482615-Reviews-Europa_Park-Rust_Baden_Wurttemberg.html) for all ages.
+*   The variety of rides. There's something for everyone, from thrill-seekers to families with small kids. They have excellent ridesfor all ages.
 
 *   The theming. Each area is meticulously designed to reflect the culture and atmosphere of the country it represents.
 *   The shows. They put on some seriously impressive performances throughout the day.
@@ -111,7 +111,6 @@ Here are a few things you might enjoy:
 *   The Twilight Zone Tower of Terror: A seriously thrilling drop tower ride. Not for the faint of heart!
 *   Studio Tram Tour: Behind the Magic: A tram tour that takes you through movie sets and special effects demonstrations. It's a great way to see how movies are made.
 
-Don't miss the [Pixar-themed area](https://www.tripadvisor.com/Attraction_Review-g226865-d285990-Reviews-Walt_Disney_Studios_Park-Marne_la_Vallee_Seine_et_Marne_Ile_de_France.html)!
 
 ## 4\. Efteling
 
@@ -130,7 +129,6 @@ It's supposed to be one of the oldest theme parks in the world, which is pretty 
 
 People say it feels like stepping into a storybook, which sounds amazing. I'm really looking forward to checking it out myself.
 
-I've heard that the [park's cleanliness](https://www.tripadvisor.com/Attraction_Review-g188584-d262610-Reviews-Efteling-Kaatsheuvel_North_Brabant_Province.html) is top-notch, which is always a plus.
 
 **Nobody wants to spend their day at a theme park surrounded by trash.** I'm thinking of planning a trip for next year, maybe in the spring. I'll let you know how it goes!
 

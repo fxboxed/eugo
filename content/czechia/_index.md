@@ -36,7 +36,7 @@ From the bustling streets of Prague to the serene landscapes of the Moravian win
 ![Prague Castle overlooking the river](/imgs/czechia/Prague-castle.webp)
 Prague, often called the _Golden City_, is a place where history whispers from every corner. When you wander through its cobbled streets, you’ll find yourself surrounded by stunning medieval architecture. **Prague Castle**, one of the largest in the world, is a must-see, offering breathtaking views of the city. 
 
-Head to the [Staroměstské náměstí](https://www.tripadvisor.com/Attractions-g274707-Activities-Prague_Bohemia.html), the city's vibrant heart, where the famous Astronomical Clock captivates onlookers every hour.
+Head to the Staroměstské náměstí, the city's vibrant heart, where the famous Astronomical Clock captivates onlookers every hour.
 
 ### Nightlife and Culture
 
@@ -50,7 +50,7 @@ Head to the [Staroměstské náměstí](https://www.tripadvisor.com/Attractions-
 
 > Prague is a city that seamlessly blends the old with the new, offering a rich tapestry of experiences that cater to every taste. Whether you're a history buff, a foodie, or a night owl, Prague promises an adventure that's hard to forget.
 
-[Exploring Prague: A Comprehensive Guide to Attractions for Couples, Families, and the Elderly ](https://eugo.uk/czechia/cities/prague/)
+
 
 ## 2\. Karlovy Vary
 
@@ -65,7 +65,7 @@ Karlovy Vary is often dubbed the _spa capital_ of Czechia, and for good reason. 
 
 Strolling through Karlovy Vary, you'll be captivated by its charming architecture. The town's buildings are a blend of Baroque and Art Nouveau styles, making every corner a picturesque spot. 
 
-One of the highlights is the [Mlýnská kolonáda](https://www.tripadvisor.com/Attractions-g274697-Activities-Karlovy_Vary_Karlovy_Vary_Region_Bohemia.html), a grand colonnade that houses several hot springs. Don't miss the chance to visit the Diana Lookout Tower for a panoramic view of the town.
+One of the highlights is the Mlýnská kolonáda, a grand colonnade that houses several hot springs. Don't miss the chance to visit the Diana Lookout Tower for a panoramic view of the town.
 
 ### Cultural Experiences
 
@@ -77,7 +77,6 @@ While in Karlovy Vary, be sure to try the local cuisine. The town is famous for 
 
 > Pro Tip: Take a leisurely walk along the Teplá River, where you can enjoy the serene atmosphere and perhaps catch a glimpse of a local artist at work.
 
-[Unforgettable Nightlife in Karlovy Vary: Top Activities for Couples, Families, and the Elderly](https://eugo.uk/czechia/cities/karlovy-vary/)
 
 ## 3\. Český Krumlov
 
@@ -111,7 +110,6 @@ If you time your visit right, you might catch one of Český Krumlov's vibrant f
 
 In Český Krumlov, every corner holds a story, and every visit feels like a journey back in time. Whether you're a history buff, a nature lover, or simply looking to unwind, this enchanting town has something for everyone.
 
-[Exploring Český Krumlov: A Culinary and Nightlife Adventure](https://eugo.uk/czechia/cities/%C4%8Desk%C3%BD-krumlov/)
 
 ## 4\. Plzeň
 
@@ -129,7 +127,7 @@ The city is also home to the Gothic St. Bartholomew's Cathedral, which boasts th
 
 ### Vibrant Nightlife
 
-Experience the vibrant nightlife in Pilsen by visiting iconic pubs like [Pivovarský šenk Na Parkánu](https://www.visitplzen.eu/en/blog-and-tips/enjoy-pilsen-like-a-local/nightlife-in-pilsen/), Lokál Pod Divadlem, and Lékárna on Republic Square. Other recommended spots include Plzeňka and Restaurant 12, showcasing the local culture and atmosphere.
+Experience the vibrant nightlife in Pilsen by visiting iconic pubs like Pivovarský šenk Na Parkánu, Lokál Pod Divadlem, and Lékárna on Republic Square. Other recommended spots include Plzeňka and Restaurant 12, showcasing the local culture and atmosphere.
 
 > Plzeň is a city where history and modernity blend seamlessly, offering visitors a unique glimpse into Czech culture and tradition.
 
@@ -184,7 +182,7 @@ These towering rocks have been carved by time into unique shapes, making it a pe
 
 ### Exploring the Rock Park
 
-When you visit, you'll want to spend a good chunk of your day exploring the [Adrspach-Teplice Rock Park](https://www.expedia.com/Adrspach-Teplice-Rocks.dx553248621593511345). 
+When you visit, you'll want to spend a good chunk of your day exploring the Adrspach-Teplice Rock Park. 
 
 This area is perfect for a leisurely hike or a more challenging climb. The trails are well-marked, so even if you're not an experienced hiker, you'll find your way just fine. Here’s a quick list of what you can do:
 
@@ -214,7 +212,7 @@ Welcome to České Budějovice, a city that effortlessly blends history with a v
 
 ### Historic Charm
 
-The heart of České Budějovice is the [Náměstí Přemysla Otakara II](https://www.tripadvisor.com/Attractions-g274687-Activities-Ceske_Budejovice_South_Bohemian_Region_Bohemia.html), one of the largest squares in Europe. It's surrounded by beautiful baroque and renaissance buildings that whisper tales of the past. 
+The heart of České Budějovice is the Náměstí Přemysla Otakara II, one of the largest squares in Europe. It's surrounded by beautiful baroque and renaissance buildings that whisper tales of the past. 
 
 Don't miss the iconic Black Tower (_Cerna vez_), which offers panoramic views of the city and beyond.
 
@@ -275,7 +273,6 @@ After a day of exploration, indulge in the local cuisine at one of Liberec's man
 
 As the sun sets, the city comes alive with a vibrant nightlife scene, offering cozy pubs and lively clubs for those looking to unwind.
 
-With [9,857 reviews](https://www.tripadvisor.com/Tourism-g274702-Liberec_Liberec_Region_Bohemia-Vacations.html) on hotels, attractions, and restaurants, Liberec clearly stands out as a top destination for tourists. 
 
 Whether you're planning a short getaway or an extended stay, this city promises an unforgettable experience filled with adventure, culture, and relaxation.
 
@@ -303,11 +300,11 @@ For a comprehensive tasting experience, head to the wine salon located in the ce
 
 > Spend a day cycling through the vineyards, tasting exquisite wines, and soaking in the serene beauty of Moravia. It's an experience that captures the essence of this charming region.
 
-Make sure to also check out some of the [top attractions in Moravia](https://www.tripadvisor.com/Attractions-g274712-Activities-Moravia.html), which include stunning architecture and historical sites that complement your wine tour perfectly.
+Make sure to also check out some of the top attractions in Moravia which include stunning architecture and historical sites that complement your wine tour perfectly.
 
 ## 10\. Becherovka Distillery
 
-![Interior view of Becherovka Distillery with barrels and bottles.](https://contenu.nyc3.digitaloceanspaces.com/journalist/3050d43e-dfbc-4893-ab78-7e72fe460c1f/thumbnail.jpeg)
+![Interior view of Becherovka Distillery with barrels and bottles.](/imgs/czechia/view.webp)
 
 Imagine stepping into a world where tradition meets mystery. The Becherovka Distillery in Karlovy Vary is not just a place to visit; it's an experience. Known for its famous herbal liqueur, Becherovka, this distillery is a must-see for anyone interested in spirits.
 
@@ -330,8 +327,6 @@ Becherovka's taste is a symphony of flavors, combining hints of cinnamon, anise,
 > Visiting the Becherovka Distillery isn't just about tasting a drink; it's about experiencing a piece of Czech history. You'll leave with a new appreciation for the craft and a bottle of Becherovka to remind you of your journey.
 
 Whether you're a spirits enthusiast or just curious, the Becherovka Distillery is a fascinating stop on your Czech adventure. Don't miss it!
-
----
 
 ## Conclusion
 

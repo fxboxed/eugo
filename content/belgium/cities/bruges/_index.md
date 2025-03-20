@@ -77,7 +77,7 @@ Bruges’ weather is known for being a bit unpredictable. Locals often joke abou
 
 > Bruges’ ever-changing weather adds to its charm. Whether it’s the golden glow of summer sunsets or the crisp air of a winter morning, there’s always something magical about the city’s atmosphere.
 
-For more insights into Bruges’ historical weather patterns, check out [recent temperature highs and lows](https://www.timeanddate.com/weather/belgium/bruges/historic).
+For more insights into Bruges’ historical weather patterns, check out recent temperature highs and lows
 
 ## Romantic Experiences for Couples in Bruges
 

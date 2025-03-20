@@ -31,7 +31,7 @@ Europe is home to some of the best and biggest infinity pools, each providing br
 One standout is the infinity pool at the Marina Bay Sands in Singapore, which, while not in Europe, sets a high standard for others. 
 
 ## Infinity Pool at The One Barcelona
-![](/imgs/europe/pool-1.webp)
+![large infinity pool under a clear blue sky](/imgs/europe/pool-1.webp)
 
 - **Stunning Views**: The Infinity Pool at The One Barcelona offers breathtaking panoramic views of the city skyline and iconic landmarks, providing a perfect backdrop for relaxation and leisure.
 
@@ -77,7 +77,7 @@ With ample space for sunbathing or enjoying cocktails with friends, it caters to
 
 ## The Infinity Pool Experience at Cavo Tagoo Hotel
 
-![](/imgs/europe/pool-2.webp)
+![Sunbathers beside a lage green infinity pool](/imgs/europe/pool-2.webp)
 
 #### A Stunning Architectural Marvel
 
@@ -113,7 +113,7 @@ The combination of water therapy and stunning vistas promotes relaxation and rej
 
 ## The Gran Melia Palacio de Isora: the biggest infinity pool in Europe
 
-![](/imgs/europe/pool-3.webp)
+![People swimming in a crowded swimming pool](/imgs/europe/pool-3.webp)
 
 1. **Stunning Views That Enhance Your Experience:** infinity pool views, ocean vista, scenic landscape, panoramic scenery
 
@@ -167,7 +167,7 @@ Whether visitors are unwinding with a captivating book or creating cherished mem
 
 ## The Hotel Villa Honegg Infinity Pool
 
-![](/imgs/europe/pool-4.webp)
+![An infinity poola the Hotel Villa Honegg](/imgs/europe/pool-4.webp)
 
 ### Overview of the Hotel Villa Honegg
 
@@ -211,7 +211,7 @@ Whether you are seeking relaxation or adventure amidst breathtaking scenery, thi
 
 ## The Allure of the Katikies Hotel Infinity Pool
 
-![](/imgs/europe/pool-5.webp)
+![Girl in an infinity pool viewing the mountains and lake](/imgs/europe/pool-5.webp)
 
 ### A Stunning Architectural Marvel
 
@@ -251,7 +251,7 @@ Whether you're looking to relax or take in breathtaking views, this stunning fea
 
 ## Lefay Resort & Spa: A Luxurious Retreat
 
-![](/imgs/europe/pool-X.webp)
+![Empty swimming pool overlooking the sea](/imgs/europe/pool-X.webp)
 
 Nestled in the picturesque landscape of the Italian Alps, Lefay Resort & Spa offers an unparalleled experience for those seeking relaxation and rejuvenation. This eco-friendly resort seamlessly blends luxury with nature, providing guests with a tranquil escape from the hustle and bustle of everyday life.
 

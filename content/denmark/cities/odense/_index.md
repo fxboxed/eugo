@@ -48,7 +48,7 @@ Hans Christian Andersen’s House is more than just a museum—it’s a portal i
 
 > Tip: After exploring the museum, take a leisurely walk through H.C. Andersen’s Garden next door. It’s a peaceful spot dotted with sculptures inspired by his fairy tales, making it an ideal place to relax and reflect on his stories.
 
-For those looking to uncover more about Odense’s cultural gems, consider [discovering top attractions in Odense](https://www.tripadvisor.com/Attractions-g189524-Activities-Odense_Funen_and_Islands.html), where you can tailor your visit to your interests.
+For those looking to uncover more about Odense’s cultural gems, consider discovering top attractions in Odense, where you can tailor your visit to your interests.
 
 ## 2\. Odense Zoo
 
@@ -93,7 +93,7 @@ Whether you're a history buff, a garden enthusiast, or traveling with kids, Eges
 
 > Pro Tip: Plan to spend an entire day here. Between the castle, gardens, museums, and family activities, there's plenty to keep everyone entertained.
 
-For those interested in exploring Danish history and natural beauty, [Egeskov Castle offers a variety of attractions](https://www.tripadvisor.com/Attraction_Review-g189524-d243788-Reviews-Egeskov_Castle-Odense_Funen_and_Islands.html) that make it a standout destination near Odense.
+For those interested in exploring Danish history and natural beauty, Egeskov Castle offers a variety of attraction that make it a standout destination near Odense.
 
 ## 4\. Saint Canute’s Cathedral
 
@@ -117,7 +117,7 @@ Step into Saint Canute’s Cathedral, or Sct. Knuds Kirke, a masterpiece of Goth
 
 > Saint Canute’s Cathedral is more than a historical site—it’s a serene escape where architecture, history, and spirituality come together. Take a moment to pause and reflect amidst its quiet grandeur.
 
-Looking for more places to explore in Odense? Check out our guide to [Explore Odense](https://www.expedia.com/Odense.dx2638) with its castles, museums, and vibrant city life.
+Looking for more places to explore in Odense? Check out our guide to Explore Odense with its castles, museums, and vibrant city life.
 
 ## 5\. Brandts Passage
 
@@ -170,7 +170,7 @@ Located just south of Odense, this charming spot is perfect for couples, familie
 
 > A day at The Funen Village isn’t just educational—it’s a peaceful escape into Denmark’s past. Whether you’re into history or just looking for a unique outing, this place has something for everyone.
 
-For those intrigued by sustainable living practices and history, The Funen Village also emphasizes [sustainable living practices](https://www.tripadvisor.com/Attraction_Review-g189524-d243794-Reviews-The_Funen_Village-Odense_Funen_and_Islands.html) from the past, making it relevant even today.
+For those intrigued by sustainable living practices and history, The Funen Village also emphasizes sustainable living practices from the past, making it relevant even today.
 
 ## 7\. Odense Harbour Bath
 
@@ -210,7 +210,7 @@ Step into the world of locomotives and railways at the Danish Railway Museum in 
 
 > Visiting the Danish Railway Museum is more than just an educational trip—it’s a nostalgic journey through time that connects you to Denmark’s rich railway heritage.
 
-For seniors planning to explore Denmark’s cultural gems, consider an [8-day curated tour](https://www.railescape.com/travel-inspiration/best-8-day-scandinavian-tours-for-seniors/) that includes stops like this one. It’s a wonderful way to experience the best of Scandinavia!
+For seniors planning to explore Denmark’s cultural gems, consider an 8-day curated tour that includes stops like this one. It’s a wonderful way to experience the best of Scandinavia!
 
 ## 9\. The Odense City Museum
 

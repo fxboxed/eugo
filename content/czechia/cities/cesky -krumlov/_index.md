@@ -53,7 +53,7 @@ Here’s a simple table to help you compare some popular tour options:
 | Gourmet Experience | 3 hrs | 60 |
 | Night Market Walk | 1.5 hrs | 30 |
 
-Don’t miss out on checking [Bistro MEstak reviews](https://www.tripadvisor.com/Restaurant_Review-g274688-d24119466-Reviews-Bistro_MEstak-Cesky_Krumlov_South_Bohemian_Region_Bohemia.html) when planning your tour.
+Don’t miss out on checking Bistro MEstak reviews when planning your tour.
 
 ### Traditional Czech Cuisine
 
@@ -92,8 +92,6 @@ You get not just the recipe, but a story behind every dish that you take back wi
 Explore Český Krumlov with your family and create memories that last a lifetime.
 
 You’ll find plenty of spots where excitement meets culture and nature.
-
-Throughout your adventures, consider checking out [family fun spots](https://www.thelittleadventurer.com/cesky-krumlov-with-kids/) for an added dose of local charm.
 
 ### Kid-Friendly Attractions
 
@@ -165,7 +163,7 @@ Here are a few things to keep in mind when you choose a candlelit setting:
 *   Look for menus that offer local specialties.
 *   Consider a venue that combines comfort with a dash of history.
 
-**You deserve to indulge in a night that feels both magical and personal.** In some places, you might even find options like [Don Julius Restaurant](https://www.tripadvisor.com/Restaurant_Review-g274688-d3182139-Reviews-Don_Julius_Restaurant-Cesky_Krumlov_South_Bohemian_Region_Bohemia.html) to explore a menu that mixes European and Czech flavors, perfect for those who enjoy a blend of tradition and modern zest.
+**You deserve to indulge in a night that feels both magical and personal.** In some places, you might even find options like Don Julius Restaurant to explore a menu that mixes European and Czech flavors, perfect for those who enjoy a blend of tradition and modern zest.
 
 > When you step into a softly lit dining room, allow yourself to experience the quiet magic of the evening.
 
@@ -285,7 +283,7 @@ Your visit wouldn’t be complete without exploring the castle that dominates th
 
 As you approach, take a moment to appreciate the architecture and the rich past embedded in every stone.
 
-A standout feature is its [stunning views](https://www.thetravelinpink.com/cesky-krumlov/) of the town's winding streets and red-roofed houses.
+A standout feature is its stunning view of the town's winding streets and red-roofed houses.
 
 Don't miss the _quaint_ carvings and intricate details that have survived centuries of change.
 
@@ -321,7 +319,7 @@ You can explore a variety of hiking trails that let you truly experience the out
 
 These trails often wind through calm woods and along quaint riverbanks, allowing you to engage with nature at your own pace.
 
-After a long hike, consider signing up for a [free tour](https://www.tripadvisor.com/Attractions-g274688-Activities-c42-t228-Cesky_Krumlov_South_Bohemian_Region_Bohemia.html) to learn more about the local history and scenery.
+After a long hike, consider signing up for a free tour to learn more about the local history and scenery.
 
 Here are some suggestions to keep in mind:
 
@@ -365,7 +363,7 @@ When you explore Český Krumlov, you get to see how the seasons come alive.
 
 You attend local fairs, community parades, and quirky market days that make your visit memorable.
 
-One example is a charming [local event](https://en.czech-unesco.org/cesky-krumlov/events/) that transforms the streets into a living festival.
+One example is a charming local event that transforms the streets into a living festival.
 
 **These celebrations create unforgettable memories for you.**
 
@@ -473,7 +471,7 @@ You are encouraged to take leisurely walks along the historic lanes, which allow
 
 On these tours, you visit spots at a slow, comfortable pace - perfect for a relaxed day out.
 
-Consider joining a [free tour](https://www.tripadvisor.com/Attractions-g274688-Activities-c42-Cesky_Krumlov_South_Bohemian_Region_Bohemia.html) to learn more about Český Krumlov’s heritage as you stroll along.
+Consider joining a free tour to learn more about Český Krumlov’s heritage as you stroll along.
 
 *   Enjoy scenic paths with minimal crowding
 *   Benefit from guided commentary at a gentle pace

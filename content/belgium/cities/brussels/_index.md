@@ -45,7 +45,7 @@ Want to drive? Highways from neighboring countries make that easy too. Once you�
 
 One of the coolest things about Brussels is how close it is to other major European cities. Fancy a day trip? Paris is just 1.5 hours away by train, Amsterdam takes about 2 hours, and London is reachable in just over 2 hours via the Eurostar. 
 
-Even smaller gems like Ghent, Bruges, and [Leuven](https://www.visit.brussels/en/visitors/what-to-do/11-hidden-treasures-in-the-streets-of-brussels) are just a short train ride away. Whether you’re into bustling metropolises or charming towns, Brussels is your perfect base for exploring Europe.
+Even smaller gems like Ghent, Bruges, and Leuven are just a short train ride away. Whether you’re into bustling metropolises or charming towns, Brussels is your perfect base for exploring Europe.
 
 ## Understanding the Climate of Brussels
 
@@ -190,7 +190,7 @@ Carbonnade flamande, a hearty beef stew cooked in beer, is another dish worth tr
 
 > Food in Brussels isn’t just a meal—it’s an experience. Each dish tells a story, blending tradition with a love for quality ingredients.
 
-For more on Brussels' culinary scene, check out [Explore Brussels' culinary delights, including moules-frites, waffles, and speculoos biscuits, with this guide to the city's best food](https://www.getyourguide.com/explorer/brussels-ttd8/food-in-brussels/).
+For more on Brussels' culinary scene, check out Explore Brussels' culinary delights, including moules-frites, waffles, and speculoos biscuits, with this guide to the city's best food.
 
 ## Day Trips from Brussels
 
@@ -238,7 +238,7 @@ Just keep an eye out for cobblestone streets—they can be tricky to navigate on
 
 If you're new to Brussels or want to dive deeper into its history and culture, guided tours are a great option. Walking tours around iconic landmarks like the Grand Place and the Royal Palace offer fascinating insights. 
 
-For a tech-savvy approach, download travel apps that provide self-guided tours and interactive maps. These apps often highlight must-see spots like the [Grand Place](https://www.tripadvisor.com/Attractions-g188644-Activities-c42-t235-Brussels.html) while uncovering hidden gems you might otherwise miss.
+For a tech-savvy approach, download travel apps that provide self-guided tours and interactive maps. These apps often highlight must-see spots like the Grand Place while uncovering hidden gems you might otherwise miss.
 
 > "Brussels is a city where getting around is part of the adventure. Whether you're hopping on a tram, strolling through historic streets, or cycling past scenic parks, every journey adds to the experience."
 
@@ -258,7 +258,7 @@ Spring in Brussels is synonymous with Floralia, a stunning flower exhibition hel
 
 Summer brings the city alive with music and outdoor fun. The Afropolitan Festival and River Jazz Festival are just a couple of the exciting events that draw locals and tourists alike. 
 
-Don’t miss [unmissable summer events in Brussels](https://www.visit.brussels/en/visitors/what-to-do/summer-in-brussels) like the Mundo Pixar Experience or the Collectible Design Fair—they’re perfect for all ages. Grab some sunscreen and enjoy the open-air vibes!
+Don’t miss unmissable summer events in Brusselslike the Mundo Pixar Experience or the Collectible Design Fair—they’re perfect for all ages. Grab some sunscreen and enjoy the open-air vibes!
 
 ## Shopping Experiences in Brussels
 

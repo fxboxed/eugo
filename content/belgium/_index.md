@@ -66,7 +66,7 @@ Whether you're a comic book fan or just looking for something different to do, t
 ![cobblestone streets of Bruges](/imgs/belgium/cobblestone-streets-of-Bruges.webp)
 ### Strolling Through the Historic Center
 
-Wandering the cobblestone streets of Bruges feels like stepping back in time. The historic center, a UNESCO World Heritage Site, is a treasure trove of medieval architecture. As you stroll, you'll find yourself surrounded by stunning Gothic buildings, quaint shops, and charming squares. Don't miss the [Belfort](https://www.tripadvisor.com/Attractions-g188671-Activities-c47-Bruges_West_Flanders_Province.html), a 13th-century bell tower that offers panoramic views of the city from its top. It's a bit of a climb, but the view is worth every step.
+Wandering the cobblestone streets of Bruges feels like stepping back in time. The historic center, a UNESCO World Heritage Site, is a treasure trove of medieval architecture. As you stroll, you'll find yourself surrounded by stunning Gothic buildings, quaint shops, and charming squares. Don't miss the Belfort], a 13th-century bell tower that offers panoramic views of the city from its top. It's a bit of a climb, but the view is worth every step.
 
 ### The Canals of Bruges
 
@@ -112,7 +112,7 @@ For a taste of local flavor, don't miss out on [Antwerp's exceptional pastries](
 
 ### The Gravensteen Castle
 
-Step into a world of medieval splendor at the [Gravensteen Castle](https://lifeyourway.net/ghent-a-medieval-marvel/). Built in the 12th century, this fortress is a remarkable piece of history nestled in the heart of Ghent. 
+Step into a world of medieval splendor at the Gravensteen Castle. Built in the 12th century, this fortress is a remarkable piece of history nestled in the heart of Ghent. 
 
 As you wander through its stone corridors and climb the towers, you can almost hear the echoes of knights and nobles who once roamed these halls. The castle offers a unique glimpse into the past, with displays of medieval weaponry and torture devices that are both intriguing and a bit chilling.
 
@@ -130,7 +130,7 @@ Ghent is also home to numerous cultural festivals throughout the year, celebrati
 
 > Ghent is a city where the past and present coexist harmoniously. It's a place where you can lose yourself in the pages of history during the day and find yourself amidst a modern cultural renaissance by night. Whether you're exploring its ancient castles or enjoying its lively nightlife, Ghent offers a unique experience that captures the essence of both old and new.
 
-[ Exploring Ghent: A Culinary and Cultural Journey for Couples, Families, and the Elderly](https://eugo.uk/belgium/cities/ghent/)
+[ Exploring Ghent: A Culinary and Cultural Journey for Couples, Families, and the Elderly](/belgium/cities/ghent/)
 
 ## Belgium's Culinary Delights
 
@@ -148,7 +148,7 @@ Belgium is a beer enthusiast's dream, with over a thousand varieties to choose f
 
 ### Traditional Belgian Dishes
 
-Belgian cuisine is hearty and comforting, with dishes that warm the soul. Some must-try meals include [mussels with fries](https://traveltriangle.com/blog/belgium-food/), a classic combination that is both simple and satisfying. 
+Belgian cuisine is hearty and comforting, with dishes that warm the soul. Some must-try meals include mussels with fries, a classic combination that is both simple and satisfying. 
 
 Other favorites are carbonnade flamande, a beef stew cooked in beer, and waterzooi, a creamy chicken or fish stew. Don't forget to try stoofvlees, a rich and flavorful beef stew, often served with fries.
 
@@ -160,7 +160,7 @@ Other favorites are carbonnade flamande, a beef stew cooked in beer, and waterzo
 ![Rows of headstones at the Battlefields of Ypres](/imgs/belgium/Battlefields-of-Ypres.webp)
 ### The Battlefields of Ypres
 
-When you step onto the [historical timeline](https://en.wikipedia.org/wiki/Timeline_of_Belgian_history) of Belgium, one of the most poignant places to visit is the battlefields of Ypres. 
+When you step onto the historical timelineof Belgium, one of the most poignant places to visit is the battlefields of Ypres. 
 
 This area is steeped in the memories of World War I, a time when the landscape was scarred by the horrors of war. Today, you can walk through the preserved trenches and visit the many memorials and cemeteries that pay tribute to the soldiers who fought here. **Ypres is a solemn reminder of the past, where the echoes of history are still felt today.**
 
@@ -204,11 +204,13 @@ The pubs in the historic Patershol district are particularly popular, offering a
 
 ## Art and Culture in Belgium
 ![A painting by Van Eyck featuring a woman and child](/imgs/belgium/Painting-by-Van-Eyck.webp)
+
 Belgium is a treasure trove of art and culture, a place where history and modernity meet in the most fascinating ways. **Flemish Masters like Van Eyck and Rubens** have left their mark, showcasing the country's rich artistic heritage. When you wander through Belgium, you can't help but feel the presence of these legendary artists.
 
 ### Flemish Masters: Van Eyck and Rubens
 
-The works of [Pieter Bruegel the Elder, Jan van Eyck, Hans Memling, and Dieric Bouts](https://www.britannica.com/place/Belgium/Cultural-life) are a testament to Belgium's diverse influences. Their masterpieces are scattered across the country, with museums and galleries dedicated to preserving their legacy. In cities like Bruges and Ghent, you can explore these art collections and get lost in the world of Flemish art.
+The works of Pieter Bruegel the Elder, Jan van Eyck, Hans Memling, and Dieric Bouts
+ are a testament to Belgium's diverse influences. Their masterpieces are scattered across the country, with museums and galleries dedicated to preserving their legacy. In cities like Bruges and Ghent, you can explore these art collections and get lost in the world of Flemish art.
 
 ### Modern Art Galleries
 
@@ -253,7 +255,7 @@ In spring, the Royal Greenhouses of Laeken open their doors, showcasing a stunni
 
 Antwerp is a shopper's paradise, blending high-end fashion with local charm. **Known as the diamond capital**, Antwerp's shopping scene is as dazzling as its gems. 
 
-Head over to the [Antwerp City](https://www.tripadvisor.com/Attractions-g188634-Activities-c26-t143-Belgium.html) for a vibrant shopping experience filled with chic boutiques, trendy cafes, and delightful restaurants. 
+Head over to the Antwerp City for a vibrant shopping experience filled with chic boutiques, trendy cafes, and delightful restaurants. 
 
 The Meir, Antwerp's main shopping street, offers everything from luxury brands to unique designer shops. Don't miss the chance to explore the fashion district, home to the famous Antwerp Six designers.
 
@@ -281,7 +283,7 @@ Visit the local markets to pick up unique souvenirs like handcrafted jewelry, ce
 
 Belgium is home to some of the most stunning Gothic cathedrals and churches in Europe. These architectural masterpieces are not just places of worship but are also remarkable examples of medieval craftsmanship. 
 
-The [Belfort](https://www.tripadvisor.com/Attractions-g188634-Activities-c47-t3-Belgium.html) in Bruges, a 13th-century Gothic bell tower, offers a scenic view of the Grote Markt and stands as a testament to the grandeur of Gothic architecture. 
+The Belfort in Bruges, a 13th-century Gothic bell tower, offers a scenic view of the Grote Markt and stands as a testament to the grandeur of Gothic architecture. 
 
 Each cathedral tells a story through its intricate stone carvings, towering spires, and beautiful stained glass windows.
 

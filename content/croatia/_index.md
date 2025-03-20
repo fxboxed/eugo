@@ -57,7 +57,6 @@ Dubrovnik isn't just about sights; it's a feast for the taste buds too. Dive int
 
 While the city itself is amazing, don't miss out on the surrounding areas. The Dubrovnik Riviera has charming towns like Cavtat and Ston, which are rich in history and natural beauty. Or take a boat trip to the Elaphiti Islands for some secluded beach time. And if you love wine, the Pelješac Peninsula is known for its excellent wineries.
 
-[ Exploring Dubrovnik: The Ideal Location and Climate for Couples, Families, and the Elderly](https://eugo.uk/croatia/cities/dubrovnik/)
 
 ## 2\. Split
 
@@ -99,7 +98,7 @@ Krka National Park is like stepping into a natural wonderland. **The park's main
 
 > Krka National Park offers a mix of natural beauty and cultural history, making it a must-visit in Croatia. Whether you're hiking, swimming, or just soaking up the scenery, there's something here for everyone.
 
-For more on exploring the stunning attractions of Krka National Park, including the breathtaking [Skradinski Buk Waterfall](https://www.bucketlistly.blog/posts/krka-national-park-backpacking-guide), scenic hikes around the Skradinski Buk Trail, and the picturesque Roški Waterfall, be sure to check out the detailed guide.
+For more on exploring the stunning attractions of Krka National Park, including the breathtaking Skradinski Buk Waterfall, scenic hikes around the Skradinski Buk Trail, and the picturesque Roški Waterfall, be sure to check out the detailed guide.
 
 ---
 
@@ -130,7 +129,7 @@ Hvar isn't just about beaches and history. The island is perfect for outdoor ent
 
 The countryside of Hvar is a sight to behold, with its fragrant lavender fields and lush vineyards. Learn about the traditional processes of making lavender oil and olive oil, both famous for their quality.
 
-### [Vibrant Nightlife and Entertainment](https://www.frankaboutcroatia.com/25-things-to-do-on-hvar-island-croatia/)
+### Vibrant Nightlife and Entertainment
 
 As night falls, Hvar turns into a lively entertainment hub. The main square in Hvar Town is the center of activity, with bars and cafes that keep the energy high. It's the perfect place to unwind and enjoy the island's vibrant nightlife.
 
@@ -142,7 +141,7 @@ As night falls, Hvar turns into a lively entertainment hub. The main square in H
 
 ![Cascading waterfalls and vibrant greenery at Plitvice Lakes.](/imgs/croatia/waterfalls-2.webp)
 
-Welcome to one of Croatia's true gems, the [Plitvice Lakes National Park](https://www.tripadvisor.com/Attractions-g303827-Activities-Plitvice_Lakes_National_Park_Central_Croatia.html). This place is not just a national park; it's a sprawling natural wonder that covers 295 square kilometers. Imagine 16 terraced lakes, each one feeding into the next through a series of breathtaking waterfalls. **It's a sight that leaves you speechless.**
+Welcome to one of Croatia's true gems, the Plitvice Lakes National Park. This place is not just a national park; it's a sprawling natural wonder that covers 295 square kilometers. Imagine 16 terraced lakes, each one feeding into the next through a series of breathtaking waterfalls. **It's a sight that leaves you speechless.**
 
 ### Exploring the Lakes
 
@@ -180,7 +179,7 @@ Rovinj's rich history is evident in its architecture and cultural landmarks. The
 
 ### Exploring the Old Town
 
-The heart of [Rovinj](https://www.earthtrekkers.com/best-things-to-do-rovinj-istria-croatia/) is its enchanting Old Town. As you wander through its narrow cobblestone streets, you'll encounter colorful buildings and quaint alleys. Here, you can explore local artisan shops, cozy cafes, and hidden squares that offer a glimpse into the town's character.
+The heart of Rovinj is its enchanting Old Town. As you wander through its narrow cobblestone streets, you'll encounter colorful buildings and quaint alleys. Here, you can explore local artisan shops, cozy cafes, and hidden squares that offer a glimpse into the town's character.
 
 ### St. Euphemia's Church
 
@@ -213,7 +212,7 @@ Zadar is a city where the past and present come together in the most fascinating
 
 ### A Symphony of Sunsets
 
-Zadar is famous for its breathtaking sunsets. Alfred Hitchcock once said they were the best in the world. Head to the [Sea Organ and Greeting to the Sun](https://www.tripadvisor.com/Attractions-g295374-Activities-Zadar_Zadar_County_Dalmatia.html) for a unique experience. The Sea Organ turns the waves into music, and the Greeting to the Sun creates a light show that's just magical.
+Zadar is famous for its breathtaking sunsets. Alfred Hitchcock once said they were the best in the world. Head to the Sea Organ and Greeting to the Sun for a unique experience. The Sea Organ turns the waves into music, and the Greeting to the Sun creates a light show that's just magical.
 
 ### Island Hopping Adventures
 
@@ -251,7 +250,7 @@ Pula's cuisine is a delightful mix of Mediterranean flavors. The local markets a
 
 ### Events and Festivals
 
-The summer months are lively with events, from open-air concerts to the [Pula Film Festival](https://rudderlesstravel.com/things-to-do-in-pula/) held in the ancient arena. These gatherings offer a glimpse into the local culture and provide entertainment for all ages.
+The summer months are lively with events, from open-air concerts to the Pula Film Festival held in the ancient arena. These gatherings offer a glimpse into the local culture and provide entertainment for all ages.
 
 With its mix of history, culture, and natural beauty, Pula is a destination that captivates all who visit. Whether you're wandering through ancient ruins or enjoying a meal at a local café, the city offers something special for everyone.
 
@@ -263,7 +262,7 @@ Welcome to Šibenik, a medieval town on the Dalmatian coast that promises an unf
 
 ### Discover the Marvels of the Historic City Center
 
-Begin your journey in the heart of Šibenik, where the [Cathedral of St. James](https://www.tripadvisor.com/Attractions-g295375-Activities-Sibenik_Sibenik_Knin_County_Dalmatia.html) stands as a testament to architectural brilliance. This UNESCO World Heritage Site is famous for its intricate stone carvings and stunning design. Wander through the narrow streets, lined with quaint shops, cafes, and traditional houses, and make sure to visit the City Hall and the Fortress of St. Michael for breathtaking views of the Adriatic Sea.
+Begin your journey in the heart of Šibenik, where the Cathedral of St. James stands as a testament to architectural brilliance. This UNESCO World Heritage Site is famous for its intricate stone carvings and stunning design. Wander through the narrow streets, lined with quaint shops, cafes, and traditional houses, and make sure to visit the City Hall and the Fortress of St. Michael for breathtaking views of the Adriatic Sea.
 
 ### Explore the Stunning National Parks
 
@@ -292,7 +291,7 @@ Zagreb, the heart of Croatia, is a city that seamlessly blends the old with the 
 
 ### Explore the Old Town
 
-Start your journey in the [Upper Town Gornji Grad](https://www.tripadvisor.com/Attractions-g294454-Activities-Zagreb_Central_Croatia.html), where you'll wander through cobblestone streets and admire landmarks like St. Mark’s Church with its iconic tiled roof. Don't miss the Zagreb Cathedral and the Lotrščak Tower, which offer a glimpse into the city's rich past.
+Start your journey in the Upper Town Gornji Grad), where you'll wander through cobblestone streets and admire landmarks like St. Mark’s Church with its iconic tiled roof. Don't miss the Zagreb Cathedral and the Lotrščak Tower, which offer a glimpse into the city's rich past.
 
 ### Discover the Museum Scene
 
@@ -315,8 +314,6 @@ If you're lucky enough to visit during the holiday season, the Zagreb Advent is 
 For a quick and scenic route between the Upper and Lower Towns, hop on the world's shortest funicular. It's a charming and convenient way to see the city from a different perspective.
 
 > Zagreb is not just a city; it's an experience that invites you to explore, indulge, and immerse yourself in its rich tapestry of culture and history. Whether you're wandering through its historic streets or enjoying a coffee at a local café, Zagreb promises memories that will linger long after you've left.
-
----
 
 ## Wrapping Up the Croatian Adventure
 

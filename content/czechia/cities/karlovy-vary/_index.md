@@ -59,7 +59,7 @@ To make the most of your evening stroll, consider these tips:
 1.  Wear comfortable shoes—many of the cobblestone paths can be uneven.
 2.  Stop by a nearby café to grab a warm drink to-go, especially in cooler months.
 3.  Plan your route to include both lively and quieter sections of the river.
-4.  If you’re staying at [Grandhotel Pupp](https://www.tripadvisor.com/Hotel_Review-g274697-d275547-Reviews-Grandhotel_Pupp-Karlovy_Vary_Karlovy_Vary_Region_Bohemia.html), ask the concierge for their recommended walking routes.
+4.  If you’re staying at Grandhotel Pupp, ask the concierge for their recommended walking routes.
 
 > Sometimes, the simplest moments—like holding hands and walking along a quiet river—can become the most unforgettable memories.
 
@@ -113,7 +113,7 @@ Many spas offer discounted evening packages, so you can indulge without the dayt
 
 After a rejuvenating soak or treatment, unwind in one of Karlovy Vary’s serene spa lounges. These spaces are designed to promote relaxation, with plush seating, soft lighting, and calming music. Some lounges even serve herbal teas made from local ingredients. 
 
-If you’re looking for an elegant therapy experience, Karlovy Vary is a perfect destination for health, relaxation, and wellness holidays, suitable for individuals or families. [Learn more about these experiences](https://www.spadreams.com/hotel/luxury-spa-medical-wellness-hotel-prezident-karlovy-vary-west-bohemia-I94/).
+If you’re looking for an elegant therapy experience, Karlovy Vary is a perfect destination for health, relaxation, and wellness holidays, suitable for individuals or families.
 
 > Spending a quiet evening in a spa lounge is like hitting the pause button on life. It’s the perfect way to recharge and savor the beauty of Karlovy Vary.
 
@@ -159,7 +159,7 @@ No evening in Karlovy Vary is complete without tasting some traditional Czech sw
 
 Many cafes stay open late, offering a cozy spot to enjoy these treats with a cup of coffee or herbal tea. If you’re feeling adventurous, try the spa wafers—a local specialty that’s both crispy and sweet. 
 
-For those who prefer a more sophisticated dessert experience, [Oysterium Wine & Oyster Bar](https://www.tripadvisor.com/Restaurant_Review-g274697-d14769799-Reviews-Oysterium_Wine_Oyster_Bar-Karlovy_Vary_Karlovy_Vary_Region_Bohemia.html) offers a selection of gourmet sweets to end your night on a high note.
+For those who prefer a more sophisticated dessert experience, Oysterium Wine & Oyster Bar offers a selection of gourmet sweets to end your night on a high note.
 
 > Whether you're planning a romantic dinner or a fun family meal, Karlovy Vary's dining options offer something for everyone. The mix of traditional flavors and modern twists ensures your evening will be as delicious as it is memorable.
 
@@ -301,7 +301,7 @@ Always check availability and book in advance, as these romantic experiences ten
 
 ## Quiet Spots for Elderly Visitors to Unwind
 
-![Elderly couples relaxing in a tranquil garden setting.](https://contenu.nyc3.digitaloceanspaces.com/journalist/6fc36473-f23c-456b-8a71-818a324f7edf/thumbnail.jpeg)
+![Elderly couples relaxing in a tranquil garden setting.](/imgs/czechia/park.webp)
 
 ### Peaceful Parks Open in the Evening
 

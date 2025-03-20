@@ -117,7 +117,7 @@ It’s a peaceful spot to sit back, enjoy the view, and appreciate the _unique_ 
 
 Larnaca offers a variety of trails for those who love to explore on foot. Whether you’re looking for an easy stroll or a more challenging hike, there’s something for everyone. 
 
-One popular option is the trail near the village of Lefkara, where you can take in stunning views of the countryside. If you’re up for it, consider a [4x4 tour through the Troodos Mountains](https://www.tripadvisor.com/Attractions-g190379-Activities-c61-Larnaca_Larnaka_District.html) for a mix of hiking and off-road adventure.
+One popular option is the trail near the village of Lefkara, where you can take in stunning views of the countryside. If you’re up for it, consider a 4x4 tour through the Troodos Mountains for a mix of hiking and off-road adventure.
 
 ### Water Sports at Finikoudes Beach
 
@@ -143,7 +143,7 @@ For a more laid-back vibe, the cafes along the Finikoudes Promenade are perfect 
 
 If you’re a true food enthusiast, consider joining a culinary tour to dive deeper into the flavors of Larnaca. These tours often include visits to local markets, hands-on cooking classes, and tastings of regional wines. 
 
-Companies like [Cyprus Taste Tours](https://www.tripadvisor.com/Attractions-g190372-Activities-c36-Cyprus.html) specialize in offering immersive experiences that blend food with culture. It’s a fantastic way to not only eat like a local but also learn the stories behind the dishes.
+Companies like Cyprus Taste Tours specialize in offering immersive experiences that blend food with culture. It’s a fantastic way to not only eat like a local but also learn the stories behind the dishes.
 
 ## Shopping and Souvenirs in Larnaca
 
@@ -197,7 +197,6 @@ You’ll find locals baking flaounes (a traditional Easter pastry) and decoratin
 
 Larnaca’s summer is synonymous with fun and entertainment. The Annual Summer Festival in July, hosted by the Municipality of Larnaca, showcases a fantastic mix of dance, music, and theatrical performances. 
 
-[This festival](https://blog.jet2.com/exciting-events-in-cyprus-in-2025) is a must for anyone looking to soak in the city’s vibrant culture. Plus, the beachside atmosphere adds a relaxed yet lively vibe to the whole experience.
 
 ### Attending the Larnaca Cultural Festival
 
@@ -211,7 +210,7 @@ Every fall, Larnaca’s Cultural Festival takes center stage. This event is a ce
 
 If you’re looking to unwind, Larnaca’s luxury resorts offer spa treatments that will leave you feeling like a new person. From aromatherapy massages to rejuvenating facials, you’ll find a variety of options to suit your needs. 
 
-For a personalized touch, consider visiting the [Bay Spa in Larnaca](https://www.tripadvisor.com/Attractions-g190379-Activities-c40-Larnaca_Larnaka_District.html), known for its friendly and professional staff. **Nothing beats a day of pampering to recharge your body and mind.**
+For a personalized touch, consider visiting the Bay Spa in Larnaca, known for its friendly and professional staff. **Nothing beats a day of pampering to recharge your body and mind.**
 
 ### Yoga Sessions by the Beach
 

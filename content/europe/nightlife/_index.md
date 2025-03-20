@@ -84,7 +84,7 @@ The _underground venues_ are the soul of Berlin's nightlife, and they're waiting
 
 Ibiza! Just the name conjures images of sun-drenched beaches and non-stop music.
 
-You probably already know Ibiza, in [Spain](/spain), as _the_ place to go if you're serious about partying.
+You probably already know Ibiza, in [Spain](/spain/), as _the_ place to go if you're serious about partying.
 
 It's more than just a destination; it's an experience.
 
@@ -146,7 +146,7 @@ These clubs combine luxury with a relaxed beach vibe, creating an unforgettable 
 
 You can start your night with cocktails at a beachfront bar and end it dancing under the stars.
 
-Don't miss the chance to experience [Barcelona's vibrant nightlife](https://www.tripadvisor.com/Attractions-g187497-Activities-c42-t233-Barcelona_Catalonia.html) with a local guide, tasting traditional drinks and tapas.
+Don't miss the chance to experience Barcelona's vibrant nightlife with a local guide, tasting traditional drinks and tapas.
 
 ### Flamenco and Live Music Venues
 
@@ -236,7 +236,7 @@ You'll find everything from traditional pubs serving tasty Czech food and beer t
 
 ### Underground Clubs and Late-Night Bars
 
-[Prague](/czechia/cities/prague) is famous for its underground clubs and late-night bars.
+[Prague](/czechia/cities/prague/) is famous for its underground clubs and late-night bars.
 
 Places like Roxy and Karlovy Lázně (one of the biggest clubs in Central Europe) are super popular.
 
@@ -244,7 +244,7 @@ The nightlife here is known for being affordable and having a really diverse mus
 
 You can find pretty much any kind of music you're looking for.
 
-If you're looking for a [Prague's vibrant nightlife](https://www.tripadvisor.com/Attractions-g274707-Activities-c20-Prague_Bohemia.html), this is the place to be.
+If you're looking for a Prague's vibrant nightlife, this is the place to be.
 
 ### Riverside Beer Gardens
 
@@ -308,9 +308,10 @@ Plus, the drinks are cheap, so you can party all night without breaking the bank
 
 > Belgrade's nightlife is a hidden gem waiting to be discovered. It's a city where you can let loose, experience new things, and create memories that will last a lifetime.<br><br> Don't be surprised if you find yourself wanting to come back for more – it's that addictive.
 
-## [London: A Cultural Melting Pot of Nightlife](uk/cities/london)
+## [London: A Cultural Melting Pot of Nightlife](uk/cities/london/)
 
 ![Vibrant London nightlife with crowds and illuminated pubs.](/imgs/europe/nl-2.webp)
+
 London's nightlife is as diverse as the city itself. You'll find something for everyone, from world-class clubs to cozy pubs.<br><br>It's a true melting pot of experiences.
 
 ### Clubbing and Cultural Hotspots
@@ -321,7 +322,6 @@ You can explore iconic nightclubs or discover hidden gems in different neighborh
 
 The city's cultural hotspots also come alive at night, with late-night museums, theaters, and live music venues offering a different kind of after-dark experience.
 
-For example, you can check out some of London's top nightclubs [Carpet Shop](https://www.timeout.com/london/clubs/the-best-clubs-in-london).
 
 ### Soho’s LGBTQ+ Scene
 
@@ -355,7 +355,7 @@ You'll find everything from super underground techno spots to fancy cocktail lou
 
 The city really comes alive after dark, and you're in for a treat.
 
-[Discovering Amsterdam](/netherlands/cities/amsterdam)
+[Discovering Amsterdam](/netherlands/cities/amsterdam/)
 
 ### Overview of Amsterdam’s Nightlife
 
@@ -393,7 +393,7 @@ Looking for something a little different? Amsterdam has you covered. Consider th
 
 ![Paris nightlife with glowing streets and lively cafes.](/imgs/europe/nl-3.webp)
 
-[Paris](/france/cities/paris), the City of Lights, truly comes alive after dark.
+[Paris](/france/cities/paris/), the City of Lights, truly comes alive after dark.
 
 It's not just about seeing the Eiffel Tower sparkle; it's about experiencing the unique blend of sophistication and excitement that defines Parisian nightlife.
 
@@ -497,7 +497,7 @@ Let's explore what makes Warsaw special.
 
 ### Trendy Bars and Clubs
 
-[Warsaw](/poland/cities/warsaw) has a ton of _trendy bars and clubs_ popping up all over the place.
+[Warsaw](/poland/cities/warsaw/) has a ton of _trendy bars and clubs_ popping up all over the place.
 
 You'll find everything from fancy cocktail bars to clubs playing electronic music.
 
@@ -517,7 +517,7 @@ There are venues hosting everything from jazz to rock to traditional Polish folk
 
 Plus, there are often cultural events happening at night, like theater performances or art exhibits.
 
-It's a great way to experience the [nightlife in Warsaw](https://www.tripadvisor.ca/Attractions-g274856-Activities-c20-Warsaw_Mazovia_Province_Central_Poland.html) beyond just the typical bar scene.
+It's a great way to experience the nightlife in Warsaw beyond just the typical bar scene.
 
 ### Unique Nightlife Experiences
 

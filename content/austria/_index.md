@@ -78,7 +78,7 @@ Every summer, Salzburg transforms into a cultural hub during the Salzburg Festiv
 
 From opera to classical concerts, the festival showcases the finest in performing arts. It's a highlight for anyone visiting Salzburg in the warmer months.
 
-[Discovering Salzburg: A Guide to Its Location, Climate, and Top Attractions](http://localhost:1313/austria/cities/saltzburg/)
+[Discovering Salzburg: A Guide to Its Location, Climate, and Top Attractions](/austria/cities/saltzburg/)
 
 ## Innsbruck: Gateway to the Alps
 

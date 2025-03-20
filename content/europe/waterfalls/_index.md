@@ -267,7 +267,7 @@ Europe's waterfalls aren't just pretty to look at; they're also a playground for
 
 ### Hiking Trails at Seljalandsfoss
 
-Seljalandsfoss in Iceland is famous for the trail that lets you walk _behind_ the cascading water. It's an awesome experience, but be prepared to get a little wet! The surrounding area also has some great hiking trails, offering different views of the waterfall and the Icelandic landscape. **Make sure you wear waterproof gear and sturdy shoes**, as the rocks can be slippery. You can explore the [nature adventures](https://www.tripadvisor.com/Attractions-g4-Activities-c57-t95-Europe.html) around the falls.
+Seljalandsfoss in Iceland is famous for the trail that lets you walk _behind_ the cascading water. It's an awesome experience, but be prepared to get a little wet! The surrounding area also has some great hiking trails, offering different views of the waterfall and the Icelandic landscape. **Make sure you wear waterproof gear and sturdy shoes**, as the rocks can be slippery. You can explore the nature adventuresaround the falls.
 
 ### Ice Climbing at Gavarnie Falls
 

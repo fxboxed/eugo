@@ -90,7 +90,7 @@ You can sample staple ingredients like locally grown olives, figs, and honey, al
 
 These ingredients come together in dishes that have been perfected over years of simple traditions.
 
-Sometimes, you might want to explore [fresh flavors](https://www.onthegotours.com/Croatia/Guides/Month-By-Month-in-Croatia) at a market where recipes are shared from one generation to the next.
+Sometimes, you might want to explore fresh flavors at a market where recipes are shared from one generation to the next.
 
 For a quick look at some local ingredients, check out the table below:
 
@@ -138,8 +138,7 @@ Some trails are flat and easy, perfect for a slow pace, while others meander thr
 
 **You’ll be amazed at the beauty around every bend.**
 
-Don’t miss out on exploring the lesser-known trails—check out [Mljet highlights](https://unforgettablecroatia.co.uk/holiday-ideas/top-things-to-do-on-mljet-island/) for local picks.
-
+Don’t miss out on exploring the lesser-known trails—check out Mljet highlights
 Here are some trail types you might encounter:
 
 *   Flat paths ideal for a calming stroll
@@ -202,7 +201,7 @@ Some highlights include:
 *   Old temples and churches that have witnessed centuries of change.
 *   Rustic bridges and pathways that once connected vibrant communities.
 
-For a deeper dive into these sites, consider checking out [island highlights](https://christinaintheclouds.com/things-to-do-in-mljet-croatia/) as part of your adventure.
+For a deeper dive into these sites, consider checking out island highlights) as part of your adventure.
 
 ### Local Festivals and Events
 
@@ -252,7 +251,7 @@ Consider these ideas:
 *   Interactive museums that mix fun and learning
 *   Outdoor nature trails that invite exploration
 
-If you're planning your next getaway, a perfect [family vacation spot](https://www.adventuroustastes.com/croatia-with-kids/) is waiting to be discovered in these activities.
+If you're planning your next getaway, a perfect family vacation spot is waiting to be discovered in these activities.
 
 ### Educational Experiences
 
@@ -305,7 +304,7 @@ Consider these ideas:
 *   Kayak along the coast for a closer look.
 
 
-You might even consider checking out [villas in Mljet](https://www.booking.com/villas/region/hr/mljet-sland.en-gb.html) to find a perfect spot to stay close to nature.
+You might even consider checking out villas in Mljet to find a perfect spot to stay close to nature.
 
 ### Sunset Viewing Spots
 
@@ -376,7 +375,7 @@ Consider these quick pointers:
 
 *   Visit local visitor centers to get details on mobility aids available nearby.
 *   Look up tour schedules that specifically mention senior-friendly options.
-*   Check out [accessible tours](https://www.tourradar.com/v/islands-croatian-islands) for guidance on selecting attractions.
+*   Check out accessible tours for guidance on selecting attractions.
 
 Below is a quick reference table that highlights some visitor-friendly spots:
 
@@ -410,7 +409,7 @@ The sunlight reflecting off the water creates a scene that feels almost too perf
 
 **You're going to be amazed by the interplay of light and water around the lakes.** Each step by the water brings a fresh perspective to nature’s quiet display.
 
-You might decide to slow down, breathe deeply, and even enjoy a bit of [local wines](https://www.lifeandventures.com/odysseus-cave-on-mljet/) to celebrate the view.
+You might decide to slow down, breathe deeply, and even enjoy a bit of local wines to celebrate the view.
 
 ### Wildlife Watching
 
@@ -462,7 +461,7 @@ Here's a simple overview of what to expect:
 | Taxi | Moderate | $10 - $20 |
 | Water Taxi | Limited | $15 - $25 |
 
-You might want to check out [local transit info](https://www.korculaexplorer.com/visit-mljet/) for more details.
+You might want to check out local transit info for more details.
 
 **When you ride the bus, you're not just commuting—you're getting a slice of island life.**
 
@@ -517,7 +516,7 @@ You can find a good selection of hotels and resorts scattered around the island.
 
 These places are known for their clean rooms, friendly staff, and a set of amenities that make your stay easy and fun.
 
-**You might even stumble upon a special discount on your booking when exploring options like [exclusive lodging deals](https://thegreatrefresh.com/en/mljet-trail-en/) available locally.**
+**You might even stumble upon a special discount on your booking when exploring options like exclusive lodging deals available locally.**
 
 Here are some points to consider when picking a hotel or resort:
 
@@ -609,7 +608,7 @@ Below is a small table that gives you an idea of what to expect with typical pri
 | Local Cheese | 5.00 per lb |
 | Handmade Pastries | 3.00 each |
 
-You might also find that exploring these bustling markets connects you with Mljet's _authentic_ food scene and even a bit of [vibrant culture](https://www.independent.co.uk/travel/croatia-culture-museums-galleries-markets-festivals-b2666433.html).
+You might also find that exploring these bustling markets connects you with Mljet's _authentic_ food scene and even a bit of vibrant culture.
 
 ### Local Artisans
 
@@ -653,7 +652,7 @@ Below is a quick look at what you might expect:
 | Modern Lounge | Chic & Cozy | Mid |
 | Themed Venue | Lively & Unique | High |
 
-Make sure to also explore [seniors tours](https://www.bookmundi.com/y/croatia-tours-for-seniors?srsltid=AfmBOoqYxzNUOhCTfmrQFFDoebWVimO6LCZq0CTHv8PggfTC_b9h20k_) for a taste of local culture.
+Make sure to also explore seniors tours for a taste of local culture.
 
 ### Live Music Venues
 
@@ -663,15 +662,9 @@ The venues range from intimate clubs to energetic stages, offering a variety of 
 
 Consider these tips for an enjoyable evening:
 
-1.
-
- Check out intimate jazz bars for mellow evenings.
-2.
-
- Visit rock venues where the energy is contagious.
-3.
-
- Enjoy acoustic sets in small, cozy settings.
+1. Check out intimate jazz bars for mellow evenings.
+2. Visit rock venues where the energy is contagious.
+3. Enjoy acoustic sets in small, cozy settings.
 
 > Remember, a night filled with great tunes and good company can turn an ordinary evening into something special.
 

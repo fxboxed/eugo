@@ -27,9 +27,8 @@ With its stunning location, mild climate, and a mix of history and culture, Dubr
 
 ## Romantic Spots in Dubrovnik for Couples
 
-![Couples walking along Dubrovnik's scenic coastline at sunset.](https://contenu.nyc3.digitaloceanspaces.com/journalist/a3ac3688-c039-4644-8f0f-79837223003e/thumbnail.jpeg)
-
-### Sunset Views at Mount Srđ
+![Couples walking along Dubrovnik's scenic coastline at sunset.](/imgs/croatia/sunset.webp)
+### Sunset Views at Mount Srđ`
 
 Imagine standing atop Mount Srđ as the sun dips below the Adriatic Sea, painting the sky in shades of orange, pink, and purple. 
 
@@ -117,7 +116,7 @@ From intricately carved staircases to antique furniture, every corner of the pal
 
 > Pro Tip: If you're planning to visit multiple landmarks, consider purchasing a Dubrovnik Card. It provides access to several attractions, including the city walls, Fort Lovrijenac, and Rector’s Palace, saving you both time and money.
 
-For a deeper dive into Dubrovnik’s history, landmarks like [Fortress of St. Lawrence](https://www.tripadvisor.com/Attractions-g295371-Activities-c47-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia.html) and the Franciscan Monastery are must-visits. These sites highlight the city’s blend of cultural and architectural heritage.
+For a deeper dive into Dubrovnik’s history, landmarks like Fortress of St. Lawrence and the Franciscan Monastery are must-visits. These sites highlight the city’s blend of cultural and architectural heritage.
 
 ## Accessible Tourism in Dubrovnik for the Elderly
 
@@ -173,7 +172,7 @@ Families can make a game out of spotting the quirkiest items, while couples migh
 
 For those who love the outdoors, the _Konavle Valley_ offers a peaceful retreat just outside Dubrovnik. The trails here are perfect for all skill levels, from casual walkers to seasoned hikers. 
 
-As you wander, you’ll pass through charming villages, vineyards, and olive groves, all while surrounded by stunning mountain views. Don’t forget to [explore the hidden gems of rural Southern Croatia by cycling through the Konavle Valley](https://www.tripadvisor.com/Attractions-g295371-Activities-c61-t220-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia.html) for an even broader experience of this serene area.
+As you wander, you’ll pass through charming villages, vineyards, and olive groves, all while surrounded by stunning mountain views. Don’t forget to explore the hidden gems of rural Southern Croatia by cycling through the Konavle Valley for an even broader experience of this serene area.
 
 ### Kayaking Adventures Around the City Walls
 
@@ -205,7 +204,7 @@ Winter in Dubrovnik is nothing short of enchanting, thanks to its festive Christ
 
 Stroll through the Old Town's cobblestone streets adorned with twinkling lights, and you'll find stalls offering handmade crafts, local delicacies, and warm mulled wine. Families and couples alike will enjoy the cozy atmosphere, and kids will love the occasional live performances or holiday-themed workshops. 
 
-For those looking to experience a unique blend of history and holiday cheer, the [Dubrovnik Winter Festival](https://www.happy.rentals/blog/354-dubrovnik-winter-festival) is the perfect addition to your itinerary.
+For those looking to experience a unique blend of history and holiday cheer, the Dubrovnik Winter Festival is the perfect addition to your itinerary.
 
 ### Harvest Celebrations in Nearby Villages
 
@@ -221,7 +220,6 @@ Villages near Dubrovnik often organize grape-picking activities and folk music p
 
 Imagine indulging in a serene spa experience while overlooking the shimmering Adriatic Sea. Dubrovnik offers several high-end spa facilities that cater to all ages, whether you're seeking a deep tissue massage to ease tension or a rejuvenating facial. 
 
-Many spas are located in luxury resorts, like [this beachfront hotel in Srebreno](https://www.marriott.com/en-us/hotels/dbvsi-sheraton-dubrovnik-riviera-hotel/overview/), where you can combine wellness treatments with direct beach access. **It's the perfect way to unwind after a day of exploring.**
 
 ### Yoga Classes on the Beach
 

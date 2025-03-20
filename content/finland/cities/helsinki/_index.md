@@ -72,7 +72,7 @@ _It’s a place where learning doesn’t feel like learning at all!_ Whether it�
 
 ## Cultural Highlights for All Ages
 
-![People enjoying cultural attractions in Helsinki.](https://contenu.nyc3.digitaloceanspaces.com/journalist/7d104c7d-ef0e-49c9-82b5-9d66807dc1db/thumbnail.jpeg)
+![People enjoying cultural attractions in Helsinki.](/imgs/europe/table.webp)
 
 ### Visiting the National Museum of Finland
 
@@ -124,8 +124,7 @@ Pack a snack, hop on a bike, and enjoy the freedom of exploring nature at your o
 
 ## Shopping and Souvenirs in Helsinki
 
-![Colorful shops and happy shoppers in Helsinki.](https://contenu.nyc3.digitaloceanspaces.com/journalist/d2bd9b7e-b981-476f-a48c-400591a8ddcf/thumbnail.jpeg)
-
+![Colorful shops and happy shoppers in Helsinki.](/imgs/europe/shoppers.webp)
 ### Browsing the Old Market Hall
 
 The Old Market Hall is _the_ place to experience Helsinki’s food culture. Here, you’ll find everything from fresh seafood to locally-made cheeses and baked goods. 
@@ -140,7 +139,7 @@ Market Square, or Kauppatori, is a vibrant outdoor market where you can shop for
 
 If you’re visiting during summer, the market is bustling with local farmers selling berries and vegetables. It’s a lively spot to soak in the local culture while picking up some unique mementos. 
 
-[Explore shopping in Helsinki](https://www.tripadvisor.com/Attractions-g189934-Activities-c26-Helsinki_Uusimaa.html) to discover more highlights like this.
+Explore shopping in Helsinki to discover more highlights like this.
 
 ### Exploring Boutiques in the Design District
 
@@ -172,7 +171,7 @@ After your sauna session, you might enjoy a delicious meal or a refreshing drink
 
 Public saunas are a cornerstone of Finnish life, and Helsinki has some of the best. They’re places where locals and visitors alike come to unwind, socialize, and enjoy the health benefits of sauna bathing. 
 
-[Kotiharjun Sauna](https://www.tripadvisor.com/Attraction_Review-g189934-d262955-Reviews-Kotiharjun_Sauna-Helsinki_Uusimaa.html) is a fantastic example, offering separate facilities for men and women, along with outdoor spaces to cool off. Don’t be surprised if you strike up a friendly conversation with a stranger—it’s all part of the charm. 
+Kotiharjun Sauna is a fantastic example, offering separate facilities for men and women, along with outdoor spaces to cool off. Don’t be surprised if you strike up a friendly conversation with a stranger—it’s all part of the charm. 
 
 Just remember to shower before entering and keep the atmosphere respectful and serene.
 
@@ -240,7 +239,7 @@ Step into Helsinki's bustling market halls, where the aroma of freshly baked bre
 
 These halls are perfect for sampling _authentic Finnish flavors_, from creamy salmon soup to Karelian pasties topped with egg butter. Don’t miss the chance to try seasonal berries or the famous reindeer jerky. 
 
-The Old Market Hall, with its charming stalls, offers a glimpse into the city’s culinary heritage—an experience food writer [Timo Santala](https://www.myhelsinki.fi/visit/eat-and-drink/best-traditional-finnish-restaurants-in-helsinki/) would undoubtedly recommend.
+The Old Market Hall, with its charming stalls, offers a glimpse into the city’s culinary heritage—an experience food writer Timo Santala would undoubtedly recommend.
 
 ### Fine Dining Restaurants for Couples
 
@@ -296,7 +295,7 @@ If you’re lucky, you might even catch a state event or official ceremony takin
 
 If you’re looking for a serene escape, Helsinki’s luxurious spas are the perfect getaway. 
 
-Treat yourselves to a rejuvenating experience at places like [Kämp Spa & Fitness](https://spaandbeautytoday.com/articles/relax-at-the-best-spas-in-helsinki-one-of-the-worlds-happiest-cities), where indulgence meets tranquility. Many spas in the city offer couples' packages, so you can unwind together in a peaceful setting. 
+Treat yourselves to a rejuvenating experience at places like Kämp Spa & Fitness, where indulgence meets tranquility. Many spas in the city offer couples' packages, so you can unwind together in a peaceful setting. 
 
 From aromatherapy massages to hot stone treatments, there’s something to suit every preference. **It’s the ideal way to recharge while enjoying quality time with your partner.**
 
@@ -354,7 +353,7 @@ Helsinki doesn't have to be expensive if you plan smartly. Here are a few tips:
 
 > Traveling smart means you can enjoy Helsinki without breaking the bank. A little planning goes a long way in making your trip memorable and affordable.
 
-Looking for more adventurous activities? Try [Finnish baseball, paddling, or skiing](https://www.myhelsinki.fi/visit/things-to-do/activities-in-helsinki/) to add some excitement to your Helsinki adventure.
+Looking for more adventurous activities? Try Finnish baseball, paddling, or skiing to add some excitement to your Helsinki adventure.
 
 ## Wrapping Up Your Helsinki Adventure
 

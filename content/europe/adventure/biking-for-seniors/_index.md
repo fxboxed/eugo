@@ -178,7 +178,7 @@ Europe is packed with history, and a bike tour puts you right in the middle of i
 
 ### Festivals and Events to Experience
 
-Depending on when you go, you might stumble upon a local festival or event. These are great opportunities to experience the culture firsthand. From wine festivals in France to music festivals in Italy, there's always something happening. Even small village celebrations can be a blast, offering a glimpse into local traditions and customs. Check the local calendars before you go to see what's on, and be prepared to join in the fun! You might even find some [country-specific tours](https://www.artofbicycletrips.com/) that coincide with these events.
+Depending on when you go, you might stumble upon a local festival or event. These are great opportunities to experience the culture firsthand. From wine festivals in France to music festivals in Italy, there's always something happening. Even small village celebrations can be a blast, offering a glimpse into local traditions and customs. Check the local calendars before you go to see what's on, and be prepared to join in the fun! You might even find some country-specific tours that coincide with these events.
 
 > I remember one time, I was biking through a small town in Spain and stumbled upon a local fiesta. The whole town was out dancing in the streets, and they pulled me right in! It was such a spontaneous and unforgettable experience. That's the kind of thing you just can't plan for, but it makes the trip so much more special.
 
@@ -208,7 +208,7 @@ This is a big one, especially for us older cyclists. It's easy to get dehydrated
 Here's what I do:
 
 *   **Carry plenty of water:** I usually bring two water bottles, and refill them whenever I get the chance.
-*   **Eat regular snacks:** I pack things like energy bars, fruit, and nuts to keep my energy levels up. [Wearing a helmet](https://www.safewise.com/blog/biking-safety-tips-31-ideas-for-staying-safe-while-biking/) is also a good idea.
+*   **Eat regular snacks:** I pack things like energy bars, fruit, and nuts to keep my energy levels up. Wearing a helmet is also a good idea.
 *   **Listen to your body:** If you're feeling tired or thirsty, take a break. Don't push yourself too hard.
 
 > Remember, cycling is supposed to be fun! Don't let safety concerns scare you off, but do take the time to prepare and be aware of your surroundings. A little planning can go a long way toward ensuring a safe and enjoyable bike tour.

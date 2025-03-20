@@ -74,7 +74,7 @@ When packing for Hvar, keep the season in mind:
 
 > With its Mediterranean climate offering over 2,700 hours of sunshine annually, Hvar is one of the sunniest spots in Europe. Whether you're planning a summer escape or a spring retreat, the island's weather rarely disappoints.
 
-For those who love sun-drenched days and mild evenings, [Hvar's Mediterranean climate](https://www.hvarboating.com/hvar-weather) ensures a comfortable stay almost year-round.
+For those who love sun-drenched days and mild evenings, Hvar's Mediterranean climate ensures a comfortable stay almost year-round.
 
 ## Top Attractions for Couples on Hvar Island
 
@@ -88,7 +88,7 @@ Watching the sun dip below the horizon from here is pure magic. The mix of histo
 
 If privacy is what you’re after, Hvar has you covered. _Dubovica Beach_ is a favorite for couples, thanks to its crystal-clear waters and quiet atmosphere. Another gem is Zaraće Beach, offering a mix of pebbles and turquoise waves. 
 
-For a truly private experience, consider exploring the Pakleni Islands, just a short boat ride away. These tiny isles are dotted with secluded spots perfect for a romantic escape. [Explore top attractions](https://www.tripadvisor.com/Attractions-g303808-Activities-Hvar_Hvar_Island_Split_Dalmatia_County_Dalmatia.html) like these to make your trip even more special.
+For a truly private experience, consider exploring the Pakleni Islands, just a short boat ride away. These tiny isles are dotted with secluded spots perfect for a romantic escape. Explore top attraction) like these to make your trip even more special.
 
 ### Wine Tasting and Culinary Experiences
 
@@ -100,7 +100,7 @@ Many wineries also offer tours, giving you a glimpse into the winemaking process
 
 ### Exploring Historical Sites with Kids
 
-Take a step back in time with your family by visiting some of Hvar's fascinating historical landmarks. For instance, [Tvrdava Fortica](https://www.tripadvisor.com/Attractions-g303808-Activities-zft11306-Hvar_Hvar_Island_Split_Dalmatia_County_Dalmatia.html) offers not only a glimpse into the island's past but also stunning panoramic views that kids will love. 
+Take a step back in time with your family by visiting some of Hvar's fascinating historical landmarks. For instance, Tvrdava Fortica offers not only a glimpse into the island's past but also stunning panoramic views that kids will love. 
 
 Stari Grad, one of the oldest towns in Europe, is another must-visit. Wander through its cobblestone streets and let your children marvel at the ancient architecture.
 
@@ -244,7 +244,6 @@ Hvar is a popular destination, so plan ahead! Here are some tips:
 
 > Pro Tip: Some tours offer discounts for early bookings or group reservations, so it’s worth checking before you finalize your plans.
 
-For more detailed insights into planning your visit, check out this [comprehensive travel guide for Hvar Island](https://www.frankaboutcroatia.com/hvar-island-travel-guide/). It covers activities, dining, and accommodations to make your trip seamless.
 
 ## Sustainable Tourism on Hvar Island
 
@@ -262,7 +261,7 @@ Plus, if you're into history, there are cultural walking tours through Hvar Town
 
 When you visit Hvar, make it a point to support the local economy. **Shopping at small, family-owned stores or dining at locally-sourced restaurants** not only gives you a more authentic experience but also helps the community thrive. 
 
-Consider staying at eco-conscious accommodations like [Beach Bay](https://www.travelandleisure.com/hvar-croatia-island-8763783), which runs entirely on solar power and is part of UNESCO's Sustainable Travel Pledge. 
+Consider staying at eco-conscious accommodations like Beach Bay, which runs entirely on solar power and is part of UNESCO's Sustainable Travel Pledge. 
 
 Buying handmade souvenirs or tasting wines from local vineyards are other great ways to contribute.
 

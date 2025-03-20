@@ -183,7 +183,6 @@ The garden’s tranquil atmosphere makes it an ideal place to recharge. Don’t 
 
 > Copenhagen’s green spaces are more than just parks—they’re a way of life. Whether you’re cycling through the streets or soaking up the sun in a garden, you’ll feel a deep connection to the city’s love for the outdoors.
 
-For more outdoor activities in Copenhagen, including visiting _Frederiksberg Have_ or the National Aquarium Denmark, check out these [recommended outdoor activities](https://www.tripadvisor.com/Attractions-g189541-Activities-c57-Copenhagen_Zealand.html).
 
 ## Culinary Delights in Copenhagen
 
