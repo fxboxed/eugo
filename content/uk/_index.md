@@ -8,7 +8,7 @@ author = ["eugo"]
 tab = "UK"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/uk/thumbnail.jpeg"
+image = "/imgs/uk/thumbnail.webp"
 alt_txt = "Collage of famous UK landmarks including Big Ben and Stonehenge"
 relcanonical = "https://eugo.uk/uk/"
 +++
@@ -29,7 +29,7 @@ Whether you're a history buff or just love a good view, these landmarks will mak
 
 ![Stonehenge at sunset with dramatic skies and greenery.](/imgs/uk/stone.webp)
 
-Stonehenge is one of those places that just makes you stop and think. Located in Wiltshire, England, this [prehistoric monument](https://www.tripadvisor.com/Attraction_Review-g186414-d188527-Reviews-Stonehenge-Salisbury_Wiltshire_England.html) is a circle of giant stones, some over 20 feet tall. 
+Stonehenge is one of those places that just makes you stop and think. Located in Wiltshire, England, the prehistoric monument is a circle of giant stones, some over 20 feet tall. 
 
 Built around 2500 BC, it’s a mystery that has puzzled historians and archaeologists for ages. Why was it built? What was it used for? We may never know for sure.
 
@@ -54,7 +54,7 @@ When you visit, you’re stepping into a piece of ancient history. The stones ar
 
 ![Edinburgh Castle on a sunny day with blue sky.](/imgs/uk/castle.webp)
 
-Perched proudly atop Castle Rock, [Edinburgh Castle](https://www.tripadvisor.com/Attraction_Review-g186525-d187653-Reviews-Edinburgh_Castle-Edinburgh_Scotland.html) is an iconic symbol of Scotland's rich history. 
+Perched proudly atop Castle Rock, Edinburgh Castle is an iconic symbol of Scotland's rich history. 
 
 **This historic fortress has stood the test of time, witnessing centuries of turbulent events and royal ceremonies.** As you approach its formidable walls, you can't help but feel a sense of awe, knowing that this castle has been a royal residence, a military stronghold, and a national emblem.
 
@@ -189,7 +189,7 @@ The castle's history dates back to the 11th century when it was founded by Willi
 
 Today, Windsor Castle remains a working royal palace, frequently hosting important state visits. The Queen often resides here, adding to its allure as a living piece of history. 
 
-When planning your visit, make sure to explore the [rich cultural heritage](https://www.tripadvisor.com/Attraction_Review-g186419-d216438-Reviews-Windsor_Castle-Windsor_Windsor_and_Maidenhead_Berkshire_England.html) that Windsor Castle showcases, reflecting the storied past of the British monarchy.
+When planning your visit, make sure to explore the rich cultural heritage that Windsor Castle showcases, reflecting the storied past of the British monarchy.
 
 ---
 
@@ -243,7 +243,7 @@ Here's what to expect when you take a spin on the London Eye:
 
 > The London Eye might be a bit touristy, but it's undeniably a memorable experience. Whether you're a first-timer or a seasoned traveler, witnessing London's vast skyline from this vantage point is something special.
 
-For those who crave a unique view of London's skyline, the [experience breathtaking 360-degree views](https://www.tripadvisor.com/Attraction_Review-g186338-d553603-Reviews-London_Eye-London_England.html) from the London Eye is a must-do. 
+For those who crave a unique view of London's skyline, the experience breathtaking 360-degree views from the London Eye is a must-do. 
 
 It's not just about the views; it's about capturing the essence of the city from above.
 

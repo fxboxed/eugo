@@ -7,7 +7,7 @@ type = 'targeted'
 layout = 'targeted'
 tags = ['surfing']
 batch = "Top Surfing Spots in France"
-image = "/imgs/france/surf-thumb.jpeg"
+image = "/imgs/france/surf-thumb.webp"
 alt_txt = " Surfer riding a wave on a French beach."
 relcanonical = "https://eugo.uk/france/specials/surfing"
 +++

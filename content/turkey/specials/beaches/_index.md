@@ -395,8 +395,6 @@ The atmosphere is relaxed and friendly, and you can often sit right on the beach
 
 It's the perfect way to unwind after a day of swimming and sunbathing.
 
-You can also find [Datca tours](https://www.tripadvisor.com/Attractions-g311316-Activities-Datca_Mugla_Province_Turkish_Aegean_Coast.html) to explore the area.
-
 ### Surrounding Natural Beauty
 
 Ovabuku is surrounded by beautiful countryside, with fragrant pine trees and carob groves adding to the _picturesque setting_.
@@ -480,7 +478,7 @@ Here are some things to consider:
 
 Okay, let's get down to it. Here are a few beaches that consistently rank high in the beauty department:
 
-*   **Ölüdeniz (Blue Lagoon):** Near Fethiye, this beach is famous for its unreal turquoise waters and postcard-perfect setting. You can even try [paragliding adventures](https://www.tripadvisor.com/Attractions-g293969-Activities-c61-t52-Turkiye.html) here!
+*   **Ölüdeniz (Blue Lagoon):** Near Fethiye, this beach is famous for its unreal turquoise waters and postcard-perfect setting. You can even try paragliding adventures!
 *   **Kaputaş Beach:** Tucked between Kaş and Kalkan, Kaputaş boasts stunning turquoise waters and a dramatic setting at the foot of a gorge. The unique landscape makes it a must-see.
 *   **Butterfly Valley:** Accessible by boat, this secluded valley is home to a unique ecosystem and a stunning beach. It's a bit of an adventure to get there, but totally worth it.
 

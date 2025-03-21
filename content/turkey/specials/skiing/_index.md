@@ -128,7 +128,6 @@ While Palandoken might be a bit more remote and less developed than some other r
 
 Plus, you can experience the unique culture and hospitality of eastern Turkey.
 
-If you are looking for [group tour in Turkey](https://www.tripadvisor.com/HotelsList-Turkiye-Family_friendly-Ski_In-Ski_Out-Resort-zfp14099068.html), this might be a good option.
 
 ## Unique Trails for Adventurous Hikers
 
@@ -445,7 +444,7 @@ A compass or GPS device can also be a lifesaver, especially in remote areas.
 
 Don't rely solely on your phone; batteries die, and service can be spotty.
 
-For example, the [Uludag Ski Center](https://www.tripadvisor.com/Attractions-g293969-Activities-c61-t77-Turkiye.html) has well-marked trails, but it's still a good idea to have a map handy.
+For example, the Uludag Ski Center has well-marked trails, but it's still a good idea to have a map handy.
 
 *   Download offline maps on your phone.
 *   Learn how to use a compass.
@@ -479,7 +478,7 @@ Here's a quick rundown:
 *   **Gear:** Wear appropriate clothing and footwear. Bring plenty of water and snacks. A first-aid kit is a must.
 *   **Wildlife:** Be aware of the local wildlife, and know how to react if you encounter any animals. And remember, common sense goes a long way. If something doesn't feel right, turn back. It's better to be safe than sorry.
 
-Consider [Erciyes Ski Resort](https://www.tripadvisor.com/Attractions-g293969-Activities-c61-t77-Turkiye.html) for a safer experience with well-maintained slopes.
+Consider Erciyes Ski Resort for a safer experience with well-maintained slopes.
 
 ## Final Thoughts on Your Turkish Adventure
 

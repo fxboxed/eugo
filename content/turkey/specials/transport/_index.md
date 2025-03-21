@@ -109,7 +109,7 @@ This can be a convenient way to find the best deals and compare options.
 
 Just make sure you book in advance, especially during peak season or holidays, as buses can fill up quickly.
 
-You can explore [top attractions in Turkey](https://www.tripadvisor.com/Attractions-g293969-Activities-c42-t174-Turkiye.html) by bus.
+You can explore top attractions in Turkey by bus.
 
 ### Traveling Between Cities
 
@@ -424,7 +424,7 @@ When you're exploring Turkey, especially its major cities, walking is a fantasti
 
 Istanbul, for example, boasts incredible walking areas like Sultanahmet, where you can wander among historical landmarks such as the Hagia Sophia and the Blue Mosque.
 
-**The Galata district offers a vibrant mix of shops, cafes, and stunning views of the Bosphorus.** Don't miss the chance to experience a [half-day walking tour](https://www.tripadvisor.com/Attractions-g673665-Activities-c42-Turkish_Black_Sea_Coast.html) of the Galata hillside.
+**The Galata district offers a vibrant mix of shops, cafes, and stunning views of the Bosphorus.** Don't miss the chance to experience a half-day walking tour of the Galata hillside.
 
 Ankara's old city, with its winding streets and traditional houses, is another great option for a leisurely stroll.
 

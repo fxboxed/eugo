@@ -89,7 +89,7 @@ Whether it's learning to dance the flamenco in Spain or participating in a tradi
 
 ### Exploring Historical Landmarks
 
-![The Palace of Versailles](imgs/europe/Palace-of-Versailles.webp )
+![The Palace of Versailles](imgs/europe/eu-1.webp )
 
 Europe is dotted with historical landmarks that tell the stories of its past. 
 

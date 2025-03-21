@@ -114,7 +114,7 @@ Afterward, check out the themed Snow World or WildPark for a mix of icy fun and 
 
 ### Exploring Historical Sites with Kids
 
-Introduce your children to the wonders of history by visiting iconic spots like [Hadrian's Gate](https://www.tripadvisor.com/Attractions-g297962-Activities-zft11306-Antalya_Turkish_Mediterranean_Coast.html) or the ancient city of Perge. 
+Introduce your children to the wonders of history by visiting iconic spots like Hadrian's Gate or the ancient city of Perge. 
 
 These sites blend storytelling with exploration, making history come alive for young minds. Don't miss the chance to wander through Kaleiçi Old Town, where cobblestone streets and Ottoman-era architecture create an unforgettable backdrop.
 
@@ -190,7 +190,7 @@ One standout spot is **Koprulu Canyon National Park**, where you can trek throug
 
 For water enthusiasts, Antalya offers everything from jet skiing to parasailing. The Mediterranean’s calm, clear waters are perfect for sailing, and you can even join a guided boat tour to explore hidden coves and beaches. 
 
-If you're up for a thrill, consider [this rafting, zipline, and ATV tour](https://www.tripadvisor.com/Attractions-g297962-Activities-c61-Antalya_Turkish_Mediterranean_Coast.html) to add some adrenaline to your day. It’s a mix of excitement and breathtaking scenery.
+If you're up for a thrill, consider a rafting, zipline, and ATV tour to add some adrenaline to your day. It’s a mix of excitement and breathtaking scenery.
 
 ### Day Trips to Natural Wonders
 

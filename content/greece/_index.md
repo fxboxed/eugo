@@ -204,7 +204,7 @@ Kefalonia, the largest of the Ionian Islands, is a true gem for those seeking bo
 
 ### Nightlife
 
-When the sun sets, [Argostoli](https://santorinidave.com/where-to-stay-in-kefalonia) becomes the heart of Kefalonia's nightlife. Here, you can find a range of venues, from cozy cocktail bars to vibrant spots with live music and DJs. It's the perfect place to unwind after a day of exploring.
+When the sun sets, Argostoli becomes the heart of Kefalonia's nightlife. Here, you can find a range of venues, from cozy cocktail bars to vibrant spots with live music and DJs. It's the perfect place to unwind after a day of exploring.
 
 ### Culture
 

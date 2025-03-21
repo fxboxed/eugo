@@ -32,7 +32,7 @@ This guide will take you through the must-see tourist attractions, the rich hist
 
 ### Grossmünster Cathedral
 
-When you think of Zurich, the [Grossmünster Cathedral](https://www.tripadvisor.com/Attractions-g188113-Activities-c47-Zurich.html) is often the first landmark that comes to mind.
+When you think of Zurich, the Grossmünster Cathedral is often the first landmark that comes to mind.
 
 This Romanesque-style church is not just an architectural gem but also a symbol of the city's history.
 
@@ -140,7 +140,7 @@ These bakeries also offer Straumann Hüppen, crispy wafer rolls with a creamy ch
 
 Whether you're enjoying a hearty dish of Zürcher Geschnetzeltes or sampling the delicate sweets from a local bakery, the city's culinary offerings are sure to leave a lasting impression."
 
-For those who want to dive deeper into the local cuisine, consider joining a [small-group gourmet food tour](https://www.tripadvisor.com/Attractions-g188113-Activities-c42-t204-Zurich.html) that lets you experience traditional Swiss sweets and local delicacies firsthand.
+For those who want to dive deeper into the local cuisine, consider joining a small-group gourmet food tour that lets you experience traditional Swiss sweets and local delicacies firsthand.
 
 It's a delicious way to explore the city's rich culinary heritage.
 

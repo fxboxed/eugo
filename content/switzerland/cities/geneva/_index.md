@@ -90,7 +90,7 @@ Strolling through Geneva's Old Town feels like stepping back in time.
 
 Geneva is home to some truly unique museums that will delight those who love to discover new things.
 
- The [city’s museums](https://www.tripadvisor.com/Attractions-g188057-Activities-c47-Geneva.html) offer insights into everything from art to science, and even the fascinating world of watchmaking.
+ The city’s museums offer insights into everything from art to science, and even the fascinating world of watchmaking.
 
 1. **Art and History Museum**: Dive into a collection that spans centuries.
 2. **Patek Philippe Museum**: Discover the art of Swiss watchmaking.
@@ -214,7 +214,7 @@ When the sun dips below the horizon, Geneva transforms into a vibrant hub of nig
 
  The city is home to a variety of bars and pubs, each with its own unique vibe.
 
- If you're in the mood for a laid-back evening, places like [Mr Barber](https://www.tripadvisor.com/Attractions-g188057-Activities-c20-Geneva.html) and Rollers Mini-Golf Bar offer a relaxed atmosphere to enjoy a drink with friends.
+ If you're in the mood for a laid-back evening, places like Mr Barber and Rollers Mini-Golf Bar offer a relaxed atmosphere to enjoy a drink with friends.
 
  For those who prefer a more classic pub experience, the Lord Jim Pub is a must-visit, boasting a rich selection of beers and a warm, welcoming ambiance.
 
@@ -264,7 +264,7 @@ For those who love to hike, Geneva has some great trails.
 
  Whether you're a seasoned hiker or just starting out, there's a trail for you.
 
- One popular option is to [experience a guided trip from Geneva to Chamonix](https://www.tripadvisor.com/Attractions-g188057-Activities-c61-Geneva.html) to see Mont Blanc.
+ One popular option is to experience a guided trip from Geneva to Chamonix to see Mont Blanc.
 
  It's a hassle-free way to enjoy some breathtaking views.
 
@@ -302,7 +302,7 @@ When you're in Geneva, the _luxury shopping_ scene is something you can't miss.
 
 If you're more into the local vibe, Geneva's markets and artisan shops are where you should head.
 
- The [Plainpalais Market](https://www.tripadvisor.com/Attractions-g188057-Activities-c26-Geneva.html) is a favorite for many, bursting with unique finds and local crafts.
+ The Plainpalais Market is a favorite for many, bursting with unique finds and local crafts.
 
  You can spend hours here, discovering handmade jewelry, vintage clothing, and quirky antiques.
 
@@ -334,7 +334,7 @@ No trip is complete without souvenirs, right? Geneva has plenty of options for k
 
 Geneva is home to several museums that are perfect for kids.
 
- The [Geneva Lake Museum of History](https://www.tripadvisor.com/Attractions-g60022-Activities-zft11306-Lake_Geneva_Wisconsin.html) offers a fun, interactive experience where children can explore the city's past through engaging exhibits.
+ The Geneva Lake Museum of History offers a fun, interactive experience where children can explore the city's past through engaging exhibits.
 
  Another must-visit is the Natural History Museum, which has a wide array of exhibits including dinosaur skeletons and a variety of wildlife displays.
 

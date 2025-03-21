@@ -378,7 +378,7 @@ Some points to check out:
 *   Handmade crafts and unique art pieces
 *   Traditional attire and accessories
 
-Keep an eye out for a taste of [urban shopping](https://www.tripadvisor.com/Attractions-g298006-Activities-c26-Izmir_Izmir_Province_Turkish_Aegean_Coast.html) that captures the spirit of Izmir's everyday hustle.
+Keep an eye out for a taste of urban shopping that captures the spirit of Izmir's everyday hustle.
 
 ### Modern Shopping Malls
 

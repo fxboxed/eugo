@@ -81,7 +81,7 @@ Step into the Hagia Sophia and be transported through centuries of history. Orig
 
 Its massive dome and intricate mosaics are awe-inspiring, and the way light filters through its windows is almost magical. **The Hagia Sophia stands as a testament to Istanbul's diverse cultural and religious history.** 
 
-If you’re exploring the city, don’t miss a [guided tour of the Hagia Sophia and Blue Mosque](https://www.tripadvisor.com/Attractions-g293974-Activities-c42-t228-Istanbul.html) to truly appreciate its significance.
+If you’re exploring the city, don’t miss a guided tour of the Hagia Sophia and Blue Mosque to truly appreciate its significance.
 
 ### Exploring the Topkapi Palace
 
@@ -117,7 +117,7 @@ Ever wanted to learn how to make authentic Turkish dishes? A cooking class in Is
 
 Most workshops include a trip to a local market, where you’ll pick out fresh ingredients. By the end, you’ll not only have a full belly but also new skills to take home. 
 
-For a unique experience, consider [a private food tour](https://www.tripadvisor.com/Attractions-g293974-Activities-c42-t204-Istanbul.html) that combines cooking with tastings of Istanbul’s best dishes.
+For a unique experience, consider a private food tour that combines cooking with tastings of Istanbul’s best dishes.
 
 ### Exploring the Spice Bazaar
 

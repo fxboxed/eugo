@@ -240,7 +240,7 @@ Whether you're into adrenaline-pumping [water sports](/turkey/specials/water) or
 
 ### Land Adventures
 
-*   **Hiking and Trekking:** Explore the rugged terrains of the Lycian Way or the [valleys of Cappadocia](https://www.tripadvisor.com/Attractions-g293969-Activities-c61-Turkiye.html) on foot. These trails offer breathtaking views and a chance to connect with nature.
+*   **Hiking and Trekking:** Explore the rugged terrains of the Lycian Way or the valleys of Cappadocia on foot. These trails offer breathtaking views and a chance to connect with nature.
 *   **Paragliding in Ölüdeniz:** Feel the rush as you soar over the stunning beaches and lush landscapes. This is a must-try for any adventure enthusiast.
 *   **Skiing and Snowboarding:** Head to the winter resorts of Uludağ and Palandöken for some snowy fun.
 
@@ -355,7 +355,7 @@ Imagine yourself lounging on the soft sand, watching the waves gently lap at the
 
 ### Top Beaches
 
-1.  [Kaputaş Beach](https://www.tripadvisor.com/Attractions-g658661-Activities-c61-t52-Turkish_Mediterranean_Coast.html): Nestled between Kaş and Kalkan, this beach is a must-see for its stunning beauty.
+1.  Kaputaş Beach: Nestled between Kaş and Kalkan, this beach is a must-see for its stunning beauty.
 2.  Ölüdeniz: Known for its blue lagoon, it's a favorite among tourists for its unique landscape.
 3.  Patara Beach: Famous for its long sandy stretch and historic ruins nearby.
 

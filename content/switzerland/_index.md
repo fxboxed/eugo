@@ -97,11 +97,9 @@ This mountain peak, often referred to as the "Top of Europe," offers a breathtak
 
 > Standing atop Jungfrau, surrounded by the vastness of the Alps, you might feel small, but incredibly alive. The crisp air, the sound of snow crunching underfoot, and the sheer beauty of the landscape are experiences that stay with you long after you've left.
 
-For those planning to explore more of the region, consider a [remarkable journey through the Swiss Bernese Alps](https://www.tripadvisor.com/Attraction_Review-g188078-d199009-Reviews-Jungfrau-Bernese_Oberland_Canton_of_Bern.html) to visit nearby stunning locations like Interlaken and Grindelwald. 
+For those planning to explore more of the region, consider a remarkable journey through the Swiss Bernese Alps to visit nearby stunning locations like Interlaken and Grindelwald. 
 
 Each place offers its own unique charm and adventure.
-
----
 
 ## 3\. Lake Geneva
 
@@ -251,7 +249,7 @@ When visiting Rhine Falls, there's more than just sightseeing. Here's what you c
 
 ### Nearby Attractions
 
-While you're in [Neuhausen am Rheinfall](https://www.tripadvisor.com/Attractions-g188070-Activities-Neuhausen_am_Rheinfall.html), make sure to explore other attractions:
+While you're in Neuhausen am Rheinfall, make sure to explore other attractions:
 
 *   _Smilestones Miniaturwelt_ offers a miniature world experience that's fun for all ages.
 *   Take a nature and wildlife tour to see more of the local beauty.
@@ -267,7 +265,7 @@ Whether you're a nature lover, an adventure seeker, or just looking for a peacef
 
 ![Château de Chillon on the picturesque shores of Lake Geneva](/imgs/switzerland/castle-3603881_640.webp)
 
-Nestled on the picturesque shores of Lake Geneva, [Château de Chillon](https://www.tripadvisor.com/Attraction_Review-g911522-d246808-Reviews-Chateau_de_Chillon-Veytaux_Canton_of_Vaud.html) stands as a testament to Switzerland's rich history and stunning architecture. 
+Nestled on the picturesque shores of Lake Geneva, Château de Chillon stands as a testament to Switzerland's rich history and stunning architecture. 
 
 This medieval fortress, with its dramatic backdrop of the Swiss Alps, is a must-see for anyone visiting the region.
 
@@ -333,7 +331,7 @@ This place is like the adventure capital of Switzerland, offering everything fro
 
 > Interlaken is not just a place; it's an experience. Whether you're an adrenaline junkie or someone who loves to take it slow, this town has something for everyone.
 
-For more on [top attractions and activities in Interlaken](https://www.tripadvisor.com/Attractions-g188081-Activities-Interlaken_Bernese_Oberland_Canton_of_Bern.html), including Harder Kulm and Schynige Platte, you're in for a treat.
+For more on top attractions and activities in Interlaken, including Harder Kulm and Schynige Platte, you're in for a treat.
 
 ---
 
@@ -353,7 +351,7 @@ Nestled in the stunning Engadin Valley, this chic resort town is famous for its 
 
 ### Activities
 
-St. Moritz is a [sportsperson's paradise](https://www.tripadvisor.com/Attractions-g188091-Activities-St_Moritz_Engadin_St_Moritz_Canton_of_Graubunden_Swiss_Alps.html), having hosted the Winter Olympics twice. 
+St. Moritz is a sportsperson's paradise, having hosted the Winter Olympics twice. 
 
 Here, you can indulge in skiing, snowboarding, and even bobsledding on the famous Olympia Bobrun. If you’re feeling adventurous, try the Cresta Run, a 1.2 km long toboggan track.
 

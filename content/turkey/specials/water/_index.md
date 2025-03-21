@@ -139,7 +139,7 @@ Antalya is a popular destination for scuba diving, with its warm waters and dive
 
 The city has many diving schools and sites, making it accessible for beginners and appealing to experienced divers.
 
-You can experience an [Antalya Scuba Diving](https://www.tripadvisor.com/Attractions-g293969-Activities-c61-t194-Turkiye.html) adventure with two dives in the Mediterranean Sea.
+You can experience an Antalya Scuba Diving adventure with two dives in the Mediterranean Sea.
 
 ### Kas: A Diver's Dream
 
@@ -187,7 +187,7 @@ Kas is another gem. The coastline is rugged and beautiful, with tons of little i
 
 It's a bit more adventurous than Kekova, with some longer stretches of open water, but totally doable even if you're not a pro kayaker.
 
-Plus, you can find some awesome [sea kayaking tours](https://www.tripadvisor.com/AttractionProductReview-g297965-d14781853-Ultimate_Sea_Kayaking_Tour_of_Kekova-Kas_Turkish_Mediterranean_Coast.html) that will take you to the best spots.
+Plus, you can find some awesome sea kayaking tours that will take you to the best spots.
 
 ### Dalaman River Adventures
 
@@ -231,7 +231,7 @@ It's known for its reliable winds and flat water, which makes it a favorite amon
 
 The town itself is also really charming, with cobblestone streets and cute cafes.
 
-After a day on the water, you can relax and enjoy the [local cuisine](https://www.tripadvisor.com/Attractions-g297961-Activities-c61-t197-Alanya_Turkish_Mediterranean_Coast.html).
+After a day on the water, you can relax and enjoy the local cuisine.
 
 ### Gokceada Island: Untouched Beauty
 
@@ -269,7 +269,7 @@ You'll be strapped into a harness, the parachute will inflate, and up you go! Th
 
 Make sure to check the weather before you book, as wind conditions are important for a safe and enjoyable flight.
 
-You can find [top providers](https://www.tripadvisor.com/Attractions-g293969-Activities-c61-t192-Turkiye.html) in Fethiye.
+You can find top providers in Fethiye.
 
 ### Antalya: Soar Above the Sea
 
@@ -377,7 +377,7 @@ You can explore the famous Blue Lagoon, a protected natural area with calm, shal
 
 Or, venture further out to discover hidden beaches and secluded coves.
 
-Don't miss the chance to experience the beauty of [Fethiye outdoor activities](https://www.tripadvisor.com/Attractions-g298031-Activities-c61-t191-Fethiye_Mugla_Province_Turkish_Aegean_Coast.html) from a unique perspective.
+Don't miss the chance to experience the beauty of Fethiye outdoor activities from a unique perspective.
 
 ### Kalkan: Scenic Routes
 
@@ -471,7 +471,6 @@ Don't forget to check out the dolphin show for an extra special treat.
 
 You can easily spend the entire day here, making memories that will last a lifetime.
 
-Consider purchasing [Aqualand tickets](https://www.tripadvisor.com/Attractions-g293969-Activities-c52-Turkiye.html) in advance to avoid long queues, especially during peak season.
 
 ### Water Fun in Bodrum
 

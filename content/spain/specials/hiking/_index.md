@@ -7,7 +7,7 @@ tab ='Hiking'
 type = 'targeted'
 layout = 'targeted'
 batch = "Adventure Activities in Spain"
-image = "/imgs/spain/hiking-thumb.jpeg"
+image = "/imgs/spain/hiking-thumb.webp"
 alt_txt = "Hikers and skiers enjoying Spain's beautiful mountainous landscapes."
 relcanonical = "https://eugo.uk/spain/specials/hiking/"
 +++

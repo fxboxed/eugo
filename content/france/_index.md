@@ -5,7 +5,7 @@ title = ' Exploring the Top Ten Tourist Resorts in France: A Dive into Nightlife
 
 description = "Explore France's top 10 tourist resorts, rich in nightlife, history, culture, cuisine, and shopping."
 author = ["eugo"]
-
+tab= 'France'
 type = 'countries'
 layout = 'cities'
 image = "/imgs/france/thumbnail.webp"

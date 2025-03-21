@@ -182,7 +182,7 @@ Imagine sipping a pint while hearing about the spectral patrons who might still 
 > 
 > The city’s dark history, combined with its atmospheric streets, sets the stage for a night that will stay with you long after it’s over.
 
-For those intrigued by the darker side of history, [explore the darker side of Edinburgh's history](https://www.tripadvisor.com/Attractions-g186525-Activities-c42-t226-Edinburgh_Scotland.html) on a nighttime ghost tour and uncover the city’s most chilling tales.
+For those intrigued by the darker side of history, explore the darker side of Edinburgh's history on a nighttime ghost tour and uncover the city’s most chilling tales.
 
 ## Gourmet Dining Experiences for Couples and Families
 
@@ -202,7 +202,7 @@ The chefs here are known for their creativity, offering dishes that blend tradit
 
 Grassmarket is packed with eateries that cater to families without compromising on quality. Whether it's a cozy pub with hearty comfort food or a trendy café with a dedicated kids' menu, there's something for everyone. 
 
-For a warm and welcoming vibe, consider visiting [Makars Gourmet Mash Bar](https://www.tripadvisor.com/Restaurant_Review-g186525-d6481976-Reviews-Makars_Gourmet_Mash_Bar-Edinburgh_Scotland.html). 
+For a warm and welcoming vibe, consider visiting Makars Gourmet Mash Bar. 
 
 Known for its _comfort food_ made from local produce, this spot is a hit with both kids and adults. Plus, the friendly staff make dining here a breeze, even with little ones in tow.
 

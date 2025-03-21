@@ -7,7 +7,7 @@ tab ='Skiing'
 type = 'targeted'
 layout = 'targeted'
 batch = "Top Ski Resorts in France 2025 Guide"
-image = "/imgs/france/ski-thumb.jpeg"
+image = "/imgs/france/ski-thumb.webp"
 alt_txt = "Snowy French Alps with skiers on scenic slopes."
 relcanonical = "https://eugo.uk/france/specials/skiing"
 +++

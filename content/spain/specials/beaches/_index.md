@@ -7,7 +7,7 @@ tab ='Beaches'
 type = 'targeted'
 layout = 'targeted'
 batch = "Top Spanish Beaches"
-image = "/imgs/spain/beaches-thumb.jpeg"
+image = "/imgs/spain/beaches-thumb.webp"
 alt_txt = "Aerial view of beautiful sandy beach in Spain."
 relcanonical = "https://eugo.uk/spain/specials/beaches/"
 +++

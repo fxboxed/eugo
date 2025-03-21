@@ -198,7 +198,7 @@ Step into the world of one of England's most celebrated authors at the Charles D
 
 1.  Arrive early to avoid crowds and make the most of your time.
 2.  Don’t miss the garden – it’s a hidden gem for quiet reflection.
-3.  Consider joining the [Dickens Journey Quest](https://www.tripadvisor.com/Attraction_Review-g186338-d188889-Reviews-Charles_Dickens_Museum-London_England.html) for an interactive experience.
+3.  Consider joining the Dickens Journey Quest for an interactive experience.
 
 > Visiting the Charles Dickens Museum isn’t just about history – it’s about stepping into the shoes of a literary giant and imagining the world through his eyes.
 
@@ -244,7 +244,7 @@ Leadenhall Market is one of London's most enchanting historic spots. Dating back
 
 > Walking through Leadenhall Market feels like stepping into another era—it's a blend of history, culture, and modern-day vibrancy.
 
-Whether you're a history buff, a foodie, or just someone who loves unique places, [Leadenhall Market](https://www.tripadvisor.com/Attraction_Review-g186338-d211842-Reviews-Leadenhall_Market-London_England.html) is a destination you won't want to miss.
+Whether you're a history buff, a foodie, or just someone who loves unique places, Leadenhall Market is a destination you won't want to miss.
 
 ## Wrapping Up Your London Adventure
 
