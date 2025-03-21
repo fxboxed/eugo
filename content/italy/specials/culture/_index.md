@@ -7,7 +7,6 @@ tab ='Italian Culture'
 type = 'targeted'
 layout = 'targeted'
 batch = "Italy's Rich Historical and Cultural Journey"
-tags = ['culture']
 image = "/imgs/italy/culture-thumb.webp"
 alt_txt = "Historic Italian architecture with ancient ruins and vibrant piazzas."
 relcanonical = "https://eugo.uk/italy/specials/culture/"

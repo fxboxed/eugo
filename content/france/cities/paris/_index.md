@@ -6,7 +6,6 @@ draft = false
 tab ='Paris'
 type = 'cities'
 layout = 'cities'
-tags = ['France cities']
 image = "/imgs/france/par-thumb.webp"
 alt_txt = " Couple having a picnic near the Eiffel Tower."
 relcanonical = "https://eugo.uk/france/cities/paris/"
@@ -132,7 +131,7 @@ You might even find some unique souvenirs like homemade jams or spices.
 
 ### Finding Senior-Friendly Dining Spots
 
-Not every restaurant in Paris is fast-paced or crowded. For a more relaxed experience, consider visiting places like [this Montparnasse gem](https://www.tripadvisor.com/Restaurant_Review-g187147-d719099-Reviews-Le_Dome_Montparnasse-Paris_Ile_de_France.html), where the ambiance is welcoming and the service is attentive. Many traditional bistros and cafés offer comfortable seating and quieter atmospheres, making them ideal for older guests. Look out for menus with classic dishes and smaller portions—perfect for savoring without feeling overwhelmed.
+Not every restaurant in Paris is fast-paced or crowded. For a more relaxed experience, consider visiting places like Montparnasse, where the ambiance is welcoming and the service is attentive. Many traditional bistros and cafés offer comfortable seating and quieter atmospheres, making them ideal for older guests. Look out for menus with classic dishes and smaller portions—perfect for savoring without feeling overwhelmed.
 
 > Whether you’re a foodie or just hungry, Paris has something to satisfy every craving. Take your time, explore, and let your taste buds guide you through the city.
 

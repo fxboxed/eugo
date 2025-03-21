@@ -4,8 +4,6 @@ draft = false
 title = '10 Things to See and Do in the Netherlands: A Guide to Food, Culture, Nightlife, and Tourist Hot Spots'
 
 description = "Explore 10 things to see and do in the Netherlands, from food and culture to nightlife and tourist hot spots."
-categories = ["country"]
-tags = ["country"]
 author = ["eugo"]
 tab = "Netherlands"
 type = 'countries'

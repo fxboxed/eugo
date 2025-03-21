@@ -6,7 +6,6 @@ draft = false
 tab ='Hiking'
 type = 'targeted'
 layout = 'targeted'
-tags = ['']
 batch = "Top Hiking Destinations in Greece"
 image = "/imgs/greece/hiking-thumb.webp"
 alt_txt = "Hiker overlooking a scenic Greek landscape with mountains."
@@ -152,8 +151,6 @@ Get ready to explore some truly special places.
 You can even visit the cave where Zeus was said to have been raised.
 
 The trails are well-maintained, but be sure to bring plenty of water and wear sturdy shoes.
-
-You can [experience a scenic hike](https://www.tripadvisor.com/Attractions-g189431-Activities-c61-Naxos_Cyclades_South_Aegean.html) starting in Halki.
 
 ### Beaches and Ancient Ruins
 
@@ -562,7 +559,7 @@ You might even pick up a few Greek phrases along the way!
 
 Greece is full of ancient ruins and historical sites, and many of them are located along hiking trails.
 
-Imagine hiking to [traditional mountain villages](https://www.tripadvisor.com/Attractions-g189398-Activities-c61-t219-Greece.html) and discovering an ancient temple or a Byzantine church along the way.
+Imagine hiking to traditional mountain villages and discovering an ancient temple or a Byzantine church along the way.
 
 These sites offer a glimpse into Greece's past and add another layer of depth to your hiking experience.
 

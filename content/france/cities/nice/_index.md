@@ -6,7 +6,6 @@ draft = false
 tab ='Nice'
 type = 'cities'
 layout = 'cities'
-tags = ['France cities']
 image = "/imgs/france/ni-thumb.webp"
 alt_txt = "Couples and families dining by the seaside in Nice."
 relcanonical = "https://eugo.uk/france/cities/nice/"
@@ -405,7 +404,7 @@ Keeping these tips handy helps ensure that even if unexpected issues arise, youâ
 
 When you step out, you can find spots where the sky lights up as the day winds down.
 
-You might decide to sit at the seafront near [city highlights](https://www.tripadvisor.com/Attractions-g187234-Activities-zft12169-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html) and watch the sunset transform the horizon into a canvas of shifting colors.
+You might decide to sit at the seafront near city highlights and watch the sunset transform the horizon into a canvas of shifting colors.
 
 Here are a few ideas you can try:
 

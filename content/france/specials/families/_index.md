@@ -6,7 +6,7 @@ draft = false
 tab ='Family resorts'
 type = 'targeted'
 layout = 'targeted'
-tags = ['family resorts']
+
 batch = "Top Family Resorts in France"
 image = "/imgs/france/families-thumb.webp"
 alt_txt = "Family enjoying a resort pool under sunny skies in France."
@@ -246,8 +246,6 @@ You can stroll along the Croisette, the famous promenade, and admire the fancy h
 
 There's also a charming old town called Le Suquet, where you can get lost in the narrow streets and enjoy panoramic views of the city.
 
-It's a fun mix of [glamour and history](https://www.tripadvisor.com/HotelsList-France-Family-Resorts-zfp2707713.html).
-
 ### Montpellier: Vibrant City Life
 
 Montpellier is a lively university city with a youthful energy.
@@ -258,7 +256,6 @@ You can visit the Place de la Comédie, the city's main square, and watch the wo
 
 There are also plenty of museums, parks, and gardens to explore.
 
-It's a great place to experience [vibrant city life](https://www.tripadvisor.com/HotelsList-France-Family-Resorts-zfp2707713.html) in the South of France.
 
 > The South of France is more than just a pretty place; it's an experience.
 
@@ -311,8 +308,6 @@ With its extensive coastline, France is a paradise for water lovers.
 *   **Swimming:** France has countless beaches, from the Mediterranean coast to the Atlantic shore. Find a family-friendly beach with calm waters and plenty of space to play.
 *   **Water Sports:** Try your hand at surfing, paddleboarding, or kayaking. Many beaches offer rentals and lessons for all ages.
 *   **Boat Trips:** Take a boat trip along the coast or to nearby islands. It's a great way to see the scenery and spot marine life.
-
-Consider [all-inclusive family resorts](https://www.tripadvisor.com/HotelsList-France-Family_friendly-All_Inclusive-Resort-zfp14096352.html) for easy access to water activities.
 
 ## Planning Your Family Itinerary
 
@@ -526,7 +521,7 @@ France boasts a wealth of nature parks and reserves, offering a chance to see di
 
 These protected areas are perfect for families who want to connect with nature.
 
-Les Calanques National Park [family-friendly trails](https://www.tripadvisor.com/HotelsList-France-Hotels-Motels-Water-Park-zfp16064145.html) is a great destination.
+Les Calanques National Park family-friendly trails is a great destination.
 
 Many parks have visitor centers with information about the local flora and fauna, as well as guided walks and activities for children.
 

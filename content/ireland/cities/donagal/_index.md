@@ -269,7 +269,7 @@ When you're in Donegal, one of the best things to do is to explore the local cra
 
 From the intricate weaving techniques passed down through generations to the unique pottery styles, you'll find items that capture the essence of the region. 
 
-A visit to the [Donegal Craft Village](https://www.tripadvisor.ie/Attractions-g186601-Activities-c26-County_Donegal.html) is a must, offering a peek into the studios of local artisans. 
+A visit to the Donegal Craft Village is a must, offering a peek into the studios of local artisans. 
 
 Here, you can watch as they create their masterpieces, whether it's in textiles, ceramics, or woodwork.
 

@@ -6,7 +6,6 @@ draft = false
 tab ='Mljet'
 type = 'cities'
 layout = 'cities'
-tags = ['Croatia cities']
 image = "/imgs/croatia/mj-thumb.webp"
 relcanonical = "https://eugo.uk/croatia/cities/mljet"
 alt_txt = ""

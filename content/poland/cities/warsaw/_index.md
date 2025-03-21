@@ -6,7 +6,6 @@ draft = false
 tab ='Warsaw'
 type = 'cities'
 layout = 'cities'
-tags = ['Poland cities']
 image = "/imgs/poland/wa-thumb.webp"
 alt_txt = "Historic buildings and Polish cuisine in Warsaw's vibrant streets."
 relcanonical = "https://eugo.uk/poland/cities/warsaw/"

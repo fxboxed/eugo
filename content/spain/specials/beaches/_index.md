@@ -6,7 +6,6 @@ draft = false
 tab ='Beaches'
 type = 'targeted'
 layout = 'targeted'
-tags = ['beaches']
 batch = "Top Spanish Beaches"
 image = "/imgs/spain/beaches-thumb.jpeg"
 alt_txt = "Aerial view of beautiful sandy beach in Spain."

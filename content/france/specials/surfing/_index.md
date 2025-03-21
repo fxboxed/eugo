@@ -3,7 +3,6 @@ title = "Exploring France: Best Places for Surfing You Can't Miss"
 description = "Discover France's best places for surfing, from Biarritz to hidden gems along the coastline."
 date = 2023-01-01T08:00:00-07:00
 draft = false
-tab ='Surfing'
 type = 'targeted'
 layout = 'targeted'
 tags = ['surfing']

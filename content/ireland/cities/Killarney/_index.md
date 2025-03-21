@@ -6,7 +6,6 @@ draft = false
 tab ='Killarney'
 type = 'cities'
 layout = 'cities'
-tags = ['Ireland cities']
 image = "/imgs/ireland/kil-thumb.webp"
 alt_txt = "Scenic Killarney landscape with cottages and lush greenery."
 relcanonical = "https://eugo.uk/ireland/cities/killarney/" 
@@ -97,7 +96,7 @@ As you venture through the park, keep your eyes peeled for the local creatures.
 
 You might find yourself pleasantly surprised by the wildlife, from red deer to playful birds.
 
-Enjoy the quiet moments of observing nature, and if you get a moment, check out [local treasures](https://www.tripadvisor.com/Attractions-g186612-Activities-Killarney_County_Kerry.html) that show the natural charm of the area.
+Enjoy the quiet moments of observing nature, and if you get a moment, check out local treasures that show the natural charm of the area.
 
 *   Look for deer grazing in open fields.
 *   Listen for birds in the early morning light.
@@ -143,7 +142,7 @@ Many of these legends have been told for centuries, and you can see their influe
 
 **Local legends truly shape the community spirit.**
 
-For a taste of the unique traditions, consider a visit to a place like [Falconry Guide](https://www.tripadvisor.com/Attractions-g186612-Activities-zft12156-Killarney_County_Kerry.html), where ancient practices are celebrated alongside modern adventures.
+For a taste of the unique traditions, consider a visit to a place like Falconry Guide, where ancient practices are celebrated alongside modern adventures.
 
 Below is a brief table that lists some of the most talked-about legends in the area:
 
@@ -345,7 +344,7 @@ Try these tips when you explore:
 *   Chat with sellers to learn about the origins of their items.
 *   Take a relaxed look around since every stall has something different to offer.
 
-For further exploration of neighborhood retail spots, you might want to check out [specialty shops](https://www.tripadvisor.com/Attractions-g186612-Activities-c26-t144-Killarney_County_Kerry.html) that bring a slice of tradition to modern shopping.
+For further exploration of neighborhood retail spots, you might want to check out specialty shops that bring a slice of tradition to modern shopping.
 
 > Your time in these markets gives you a firsthand look at how local life unfolds, offering moments you won’t find elsewhere.
 
@@ -395,7 +394,7 @@ Each piece you pick up isn’t just a purchase; it’s a spark of the local scen
 
 When you're planning a day trip, the Ring of Kerry offers a mix of coastal views and quaint villages that you won't soon forget.
 
-You can take a guided [ring tour](https://www.tripadvisor.com/Attractions-g186612-Activities-c63-Killarney_County_Kerry.html) to keep things simple while making sure you hit all the best spots along the way.
+You can take a guided ring tour to keep things simple while making sure you hit all the best spots along the way.
 
 Here are a few quick tips for enjoying this route:
 
@@ -445,7 +444,7 @@ Killarney offers a night-time adventure that you can really dive into.
 
 Whether you're in the mood for a lively bar or a quiet corner with a great view of the town lights, you can find it here.
 
-Check out some [local nightlife](https://www.tripadvisor.com/Attractions-g186612-Activities-c20-Killarney_County_Kerry.html) options that make your evenings memorable.
+Check out some local nightlife options that make your evenings memorable.
 
 ### Pubs and Live Music
 

@@ -6,7 +6,6 @@ draft = false
 tab ='Transport'
 type = 'targeted'
 layout = 'targeted'
-tags = ['transport']
 batch = "Spain Travel: Transport and Accessibility Guide"
 image = "/imgs/spain/trans-thumb.webp"
 alt_txt = "Colorful street scene in Spain with diverse transportation options."

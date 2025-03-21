@@ -8,7 +8,6 @@ tab ='December'
 type = 'single'
 layout = 'single'
 batch = 'Top December Destinations in Europe'
-tags = ['seasonal']
 image = "/imgs/europe/seasonal/dec-thumb.webp"
 alt_txt = "Beautiful European winter streets decorated for the holidays."
 relcanonical = "https://eugo.uk/europe/seasonal/dec/"

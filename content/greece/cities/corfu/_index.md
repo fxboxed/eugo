@@ -6,7 +6,6 @@ draft = false
 tab ='Corfu'
 type = 'cities'
 layout = 'cities'
-tags = ['X cities']
 image = "/imgs/greece/cor-thumb.webp"
 alt_txt = "Scenic landscape of Corfu with beaches and hills."
 relcanonical = "https://eugo.uk/greece/cities/corfu/"
@@ -114,7 +113,7 @@ Stop by _Liston Promenade_, a shaded walkway with cafes where you can enjoy a co
 
 ### Visiting the Achilleion Palace
 
-A visit to the [Achilleion Palace](https://www.tripadvisor.com/Attractions-g189458-Activities-Corfu_Ionian_Islands.html) is a must for anyone interested in history and architecture. Built by Empress Elisabeth of Austria, this stunning estate is surrounded by lush gardens and offers breathtaking views of the sea. 
+A visit to the Achilleion Palace is a must for anyone interested in history and architecture. Built by Empress Elisabeth of Austria, this stunning estate is surrounded by lush gardens and offers breathtaking views of the sea. 
 
 Inside, you’ll find fascinating exhibits and statues that reflect Greek mythology, including the famous "Dying Achilles" sculpture. The serene atmosphere makes it an ideal spot for a leisurely day out.
 
@@ -244,7 +243,7 @@ Just a short boat ride away, Paxos and Antipaxos are a dream for anyone looking 
 
 **Antipaxos, in particular, is renowned for its turquoise waters that rival the Caribbean.** Whether you're swimming in the sea grottos or lounging on the sandy shores, these islands are the perfect getaway. 
 
-If you're not sure how to get there, many guided tours depart directly from Corfu, making it a breeze to explore these hidden gems. [Explore the stunning sea grottos and beaches of Paxos and Antipaxos](https://www.tripadvisor.com/Attractions-g189458-Activities-c42-Corfu_Ionian_Islands.html) for an unforgettable experience.
+If you're not sure how to get there, many guided tours depart directly from Corfu, making it a breeze to explore these hidden gems. Explore the stunning sea grottos and beaches of Paxos and Antipaxos for an unforgettable experience.
 
 ### Visiting the Ancient Ruins of Butrint
 

@@ -6,7 +6,6 @@ draft = false
 tab ='Paphos'
 type = 'cities'
 layout = 'cities'
-tags = ['Cyprus cities']
 image = "/imgs/cyprus/pa-thumb.webp"
 alt_txt = "Beautiful coastal view of Paphos with families enjoying"
 relcanonical = "https://eugo.uk/cyprus/cities/paphos"

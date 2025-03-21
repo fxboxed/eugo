@@ -7,7 +7,6 @@ tab = 'Surfing'
 type = 'single'
 layout = 'single'
 batch = 'Surfing Europe: Top Spots for 2025'
-tags = ['adventure']
 image = "/imgs/europe/adventure/srf-thumb.webp"
 alt_txt = "Surfers riding waves on a beautiful European beach."
 relcanonical = "https://eugo.uk/europe/adventure/surfing"

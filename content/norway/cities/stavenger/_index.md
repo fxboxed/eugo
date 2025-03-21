@@ -6,7 +6,6 @@ draft = false
 tab ='Stavenger'
 type = 'cities'
 layout = 'cities'
-tags = ['Norway cities']
 image = "/imgs/norway/st-thumb.webp"
 alt_txt = "Stavanger's colorful architecture and traditional cuisine display."
 relcanonical = "https://eugo.uk/norway/cities/stavenger/"

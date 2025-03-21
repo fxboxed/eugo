@@ -4,7 +4,6 @@ draft = false
 title = 'Austria, with its stunning landscapes, rich history, and vibrant culture'
 description = "Austria offers a diverse range of experiences for every type of tourist. Whether you're exploring historic sites, indulging in local cuisine, or enjoying outdoor adventures"
 categories = ["Austria"]
-tags = ["Austria"]
 author = "eugo"
 tab = "Austria"
 type = 'countries'

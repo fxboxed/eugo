@@ -6,7 +6,6 @@ draft = false
 tab ='Lagos'
 type = 'cities'
 layout = 'cities'
-tags = ['Portugal cities']
 image = "/imgs/portugal/thumbnail.webp"
 alt_txt = "Couples and families enjoying Lagos' vibrant culture and attractions."
 relcanonical = "https://eugo.uk/portugal/cities/lagos/"

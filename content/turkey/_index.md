@@ -3,7 +3,6 @@ title = "10 Reasons to Make Turkey Your Holiday Destination: Explore Culture, Fo
 date = '2025-02-07T09:36:21Z'
 draft = false
 description = "Discover 10 reasons to make Turkey your holiday destination: culture, food, nightlife, and tourist hot spots."
-categories = ["General"]
 author = ["eugo"]
 tab = "Turkey"
 type = 'countries'

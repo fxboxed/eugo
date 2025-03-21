@@ -8,7 +8,7 @@ tab ='August'
 type = 'single'
 layout = 'single'
 batch = 'Top European Destinations for August Travel '
-tags = ['seasonal']
+
 image = "/imgs/europe/seasonal/aug-thumb.webp"
 alt_txt = "Summer scene of popular European destinations in August."
 relcanonical = "https://eugo.uk/europe/seasonal/aug/"

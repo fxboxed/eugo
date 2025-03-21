@@ -6,7 +6,6 @@ draft = false
 tab ='Athens'
 type = 'cities'
 layout = 'cities'
-tags = ['Greece cities']
 image = "/imgs/greece/ath-thumb.webp"
 alt_txt = "Couples dining with a sunset view of the Acropolis."
 relcanonical = "https://eugo.uk/greece/cities/athens/"
@@ -83,7 +82,7 @@ The exhibits showcase _ancient Greek artifacts_ that tell the story of Greece’
 
 For a change of scenery, consider a day trip to Delphi. Many tour operators offer senior-friendly packages with comfortable transportation and plenty of stops for rest. The site itself has pathways that are manageable for those with mobility concerns. 
 
-Plus, the views of the surrounding mountains are absolutely breathtaking. [Private tours](https://www.tripadvisor.com/AttractionProductReview-g189400-d25257980-Athens_Highlights_Private_Tour_for_Seniors_Mobility-Athens_Attica.html) often include highlights like the Temple of Apollo and the ancient theater, making this excursion both enriching and easygoing.
+Plus, the views of the surrounding mountains are absolutely breathtaking. Private tours often include highlights like the Temple of Apollo and the ancient theater, making this excursion both enriching and easygoing.
 
 > Athens offers a wealth of experiences tailored to seniors, ensuring you can explore its history and beauty at your own pace. With thoughtful planning, your trip can be both relaxing and unforgettable.
 
@@ -221,7 +220,7 @@ Step back in time with a visit to the ancient city of Delphi, a UNESCO World Her
 
 **The archaeological site is breathtaking**, with highlights like the Temple of Apollo and the ancient theater. If you’re not up for driving, there are plenty of guided tours that make the journey seamless. 
 
-Don’t forget to pack comfortable walking shoes and a light jacket for the cooler mountain air. For added convenience, consider [a day trip to Delphi](https://www.tripadvisor.com/Attractions-g189400-Activities-c42-Athens_Attica.html) with organized transportation from Athens.
+Don’t forget to pack comfortable walking shoes and a light jacket for the cooler mountain air. For added convenience, consider a day trip to Delphi with organized transportation from Athens.
 
 ### Relaxing on the Beaches of Aegina
 
@@ -269,7 +268,7 @@ From vintage jewelry to leather sandals, you’ll find something unique to take 
 
 The charming Plaka neighborhood is perfect for those seeking authentic Greek souvenirs. Wander through its narrow streets, and you’ll discover boutique shops selling traditional items like hand-painted ceramics, embroidered linens, and olive wood carvings. 
 
-Don’t miss out on locally crafted jewelry, including pieces from [Maris Exclusive Jewelry](https://www.tripadvisor.com/Attractions-g189400-Activities-c26-t144-Athens_Attica.html), which offers exquisite designs inspired by Greek culture.
+Don’t miss out on locally crafted jewelry, including pieces from Maris Exclusive Jewelry, which offers exquisite designs inspired by Greek culture.
 
 ### Shopping for Greek Jewelry and Art
 
@@ -287,7 +286,7 @@ Galleries and shops also feature local art, from paintings to sculptures, making
 
 For those seeking a touch of elegance, Athens offers an array of luxury hotels with breathtaking views of the Acropolis. 
 
-Imagine waking up to the sight of this ancient marvel right outside your window. Many of these hotels, such as the [Herodion Hotel](https://www.tripadvisor.com/Hotels-g189400-zfc4-Athens_Attica-Hotels.html), blend modern comforts with Greek charm, featuring rooftop terraces, fine dining, and personalized service. 
+Imagine waking up to the sight of this ancient marvel right outside your window. Many of these hotels, such as the Herodion Hotel, blend modern comforts with Greek charm, featuring rooftop terraces, fine dining, and personalized service. 
 
 **Staying in these hotels is about more than just a place to sleep—it’s an experience.**
 

@@ -6,7 +6,6 @@ draft = false
 tab ='Amsterdam'
 type = 'cities'
 layout = 'cities'
-tags = ['Netherlands cities']
 image = "/imgs/netherlands/amst-thumb.webp"
 alt_txt = "Amsterdam canals with houseboats and bicycles in spring."
 relcanonical = "https://eugo.uk/netherlands/cities/amsterdam"

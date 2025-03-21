@@ -6,7 +6,6 @@ draft = false
 tab ='Transport'
 type = 'targeted'
 layout = 'targeted'
-tags = ['transport']
 batch = "Accessible Travel in France"
 image = "/imgs/france/trans-thumb.webp"
 alt_txt = "Tourists enjoying a lively street in France."
@@ -90,9 +89,7 @@ They often have apps that can help you plan your journey in real-time.
 
 ## Accessibility Features in Major Cities
 
-![Accessible tram in a bustling French city street.](https://contenu.nyc3.digitaloceanspaces.com/journalist/dd46af71-42f9-424c-bf6c-1296054d6039/thumbnail.jpeg)
-
-(/imgs/france/trans-street.webp)
+![Accessible tram in a bustling French city street.](/imgs/france/trans-street.webp)
 
 France's major cities are making strides in [accessible travel](https://wheelchairtraveling.com/annecy-france-wheelchair-travel-accessibility/), but it's not a perfectly even playing field.
 
@@ -386,8 +383,6 @@ Paris is practically made for walking.
 Don't miss the Latin Quarter, with its historic Sorbonne University and lively student vibe.
 
 For a quieter experience, explore the Canal Saint-Martin area, with its trendy boutiques and cafes.
-
-Consider a [Paris getaway](https://www.tripadvisor.com/Attractions-g187070-Activities-c42-t183-France.html) to experience the city's charm.
 
 ### Guided Tours for Accessibility
 

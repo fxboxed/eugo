@@ -4,8 +4,6 @@ draft = false
 title = 'Exploring the Top 10 Tourist Attractions in Czechia: A Dive into Nightlife, Cuisine, and Rich Culture'
 
 description = "Explore Czechia's top 10 attractions, nightlife, cuisine, and rich culture in this travel guide."
-categories = [""]
-tags = [""]
 author = ["eugo"]
 tab = "Czechia"
 type = 'countries'

@@ -6,7 +6,6 @@ draft = false
 tab ='Tampere'
 type = 'cities'
 layout = 'cities'
-tags = ['Finland cities']
 image = "/imgs/finland/tam-thumb.webp"
 alt_txt = "Couples and families enjoying nightlife in Tampere."
 relcanonical = "https://eugo.uk/finland/cities/tampere"

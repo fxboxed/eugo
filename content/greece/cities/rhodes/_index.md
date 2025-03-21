@@ -6,7 +6,6 @@ draft = false
 tab ='Rhodes'
 type = 'cities'
 layout = 'cities'
-tags = ['Greece cities']
 image = "/imgs/greece/rh-thumb.webp"
 alt_txt = "Rhodes nightlife with families, couples, and local cuisine."
 relcanonical = "https://eugo.uk/greece/cities/rhodes/"
@@ -265,7 +264,6 @@ You get a chance to learn while having fun.
 
 With interactive exhibits and hands-on stories, local history comes alive in ways that capture their attention.
 
-Consider including a quick stop at a local must-see such as [family fun](https://www.tripadvisor.com/Attractions-g189449-Activities-zft11306-Rhodes_Dodecanese_South_Aegean.html) to round out your trip.
 
 *   Look for hands-on exhibits designed specifically for children.
 *   Consider guided tours that are structured for family engagement.
@@ -381,7 +379,7 @@ A simple table can help you plan your stop at the Acropolis:
 | Visit Duration | 1-2 hours |
 | Best Visiting Time | Early morning or late afternoon |
 
-Remember, the ancient stones echo a _timeless_ history, and you might want to check out [historic charm](https://www.tripadvisor.com/Attractions-g189449-Activities-c47-Rhodes_Dodecanese_South_Aegean.html) for more on Rhodes' best-kept secrets.
+Remember, the ancient stones echo a _timeless_ history, and you might want to check out historic charm for more on Rhodes' best-kept secrets.
 
 ### The Medieval City of Rhodes
 

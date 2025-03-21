@@ -8,7 +8,6 @@ tab ='August'
 type = 'single'
 layout = 'single'
 batch = 'Top European Destinations for October Travel'
-tags = ['seasonal']
 image = "/imgs/europe/seasonal/aug-thumb.webp"
 alt_txt = " Autumn landscapes in Europe during October travel season."
 relcanonical = "https://eugo.uk/europe/seasonal/oct/"

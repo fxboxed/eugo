@@ -6,7 +6,6 @@ draft = false
 tab ='Beaches'
 type = 'targeted'
 layout = 'targeted'
-tags = ['beaches']
 batch = "Discover the Best Beach Vacations in France"
 image = "/imgs/france/beach-thumb.jpeg"
 alt_txt = "Beautiful beach in France with turquoise waters and umbrellas."
@@ -77,7 +76,6 @@ This peninsula is home to some of the most exclusive villas and hotels in the wo
 
 You can experience the high life while enjoying the stunning natural beauty.
 
-Consider visiting various [attractions along the French Riviera](https://www.tripadvisor.com/Attractions-g187216-Activities-c61-t52-French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html).
 
 *   Paloma Beach is a secluded paradise with crystal-clear water.
     
@@ -120,7 +118,7 @@ Omaha Beach is a powerful reminder of history, but it's also a place of stark be
 
 The long, sandy beach stretches out before you, and it's easy to get lost in thought as you walk along the shore.
 
-It's a moving experience to visit the [key historical sites](https://www.tripadvisor.com/Attractions-g187179-Activities-c42-Normandy.html) and reflect on the events that took place here.
+It's a moving experience to visit the Key historical sites and reflect on the events that took place here.
 
 It's a must-see for anyone interested in World War II history.
 
@@ -502,7 +500,7 @@ You might be surprised by the variety – from car-free havens to islands with a
 
 Île de Ré is all about that laid-back island life.
 
-Picture this: you're cycling along [scenic bike paths](https://www.tripadvisor.com/HotelsList-France-Beach-Resorts-zfp2703817.html), the sea breeze is in your hair, and you're surrounded by whitewashed houses with colorful shutters.
+Picture this: you're cycling along scenic bike paths, the sea breeze is in your hair, and you're surrounded by whitewashed houses with colorful shutters.
 
 **It's basically the postcard version of a French island.** The beaches are great for families, and the little villages are full of charm.
 
@@ -526,7 +524,7 @@ And if you're a nature lover, you'll be in heaven – the island is home to a va
 
 It's a pretty cool experience to drive or walk across it! But even when the tide is in, Noirmoutier has plenty to offer.
 
-The beaches are perfect for [family-friendly fun](https://www.tripadvisor.com/HotelsList-France-Beach-Resorts-zfp2703817.html), and the island has a really relaxed atmosphere.
+The beaches are perfect for family-friendly fun, and the island has a really relaxed atmosphere.
 
 It's the kind of place where you can just kick back and enjoy the simple things in life.
 

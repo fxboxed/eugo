@@ -6,7 +6,6 @@ draft = false
 tab ='Travel guide'
 type = 'targeted'
 layout = 'targeted'
-tags = ['travel']
 batch = "Greece Travel: Transport and Accessibility Guide"
 image = "/imgs/greece/travel-thumb.webp"
 alt_txt = "Aerial view of Greece's coastline with boats and villages"
@@ -88,8 +87,6 @@ It's not perfect, but it's a start.
 The government is working with organizations and businesses to make Greece more accessible for all.
 
 There's still a long way to go, but the commitment is there.
-
-Auditing accessibility of pavements and points of interest can be done with the [Seek & Go tool](https://www.example.com).
 
 ## Public Transportation Options
 
@@ -185,7 +182,7 @@ Some towns have made efforts to improve accessibility, while others still have a
 
 Research is key.
 
-Look into [high-traffic tourist spots](https://www.example.com) before you go.
+Look into high-traffic tourist spots before you go.
 
 *   Contact local tourist information centers for the most up-to-date information.
 *   Consider renting a car to have more control over your transportation.
@@ -313,7 +310,7 @@ It's always a good idea to check what's available in the specific area you're vi
 
 Keep in mind that during peak season or late at night, it might be harder to find a taxi, and surge pricing could apply with ride-sharing apps.
 
-Consider [taxi boats](https://www.tripadvisor.com/Attractions-g189398-Activities-c59-Greece.html) to get to beaches.
+Consider taxi boats to get to beaches.
 
 ### Car Rentals with Accessibility Features
 

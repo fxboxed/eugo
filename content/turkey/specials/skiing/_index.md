@@ -6,7 +6,6 @@ draft = false
 tab ='Skiing and hiking'
 type = 'targeted'
 layout = 'targeted'
-tags = ['skiing']
 batch = "Turkey's Top Hiking and Skiing Spots"
 image = "/imgs/turkey/skiing-thumb.webp"
 alt_txt = "Scenic Turkish mountains ideal for hiking and skiing."

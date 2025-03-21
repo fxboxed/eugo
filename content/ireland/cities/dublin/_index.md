@@ -6,7 +6,6 @@ draft = false
 tab ='Dublin'
 type = 'cities'
 layout = 'cities'
-tags = ['Ireland cities']
 image = "/imgs/ireland/dub-thumb.webp"
 alt_txt = "Dublin landmarks, food, and cultural activities for all ages."
 relcanonical = "https://eugo.uk/ireland/cities/dublin"
@@ -251,7 +250,7 @@ When the sun sets, Dublin transforms into a lively hub of activity, and there's 
 
 Whether you're in the mood for a quiet corner to chat or a bustling bar with lively conversations, Dublin's pubs cater to all. 
 
-Don't miss out on a [Generation Pub Crawl](https://www.tripadvisor.ca/Attractions-g186605-Activities-c20-Dublin_County_Dublin.html) to experience multiple pubs in one night, complete with live music and a vibrant crowd.
+Don't miss out on a Generation Pub Crawl to experience multiple pubs in one night, complete with live music and a vibrant crowd.
 
 ### Dancing at Trendy Nightclubs
 

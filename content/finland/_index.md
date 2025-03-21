@@ -143,8 +143,6 @@ For those who prefer a more laid-back experience, the islands provide plenty of 
 
 In short, the Åland Islands are a hidden gem, offering a mix of adventure, culture, and relaxation. It's a place where you can truly disconnect and enjoy the simple pleasures of life.
 
----
-
 ## 5\. Suomenlinna
 
 ![Historic Suomenlinna fortress with greenery and blue waters.](/imgs/finland/fortress.webp
@@ -182,7 +180,7 @@ Levi is a winter wonderland nestled in the heart of Finnish Lapland. It's the la
 
 ### Family Fun
 
-Levi isn't just for adrenaline junkies. Families can enjoy [Kids' Land](https://www.tripadvisor.com/Attractions-g677549-Activities-Levi_Lapland.html), a delightful area designed for children to play and learn about the snowy environment.
+Levi isn't just for adrenaline junkies. Families can enjoy Kids' Land, a delightful area designed for children to play and learn about the snowy environment.
 
 ### Practical Information
 

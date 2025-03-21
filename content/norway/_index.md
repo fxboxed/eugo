@@ -4,8 +4,6 @@ draft = false
 title = 'Exploring the 10 Best Places to Visit in Norway: A Guide to Entertainment, Food, Culture, Accommodation, and Activities'
 
 description = "Discover the 10 best places to visit in Norway for entertainment, food, culture, and activities."
-categories = ["country"]
-tags = ["country"]
 author = ["eugo"]
 tab = "Norway"
 type = 'countries'

@@ -6,7 +6,6 @@ draft = false
 tab ='Rotterdam'
 type = 'cities'
 layout = 'cities'
-tags = ['Netherlands cities']
 image = "/imgs/netherlands/rott-thumb.webp"
 alt_txt = " Rotterdam skyline with modern buildings and waterfront parks"
 relcanonical = "https://eugo.uk/netherlands/cities/rotterdam/"

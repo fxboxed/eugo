@@ -4,8 +4,6 @@ draft = false
 title = '10 Unforgettable Things to See and Do in Italy: A Journey Through Food, Wine, Culture, Visitor Attractions, and Nightlife'
 
 description = "Explore 10 unforgettable things to see and do in Italy, from food and wine to culture and nightlife."
-categories = ["country"]
-tags = ["country"]
 author = ["eugo"]
 tab = "Italy"
 type = 'countries'

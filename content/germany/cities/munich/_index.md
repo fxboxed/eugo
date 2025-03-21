@@ -6,7 +6,6 @@ draft = false
 tab ='Munich'
 type = 'cities'
 layout = 'cities'
-tags = ['Germany cities']
 image = "/imgs/germany/mun-thumb.webp"
 alt_txt = "Couples, families, and elderly enjoying Munich's lively nightlife."
 relcanonical = "https://eugo.uk/germany/cities/munich/"
@@ -149,7 +148,7 @@ Many of these events are held in scenic locations, giving you the perfect backdr
 
 Taking a private tour of Munich's old city at night is an unforgettable experience. Imagine strolling past landmarks like Marienplatz and the Frauenkirche, while your guide shares fascinating stories about the city's history. 
 
-**A well-organized tour can bring Munich’s rich past to life in just a couple of hours.** For a more intimate experience, consider booking a [private tour in Munich's old city](https://www.tripadvisor.com/AttractionProductReview-g187309-d17680337-Paul_s_Private_Tour_in_Munich_old_City-Munich_Upper_Bavaria_Bavaria.html) with a knowledgeable guide who can tailor the journey to your interests.
+**A well-organized tour can bring Munich’s rich past to life in just a couple of hours.** For a more intimate experience, consider booking a private tour in Munich's old city with a knowledgeable guide who can tailor the journey to your interests.
 
 ### Exploring the City’s Hidden Gems by Night
 

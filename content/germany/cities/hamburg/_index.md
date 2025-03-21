@@ -6,7 +6,6 @@ draft = false
 tab ='Hamburg'
 type = 'cities'
 layout = 'cities'
-tags = ['Germany cities']
 image = "/imgs/germany/ha-thumb.webp"
 alt_txt = " Scenic view of Hamburg's skyline and vibrant streets."
 relcanonical = "https://eugo.uk/germany/cities/hamburg/"
@@ -239,8 +238,6 @@ Below is a quick look at some popular parks in Hamburg:
 
 Make sure to pack snacks and water.
 
-You may also want to check online for [family attractions](https://www.tripadvisor.com/Attractions-g187331-Activities-zft11306-Hamburg.html) that are trending in the city.
-
 ### Fun Day Trips from Hamburg
 
 If you feel like leaving the city for just a short while, there are plenty of fun day trips waiting for you.
@@ -266,8 +263,6 @@ Remember, every outing is an opportunity to see a new side of Hamburg while keep
 When you wander along the shores of Alster Lake, you feel a calm that sets the mood for romance.
 
 You might find a quiet spot to watch the sunrise or even pause for a gentle evening stroll.
-
-These [romantic walks](https://www.tripadvisor.com/Attractions-g187331-Activities-zft12169-Hamburg.html) offer you a break from the rush of the city, letting you soak in nature and the reflections on the water.
 
 Consider these steps as you enjoy the walk:
 

@@ -6,8 +6,6 @@ draft = false
 tab ='Infinity pools'
 type = 'targeted'
 layout = 'targeted'
-tags = ['']
-categories = ['pools']
 batch = "Luxurious Infinity Pools in France"
 image = "/imgs/france/pools-thumb.webp"
 alt_txt = "Infinity pool with scenic French countryside view."
@@ -101,7 +99,6 @@ Perched atop a hill, Château Saint-Martin offers not only breathtaking views bu
 
 The hotel's restaurant showcases the best of Provence, with dishes that are both refined and bursting with flavor.
 
-You can enjoy [remarkable experiences](https://www.tripadvisor.com/Restaurant_Review-g207359-d6919482-Reviews-Le_chalet_du_verard-Morzine_Portes_du_Soleil_Haute_Savoie_Auvergne_Rhone_Alpes.html) here.
 
 ### Hotel Crillon le Brave's Hilltop Views
 
@@ -305,7 +302,6 @@ The Cap D'Antibes Beach Hotel offers just that, with a pool designed to invigora
 
 It's more than just a swim; it's a wellness experience.
 
-You can also find [indoor pools](https://www.tripadvisor.com/HotelsList-France-Hotels-With-Indoor-Pools-zfp14909142.html) in other hotels.
 
 ### Grand Hotel Tremezzo's Opulent Spa
 

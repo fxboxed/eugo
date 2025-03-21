@@ -7,7 +7,6 @@ tab ='Things to do'
 type = 'targeted'
 layout = 'targeted'
 batch = 'Things to do in Italy'
-tags = ['culture']
 image = "/imgs/italy/todo-thumb.webp"
 alt_txt = "Collage of Italy's famous landmarks and scenic landscapes."
 relcanonical = "https://eugo.uk/italy/specials/things-to-do/"

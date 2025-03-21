@@ -6,7 +6,7 @@ draft = false
 tab ='Infinity pools'
 type = 'targeted'
 layout = 'targeted'
-tags = ['']
+
 batch = "Greece's Top Infinity Pools for Travelers"
 image = "/imgs/greece/pools-thumb.webp"
 alt_txt = "Luxurious infinity pool with sea view in Greece."
@@ -43,7 +43,7 @@ The hotel is famous for its stunning pool, which is a major draw for visitors.
 
 Grace Hotel Santorini boasts a two-level pool where you can swim and soak in the views of the Aegean Sea, the volcano, and nearby islands.
 
-After sunset, you can [enjoy the heated pool](https://www.tripadvisor.com/Hotel_Review-g635864-d1088707-Reviews-Grace_Hotel_Auberge_Resorts_Collection-Imerovigli_Santorini_Cyclades_South_Aegean.html) on the lower level, allowing you to savor the beauty of Santorini even when it gets chilly.
+After sunset, you can enjoy the heated pool on the lower level, allowing you to savor the beauty of Santorini even when it gets chilly.
 
 > The suites and villas are designed for comfort and luxury. You can enjoy private terraces with plunge pools, spacious living areas, and amazing views.
 
@@ -71,7 +71,6 @@ You'll find it perched on the cliffs, offering those views that everyone raves a
 
 It's a smaller hotel, which can be a nice change if you're not into huge resorts.
 
-Think of it as a cozy getaway with a memorable experience by the [infinity pool](https://www.tripadvisor.com/HotelsList-Santorini-Hotels-With-Balconies-zfp42305.html).
 
 That pool? It's something else.
 

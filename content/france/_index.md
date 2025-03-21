@@ -4,11 +4,8 @@ draft = false
 title = ' Exploring the Top Ten Tourist Resorts in France: A Dive into Nightlife, History, Culture, Cuisine, and Shopping'
 
 description = "Explore France's top 10 tourist resorts, rich in nightlife, history, culture, cuisine, and shopping."
-categories = ["country"]
-tags = ["country"]
 author = ["eugo"]
 
-tab = "France"
 type = 'countries'
 layout = 'cities'
 image = "/imgs/france/thumbnail.webp"
@@ -93,7 +90,7 @@ Stepping into the Louvre Museum is like entering a world where art and history d
 
 > The Louvre isn't just a museum; it's a journey through time and art. Take your time, soak it in, and let each piece tell its own story.
 
-For art lovers, the [Louvre Museum](https://www.tripadvisor.com/Attraction_Review-g187147-d188757-Reviews-Louvre_Museum-Paris_Ile_de_France.html) is not just a destination; it's an experience that leaves a lasting impression.
+For art lovers, the Louvre Museum is not just a destination; it's an experience that leaves a lasting impression.
 
 ## 3\. Palace of Versailles
 
@@ -156,7 +153,7 @@ After a day of exploration, unwind at the Orangerie Café. Enjoy a coffee or a p
 
 ![The Abbaye du Mont-Saint-Michel ](/imgs/france/mont-saint-michel-948186_640.webp)
 
- is not just a sight for sore eyes; it's a whole experience. This medieval island commune in Normandy is famous for its stunning [Abbaye du Mont-Saint-Michel](https://www.tripadvisor.com/Attractions-g196646-Activities-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy.html) perched high on a rocky hill. When you approach, it looks like something straight out of a fairy tale, especially when surrounded by water during high tide.
+ is not just a sight for sore eyes; it's a whole experience. This medieval island commune in Normandy is famous for its stunning Abbaye du Mont-Saint-Michel perched high on a rocky hill. When you approach, it looks like something straight out of a fairy tale, especially when surrounded by water during high tide.
 
 ### Things to Do
 
@@ -208,7 +205,7 @@ The Loire Valley is renowned for its exceptional wines. Spend a day at a local v
 
 > Tip: The best time to visit the Loire Valley is from May to October, when the weather is pleasant and the gardens are in full bloom.
 
-For those eager to explore more, [discover the must-see attractions in the Loire Valley](https://www.tripadvisor.com/Attractions-g187196-Activities-Loire_Valley.html), including Château de Chambord and various wine tastings, to truly immerse yourself in the rich history and stunning landscapes of this enchanting region.
+For those eager to explore more, discover the must-see attractions in the Loire Valley, including Château de Chambord and various wine tastings, to truly immerse yourself in the rich history and stunning landscapes of this enchanting region.
 
 
 ## 6\. French Riviera

@@ -6,7 +6,7 @@ draft = false
 tab ='Lyon'
 type = 'cities'
 layout = 'cities'
-tags = ['France cities']
+
 image = "/imgs/france/ly-thumb.webp"
 alt_txt = " Lyon street scene with cafes and local cuisine."
 relcanonical = "https://eugo.uk/france/cities/lyon"
@@ -245,7 +245,7 @@ These narrow, covered alleyways were once used by silk workers to transport good
 
 Don’t miss the traboules in Vieux Lyon and Croix-Rousse—they’re like stepping into a secret world. 
 
-For a truly unique perspective, consider [exploring Lyon like never before](https://www.tripadvisor.com/Attractions-g187265-Activities-c42-t235-Lyon_Rhone_Auvergne_Rhone_Alpes.html) with a private pedicab tour, which lets you glide through these charming streets effortlessly.
+For a truly unique perspective, consider exploring Lyon like never before with a private pedicab tour, which lets you glide through these charming streets effortlessly.
 
 ### Visiting Renowned Art and History Museums
 

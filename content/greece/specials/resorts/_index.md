@@ -6,7 +6,6 @@ draft = false
 tab ='Family resorts'
 type = 'targeted'
 layout = 'targeted'
-tags = ['']
 batch = "Top Family Coastal Resorts in Greece"
 image = "/imgs/greece/resorts-thumb.webp"
 alt_txt = "Family enjoying a beach day at a Greek resort."
@@ -140,7 +139,7 @@ It's an island that sparks the imagination and offers something different around
 
 Finding the right place to stay is key.
 
-While many [hotels on Santorini](https://www.tripadvisor.com/Hotels-g189433-zff4-Santorini_Cyclades_South_Aegean-Hotels.html) cater to couples, there are some real gems for families.
+While many hotels on Santorini cater to couples, there are some real gems for families.
 
 Look for places with family suites or villas, kid-friendly pools, and easy access to amenities.
 
@@ -482,7 +481,7 @@ Some resorts go above and beyond, with on-site organic gardens, solar panels, an
 
 Choosing these places means you're supporting responsible tourism and teaching your kids about the importance of protecting our planet.
 
-For example, you can find [eco-friendly hotels](https://www.tripadvisor.com/Hotels-g189398-zff24-Greece-Hotels.html) that offer a luxurious stay while minimizing their carbon footprint.
+For example, you can find eco-friendly hotels that offer a luxurious stay while minimizing their carbon footprint.
 
 ### Activities that Promote Sustainability
 

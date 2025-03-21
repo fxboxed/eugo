@@ -2,7 +2,7 @@
 date = '2025-02-05T10:37:50Z'
 draft = false
 title = 'Terms and Conditions'
-decription = ""
+description = "eugo.uk terms and conditions"
 categories = ["General"]
 tab = "Terms and conditions"
 image = "/imgs/europe/nl-thumb.webp"

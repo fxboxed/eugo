@@ -6,7 +6,6 @@ draft = false
 tab ='Ntalya'
 type = 'cities'
 layout = 'cities'
-tags = ['Turkey cities']
 image = "/imgs/turkey/nt-thumb.webp"
 alt_txt = "Dusky Antalya harbor with lively cafes and colorful Mediterranean architecture."
 relcanonical = "https://eugo.uk/turkey/cities/ntalya/"

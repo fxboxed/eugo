@@ -4,8 +4,6 @@ draft = false
 title = 'Exploring the 10 Most Popular Tourist Destinations in Portugal: A Guide to Resorts, Nightlife, Cuisine, Culture, Markets, and Activities'
 
 description = "Discover Portugal's top 10 tourist spots, from Lisbon to Nazaré, with vibrant culture, cuisine, and activities."
-categories = ["country"]
-tags = ["country"]
 author = ["eugo"]
 tab = "Portugal"
 type = 'countries'

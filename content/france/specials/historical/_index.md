@@ -6,7 +6,6 @@ draft = false
 tab ='Historical sites'
 type = 'targeted'
 layout = 'targeted'
-tags = ['historical']
 batch = "Exploring France's Historical Heritage"
 image = "/imgs/france/hist-thumb.webp"
 alt_txt = "Iconic historical landmarks of France in a beautiful setting."
@@ -91,7 +90,6 @@ I mean, it's _the_ Eiffel Tower! **It's not just a tourist trap; it's a symbol o
 
 > I remember the first time I saw it. I was way younger, and it was even more impressive in person than in pictures. It's one of those things that just sticks with you. It's tall, it's impressive, and it's a must-see.
 
-Plus, you can grab some [top attractions](https://www.tripadvisor.com/Attractions-g187070-Activities-c47-France.html) nearby.
 
 ### The Majestic Arc de Triomphe
 
@@ -173,7 +171,7 @@ You'll discover its rich history and stunning views of the Loire River.
 
 It's a great place to learn about French royalty and enjoy the beauty of the Loire Valley.
 
-Consider a stay at [Chateau de Targé](https://www.tripadvisor.com/Attractions-g187196-Activities-c47-Loire_Valley.html) for a complete experience.
+
 
 *   Explore the royal apartments and imagine life as a king or queen.
 *   Enjoy panoramic views of the Loire River from the château's terraces.
@@ -193,7 +191,7 @@ Visiting the D-Day beaches is a deeply moving experience.
 
 **You can walk the sands where history unfolded**, and reflect on the events of World War II.
 
-The [American Cemetery](https://www.tripadvisor.com/Attractions-g187179-Activities-c47-Normandy.html) at Colleville-sur-Mer is a particularly powerful place, offering a somber reminder of the sacrifices made.
+The American Cemetery at Colleville-sur-Mer is a particularly powerful place, offering a somber reminder of the sacrifices made.
 
 It's a place for quiet contemplation and remembrance.
 
@@ -245,9 +243,7 @@ This indoor market is a celebration of French gastronomy, offering a wide array 
 
 It's a feast for the senses, with vibrant colors, enticing aromas, and a lively atmosphere.
 
-You can sample local specialties, chat with the vendors, and immerse yourself in the culinary culture of Lyon.
-
-It's the perfect place to experience [gourmet tours and wine tastings](https://www.tripadvisor.com/Attractions-g187265-Activities-c42-t228-Lyon_Rhone_Auvergne_Rhone_Alpes.html).
+You can sample local specialties, chat with the vendors, and immerse yourself in the culinary culture of Lyon. It's the perfect place to experience gourmet tours and wine tastings.
 
 Here are some must-try items:
 
@@ -289,7 +285,7 @@ Wander through the palace's vast halls and chapels, imagining the intrigues and 
 
 Don't forget to stroll along the Pont d'Avignon, a bridge that famously stops halfway across the Rhône River.
 
-Avignon is a convenient starting point to reach the [lavender fields](https://www.tripadvisor.com/Attractions-g187208-Activities-c47-t17-Provence_Alpes_Cote_d_Azur.html) in Provence.
+Avignon is a convenient starting point to reach the lavender fields in Provence.
 
 ### The Roman Theatre of Orange
 
@@ -490,7 +486,7 @@ The turquoise waters of the Verdon River snake through towering limestone cliffs
 
 It's a bit of a drive to get there, but the scenery is well worth the effort.
 
-You can experience the [Notre-Dame de Paris](https://www.tripadvisor.com/Attractions-g187070-Activities-c47-t17-France.html) in a new way after visiting this location.
+You can experience the Notre-Dame de Paris in a new way after visiting this location.
 
 ### The Historic Town of Carcassonne
 

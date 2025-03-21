@@ -7,7 +7,6 @@ tab ='Helsinki'
 batch = 'Helsinki Attractions for All Ages'
 type = 'cities'
 layout = 'cities'
-tags = ['Finland cities']
 image = "/imgs/finland/hel-thumb.webp"
 alt_txt = " Couple enjoying a scenic view of Helsinki's waterfront."
 relcanonical = "https://eugo.uk/finland/cities/helsinki"

@@ -4,8 +4,6 @@ draft = false
 title = 'Exploring Belgium: A Comprehensive Guide to Must-See Attractions, Nightlife, Cuisine, and Cultural History'
 
 description = "Explore Belgium's attractions, cuisine, nightlife, and history in this ultimate travel guide."
-categories = [""]
-tags = [""]
 author = ["eugo"]
 tab = "Belgium"
 type = 'countries'

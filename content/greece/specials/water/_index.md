@@ -6,7 +6,6 @@ draft = false
 tab ='Water sports'
 type = 'targeted'
 layout = 'targeted'
-tags = ['water-sports']
 batch = "Top Water Sports Destinations in Greece"
 image = "/imgs/greece/water-thumb.webp"
 alt_txt = "People engaged in water sports activities in Greece"
@@ -304,7 +303,7 @@ Okay, so maybe you're not into the whole crowded beach scene. I get it. That's w
 
 The weather's still pretty decent – warm enough to enjoy the water, but without the crazy heat of summer.
 
-Plus, the crowds thin out, which means you might even snag a sweet deal on [equipment rentals](https://www.tripadvisor.com/Attractions-g189398-Activities-c61-t184-Greece.html). It's a win-win!
+Plus, the crowds thin out, which means you might even snag a sweet deal on equipment rentals. It's a win-win!
 
 Here's a quick rundown:
 

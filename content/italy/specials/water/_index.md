@@ -6,7 +6,6 @@ draft = false
 tab ='Water Sports'
 type = 'targeted'
 layout = 'targeted'
-tags = ['water']
 batch = "Top Water Sports Destinations in Italy"
 image = "/imgs/italy/water-thumb.jpeg"
 alt_txt = "People enjoying water sports in a sunny Italian coastal setting."

@@ -6,7 +6,6 @@ draft = false
 tab ='Transport'
 type = 'targeted'
 layout = 'targeted'
-tags = ['culture']
 batch = 'Accessible Travel in Italy'
 image = "/imgs/italy/trans-thumb.webp"
 alt_txt = "Vibrant transport options amidst Italy's famous landmarks."

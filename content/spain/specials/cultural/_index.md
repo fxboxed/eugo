@@ -6,7 +6,6 @@ draft = false
 tab ='Cultural'
 type = 'targeted'
 layout = 'targeted'
-tags = ['cultural']
 batch = "Discovering Spain's Hidden Treasures"
 image = "/imgs/spain/culture-thumb.webp"
 alt_txt = "Collage of Spain's historic architecture and cultural landmarks."

@@ -6,7 +6,6 @@ draft = false
 tab ='Hiking and skiing'
 type = 'targeted'
 layout = 'targeted'
-tags = ['skiing']
 batch = "Italy's Top Hiking and Skiing Destinations"
 image = "/imgs/italy/skiing-thumb.webp"
 alt_txt = "Italian Alps landscape with hiking trail and snowy peaks."

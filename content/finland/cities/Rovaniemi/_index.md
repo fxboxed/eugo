@@ -6,7 +6,6 @@ draft = false
 tab ='Rovaniemi'
 type = 'cities'
 layout = 'cities'
-tags = ['Finland cities']
 image = "/imgs/finland/rov-thumb.webp"
 alt_txt = "Winter landscape of Rovaniemi with cozy cabin and snow."
 relcanonical = "https://eugo.uk/finland/cities/rovaniemi"

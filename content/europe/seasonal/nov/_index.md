@@ -8,7 +8,6 @@ tab ='November'
 type = 'single'
 layout = 'single'
 batch = 'Top European Destinations for November Travel'
-tags = ['seasonal']
 image = "/imgs/europe/seasonal/nov-thumb.webp"
 alt_txt = "Charming European streets lined with autumn leaves in November."
 relcanonical = "https://eugo.uk/europe/seasonal/nov/"

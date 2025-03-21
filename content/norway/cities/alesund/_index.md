@@ -6,7 +6,6 @@ draft = false
 tab ='Alesund'
 type = 'cities'
 layout = 'cities'
-tags = ['Norway cities']
 image = "/imgs/norway/al-thumb.webp"
 alt_txt = " Ålesund waterfront with colorful buildings and scenic mountains."
 relcanonical = "https://eugo.uk/norway/cities/alesund"

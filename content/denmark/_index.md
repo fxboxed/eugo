@@ -4,8 +4,6 @@ draft = false
 title = 'Top 10 Must-See Tourist Attractions in Denmark: A Journey Through History, Culture, Nightlife, and Cuisine'
 
 description = "Explore Denmark's top 10 attractions, from Tivoli Gardens to Stevns Klint, blending history, culture, and cuisine."
-categories = [""]
-tags = [""]
 author = ["eugo"]
 tab = "Denmark"
 type = 'countries'

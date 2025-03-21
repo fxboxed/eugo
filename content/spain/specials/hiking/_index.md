@@ -6,7 +6,6 @@ draft = false
 tab ='Hiking'
 type = 'targeted'
 layout = 'targeted'
-tags = ['hiking']
 batch = "Adventure Activities in Spain"
 image = "/imgs/spain/hiking-thumb.jpeg"
 alt_txt = "Hikers and skiers enjoying Spain's beautiful mountainous landscapes."

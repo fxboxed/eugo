@@ -6,7 +6,6 @@ draft = false
 tab ='Berlin'
 type = 'cities'
 layout = 'cities'
-tags = ['Germany cities']
 image = "/imgs/germany/ber-thumb.webp"
 alt_txt = "Couples and families enjoying Berlin's iconic landmarks outdoors."
 relcanonical = "https://eugo.uk/germany/cities/berlin/"

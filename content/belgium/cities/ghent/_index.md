@@ -6,7 +6,6 @@ draft = false
 tab ='Ghent'
 type = 'cities'
 layout = 'cities'
-tags = ['Belgium cities']
 image = "/imgs/belgium/gh-thumb.webp"
 alt_txt = "Couples dining outdoors in a beautiful Ghent setting."
 relcanonical = "https://uego.uk/belgium/cities/ghent"

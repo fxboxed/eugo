@@ -6,7 +6,6 @@ draft = false
 tab ='London'
 type = 'cities'
 layout = 'cities'
-tags = ['UK cities']
 image = "/imgs/uk/lon-thumb.webp"
 alt_txt = " Panoramic view of London landmarks with families enjoying"
 relcanonical = "https://eugo.uk/uk/cities/london"

@@ -6,7 +6,6 @@ draft = false
 tab ='Cultural'
 type = 'targeted'
 layout = 'targeted'
-tags = ['history']
 batch= "Turkey's Rich Historical and Cultural Heritage"
 image = "/imgs/turkey/hist-thumb.webp"
 alt_txt = "A collage of Turkey's historical sites and cultural elements."

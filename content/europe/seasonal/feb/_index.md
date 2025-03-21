@@ -8,7 +8,6 @@ tab ='February'
 type = 'single'
 layout = 'single'
 batch = 'February Travel: Top 5 European Destinations'
-tags = ['culture']
 image = "/imgs/europe/seasonal/feb-thumb.webp"
 alt_txt = "Snowy European city with charming architecture in February"
 relcanonical = "https://eugo.uk/europe/seasonal/feb/"

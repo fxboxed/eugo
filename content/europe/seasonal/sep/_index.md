@@ -8,7 +8,6 @@ tab ='September'
 type = 'single'
 layout = 'single'
 batch = 'Top European Destinations for September Travel'
-tags = ['seasonal']
 image = "/imgs/europe/seasonal/sep-thumb.webp"
 alt_txt = ""
 +++

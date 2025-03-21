@@ -6,7 +6,6 @@ draft = false
 tab ='Kinderdijk'
 type = 'cities'
 layout = 'cities'
-tags = ['Austria cities']
 image = "/imgs/austria/kin-thumb.webp"
 alt_txt = "Windmills and sunset in Kinderdijk, a serene landscape."
 relcanonical = "https://eugo.uk/netherlands/cities/kinderdijk"

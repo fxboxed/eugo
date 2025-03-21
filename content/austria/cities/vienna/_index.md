@@ -6,7 +6,6 @@ draft = false
 tab ='Vienna'
 type = 'cities'
 layout = 'cities'
-tags = ['Austria cities']
 image = "/imgs/austria/vienna-thumb.webp"
 alt_txt = "Couples enjoying a beautiful sunset in Vienna."
 relcanonical = "https://uego.uk/austria/cities/vienna"

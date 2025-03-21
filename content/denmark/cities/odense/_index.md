@@ -6,7 +6,6 @@ draft = false
 tab ='Odense'
 type = 'cities'
 layout = 'cities'
-tags = ['X cities']
 image = "/imgs/denmark/oden-thumb.webp"
 alt_txt = "Nightlife activities in Odense for all ages."
 relcanonical = "https://eugo.uk/denmark/cities/odense"

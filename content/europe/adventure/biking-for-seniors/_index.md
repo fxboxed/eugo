@@ -7,7 +7,6 @@ tab = 'Biking-for-seniors'
 type = 'single'
 layout = 'single'
 batch = 'Top European Bike Tours for Seniors'
-tags = ['adventure']
 image = "/imgs/europe/adventure/bks-thumb.webp"
 alt_txt = "Seniors enjoying a scenic bike tour in Europe."
 relcanonical = "https://eugo.uk/europe/adventure/biking-for-seniors"

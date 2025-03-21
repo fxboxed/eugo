@@ -6,7 +6,6 @@ draft = false
 tab ='Surfing'
 type = 'targeted'
 layout = 'targeted'
-tags = ['surfing']
 batch = "Surfing Adventures in Spain"
 image = "/imgs/spain/surf-thumb.webp"
 alt_txt = " Surfers riding waves on Spain's beautiful coastline."

@@ -4,8 +4,6 @@ draft = false
 title = '10 Must Visit Places in Poland: Exploring Food, Culture, Attractions, and Markets'
 
 description = "Explore 10 must-visit places in Poland, from Kraków to Masurian Lakes, rich in food, culture, and attractions."
-categories = ["country"]
-tags = ["country"]
 author = ["eugo"]
 tab = "Poland"
 type = 'countries'

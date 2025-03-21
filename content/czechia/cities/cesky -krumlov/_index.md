@@ -6,7 +6,6 @@ draft = false
 tab ='Český Krumlov'
 type = 'cities'
 layout = 'cities'
-tags = ['Czechia cities']
 image = "/imgs/czechia/cz-thumb.webp"
 alt_txt = " Candlelit dinner by the river in Český Krumlov."
 relcanonical = "https://eugo.uk/czechia/cities/cesky-krumlov"

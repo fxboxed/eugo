@@ -6,7 +6,6 @@ draft = false
 tab ='Brussels'
 type = 'cities'
 layout = 'cities'
-tags = ['Belgium cities']
 image = "/imgs/belgium/brussels-thumb.webp"
 alt_txt = ""
 relcanonical = "https://uego.uk/belgium/cities/brussels"

@@ -6,7 +6,6 @@ draft = false
 tab ='Venice'
 type = 'cities'
 layout = 'cities'
-tags = ['Italy cities']
 image = "/imgs/italy/venice-thumb.webp"
 alt_txt = "Gondola ride in Venice during a picturesque sunset."
 relcanonical = "https://eugo.uk/italy/cities/venice/"

@@ -6,7 +6,6 @@ draft = false
 tab ='Wraclaw'
 type = 'cities'
 layout = 'cities'
-tags = ['Poland cities']
 image = "/imgs/poland/wr-thumb.webp"
 alt_txt = "Colorful market square in Wroclaw filled with tourists and flowers."
 relcanonical = "https://eugo.uk/poland/cities/wroclaw/"

@@ -6,7 +6,6 @@ draft = false
 tab ='Best beaches'
 type = 'targeted'
 layout = 'targeted'
-tags = ['beaches']
 batch = "Greece's Top Beaches: A Travel Guide"
 image = "/imgs/greece/beaches-thumb.webp"
 alt_txt = "Aerial view of a beautiful Greek beach with turquoise water."
@@ -290,7 +289,6 @@ The iconic rock arch is a must-see, and the beach itself is a great place to rel
 
 Just be sure to bring your own supplies, as there are no facilities on the beach.
 
-You can discover more [Zakynthos beaches on your stay](https://www.tripadvisor.com/Attractions-g189398-Activities-c61-t199-Greece.html).
 
 > Visiting these beaches requires some planning. Check the wind conditions before heading to Golden Beach, and book your boat trip to Lalaria in advance. or Voutoumi, consider bringing water shoes, as the beach is pebbly. With a little preparation, you're in for some unforgettable adventures.
 
