@@ -4,7 +4,6 @@ draft = false
 title = 'Privacy Policy'
 tab = 'Privacy'
 description = "eugo.uk privacy policy"
-categories = ["General"]
 author = ["eugo"]
 layout = "custom"
 +++

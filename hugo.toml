@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'eugo travel'
 theme = 'eugo-theme'
 enableRobotsTXT = "true"
-
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   canonicalUrl = 'https://eugo.uk/'

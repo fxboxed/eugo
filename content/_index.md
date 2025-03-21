@@ -3,7 +3,6 @@ title = "6. Exploring Europe: A Tourist's Treasure Trove"
 date = '2025-02-07T09:36:21Z'
 draft = false
 description = "Each European country offers its unique blend of cuisine, culture, and tourist attractions, making it an ideal destination for various types of vacation."
-categories = ["General"]
 author = ["eugo"]
 tab = 'Home'
 #layout = "custom"

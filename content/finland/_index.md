@@ -4,8 +4,6 @@ draft = false
 title = ' Exploring the Top Ten Tourist Destinations in Finland: A Journey Through Nightlife, History, Culture, Cuisine, and Shopping'
 
 description = "Discover Finland's top ten tourist spots, from Helsinki's nightlife to Lapland's Northern Lights and more."
-categories = ["country"]
-tags = ["country"]
 author = ["eugo"]
 tab = "Finland"
 type = 'countries'

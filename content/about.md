@@ -4,7 +4,6 @@ draft = false
 title = 'About'
 tab = 'About'
 description = "About eugo.uk"
-categories = ["General"]
 author = ["eugo"]
 layout = "custom"
 +++

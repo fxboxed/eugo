@@ -5,7 +5,6 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 type = 'targeted'
 layout = 'targeted'
-tags = ['surfing']
 batch = "Top Surfing Spots in France"
 image = "/imgs/france/surf-thumb.webp"
 alt_txt = " Surfer riding a wave on a French beach."

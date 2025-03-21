@@ -6,7 +6,7 @@ draft = false
 tab ='Donagal'
 type = 'cities'
 layout = 'cities'
-tags = ['Ireland cities']
+
 image = "/imgs/ireland/don-thumb.webp"
 alt_txt = "Scenic Donegal coastline with green hills and sunset."
 relcanonical = "https://eugo.uk/ireland/cities/donagal"

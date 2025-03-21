@@ -4,8 +4,7 @@ draft = false
 title = ' Exploring the Top Ten Tourist Hotspots in Ireland: A Journey Through Nightlife, History, Culture, Cuisine, and Shopping'
 
 description = "Discover Ireland's top ten tourist hotspots, exploring nightlife, history, culture, cuisine, and shopping."
-categories = ["country"]
-tags = ["country"]
+
 author = ["eugo"]
 tab = "Ireland"
 type = 'countries'
