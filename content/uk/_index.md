@@ -3,7 +3,6 @@ title = "Exploring The 10 Most Popular Landmarks in the UK: A Traveler's Guide f
 date = '2025-02-07T09:36:21Z'
 draft = false
 description = "Discover the 10 most popular landmarks in the UK for 2025 in this traveler's guide."
-categories = ["General"]
 author = ["eugo"]
 tab = "UK"
 type = 'countries'

@@ -3,7 +3,6 @@ title = "10 Must Visit Places in Switzerland: A Guide to Tourist Attractions, Fo
 date = '2025-02-07T09:36:21Z'
 draft = false
 description = "Explore 10 must-visit places in Switzerland, from scenic Matterhorn to vibrant Zurich. Discover culture, food, and more."
-categories = ["General"]
 author = ["eugo"]
 tab = "Switzerland"
 type = 'countries'

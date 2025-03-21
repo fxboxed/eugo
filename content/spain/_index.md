@@ -3,7 +3,6 @@ title = "Discover the 10 Best Things to See and Do in Spain: A Guide to Food, Dr
 date = '2025-02-07T09:36:21Z'
 draft = false
 description = "Explore the 10 best things to see and do in Spain, from food and culture to attractions and nightlife."
-categories = ["General"]
 author = ["eugo"]
 tab = "Spain"
 type = 'countries'
