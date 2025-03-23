@@ -100,8 +100,6 @@ Krka National Park is like stepping into a natural wonderland. **The park's main
 
 For more on exploring the stunning attractions of Krka National Park, including the breathtaking Skradinski Buk Waterfall, scenic hikes around the Skradinski Buk Trail, and the picturesque Roški Waterfall, be sure to check out the detailed guide.
 
----
-
 ## 4\. Hvar
 
 ![Hvar beach](/imgs/croatia/hvar-beach.webp)

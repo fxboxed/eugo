@@ -1,4 +1,5 @@
 +++
-tab = 'Specialized'
-
+tab = 'Featured'
+type = 'euro'
+layout = 'euro'
 +++

@@ -142,7 +142,7 @@ Many of these events are held in scenic locations, giving you the perfect backdr
 
 ## Unique Nighttime Tours in Munich
 
-![Munich nightlife with couples, families, and elderly guests.](/imgs/germany/mun-cafes.webp)
+![Munich nightlife with couples, families, and elderly guests.](/imgs/germany/mun-3.webp)
 
 ### Guided Tours of Munich’s Historic Sites
 

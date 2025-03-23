@@ -17,7 +17,7 @@ relcanonical = "https://eugo.uk/france/"
 
 France is packed with places that make you go 'wow'. From the Eiffel Tower to the French Riviera, there's a bit of everything. 
 
-[Discovering the Best Ski Resorts in France](/france/specials/skiing)
+[Discovering the Best Ski Resorts in France](/france/specials/skiing/)
 {.inline-link}
 
 Whether you're into history, love a good meal, or just want to shop till you drop, France has got you covered. 
@@ -62,7 +62,7 @@ Whether you're taking in the view from its observation decks or admiring it from
 > Visiting the Eiffel Tower is an experience like no other. From its breathtaking views to the twinkling lights at night, it captures the essence of Parisian charm and elegance. 
 > Be sure to discover 16 intriguing facts about this iconic landmark to enrich your visit even more.
 
-[A Tour of the Must See Historical Sites of France](/france/specials/historical)
+[A Tour of the Must See Historical Sites of France](/france/specials/historical/)
 {.inline-link}
 
 ## 2\. Louvre Museum
@@ -196,7 +196,7 @@ The Loire Valley is renowned for its exceptional wines. Spend a day at a local v
 *   **Amboise**: Wander through cobbled streets, enjoy local cafes, and visit the Château d’Amboise, where Leonardo da Vinci spent his last years.
 *   **Tours**: This town is a perfect blend of history and modernity. Explore the old town, visit the medieval cathedral, and relax in the bustling squares.
 
-[A tourist's guide to travelling around France](/france/specials/transport)
+[A tourist's guide to travelling around France](/france/specials/transport/)
 {.inline-link}
 ### Enjoy Outdoor Adventures
 
@@ -215,7 +215,7 @@ For those eager to explore more, discover the must-see attractions in the Loire 
 The _French Riviera_, or Côte d’Azur, is a dazzling stretch of coastline in the Provence region, bordering Italy. Known for its glamorous beaches and luxurious resorts, this area is a magnet for travelers seeking both relaxation and adventure.
 {.inline-link}
 
-[Discover the Best Beach Vacations in France](/france/specials/beaches)
+[Discover the Best Beach Vacations in France](/france/specials/beaches/)
 {.inline-link}
 
 ### Sun-Kissed Beaches

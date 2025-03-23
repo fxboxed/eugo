@@ -7,7 +7,7 @@ Renders a menu for the given menu ID.
 @example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
 */}}
 
-{{- $page := .page }}
+{{/*  {{- $page := .page }}
 {{- $menuID := .menuID }}
 
 {{- with index site.Menus $menuID }}
@@ -16,9 +16,9 @@ Renders a menu for the given menu ID.
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
     </ul>
   </nav>
-{{- end }}
+{{- end }}  */}}
 
-{{- define "partials/inline/menu/walk.html" }}
+{{/*  {{- define "partials/inline/menu/walk.html" }}
   {{- $page := .page }}
   {{- range .menuEntries }}
     {{- $attrs := dict "href" .URL }}
@@ -48,4 +48,4 @@ Renders a menu for the given menu ID.
       {{- end }}
     </li>
   {{- end }}
-{{- end }}
+{{- end }}  */}}

@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/netherlands/amst-thumb.webp"
 alt_txt = "Amsterdam canals with houseboats and bicycles in spring."
-relcanonical = "https://eugo.uk/netherlands/cities/amsterdam"
+relcanonical = "https://eugo.uk/netherlands/cities/amsterdam/"
 +++
 ## Amsterdam Activities Guide
 
@@ -230,7 +230,7 @@ Try a pint of _brouwerij ‘t IJ_, a popular local beer, or go for something mor
 
 ## Seasonal Activities and Events in Amsterdam
 
-![Families and couples enjoying seasonal activities in Amsterdam with tulips in the foreground.](/imgs/netherlands/amst-tulips.webp)
+![Families and couples enjoying seasonal activities in Amsterdam with tulips in the foreground.](/imgs/netherlands/amst-3.webp)
 
 ### Experience King’s Day Celebrations
 

@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/denmark/ra-thumb.webp"
 alt_txt = "Culinary and nightlife scene in Randers at night."
-relcanonical = "https://eugo.uk/denmark/cities/randers"
+relcanonical = "https://eugo.uk/denmark/cities/randers/"
 +++
 ## Randers Culinary and Nightlife Guide
 
@@ -303,7 +303,7 @@ Each landmark gives you a glimpse into how earlier generations experienced life 
 
 ## Outdoor Activities for Everyone
 
-![Outdoor activities in Randers for all ages.](/imgs/denmark/rd-1.webp)
+![Outdoor activities in Randers for all ages.](/imgs/denmark/ra-1.webp)
 
 Exploring the great outdoors in Randers means you get to enjoy a mix of relaxation and a touch of adventure.
 

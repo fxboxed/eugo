@@ -171,7 +171,7 @@ Some gardens even host workshops or community events, so you might stumble upon 
 
 ## Shopping and Markets in Rotterdam
 
-![Colorful market stalls in Rotterdam bustling with shoppers.](/imgs/netherlands/rott-culture.webp)
+![Colorful market stalls in Rotterdam bustling with shoppers.](/imgs/netherlands/rott-market.webp)
 
 ### Exploring the Markthal
 

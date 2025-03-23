@@ -9,7 +9,7 @@ layout = 'single'
 batch = 'Top European Hiking Adventures'
 image = "/imgs/europe/adventure/hk-thumb.webp"
 alt_txt = "Scenic European hiking trail through lush green mountains."
-relcanonical = "https://eugo.uk/europe/adventure/hiking"
+relcanonical = "https://eugo.uk/europe/adventure/hiking/"
 +++
 
 ## Top European Hiking Adventures

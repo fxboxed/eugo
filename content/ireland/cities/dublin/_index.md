@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/ireland/dub-thumb.webp"
 alt_txt = "Dublin landmarks, food, and cultural activities for all ages."
-relcanonical = "https://eugo.uk/ireland/cities/dublin"
+relcanonical = "https://eugo.uk/ireland/cities/dublin/"
 +++
 ## Dublin: Culture, Cuisine, and Activities Guide
 

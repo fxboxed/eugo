@@ -198,8 +198,6 @@ The pubs in the historic Patershol district are particularly popular, offering a
 
 > Belgium's nightlife is as diverse as its culture, offering a unique blend of modern and traditional experiences. Whether you're dancing the night away in a Brussels nightclub or enjoying a quiet drink in a Ghent pub, the spirit of Belgium is always present, inviting you to explore and enjoy.
 
----
-
 ## Art and Culture in Belgium
 ![A painting by Van Eyck featuring a woman and child](/imgs/belgium/Painting-by-Van-Eyck.webp)
 

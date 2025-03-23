@@ -80,7 +80,7 @@ Experts are on hand to answer curious questions, making it a fantastic opportuni
 
 ## Cultural Nightlife Experiences for the Elderly
 
-![Moonlit Edinburgh streets with elderly couples enjoying vibrant cultural heritage.](/imgs/uk/ed-street.webp)
+![Moonlit Edinburgh streets with elderly couples enjoying vibrant cultural heritage.](/imgs/uk/ed-3.webp)
 
 ### Classical Concerts at Usher Hall
 

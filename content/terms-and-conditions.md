@@ -8,6 +8,7 @@ image = "/imgs/europe/nl-thumb.webp"
 alt_txt = "Colorful city nightlife with lively streets and illuminated building"
 author = ["eugo"]
 layout = "custom"
+relcanonical = "https://eugo.uk/terms-and-conditions/"
 +++
 Welcome to Eugo.co.uk. These Terms and Conditions govern your use of our website and services. By accessing or using Eugo.co.uk, you agree to comply with and be bound by these terms. If you do not agree with any part of these terms, you must not use our site.
 

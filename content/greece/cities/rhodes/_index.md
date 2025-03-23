@@ -82,7 +82,7 @@ Whether you're out to party or simply enjoy a relaxed drink by the sea, Rhodes o
 
 ## Local Traditions and Festivals
 
-![Couples dancing at a vibrant local festival in Rhodes.](/imgs/greece/rh-dancing.webp)
+![Couples dancing at a vibrant local festival in Rhodes.](/imgs/greece/rh-1.webp)
 
 ### Cultural Celebrations
 
@@ -132,7 +132,7 @@ This hands-on encounter with local craftsmanship offers you an enriching way to 
 
 ## Culinary Delights of Rhodes
 
-![Delicious traditional Rhodes cuisine on a beautifully set table.](/imgs/greece/rh-dishes.webp)
+![Delicious traditional Rhodes cuisine on a beautifully set table.](/imgs/greece/rh-2.webp)
 
 Rhodes offers a mix of flavors that you'll enjoy every time you sit down for a meal.
 
@@ -188,7 +188,7 @@ In every bite, there’s a story waiting for you, turning a simple dinner into a
 
 ## Activities for Couples
 
-![Couples enjoying a sunset walk on Rhodes beach.](/imgs/greece/ph-couple.webp)
+![Couples enjoying a sunset walk on Rhodes beach.](/imgs/greece/rh-3.webp)
 
 ### Romantic Beach Getaways
 

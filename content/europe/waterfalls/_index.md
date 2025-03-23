@@ -10,7 +10,7 @@ type = 'targeted'
 layout = 'targeted'
 image = "/imgs/europe/wf-thumb.webp"
 alt_txt = "Aerial view of a majestic waterfall in lush greenery"
-relcanonical = "https://eugo.uk/europe/waterfalls"
+relcanonical = "https://eugo.uk/europe/waterfalls/"
 +++
 
 ## Europe's Stunning Waterfalls Unveiled

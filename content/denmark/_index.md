@@ -107,7 +107,7 @@ Inspired by Hans Christian Andersen's famous fairy tale, the statue perfectly ca
 
 ## 4\. Legoland Billund
 
-![Legoland Billund](/imgs/denmark/Legoland-Billund-Denmark.jpg)
+![Legoland Billund](/imgs/denmark/Legoland-Billund-Denmark.webp)
 
 Welcome to the world of _bricks_ and imagination at LEGOLAND Billund, Denmark's premier amusement park. If you're a fan of LEGO, or traveling with family, this place is a dream come true. **It's where creativity takes flight**, offering a perfect mix of fun, speed, and action for everyone.
 

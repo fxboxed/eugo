@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/austria/vienna-thumb.webp"
 alt_txt = "Couples enjoying a beautiful sunset in Vienna."
-relcanonical = "https://uego.uk/austria/cities/vienna"
+relcanonical = "https://uego.uk/austria/cities/vienna/"
 +++
 
 ## Vienna Travel Guide for All Ages

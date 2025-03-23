@@ -10,7 +10,7 @@ type = 'single'
 layout = 'single'
 image = "/imgs/europe/nl-thumb.webp"
 alt_txt = "Colorful city nightlife with lively streets and illuminated building"
-relcanonical = "https://eugo.uk/europe/nightlife"
+relcanonical = "https://eugo.uk/europe/nightlife/"
 +++
 
 ## Top European Cities for Nightlife Adventures
@@ -20,7 +20,7 @@ If you're on the hunt for the best nightlife in Europe, you’re in luck!
 This continent is a treasure trove of after-dark adventures, where cities transform into vibrant party hubs as soon as the sun goes down.
 
 From Berlin’s legendary techno scene to the beach parties of Ibiza, this guide covers the must-visit cities that promise unforgettable nights out.
-[Want to know more about Berlin?](/germany/cities/berlin)
+[Want to know more about Berlin?](/germany/cities/berlin/)
 
 So grab your friends and get ready to explore the thrilling nightlife that Europe has to offer!
 
@@ -126,7 +126,7 @@ It's a place where music lovers can come together and celebrate their passion.
 
 ## Barcelona: A Fusion of Culture and Nightlife
 
-[Barcelona](/spain/barcelona) is where the party never stops, blending cultural experiences with a vibrant after-dark scene.
+[Barcelona](/spain/barcelona/) is where the party never stops, blending cultural experiences with a vibrant after-dark scene.
 
 You'll find everything from beachside raves to intimate flamenco shows, making it a city that caters to all tastes.
 
@@ -196,8 +196,6 @@ You can grab affordable drinks while enjoying live music, art, or even movies.
 
 During the day, many ruin bars host farmers' markets and other events, so they're not just for nighttime fun.
 
-It's a \[nightlife revolution\](#e8ce\] that you won't find anywhere else.
-
 ### Thermal Baths and Night Parties
 
 Imagine dancing under the stars, surrounded by warm thermal waters. That's what Budapest's famous "Sparties" are all about.
@@ -220,7 +218,7 @@ Drinks are generally cheaper than in other European capitals, and there are plen
 
 From exploring the ruin bars to wandering around the city at night, you can have an amazing time without breaking the bank.
 
-Plus, the vibe is just so unique and cool. It's a [party destination](e8ce) that's easy on your wallet.
+Plus, the vibe is just so unique and cool. It's a party destination that's easy on your wallet.
 
 ## Prague: A Nightlife Haven for Party Lovers
 

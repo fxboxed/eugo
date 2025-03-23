@@ -96,7 +96,7 @@ February in Portugal is all about embracing the off-season charm. You'll get a m
 ## 5\. Switzerland
 [Road with snow covered mountains backdrop](/imgs/seasonal/feb-4.webp)
 
-[Switzerland](/Switzerland) in February? Absolutely! Forget the beach; think snow-dusted mountains and cozy chalets. It's a different kind of beautiful, and if you're into winter sports, you're in for a treat.
+[Switzerland](/Switzerland/) in February? Absolutely! Forget the beach; think snow-dusted mountains and cozy chalets. It's a different kind of beautiful, and if you're into winter sports, you're in for a treat.
 
 **Switzerland is best for snowy mountains.**
 

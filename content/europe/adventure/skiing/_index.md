@@ -9,7 +9,7 @@ layout = 'single'
 batch = 'Hidden Gem Ski Resorts in Europe'
 image = "/imgs/europe/adventure/sk-thumb.webp"
 alt_txt = " Snowy mountains and skiers at a picturesque ski resort."
-relcanonical = "https://eugo.uk/europe/adventure/skiing"
+relcanonical = "https://eugo.uk/europe/adventure/skiing/"
 +++
 
 ## Hidden Gem Ski Resorts in Europe

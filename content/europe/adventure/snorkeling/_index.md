@@ -9,7 +9,7 @@ layout = 'single'
 batch = 'Top Snorkeling Destinations in Europe'
 image = "/imgs/europe/adventure/snk-thumb.webp"
 alt_txt = "Snorkelers in clear water among colorful coral reefs."
-relcanonical = "https://eugo.uk/europe/adventure/snorkeling"
+relcanonical = "https://eugo.uk/europe/adventure/snorkeling/"
 +++
 ## Top Snorkeling Destinations in Europe
 

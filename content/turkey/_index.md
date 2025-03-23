@@ -31,7 +31,7 @@ If you're on the fence about it, let me give you ten reasons why Turkey should b
 
 Turkey is a country where the past and present coexist in harmony. This land has been home to many civilizations, each leaving behind a unique legacy. 
 
-From ancient ruins to vibrant [cultural practices](/turkey/specials/history), Turkey offers a rich tapestry of history and culture.
+From ancient ruins to vibrant [cultural practices](/turkey/specials/history/), Turkey offers a rich tapestry of history and culture.
 
 ### A Tapestry of Civilizations
 
@@ -236,7 +236,7 @@ So, whether you're looking to dance the night away or enjoy a quiet drink by the
 
 Turkey is a playground for thrill-seekers, offering an array of adventure activities that cater to all interests. 
 
-Whether you're into adrenaline-pumping [water sports](/turkey/specials/water) or more relaxed outdoor experiences, Turkey's diverse landscapes provide the perfect backdrop.
+Whether you're into adrenaline-pumping [water sports](/turkey/specials/water/) or more relaxed outdoor experiences, Turkey's diverse landscapes provide the perfect backdrop.
 
 ### Land Adventures
 
@@ -361,7 +361,7 @@ Imagine yourself lounging on the soft sand, watching the waves gently lap at the
 
 > The Turkish Riviera isn't just about the beaches. It's about the feeling you get when you see the sunset over the Mediterranean, the taste of fresh seafood by the shore, and the sound of waves that lull you to sleep. It's an experience that stays with you.
 
-[Take a lok at the best beaches that Turkey has to offer](/turkey/specials/beaches)
+[Take a lok at the best beaches that Turkey has to offer](/turkey/specials/beaches/)
 ### Activities
 
 *   **Explore Ancient Ruins**: Many beaches are near historical sites, offering a mix of relaxation and exploration.

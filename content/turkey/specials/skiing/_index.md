@@ -50,7 +50,7 @@ Don't miss the chance to catch a sunrise from one of the many viewpoints – it'
 
 Be sure to check out the [Göreme National Park](https://www.alltrails.com/turkey) for some amazing trails.
 
-[Why not try water sports](/turkey/specials/water)
+[Why not try water sports](/turkey/specials/water/)
 
 ### Lycian Way: Coastal Trails with Stunning Views
 

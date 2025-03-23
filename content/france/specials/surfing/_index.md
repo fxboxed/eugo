@@ -5,10 +5,11 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 type = 'targeted'
 layout = 'targeted'
+tab = "Skiing"
 batch = "Top Surfing Spots in France"
 image = "/imgs/france/surf-thumb.webp"
 alt_txt = " Surfer riding a wave on a French beach."
-relcanonical = "https://eugo.uk/france/specials/surfing"
+relcanonical = "https://eugo.uk/france/specials/surfing/"
 +++
 
 ## Top Surfing Spots in France

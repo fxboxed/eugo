@@ -9,7 +9,7 @@ layout = 'targeted'
 batch = 'Top European Travel Destinations'
 image = "/imgs/europe/places-thumb.webp"
 alt_txt = "Collage of famous European landmarks and scenic views."
-relcanonical = "https://eugo.uk/europe/best-spots"
+relcanonical = "https://eugo.uk/europe/best-spots/"
 +++
 
 ## Top European Travel Destinations
@@ -48,10 +48,10 @@ Here are some must-see spots:
 
 And if you're into vintage shopping, don't miss the best vintage shops around Portobello Road Market. You might even find something Kate Moss would wear!
 
-[more about London](/uk/cities/london)
+[more about London](/uk/cities/london/)
 ## 2\. Pari
 
-Ah, [Paris](/france/cities/paris)! The City of Lights, love, and ridiculously good pastries. You've probably seen it in movies, read about it in books, and dreamt about strolling along the Seine. Let me tell you, it lives up to the hype. It's one of those places that just oozes charm from every cobblestone. You can spend your days wandering through the _intriguing arrondissements_, each with its own unique vibe, or just sit at a café and watch the world go by.
+Ah, [Paris](/france/cities/paris/)! The City of Lights, love, and ridiculously good pastries. You've probably seen it in movies, read about it in books, and dreamt about strolling along the Seine. Let me tell you, it lives up to the hype. It's one of those places that just oozes charm from every cobblestone. You can spend your days wandering through the _intriguing arrondissements_, each with its own unique vibe, or just sit at a café and watch the world go by.
 
 **Paris is more than just its landmarks; it's an experience.**
 
@@ -85,7 +85,7 @@ Here's a little taste of what awaits you:
 
 ## 4\. Barcelona
 
-Okay, so Barcelona. Where do I even start? [It's one of those cities in spain](/spain/cities/barcelona) that just _buzzes_ with energy. You can feel it the moment you step off the train. It's a city that manages to be both incredibly historic and super modern at the same time. You've got the Gothic Quarter with its tiny, winding streets, and then BAM, you're staring at some crazy Gaudi building that looks like it's from another planet.
+Okay, so Barcelona. Where do I even start? [It's one of those cities in spain](/spain/cities/barcelona/) that just _buzzes_ with energy. You can feel it the moment you step off the train. It's a city that manages to be both incredibly historic and super modern at the same time. You've got the Gothic Quarter with its tiny, winding streets, and then BAM, you're staring at some crazy Gaudi building that looks like it's from another planet.
 
 **The architecture alone is worth the trip.** Seriously, you could spend days just wandering around, gawking at buildings. And the food? Don't even get me started. Tapas, paella, fresh seafood... it's a foodie's paradise. Plus, there's a beach! Who doesn't love a city with a beach? Just be prepared for crowds, especially in the summer. It's a popular spot, and for good reason. You can [book tours](https://www.tripadvisor.com/Attractions-g187497-Activities-Barcelona_Catalonia.html) for popular attractions.
 
@@ -95,7 +95,7 @@ Okay, so Barcelona. Where do I even start? [It's one of those cities in spain](/
 
 Amsterdam, oh Amsterdam! You're in for a treat. This city is more than just tulips and windmills; it's a vibrant hub of culture, history, and _gezelligheid_ (that cozy Dutch feeling you'll come to love). You'll find yourself wandering along picturesque canals, admiring the gabled houses, and soaking in the laid-back atmosphere.
 
-**The best way to [experience Amsterdam](/netherlands/cities/amsterdam) is to simply wander and get lost.** Seriously, ditch the map for a bit and see where the cobblestone streets take you. You might stumble upon a hidden courtyard, a quirky cafe, or a charming little shop you'd never find otherwise.
+**The best way to [experience Amsterdam](/netherlands/cities/amsterdam/) is to simply wander and get lost.** Seriously, ditch the map for a bit and see where the cobblestone streets take you. You might stumble upon a hidden courtyard, a quirky cafe, or a charming little shop you'd never find otherwise.
 
 Here are a few things you absolutely must do:
 
@@ -159,7 +159,7 @@ Here are a few things you might want to check out:
 
 ## 9\. Berlin
 
-[Berlin](/germany/cities/berlin), nearly 35 years after the Wall fell, still carries reminders of its divided past. You can see it at the Brandenburg Gate, in the graffiti-covered sections of the Berlin Wall at the East Side Gallery, or by exploring the DDR Museum. It's important to understand this history to grasp what shaped Germany's capital. But it's not all history; Berlin is also about the future, with its iconic club culture, unique independent shops, and cool neighborhoods.
+[Berlin](/germany/cities/berlin/), nearly 35 years after the Wall fell, still carries reminders of its divided past. You can see it at the Brandenburg Gate, in the graffiti-covered sections of the Berlin Wall at the East Side Gallery, or by exploring the DDR Museum. It's important to understand this history to grasp what shaped Germany's capital. But it's not all history; Berlin is also about the future, with its iconic club culture, unique independent shops, and cool neighborhoods.
 
 **You'll find that Berlin offers a unique blend of history and modernity.**
 
@@ -171,7 +171,7 @@ Here are a few things you might want to check out:
 
 ## 10\. Edinburgh
 
-Okay, [so Edinburgh](/uk/cities/edinburgh). You're probably thinking castles and kilts, right? Well, you're not wrong, but there's so much more to this city than just the touristy stuff. It's got this amazing vibe, a mix of old and new that just _works_. You can be wandering through ancient streets one minute and then stumble upon a super modern art gallery the next. It's a city that keeps you on your toes.
+Okay, [so Edinburgh](/uk/cities/edinburgh/). You're probably thinking castles and kilts, right? Well, you're not wrong, but there's so much more to this city than just the touristy stuff. It's got this amazing vibe, a mix of old and new that just _works_. You can be wandering through ancient streets one minute and then stumble upon a super modern art gallery the next. It's a city that keeps you on your toes.
 
 **Edinburgh is a city of stories, literally.**
 
@@ -189,7 +189,7 @@ And don't even get me started on the food. From traditional Scottish fare to ama
 
 ## 11\. Dubrovnik
 
-[Dubrovnik, Croatia](/croatia/cities/dubrovnik), is a city that will absolutely captivate you. Its main draw? The historic city wall, which is considered one of the most impressive in the world. This wall encircles marble streets and beautifully decorated buildings. Constructed between the 13th and 16th centuries, the walls are remarkably well-preserved. The views of the terracotta rooftops and the Adriatic Sea are simply breathtaking, especially at sunset when the light creates unforgettable colors.
+[Dubrovnik, Croatia](/croatia/cities/dubrovnik/), is a city that will absolutely captivate you. Its main draw? The historic city wall, which is considered one of the most impressive in the world. This wall encircles marble streets and beautifully decorated buildings. Constructed between the 13th and 16th centuries, the walls are remarkably well-preserved. The views of the terracotta rooftops and the Adriatic Sea are simply breathtaking, especially at sunset when the light creates unforgettable colors.
 
 *   Walk the city walls for panoramic views.
 *   Explore the Old Town's charming streets.
@@ -211,7 +211,7 @@ Here's a few things you absolutely have to do:
 *   Explore Alfama: Get lost in the labyrinthine streets of Lisbon's oldest district, filled with history and character. neighborhood food toursare a must!
 *   Indulge in Pastéis de Nata: These custard tarts are a Lisbon staple, and you'll find them in almost every bakery. Don't miss out!
 
-> Lisbon is a city in [Portugal](/portugal) that gets under your skin. It's not just about the sights; it's about the feeling – the warmth of the people, the taste of the food, and the rhythm of the city. It's a place where you can slow down, soak it all in, and create memories that will last a lifetime.
+> Lisbon is a city in [Portugal](/portugal/) that gets under your skin. It's not just about the sights; it's about the feeling – the warmth of the people, the taste of the food, and the rhythm of the city. It's a place where you can slow down, soak it all in, and create memories that will last a lifetime.
 
 And if you're feeling adventurous, consider a day trips to nearby beaches. They're a great way to escape the city and enjoy the beautiful Portuguese coastline.
 
@@ -233,9 +233,9 @@ Here are a few things you absolutely have to do:
 
 ## 14\. Athens
 
-Get ready to step back in time! [Athens is calling](/greece/cities/athens), and it's ready to show you thousands of years of history. You'll find ancient monuments seemingly at every turn, but it's in Athens where the ancient empire's greatest and most iconic monuments stand proud.
+Get ready to step back in time! [Athens is calling](/greece/cities/athens/), and it's ready to show you thousands of years of history. You'll find ancient monuments seemingly at every turn, but it's in Athens where the ancient empire's greatest and most iconic monuments stand proud.
 
-High on a rocky outcrop overlooking the city, the [Acropolis](https://www.earthtrekkers.com/best-things-to-do-in-athens-greece/) epitomizes the glory of ancient [Greece](/greece). You can explore the graceful Parthenon and the 17,000-seat Theatre of Dionysos. Other impressive ruins litter this vibrant city, including the Temple of Olympian Zeus and two agoras (marketplaces) – one Greek, one Roman – mingling with first-rate museums. **It's a history buff's dream come true!**
+High on a rocky outcrop overlooking the city, the [Acropolis](https://www.earthtrekkers.com/best-things-to-do-in-athens-greece/) epitomizes the glory of ancient [Greece](/greece/). You can explore the graceful Parthenon and the 17,000-seat Theatre of Dionysos. Other impressive ruins litter this vibrant city, including the Temple of Olympian Zeus and two agoras (marketplaces) – one Greek, one Roman – mingling with first-rate museums. **It's a history buff's dream come true!**
 
 When you’ve had your fill of architectural magnificence, fill up on Athens’ culinary brilliance, sampling _local delights_ such as lukumades (crisp dough balls) and souvlaki kebabs. The city is also flush with great beaches, and pine-covered islands, atmospheric ancient sites and rugged hiking trails are just a short trip away.
 
@@ -249,7 +249,7 @@ Here's a quick list of must-see spots:
 
 ## 15\. Copenhagen
 
-[Copenhagen](denmark/cities/copenhagen), the capital of [Denmark](/denmark/), is a city that effortlessly blends history with modern design. You'll find yourself charmed by its colorful buildings, _friendly locals_, and a relaxed atmosphere that makes it easy to feel right at home. It's a place where you can explore centuries-old castles one day and enjoy cutting-edge cuisine the next.
+[Copenhagen](denmark/cities/copenhagen/), the capital of [Denmark](/denmark/), is a city that effortlessly blends history with modern design. You'll find yourself charmed by its colorful buildings, _friendly locals_, and a relaxed atmosphere that makes it easy to feel right at home. It's a place where you can explore centuries-old castles one day and enjoy cutting-edge cuisine the next.
 
 **Copenhagen is a must-see destination for anyone looking for a unique European experience.**
 
@@ -291,7 +291,7 @@ That Oslo Opera Houselooks like an iceberg, which is pretty cool. And they're re
 
 ## 18\. Brussels
 
-Okay, so [Brussels](/belgium/cities/brussels) might not be the first place that pops into your head when you think of a European getaway, but trust me, it's got a certain charm that's hard to resist. It's like that friend who's not the loudest in the room, but always has the best stories. You'll find yourself wandering around, discovering something cool around every corner.
+Okay, so [Brussels](/belgium/cities/brussels/) might not be the first place that pops into your head when you think of a European getaway, but trust me, it's got a certain charm that's hard to resist. It's like that friend who's not the loudest in the room, but always has the best stories. You'll find yourself wandering around, discovering something cool around every corner.
 
 First off, the food scene is seriously underrated. Forget what you think you know about Belgian food – it's not just waffles and chocolate (though those are amazing too!). You've got to try the _moules-frites_ (mussels and fries) – it's a classic for a reason. And the beer? Oh man, the beer. So many different kinds, you could spend weeks just trying them all.
 
@@ -307,7 +307,7 @@ Here's a quick list of things you should definitely check out:
 *   Manneken Pis: Okay, it's just a little statue of a peeing boy, but it's an icon.
 *   The Royal Museums of Fine Arts: If you're into art, this place is a must-see.
 
-[More about Belgium](/belgium)
+[More about Belgium](/belgium/)
 ## 19\. Zurich
 
 Zurich, often thought of as a financial hub, is so much more than just banks and business! You'll find a vibrant city with a rich cultural scene, beautiful landscapes, and a high quality of life. It's a place where you can easily mix urban exploration with outdoor adventures. Get ready to be surprised by what Zurich has to offer!
@@ -338,7 +338,7 @@ Consider starting your journey with a stroll around the city center to soak in t
 
 ## 21\. Nice
 
-So, you're [thinking about Nice](/france./cities/nice), huh? Good choice! It's one of those places that just oozes charm. I mean, who wouldn't want to stroll along the _Promenade des Anglais_, soaking up the sun and the sea breeze? It's not just a pretty face, though; there's a lot more to Nice than just the beach.
+So, you're [thinking about Nice](/france./cities/nice/), huh? Good choice! It's one of those places that just oozes charm. I mean, who wouldn't want to stroll along the _Promenade des Anglais_, soaking up the sun and the sea breeze? It's not just a pretty face, though; there's a lot more to Nice than just the beach.
 
 Think about wandering through the Old Town (Vieux Nice), getting lost in the maze of narrow streets, and stumbling upon hidden squares with cute little cafes. You can grab a socca (a local chickpea pancake) from a street vendor and just watch the world go by. It's the kind of place where you can really slow down and enjoy the simple things.
 
@@ -370,7 +370,7 @@ Here's a few things you should consider doing:
 
 > Santorini is more than just a pretty picture. It's an experience. It's the feeling of the warm sun on your skin, the taste of fresh seafood, and the sound of the waves crashing against the shore. It's a place that will stay with you long after you've left.
 
-Don't forget to try the local wine! Santorini is known for its unique Assyrtiko wine, which is grown in volcanic soil. You can visit wineries and taste the wine, while enjoying the views. You might even want to consider island hopping and visiting the [Greek Islands](https://www.example.com).
+Don't forget to try the local wine! Santorini is known for its unique Assyrtiko wine, which is grown in volcanic soil. You can visit wineries and taste the wine, while enjoying the views. You might even want to consider island hopping and visiting the [Greek Islands](/greece/).
 
 ## 23\. Reykjavik
 
@@ -406,7 +406,7 @@ Malta! It's more than just a tiny spot on the map; it's an island nation packed 
 
 Okay, so you've made it this far, and you're probably thinking, "What else could Europe possibly offer?" Well, let me tell you, there's always more to discover! We're going to wrap things up with a gem in [Poland](/poland) and a reminder that the adventure never really ends.
 
-[Kraków is _a_ Polish city](/poland/cities/krakow), a place brimming with legends of dragons and kings. Where else can you find a fairy-tale castle, Europe’s largest medieval market square, and Jagiellonian University – one of Europe’s oldest centers of learning – all alongside museums and galleries displaying priceless art? It's a city that effortlessly blends history with a vibrant modern culture. You'll find a high density of bars and clubs, cuisines from all over the globe, cellar bars with live jazz, and beer gardens pouring local brews. The architecture is amazing, with Romanesque, Gothic, Renaissance, baroque, and art nouveau styles all represented. **Kraków is a city that survived WWII largely intact, making it a unique place to explore.**
+[Kraków is _a_ Polish city](/poland/cities/krakow/), a place brimming with legends of dragons and kings. Where else can you find a fairy-tale castle, Europe’s largest medieval market square, and Jagiellonian University – one of Europe’s oldest centers of learning – all alongside museums and galleries displaying priceless art? It's a city that effortlessly blends history with a vibrant modern culture. You'll find a high density of bars and clubs, cuisines from all over the globe, cellar bars with live jazz, and beer gardens pouring local brews. The architecture is amazing, with Romanesque, Gothic, Renaissance, baroque, and art nouveau styles all represented. **Kraków is a city that survived WWII largely intact, making it a unique place to explore.**
 
 > Don't just stick to the main tourist spots. Get lost in the side streets, try the local food, and talk to the people. You'll find that the real magic of Europe lies in the unexpected moments and the connections you make along the way.
 

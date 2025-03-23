@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/austria/kin-thumb.webp"
 alt_txt = "Windmills and sunset in Kinderdijk, a serene landscape."
-relcanonical = "https://eugo.uk/netherlands/cities/kinderdijk"
+relcanonical = "https://eugo.uk/netherlands/cities/kinderdijk/"
 +++
 ## Kinderdijk Travel Guide 2025
 

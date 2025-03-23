@@ -19,11 +19,11 @@ November is a fantastic time to explore Europe. With fewer tourists around, you 
 
 ### Key Takeaways
 
-*   Seville, [Spain](/spain) offers warm weather and lively festivals, perfect for soaking up the last bits of summer.
+*   Seville, [Spain](/spain/) offers warm weather and lively festivals, perfect for soaking up the last bits of summer.
 *   Lisbon, [Portugal](portugal/) combines mild temperatures with beautiful scenery and delicious food, ideal for couples and families alike.
 *   Florence, [Italy](/italy/) is great for art lovers and foodies, providing a cozy atmosphere without the usual crowds.
 *   Budapest, Hungary features relaxing thermal baths and stunning architecture, making it a favorite for those seeking comfort in cooler weather.
-*   [Edinburgh](/uk/cities/edinburgh), Scotland showcases its gothic charm and rich history, perfect for singles looking for a unique experience.
+*   [Edinburgh](/uk/cities/edinburgh/), Scotland showcases its gothic charm and rich history, perfect for singles looking for a unique experience.
 
 ## 1\. Seville, Spain
 
@@ -37,7 +37,7 @@ Seville is packed with history, and _flamenco_ music fills the air. Plus, there 
 
 ![Colorful Lisbon street scene with tram and cafés.](/imgs/europe/seasonal/nov-1.webp)
 
-If you're after a blend of culture, pleasant weather, and amazing pastries, [Lisbon is a fantastic choice](/portugal/cities/lisbon) for a November trip. The crowds thin out, and the temperatures are still mild, making it perfect for exploring. You can wander through the city's charming, hilly streets without battling hordes of tourists. Plus, the coastal views are stunning this time of year.
+If you're after a blend of culture, pleasant weather, and amazing pastries, [Lisbon is a fantastic choice](/portugal/cities/lisbon/) for a November trip. The crowds thin out, and the temperatures are still mild, making it perfect for exploring. You can wander through the city's charming, hilly streets without battling hordes of tourists. Plus, the coastal views are stunning this time of year.
 
 **Lisbon offers a unique charm in November**, and it's a great time to experience the city like a local.
 
@@ -98,9 +98,9 @@ Here are a few things you might enjoy:
 
 > November in Edinburgh is all about embracing the atmosphere. It's a time for cozy sweaters, warm drinks, and exploring the city's hidden gems without the summer crowds. It's a unique experience that you won't soon forget.
 
-## 6\. Prague, [Czech Republic](/czechia)
+## 6\. Prague, [Czech Republic](/czechia/)
 
-Want to visit the beautiful [city of Prague](/czechia/cities/prague) in November? Absolutely! You might think it's all gloom and cold, but trust me, it has a unique charm. The crowds thin out, and you get to experience the city in a more intimate way. Plus, the prices are generally lower, which is always a win.
+Want to visit the beautiful [city of Prague](/czechia/cities/prague/) in November? Absolutely! You might think it's all gloom and cold, but trust me, it has a unique charm. The crowds thin out, and you get to experience the city in a more intimate way. Plus, the prices are generally lower, which is always a win.
 
 One of the best things about visiting Prague in November is the atmosphere. **The city has a certain magic to it, especially when the first dusting of snow arrives.** You can wander through the _Old Town Square_ without battling hordes of tourists, and the Charles Bridge feels almost like it's yours alone.
 
@@ -144,7 +144,7 @@ Here's what you can expect:
 
 ## 9\. Amsterdam, Netherlands
 
-Okay, so  [visiting Amsterdam](/netherlands/Amsterdam) in November? It's not exactly sun-soaked beaches, but hear me out. It's got a _totally_ different vibe, and honestly, I kind of dig it. The crowds are way thinner than in summer, which means you can actually, like, see the art in the museums without battling hordes of tourists. Plus, there's something super cozy about wandering around the canals when it's a bit chilly out.
+Okay, so  [visiting Amsterdam](/netherlands/Amsterdam/) in November? It's not exactly sun-soaked beaches, but hear me out. It's got a _totally_ different vibe, and honestly, I kind of dig it. The crowds are way thinner than in summer, which means you can actually, like, see the art in the museums without battling hordes of tourists. Plus, there's something super cozy about wandering around the canals when it's a bit chilly out.
 
 **The city just feels more authentic somehow.**
 
@@ -195,7 +195,7 @@ Here are a few things you might want to check out:
 
 ![Scenic view of Dubrovnik's city walls and rooftops.](/imgs/europe/seasonal/nov-2.webp)
 
-[Is worth a visit to Dubrovnik](/croatia/cities/dubrovnik) in November? Absolutely! You might not get the scorching summer heat, but you'll dodge the massive crowds and still experience the city's charm. Think crisp air, stunning views of the Adriatic, and a more relaxed vibe overall. Plus, prices for accommodations and flights tend to be lower, which is always a win.
+[Is worth a visit to Dubrovnik](/croatia/cities/dubrovnik/) in November? Absolutely! You might not get the scorching summer heat, but you'll dodge the massive crowds and still experience the city's charm. Think crisp air, stunning views of the Adriatic, and a more relaxed vibe overall. Plus, prices for accommodations and flights tend to be lower, which is always a win.
 
 **The weather in November is mild, but be prepared for some rain.** Pack layers, including a waterproof jacket, and you'll be set for exploring. The average temperature hovers around 14°C (57°F), so it's comfortable enough for walking around.
 
@@ -243,7 +243,7 @@ And if you're a fan of architecture, Porto is your place. From the Dom Luís I B
 
 ## 15\. Warsaw, Poland
 
-Okay, so the [Polish city of Warsaw](/poland/cities/warsaw) in November might not be the first place that springs to mind when you're dreaming of a European getaway. But hear me out! It's got a certain charm that really shines through when the crowds thin out and the city takes on a quieter vibe. Plus, you can often snag some pretty sweet deals on flights and hotels this time of year.
+Okay, so the [Polish city of Warsaw](/poland/cities/warsaw/) in November might not be the first place that springs to mind when you're dreaming of a European getaway. But hear me out! It's got a certain charm that really shines through when the crowds thin out and the city takes on a quieter vibe. Plus, you can often snag some pretty sweet deals on flights and hotels this time of year.
 
 One of the best things about visiting Warsaw in November is that you can really explore the city without feeling like you're constantly battling hordes of tourists. You can wander through the [historic Old Town](https://passport-for-living.com/weekend-in-warsaw-travel-guide/), a UNESCO World Heritage site, and actually appreciate its beauty without being jostled every two seconds. And if you're into history, Warsaw is packed with it.
 
@@ -259,7 +259,7 @@ And speaking of food, you absolutely have to try some pierogi while you're there
 
 Okay, so Brussels in November might not be the first place that springs to mind when you're thinking of a European getaway, but hear me out. It's got a certain charm that's hard to resist, especially if you're into _history_, culture, and, of course, amazing food and beer. Plus, the crowds are way thinner than in the summer, which means you can actually enjoy the sights without battling hordes of tourists.
 
-One of the [best things about Brussels](/belgium/cities/brussels) is its walkability. You can easily spend a day just wandering around, soaking up the atmosphere. The Grand-Place, with its stunning architecture, is a must-see, and in November, it often has a festive market popping up, adding to the cozy vibe. And don't even get me started on the chocolate shops – they're everywhere, and sampling the local treats is practically a civic duty.
+One of the [best things about Brussels](/belgium/cities/brussels/) is its walkability. You can easily spend a day just wandering around, soaking up the atmosphere. The Grand-Place, with its stunning architecture, is a must-see, and in November, it often has a festive market popping up, adding to the cozy vibe. And don't even get me started on the chocolate shops – they're everywhere, and sampling the local treats is practically a civic duty.
 
 Here's a few things you can do:
 
@@ -277,7 +277,7 @@ And speaking of beer, Belgium is famous for it, and Brussels is the perfect plac
 
 ![Berlin cityscape with autumn leaves in November.](/imgs/europe/seasonal/nov-3.webp)
 
-Okay, so [Germany's Berlin](/germany/cities/berlin) in November might not be the first place that springs to mind when you're dreaming of a cozy getaway, but hear me out. It's got a certain _gritty charm_ that's hard to resist, especially if you're into history or just want something a bit different.
+Okay, so [Germany's Berlin](/germany/cities/berlin/) in November might not be the first place that springs to mind when you're dreaming of a cozy getaway, but hear me out. It's got a certain _gritty charm_ that's hard to resist, especially if you're into history or just want something a bit different.
 
 Think about it: the crowds have thinned out, the air is crisp, and you can actually get into places like the Reichstag without queuing for hours. Plus, there's a ton of indoor stuff to do if the weather gets a bit too Berlin-y.
 
@@ -293,7 +293,7 @@ Here's a few things you might enjoy:
 
 ## 18\. Geneva, Switzerland
 
-So, [looking at Geneva](/switzerland/cities/geneva) in November, good idea? It's not the first place that springs to mind for a sunny getaway, but hear me out. You might be surprised. The crowds have thinned out, which means you can actually enjoy the sights without battling hordes of tourists. Plus, there's a certain charm to the city when it's a bit quieter.
+So, [looking at Geneva](/switzerland/cities/geneva/) in November, good idea? It's not the first place that springs to mind for a sunny getaway, but hear me out. You might be surprised. The crowds have thinned out, which means you can actually enjoy the sights without battling hordes of tourists. Plus, there's a certain charm to the city when it's a bit quieter.
 
 One thing you'll definitely want to do is explore the Old Town. It's got this amazing, historical vibe, and wandering through the cobblestone streets is pretty cool. You can also check out the _Patek Philippe Museum_ if you're into watches – it's seriously impressive, even if you're not a watch person. And if you're up for it, consider taking one of the guided tours of the United Nations Office. It's a fascinating look into international politics.
 

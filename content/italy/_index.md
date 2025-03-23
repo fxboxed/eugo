@@ -10,7 +10,7 @@ type = 'countries'
 layout = 'cities'
 image = "/imgs/italy/thumbnail.webp"
 alt_txt = " Collage of Italy’s landmarks, food, and nightlife scenes."
-relcanonical = "https://eugo.uk/italy"
+relcanonical = "https://eugo.uk/italy/"
 +++
 
 ---

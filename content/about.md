@@ -6,6 +6,7 @@ tab = 'About'
 description = "About eugo.uk"
 author = ["eugo"]
 layout = "custom"
+relcanonical = "https://eugo.uk/about/"
 +++
 # About eugo.co.uk
 At Eugo.co.uk, we are dedicated to providing comprehensive and insightful information about the diverse and captivating tourism opportunities across Europe. Our mission is to inspire travellers by showcasing the rich cultural heritage, stunning landscapes, and unique experiences that each European destination has to offer.

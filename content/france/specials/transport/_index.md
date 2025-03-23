@@ -9,6 +9,7 @@ layout = 'targeted'
 batch = "Accessible Travel in France"
 image = "/imgs/france/trans-thumb.webp"
 alt_txt = "Tourists enjoying a lively street in France."
+relcanonical = "https://eugo.uk/france/specials/transport/"
 +++
 
 ## Accessible Travel in France

@@ -6,7 +6,7 @@ description = "Adventure holidays in Europe offer a remarkable opportunity to ex
 
 author = ["eugo"]
 tab = "Adventure"
-type = 'euro'
+type = "euro"
 layout = 'euro'
 batch = 'Adventure holidays in Europe'
 image = "/imgs/europe/adventure/adv-thumb.webp"

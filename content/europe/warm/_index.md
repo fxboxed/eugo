@@ -10,7 +10,7 @@ type = 'single'
 layout = 'single'
 image = "/imgs/europe/warm-thumb.webp"
 alt_txt = "Colorful spring landscape with travelers in a warm destination."
-relcanonical = "https://eugo.uk/europe/warm"
+relcanonical = "https://eugo.uk/europe/warm/"
 +++
 
 ## Warm European Destinations for April Travel
@@ -67,7 +67,7 @@ Plus, Barcelona is just a short drive away, so you can easily combine a beach va
 
 ### Charming Villages of Cinque Terre
 
-Cinque Terre, with its five colorful villages clinging to the Ligurian coastline, is another must-see destination in [Italy](/italy).
+Cinque Terre, with its five colorful villages clinging to the Ligurian coastline, is another must-see destination in [Italy](/italy/).
 
 Each village has its own unique character, but they're all connected by scenic hiking trails that offer breathtaking views of the sea.
 
@@ -89,7 +89,7 @@ Get ready to immerse yourself in history, art, and the vibrant energy of these a
 
 ### Historical Wonders of Athens
 
-Imagine yourself walking through the _ancient ruins_ of [Athens](/greece/cities/athens) under the warm April sun.
+Imagine yourself walking through the _ancient ruins_ of [Athens](/greece/cities/athens/) under the warm April sun.
 
 **The Acropolis is a must-see**, of course, but don't stop there.
 
@@ -100,7 +100,7 @@ You can easily spend days just wandering and discovering new things.
 ### Vibrant Streets of Seville
 
 Seville in April is something else entirely.
-[More about Spain](/spain)
+[More about Spain](/spain/)
 
 The city is alive with color and energy, especially if you happen to be there during Semana Santa (Holy Week).
 
@@ -182,7 +182,7 @@ The air is thick with incense, and the sound of saetas (flamenco-style religious
 
 It's an intense and moving experience, offering a glimpse into the heart of Andalusian culture.
 
-### Tulip Festival in the [Netherlands](/netherlands)
+### Tulip Festival in the [Netherlands](/netherlands/)
 
 Picture this: fields stretching as far as the eye can see, ablaze with color.
 
@@ -293,7 +293,7 @@ Just remember to pack layers, as the weather can be unpredictable in the mountai
 ### Cycling Through the Loire Valley
 
 The Loire Valley in France is famous for its châteaux, but it's also a fantastic place for cycling.
-[Discover more about France](/france)
+[Discover more about France](/france/)
 April is perfect for leisurely bike rides along the Loire River, stopping at charming villages and vineyards along the way.
 
 The landscape is relatively flat, making it suitable for all fitness levels.
@@ -430,7 +430,7 @@ And of course, no trip to Rome is complete without indulging in some gelato – 
 
 ### Outdoor Adventures in Cyprus
 
-[Cyprus is an island paradise](/cyprus) with plenty to offer families who love the outdoors.
+[Cyprus is an island paradise](/cyprus/) with plenty to offer families who love the outdoors.
 
 From exploring the Akamas Peninsula to swimming in the crystal-clear waters of the Mediterranean, there's something for everyone.
 
@@ -467,7 +467,7 @@ A light jacket is a must.
 
 ### Best Times to Visit Attractions
 
-April is a sweet spot for visiting [Europe](/) because it's before the peak summer crowds.
+April is a sweet spot for visiting [Europe](/europe/) because it's before the peak summer crowds.
 
 However, some attractions can still get busy, especially during Easter week.
 

@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/croatia/hvar-thumb.webp"
 alt_txt = "Couples and families enjoying the scenic beauty of Hvar."
-relcanonical = "https://eugo.uk/croatia/cities/hvar"
+relcanonical = "https://eugo.uk/croatia/cities/hvar/"
 +++
 ## Hvar Island Travel Guide
 
@@ -278,7 +278,7 @@ Whether it's choosing eco-tours, supporting local businesses, or respecting the 
 
 ## Day Trips and Excursions from Hvar Island
 
-![Scenic view of Hvar Island's beautiful landscape.](/imgs/croatia/hvar-cove.webp)
+![Scenic view of Hvar Island's beautiful landscape.](/imgs/croatia/hv-6.webp)
 
 ### Visiting Neighboring Islands
 

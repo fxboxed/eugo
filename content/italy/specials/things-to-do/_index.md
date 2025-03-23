@@ -13,7 +13,7 @@ relcanonical = "https://eugo.uk/italy/specials/things-to-do/"
 +++
 ## Top Italian Attractions
 
-[Italy](/italy) is a dream destination for many travelers, and it's easy to see why.
+[Italy](/italy/) is a dream destination for many travelers, and it's easy to see why.
 
 With its rich history, stunning landscapes, and mouth-watering cuisine, there's no shortage of amazing experiences to be had.
 
@@ -63,7 +63,7 @@ And of course, no trip to Florence is complete without indulging in some delicio
 
 ### Discover the Canals of Venice
 
-[Venice, the Floating City](/italy/cities/venice), is unlike any other place on earth.
+[Venice, the Floating City](/italy/cities/venice/), is unlike any other place on earth.
 
 Getting lost in its maze of canals and bridges is part of the fun.
 

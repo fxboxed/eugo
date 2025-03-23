@@ -6,8 +6,14 @@
     <link rel="stylesheet" href="/css/main.css">
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}" />
-    <meta name="og:description" content="{{ .Params.description }}" />
+    <meta property="og:description" content="{{ .Params.description }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+  
+
     <meta name="description" content="{{ .Params.description }}" />
+    
     
     {{/*  <meta name="google-adsense-account" content="ca-pub-5969503339690563">  */}}
 

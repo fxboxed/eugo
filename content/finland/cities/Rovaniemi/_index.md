@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/finland/rov-thumb.webp"
 alt_txt = "Winter landscape of Rovaniemi with cozy cabin and snow."
-relcanonical = "https://eugo.uk/finland/cities/rovaniemi"
+relcanonical = "https://eugo.uk/finland/cities/rovaniemi/"
 +++
 ## Rovaniemi: A Comprehensive Travel Guide
 

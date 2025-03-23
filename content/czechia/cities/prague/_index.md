@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/czechia/prague-thumb.webp"
 alt_txt = "Couples and families enjoying scenic views in Prague"
-relcanonical = "https://eugo.uk/czechia/cities/prague"
+relcanonical = "https://eugo.uk/czechia/cities/prague/"
 +++
 ## Prague Attractions for All Ages
 

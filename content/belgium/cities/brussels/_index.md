@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/belgium/brussels-thumb.webp"
 alt_txt = ""
-relcanonical = "https://uego.uk/belgium/cities/brussels"
+relcanonical = "https://uego.uk/belgium/cities/brussels/"
 +++
 ## Brussels Travel Guide for All Ages
 
@@ -101,7 +101,7 @@ Walk under the iconic archway, sit by the fountains, or even bring along a small
 
 ## Family-Friendly Attractions in Brussels
 
-![Families enjoying attractions in Brussels with joy and laughter.](/imgs/belgium/brussels-cartoon.webp)
+![Families enjoying attractions in Brussels with joy and laughter.](/imgs/belgium/br-2.webp)
 
 ### Interactive Exhibits at the Atomium
 

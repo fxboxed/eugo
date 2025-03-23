@@ -9,7 +9,7 @@ layout = 'single'
 batch = 'Top European Bike Tours for Seniors'
 image = "/imgs/europe/adventure/bks-thumb.webp"
 alt_txt = "Seniors enjoying a scenic bike tour in Europe."
-relcanonical = "https://eugo.uk/europe/adventure/biking-for-seniors"
+relcanonical = "https://eugo.uk/europe/adventure/biking-for-seniors/"
 +++
 
 ## Top European Bike Tours for Seniors
@@ -163,7 +163,7 @@ Packing light is an art form, but it's essential for a bike tour. You don't want
 
 ## Cultural Highlights Along the Routes
 
-![Seniors biking through scenic European landscapes and villages.](/europe/imgs/adventure/bks-2.webp)
+![Seniors biking through scenic European landscapes and villages.](/imgs/europe/adventure/bks-2.webp)
 
 European bike tours aren't just about the scenery; they're a fantastic way to soak up the local culture. You'll find yourself immersed in traditions, history, and flavors that you just can't experience from a tour bus. It's about connecting with the heart of Europe, one pedal stroke at a time.
 

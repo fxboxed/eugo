@@ -8,7 +8,7 @@ author = ["eugo"]
 tab = "Netherlands"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/netherlands/thumbnail.jpeg"
+image = "/imgs/netherlands/thumbnail.webp"
 alt_txt = "Colorful collage of Dutch landscapes, food, and nightlife."
 relcanonical = "https://eugo.uk/netherlands/"
 +++
@@ -107,7 +107,7 @@ Stroll along Leiden's beautiful tree-lined canals. These waterways are perfect f
 
 ### Vibrant Street Markets
 
-Don't miss the lively [Leiden Street Market](#055b). Held twice a week, this market is a feast for the senses. You can find everything from fresh produce to unique local crafts. It’s a great spot to grab a bite and soak up the local culture.
+Don't miss the lively Leiden Street Market. Held twice a week, this market is a feast for the senses. You can find everything from fresh produce to unique local crafts. It’s a great spot to grab a bite and soak up the local culture.
 
 ### Nightlife and Culture
 
@@ -117,7 +117,7 @@ Thanks to its large student population, Leiden has a vibrant nightlife scene. Wh
 
 ### Walking Tours
 
-Explore the city on foot with engaging [walking tours](#055b). These tours can take you through the historic center, where you'll learn about Leiden's fascinating past and its connection to famous figures like Rembrandt.
+Explore the city on foot with engaging walking tours. These tours can take you through the historic center, where you'll learn about Leiden's fascinating past and its connection to famous figures like Rembrandt.
 
 In Leiden, every street tells a story, and every corner has something new to discover. Whether you're a history buff, a foodie, or just someone looking to enjoy a beautiful city, Leiden won't disappoint.
 
@@ -169,7 +169,7 @@ Standing tall in the heart of the city, the Dom Tower offers breathtaking views 
 
 ### Discover Museum Speelklok
 
-For something truly unique, head to the [Museum Speelklok](#d4f6), where you can find a fascinating collection of self-playing musical instruments. It's a delightful experience for all ages, offering a glimpse into the world of automated music.
+For something truly unique, head to the Museum Speelklok, where you can find a fascinating collection of self-playing musical instruments. It's a delightful experience for all ages, offering a glimpse into the world of automated music.
 
 ### Enjoy the Local Food Scene
 
@@ -215,7 +215,7 @@ So, pack your bags and set off to explore the magic of Rotterdam!
 
 ## 7\. Maastricht
 
-![Old building in Maastricht](/imgs/netherlands/maastricht-319706_640.jpg)
+![Old building in Maastricht](/imgs/netherlands/maastricht-319706_640.webp)
 
 Nestled in the southern part of the Netherlands, Maastricht is a city that beautifully marries the old with the new. As you stroll through its streets, you'll be surrounded by [medieval architecture](https://www.tripadvisor.com/Attractions-g188575-Activities-Maastricht_Limburg_Province.html), like the Basilica of Saint Servatius and the Helpoort, the oldest city gate in the Netherlands.
 
@@ -241,11 +241,9 @@ Maastricht is a haven for foodies. With its array of Michelin-starred restaurant
 
 Thanks to its strategic location, Maastricht serves as a perfect base for exploring nearby Belgium, France, and Germany. In just a short drive, you can find yourself in the charming streets of Bruges or the bustling city of Cologne. This makes Maastricht not just a destination, but a gateway to more adventures.
 
----
-
 ## 8\. Kinderdijk
 
-![Three windmills in a field](/imgs/netherlands/windmill-1309192_640.jpg)
+![Three windmills in a field](/imgs/netherlands/windmill-1309192_640.webp)
 
 Kinderdijk is a must-see for anyone visiting the Netherlands. It's not just about the _windmills_ here, though they are the stars of the show. This place is one of those spots where you can really feel like you've stepped back in time. 
 
@@ -298,7 +296,7 @@ For art lovers, the [Van Gogh Museum](https://www.tripadvisor.com/Attraction_Rev
 
 ## 10\. Rijksmuseum
 
-![Group of people looking at four paintings in the Rijksmuseum, Amsterdam](/imgs/netherlands/amsterdam-4825124_640.jpg)
+![Group of people looking at four paintings in the Rijksmuseum, Amsterdam](/imgs/netherlands/amsterdam-4825124_640.webp)
 
 The Rijksmuseum in Amsterdam is a must-see for anyone interested in art and history. This grand museum is home to a vast collection of Dutch masterpieces, showcasing the brilliance of artists like Rembrandt and Vermeer. 
 

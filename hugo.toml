@@ -1,9 +1,10 @@
 baseURL = 'https://eugo.uk/'
 languageCode = 'en-us'
 title = 'eugo travel'
+
 theme = 'eugo-theme'
 enableRobotsTXT = "true"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [params]
   canonicalUrl = 'https://eugo.uk/'
@@ -16,3 +17,27 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [markup.goldmark.renderer]
   unsafe = true 
+
+[[menu.main]]
+    name = "Some of the reasons people visit Europe"
+    weight = -12
+    url = "/europe"
+    [[menu.main.params]]
+      image = "/imgs/europe/places-4.webp"
+      heading= "Features"
+
+[[menu.main]]
+    name = "See what's happening throughout the year"
+    weight = -10
+    url = "/europe/seasonal"
+    [[menu.main.params]]
+      image = "/imgs/europe/seasonal/jan-thumb.webp"
+      heading ="Month by Month"   
+
+[[menu.main]]
+    name = "Activities to suit all. From skiing to scuba diving"
+    weight = -11
+    url = "/europe/adventure"
+    [[menu.main.params]]
+      image = "/imgs/europe/adventure/adv-thumb.webp"
+      heading = "Fun for All"

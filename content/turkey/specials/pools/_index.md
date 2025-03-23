@@ -29,7 +29,7 @@ In this article, we'll explore the best infinity pools in Turkey that promise a 
 *   Many resorts include all-inclusive options for a hassle-free vacation.
 *   From family-friendly spots to romantic hideaways, there's something for everyone.
 
-[water sports in Turkey](/turkey/specials/water)
+[water sports in Turkey](/turkey/specials/water/)
 
 ## 1\. The Birdcage 33 Hotel
 

@@ -6,7 +6,7 @@ draft = false
 type = 'cities'
 layout = 'cities'
 image = "/imgs/cyprus/ayia-napa-thumb.webp"
-relcanonical = "https://eugo.uk/cyprus/cities/ayia-napa"
+relcanonical = "https://eugo.uk/cyprus/cities/ayia-napa/"
 alt_txt = ""
 +++
 ## Ayia Napa: Nightlife and Activities Guide

@@ -9,7 +9,7 @@ layout = 'targeted'
 batch = "Luxurious Infinity Pools in France"
 image = "/imgs/france/pools-thumb.webp"
 alt_txt = "Infinity pool with scenic French countryside view."
-relcanonical = "https://eugo.uk/france/specials/pools"
+relcanonical = "https://eugo.uk/france/specials/pools/"
 +++
 
 ## Luxurious Infinity Pools in France

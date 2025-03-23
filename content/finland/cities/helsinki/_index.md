@@ -9,7 +9,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/finland/hel-thumb.webp"
 alt_txt = " Couple enjoying a scenic view of Helsinki's waterfront."
-relcanonical = "https://eugo.uk/finland/cities/helsinki"
+relcanonical = "https://eugo.uk/finland/cities/helsinki/"
 +++
 ## Helsinki Attractions for All Ages
 
@@ -123,7 +123,7 @@ Pack a snack, hop on a bike, and enjoy the freedom of exploring nature at your o
 
 ## Shopping and Souvenirs in Helsinki
 
-![Colorful shops and happy shoppers in Helsinki.](/imgs/europe/shoppers.webp)
+![Colorful shops and happy shoppers in Helsinki.](/imgs/finland/shoppers.webp)
 ### Browsing the Old Market Hall
 
 The Old Market Hall is _the_ place to experience Helsinki’s food culture. Here, you’ll find everything from fresh seafood to locally-made cheeses and baked goods. 

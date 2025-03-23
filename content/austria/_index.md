@@ -186,8 +186,7 @@ Here are some top attractions you shouldn't miss:
 
 ## Bregenz: Cultural Delights by Lake Constance
 
-![Scenic view of Bregenz by Lake Constance.](/imgs/austria/austria-2.webp
-)
+![Scenic view of Bregenz by Lake Constance.](/imgs/austria/austria-2.webp)
 
 
 When you think of Bregenz, the Bregenz Festival should be at the top of your list. It's a spectacular event that draws people from all over the world. Held every summer, the festival features grand opera performances on a floating stage right on Lake Constance. 

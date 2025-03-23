@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/denmark/oden-thumb.webp"
 alt_txt = "Nightlife activities in Odense for all ages."
-relcanonical = "https://eugo.uk/denmark/cities/odense"
+relcanonical = "https://eugo.uk/denmark/cities/odense/"
 +++
 ## Odense Nightlife for All Ages 2025
 

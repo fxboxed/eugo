@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/portugal/vil-thumb.webp"
 alt_txt = "Romantic outdoor table, family enjoying coastal seafood in vibrant setting."
-relcanonical = "https://eugo.uk/portugal/cities/lagos/vila-nova-de-milfontes"
+relcanonical = "https://eugo.uk/portugal/cities/lagos/vila-nova-de-milfontes/"
 +++
 ## Culinary and Family Activities in Vila Nova
 
@@ -146,7 +146,7 @@ Remember to tread lightly and respect the environment—it’s a shared space fo
 
 ## Hidden Beaches and Secluded Spots
 
-![Coastal beach, turquoise sea, outdoor dining, greenery, family activity spot.](.imgs/portugal.webp)
+![Coastal beach, turquoise sea, outdoor dining, greenery, family activity spot.](/imgs/portugal/vil-beach.webp)
 
 ### Discovering Praia do Patacho
 
@@ -176,7 +176,7 @@ Exploring hidden beaches can be an incredible experience, but safety should alwa
 
 ## Romantic Sunset Spots in Vila Nova de Milfontes
 
-![Seaside sunset with charming outdoor dining and joyful family silhouettes.](/imgs/portugal.webp)
+![Seaside sunset with charming outdoor dining and joyful family silhouettes.](/imgs/portugal/vil-sunset.webp)
 
 ### Sunset at the Lighthouse
 

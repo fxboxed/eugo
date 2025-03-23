@@ -10,6 +10,7 @@ layout = 'single'
 batch = 'Top European Destinations for September Travel'
 image = "/imgs/europe/seasonal/sep-thumb.webp"
 alt_txt = ""
+relcanonical = "https://eugo.uk/europe/seasonal/sep/"
 +++
 ## Top European Destinations for September Travel
 

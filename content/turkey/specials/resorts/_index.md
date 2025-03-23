@@ -30,7 +30,7 @@ Let's dive into some of the top destinations along the Turkish Riviera and disco
 *   Planning your visit during the off-peak season can lead to a more relaxed experience and better deals.
 *   Transportation options along the coast make it easy to explore different areas with your family.
 
-[Not sure how to get around?](/turkey/specials/transport)
+[Not sure how to get around?](/turkey/specials/transport/)
 
 ## Exploring The Turkish Riviera
 
@@ -62,7 +62,7 @@ Each of these destinations has its own unique charm and attractions, so you can 
 
 _Consider what kind of vacation you want_ – relaxing, adventurous, or a mix of both – when making your decision.
 
-[Take a look at some of the best beaches in Turkey](/turkey/specials/beaches)
+[Take a look at some of the best beaches in Turkey](/turkey/specials/beaches/)
 
 ### Activities For Families
 
@@ -192,7 +192,7 @@ Fethiye is close to some amazing natural spots.
 
 _Ölüdeniz_, with its famous blue lagoon, is a must-see.
 
-You can relax on the beach, swim in the clear waters, or[ try paragliding](/turkey/specials/water) off Babadağ mountain for a breathtaking view.
+You can relax on the beach, swim in the clear waters, or[ try paragliding](/turkey/specials/water/) off Babadağ mountain for a breathtaking view.
 
 Butterfly Valley is another gem, a secluded beach at the end of a steep gorge, known for its diverse butterfly species.
 

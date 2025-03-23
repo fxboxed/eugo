@@ -9,7 +9,7 @@ layout = 'cities'
 
 image = "/imgs/france/ly-thumb.webp"
 alt_txt = " Lyon street scene with cafes and local cuisine."
-relcanonical = "https://eugo.uk/france/cities/lyon"
+relcanonical = "https://eugo.uk/france/cities/lyon/"
 +++
 ## Lyon: A Comprehensive Travel Guide
 

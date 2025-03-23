@@ -9,7 +9,7 @@ layout = 'cities'
 
 image = "/imgs/ireland/don-thumb.webp"
 alt_txt = "Scenic Donegal coastline with green hills and sunset."
-relcanonical = "https://eugo.uk/ireland/cities/donagal"
+relcanonical = "https://eugo.uk/ireland/cities/donagal/"
 +++
 ## Donegal: History, Culture, and Cuisine
 

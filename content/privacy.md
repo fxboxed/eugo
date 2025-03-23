@@ -6,6 +6,7 @@ tab = 'Privacy'
 description = "eugo.uk privacy policy"
 author = ["eugo"]
 layout = "custom"
+relcanonical = "https://eugo.uk/privacy/"
 +++
 
 

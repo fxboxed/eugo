@@ -8,7 +8,7 @@ author = ["eugo"]
 tab = "Portugal"
 type = 'countries'
 layout = 'cities'
-image = "/imgs/portugal/thumbnail.jpeg"
+image = "/imgs/portugal/thumbnail.webp"
 alt_txt = " Colorful landscapes and cuisine of popular tourist spots in Portugal"
 relcanonical = "https://eugo.uk/portugal/"
 +++
@@ -312,7 +312,7 @@ With its rich history, stunning landscapes, and warm hospitality, Viana do Caste
 
 ## 10\. Nazaré
 
-![Nazaré beach with surfers and colorful umbrellas.](/imgs/portugal/cove/webp)
+![Nazaré beach with surfers and colorful umbrellas.](/imgs/portugal/cove.webp)
 
 Nazaré, a charming coastal town in Portugal, is well-known for its gigantic waves and vibrant beach town vibe. **It's a must-visit for thrill-seekers and those who appreciate a good beach day.**
 

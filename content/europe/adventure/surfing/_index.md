@@ -9,7 +9,7 @@ layout = 'single'
 batch = 'Surfing Europe: Top Spots for 2025'
 image = "/imgs/europe/adventure/srf-thumb.webp"
 alt_txt = "Surfers riding waves on a beautiful European beach."
-relcanonical = "https://eugo.uk/europe/adventure/surfing"
+relcanonical = "https://eugo.uk/europe/adventure/surfing/"
 +++
 
 If you're looking for the best surfing in Europe, you've hit the jackpot. From the sunny beaches of Spain to the rugged coasts of Ireland, Europe has a ton of amazing spots for surfers of all levels. Whether you're just starting out or you're a seasoned pro, there's something here for everyone. In this article, we’ll explore some of the top surfing destinations across the continent for 2025, highlighting the waves and hidden gems that make each location special.

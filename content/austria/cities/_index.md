@@ -1,12 +1,10 @@
 +++
 draft = false
-title = 'the best European Countries to visit throughout the seasons'
-description = ""
+title = 'Explore Austria: Top Cities Every Tourist Must Visit'
+description = "Discover Austria's charm! From Vienna's imperial elegance to Salzburg's musical heritage, explore the top cities that every tourist must visit. Uncover hidden gems and create unforgettable memories!"
 author = ["eugo"]
-tab = "Cities"
+tab = "Austria: Cities"
 type = 'euro'
 layout = 'euro'
-image = ""
-alt_txt = ""
 relcanonical = "https://uego.uk/austria/cities/"
 +++

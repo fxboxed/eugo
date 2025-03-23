@@ -27,8 +27,34 @@
     <img class="banner-item" src="{{.Params.image}}" alt="{{.Params.alt_txt}}">
     {{ .Content }}
   </div>
-  <div class="aside">
+  <div class="-home-aside">
+    <h3>More on what Europe has to offer</h3>
+    
+       {{ partial "menu_include.html" . }} 
+       {{/*  <p>{{.Params.description}} </p>  */}}
+    </ul>
 
+
+    {{/*  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+
+    {{- range site.Menus.main }}
+    <a href="{{ .URL }}">
+      {{ .Name }}
+      {{- with .Page }}
+        {{- with .Params.version -}}
+          ({{ . }})
+        {{- end }}
+      {{- end }}
+    </a>
+  {{- end }}  */}}
+
+    {{/*  {{ range where .Data.Pages "Type" "euro"   }}
+
+      <a href="{{ .RelPermalink }}" class="country-links ">{{ .Params.title }}</a>
+
+      <p>{{.Params.description}}</p>
+    {{ end }}
+    <a href="/europe/seasonal">seasonal</a>  */}}
   </div>
 </div>
 {{end}}

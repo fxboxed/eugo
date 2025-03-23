@@ -10,7 +10,7 @@ batch = 'Top European Scuba Diving Destinations for all ages'
 
 image = "/imgs/europe/adventure/sd-thumb.webp"
 alt_txt = "Scuba diver exploring colorful coral reefs underwater."
-relcanonical = "https://eugo.uk/europe/adventure/scuba-diving"
+relcanonical = "https://eugo.uk/europe/adventure/scuba-diving/"
 +++
 
 ## Top European Scuba Diving Destinations

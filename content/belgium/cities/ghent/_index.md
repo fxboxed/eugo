@@ -8,7 +8,7 @@ type = 'cities'
 layout = 'cities'
 image = "/imgs/belgium/gh-thumb.webp"
 alt_txt = "Couples dining outdoors in a beautiful Ghent setting."
-relcanonical = "https://uego.uk/belgium/cities/ghent"
+relcanonical = "https://uego.uk/belgium/cities/ghent/"
 +++
 ## Culinary and Cultural Exploration in Ghent
 

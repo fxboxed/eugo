@@ -1,11 +1,12 @@
 +++
-title = "6. Exploring Europe: A Tourist's Treasure Trove"
+title = "Exploring Europe: A Tourist's Treasure Trove"
 date = '2025-02-07T09:36:21Z'
 draft = false
 description = "Each European country offers its unique blend of cuisine, culture, and tourist attractions, making it an ideal destination for various types of vacation."
 author = ["eugo"]
 tab = 'Home'
-#layout = "custom"
+type = 'home'
+layout = "custom"
 image = "/imgs/europe/landmarks.webp"
 alt_txt = " Collage of people wearing traditional European dresses"
 
@@ -16,8 +17,8 @@ relcanonical = "https://uego.uk/"
 
 ## Why visit Europe?
 
-[Europe's best and biggest](/europe/)<br><br>
-[Seasonal travel in Europe](/europe/seasonal)<br><br>
+[Europe's best and biggest](/europe/)<br>
+[Seasonal travel in Europe](/europe/seasonal/)<br><br>
 
 Europe is like a big playground for travellers. 
 
@@ -116,8 +117,6 @@ Whether it's the colorful Carnival in Venice or the lively Oktoberfest in Munich
 
 Exploring Europe's cultural rich cities like Venice, Paris, and Barcelona can provide a unique blend of historical and artistic experiences, making each visit a journey through time and creativity.
 
----
-
 ## Natural Wonders Await
 
 ### Exploring Europe's National Parks
@@ -140,7 +139,7 @@ And let's not forget the Cinque Terre trails in Italy, where you can walk betwee
 
 ### Breathtaking Coastal Views
 
-Europe's coastline is nothing short of spectacular. 
+Europe's coastline is nothing short of spectacular.
 
 Whether it's the dramatic cliffs of the Amalfi Coast or the serene beaches of the Algarve, there's something for everyone. 
 
@@ -191,8 +190,6 @@ Sip on a robust red in the Douro Valley or a crisp white in the Rhine region, an
 For those looking to dive deeper into the culinary scene, consider joining a [food tour](https://www.eatingeurope.com/) with Eating Europe, where experts guide you through local dining spots while sharing fascinating stories behind each dish. 
 
 Whether you're a seasoned gourmand or a curious traveler, Europe's culinary landscape promises an unforgettable adventure.
-
----
 
 ## Art and Architecture: A European Journey
 
@@ -249,8 +246,6 @@ Volunteering is a unique way to see Europe while giving back. It connects you wi
 *   Participate in cultural exchange programs to learn and share knowledge.
 
 > Traveling sustainably is about making conscious choices that benefit the environment and the people who live in the places you visit. It's about leaving a positive footprint wherever you go.
-
----
 
 ## Seasonal Highlights and Events
 
