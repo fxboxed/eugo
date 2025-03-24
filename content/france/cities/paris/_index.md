@@ -6,6 +6,7 @@ draft = false
 tab ='Paris'
 type = 'cities'
 layout = 'cities'
+batch = "A tourist's guide to Paris"
 image = "/imgs/france/par-thumb.webp"
 alt_txt = " Couple having a picnic near the Eiffel Tower."
 relcanonical = "https://eugo.uk/france/cities/paris/"

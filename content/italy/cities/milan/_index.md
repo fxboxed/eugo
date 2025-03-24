@@ -6,6 +6,7 @@ draft = false
 tab ='Milan'
 type = 'cities'
 layout = 'cities'
+batch = "Milan: what to see and do"
 image = "/imgs/italy/mi-thumb.webp"
 alt_txt = "Collage of Milan's landmarks and local cuisine."
 relcanonical = "https://eugo.uk/italy/cities/milan/"

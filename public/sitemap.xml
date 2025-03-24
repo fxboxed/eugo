@@ -116,10 +116,19 @@
     <loc>https://eugo.uk/turkey/specials/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/greece/cities/mykonos/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/europe/best-spots/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/france/specials/historical/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/greece/cities/crete/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/italy/cities/naples/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/europe/seasonal/jan/</loc>
@@ -159,6 +168,9 @@
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/spain/cities/malaga/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/spain/cities/palma-de-mallorca/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/portugal/cities/</loc>
@@ -218,6 +230,9 @@
     <loc>https://eugo.uk/poland/cities/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/greece/cities/nafplio/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/italy/specials/beaches/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
@@ -236,7 +251,13 @@
     <loc>https://eugo.uk/turkey/cities/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/spain/cities/ibiza/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/portugal/cities/lisbon/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/spain/cities/las-palmas-de-gran-canaria/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/austria/cities/saltzburg/</loc>
@@ -305,7 +326,7 @@
     <loc>https://eugo.uk/netherlands/cities/amsterdam/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://eugo.uk/turkey/cities/ntalya/</loc>
+    <loc>https://eugo.uk/turkey/cities/antalya/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/greece/cities/athens/</loc>
@@ -503,7 +524,13 @@
     <loc>https://eugo.uk/austria/cities/hallstatt/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/turkey/cities/bodrum/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/france/cities/strasbourg/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/italy/cities/florence/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/france/cities/marseille/</loc>
@@ -527,7 +554,16 @@
     <loc>https://eugo.uk/spain/specials/cultural/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/turkey/cities/marmaris/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/turkey/cities/ankara/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/austria/cities/wachau-valley/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/italy/cities/pisa/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/austria/cities/innsbruck/</loc>

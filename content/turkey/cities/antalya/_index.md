@@ -3,12 +3,13 @@ title = 'Exploring Antalya: A Guide to Nightlife, Local Cuisine, and Must-Do Act
 description = "Explore Antalya's nightlife, local cuisine, and activities for couples, families, and retirees in this guide."
 date = 2023-01-01T08:00:00-07:00
 draft = false
-tab ='Ntalya'
+tab ='antalya'
+batch ="Why holiday makers flock to Antalya"
 type = 'cities'
 layout = 'cities'
 image = "/imgs/turkey/nt-thumb.webp"
 alt_txt = "Dusky Antalya harbor with lively cafes and colorful Mediterranean architecture."
-relcanonical = "https://eugo.uk/turkey/cities/ntalya/"
+relcanonical = "https://eugo.uk/turkey/cities/antalya/"
 +++
 ## Antalya: Nightlife, Cuisine, and Activities Guide
 

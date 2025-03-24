@@ -6,6 +6,7 @@ draft = false
 tab ='Venice'
 type = 'cities'
 layout = 'cities'
+batch = "A tourist's guide to exploring Venice"
 image = "/imgs/italy/venice-thumb.webp"
 alt_txt = "Gondola ride in Venice during a picturesque sunset."
 relcanonical = "https://eugo.uk/italy/cities/venice/"

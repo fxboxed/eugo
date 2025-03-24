@@ -33,7 +33,7 @@ From the ancient vibes of Athens to the party scenes in Mykonos, and the picture
 
 ![Nighttime view of Athens with illuminated ancient ruins.](/imgs/greece/ruins.webp)
 
-Welcome to Athens, a city where ancient history meets modern life. This place is more than just a stopover; it's a vibrant blend of old and new, where every corner tells a story.
+[Welcome to Athens](/greece/athens/), a city where ancient history meets modern life. This place is more than just a stopover; it's a vibrant blend of old and new, where every corner tells a story.
 
 ### Nightlife
 
@@ -64,7 +64,7 @@ The markets in Athens are bustling with life. Monastiraki Flea Market offers eve
 
 ![Mykonos at dusk](/imgs/greece/mykonos-17156_640.webp)
 
-Mykonos is like the party hub of Greece. It's buzzing with energy and a favorite spot for those who love to dance the night away. But that's not all this island offers.
+[Mykonos is like the party hub of Greece](/greece/cities/mykonos/). It's buzzing with energy and a favorite spot for those who love to dance the night away. But that's not all this island offers.
 
 ### Nightlife
 
@@ -130,7 +130,7 @@ For a taste of local life, visit one of Santorini's bustling markets. Here, you 
 
 ![Beach in Crete with sunbathers and clear blue skies.](/imgs/greece/beach.webp)
 
-Crete is the largest of the Greek islands, offering a mix of history, culture, and natural beauty. **It's a place where ancient history meets modern charm.** 
+[Crete](/greece/cities/crete/) is the largest of the Greek islands, offering a mix of history, culture, and natural beauty. **It's a place where ancient history meets modern charm.** 
 
 Whether you're hiking the rugged trails of Samaria Gorge or lounging on the soft sands of Elafonissi Beach, Crete has something for everyone.
 
@@ -164,7 +164,7 @@ Whether you're a history buff, a foodie, or a beach lover, Crete promises an unf
 g
 ![Nafplio old town at sunset with colorful buildings.](/imgs/greece/town.webp)
 
-Nafplio, a picturesque coastal town in the Peloponnese, is known for its romantic charm and rich history. As Greece's first capital, it offers a blend of neoclassical architecture and cultural significance. **It's a place where cobblestone streets meet the azure sea, creating a perfect backdrop for exploration.**
+[Nafplio, a picturesque coastal town in the Peloponnese](/greece/cities/nafplio/), is known for its romantic charm and rich history. As Greece's first capital, it offers a blend of neoclassical architecture and cultural significance. **It's a place where cobblestone streets meet the azure sea, creating a perfect backdrop for exploration.**
 
 ### Nightlife
 
@@ -326,7 +326,7 @@ For a taste of local life, visit the bustling markets in Zakynthos Town. Here, y
 
 ![Corfu beach](/imgs/greece/greece-4713035_640.webp)
 
-Welcome to Corfu, often called the "Emerald Isle" for its lush landscapes and stunning coastline. This island is a perfect blend of relaxation and adventure, offering something for everyone.
+[Welcome to Corfu](greece/cities/corfu/), often called the "Emerald Isle" for its lush landscapes and stunning coastline. This island is a perfect blend of relaxation and adventure, offering something for everyone.
 
 ### Nightlife
 

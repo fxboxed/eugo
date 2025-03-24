@@ -4,6 +4,7 @@ description = "Discover Izmir's location, climate, and activities for couples, f
 date = 2023-01-01T08:00:00-07:00
 draft = false
 tab ='Izmir'
+batch ="Top reasons for visiting Izmir"
 type = 'cities'
 layout = 'cities'
 image = "/imgs/turkey/iz-thumb.webp"

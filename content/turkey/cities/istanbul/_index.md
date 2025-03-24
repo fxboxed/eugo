@@ -4,6 +4,7 @@ description = "Discover Istanbul's cuisine, attractions, and activities for coup
 date = 2023-01-01T08:00:00-07:00
 draft = false
 tab ='Istambul'
+batch ="What attracts tourists to Istambul?"
 type = 'cities'
 layout = 'cities'
 image = "/imgs/turkey/ist-thumb.webp"

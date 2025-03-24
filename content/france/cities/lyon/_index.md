@@ -4,6 +4,7 @@ description = "Explore Lyon's cuisine, climate, and activities for couples, fami
 date = 2023-01-01T08:00:00-07:00
 draft = false
 tab ='Lyon'
+Batch = "The best reasons for visiting Lyon"
 type = 'cities'
 layout = 'cities'
 

@@ -198,7 +198,7 @@ Turkey is a treasure trove of history and natural beauty, combining ancient wond
 
 ### Discover the Vibrant Nightlife in Turkey
 
-When the sun sets in Turkey, the cities come alive with a different kind of energy. Whether you're in the bustling streets of Istanbul or the coastal city of Antalya, the nightlife here is something you shouldn't miss. 
+When the sun sets in Turkey, the cities come alive with a different kind of energy. Whether you're in the bustling streets of [Istanbul](/turkey/cities/istambul/) or the c[oastal city of Antalya](/turkey/cities/antalya), the nightlife here is something you shouldn't miss. 
 
 **Turkey's nightlife is an eclectic mix of traditional and modern experiences.**
 
@@ -220,7 +220,7 @@ If dancing is more your style, Turkey's nightclubs won't disappoint. Popular spo
 
 ### Festivals and Street Parties
 
-Throughout the year, various cities host festivals that light up the night. From music festivals in Izmir to street parties in Ankara, there's always something happening. 
+Throughout the year, various cities host festivals that light up the night. From music festivals in [Izmir](/turkey/cities/izmir) to street parties in Ankara, there's always something happening. 
 
 These events are a great way to mingle with locals and experience the vibrant culture firsthand.
 

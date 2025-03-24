@@ -6,6 +6,7 @@ draft = false
 tab ='Barcelona'
 type = 'cities'
 layout = 'cities'
+batch = "Top reasons for visiting barcelona"
 image = "/imgs/spain/bar-thumb.webp"
 alt_txt = "Sunny Barcelona street with traditional architecture and lively public squares."
 relcanonical = "https://eugo.uk/spain/cities/barcelona/"

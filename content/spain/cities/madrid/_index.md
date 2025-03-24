@@ -1,9 +1,10 @@
 +++
-title = 'Exploring Madrid: Top Activities and Most Popular Attractions for Couples, Families, and Retirees in 2025'
+title = "Exploring Madrid: Top Activities and Most Popular Attractions for Couples, Families, and Retirees in 2025"
 description = "Discover Madrid's top activities and attractions for couples, families, and retirees in 2025."
 date = 2023-01-01T08:00:00-07:00
 draft = false
 tab ='Madrid'
+batch = "Reasons to make Madrid yuor holiday destination"
 type = 'cities'
 layout = 'cities'
 

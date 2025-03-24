@@ -6,6 +6,7 @@ draft = false
 tab ='Rome'
 type = 'cities'
 layout = 'cities'
+batch = "Top reasons for visiting Rome"
 image = "/imgs/italy/rome-thumb.webp"
 alt_txt = "Scenic view of Rome with couples and landmarks."
 relcanonical = "https://eugo.uk/italy/cities/rome/"

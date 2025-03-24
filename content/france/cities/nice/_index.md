@@ -6,6 +6,7 @@ draft = false
 tab ='Nice'
 type = 'cities'
 layout = 'cities'
+batch = "Vacationing in Nice: a tourist's guide"
 image = "/imgs/france/ni-thumb.webp"
 alt_txt = "Couples and families dining by the seaside in Nice."
 relcanonical = "https://eugo.uk/france/cities/nice/"
