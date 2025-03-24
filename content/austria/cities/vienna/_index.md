@@ -6,6 +6,7 @@ draft = false
 tab ='Vienna'
 type = 'cities'
 layout = 'cities'
+batch = "Enjoy the best Vienna has to offer"
 image = "/imgs/austria/vienna-thumb.webp"
 alt_txt = "Couples enjoying a beautiful sunset in Vienna."
 relcanonical = "https://uego.uk/austria/cities/vienna/"

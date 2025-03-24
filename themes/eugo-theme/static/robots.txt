@@ -2,7 +2,4 @@ User-agent: *
 Allow: /ads.txt
 Disallow: /ads
 
-{{ range where .Data.Pages "Params.robotsdisallow" true }}
-Disallow: {{ .RelPermalink }}
-{{ end }}
 

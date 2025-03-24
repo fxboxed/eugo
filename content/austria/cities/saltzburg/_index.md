@@ -6,8 +6,9 @@ draft = false
 tab ='Saltzburg'
 type = 'cities'
 layout = 'cities'
+batch = "Aguide to helping tourists enjoy Saltzburg"
 
-image = "/imgs/austria/saltzburg-thumb.webp"
+image = "/imgs/austria/sg-thumb.webp"
 alt_txt = " Salzburg skyline with mountains and historic architecture."
 relcanonical = "https://uego.uk/austria/cities/salzburg/"
 +++
