@@ -6,11 +6,11 @@ draft = false
 tab ='Vila Nova'
 type = 'cities'
 layout = 'cities'
+batch = "Culinary and Family Activities in Vila Nova" 
 image = "/imgs/portugal/vil-thumb.webp"
 alt_txt = "Romantic outdoor table, family enjoying coastal seafood in vibrant setting."
 relcanonical = "https://eugo.uk/portugal/cities/lagos/vila-nova-de-milfontes/"
 +++
-## Culinary and Family Activities in Vila Nova
 
 Nestled along Portugal's stunning Alentejo coast, Vila Nova de Milfontes is a charming destination that blends natural beauty with rich culture and mouthwatering cuisine. 
 

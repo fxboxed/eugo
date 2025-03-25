@@ -5,7 +5,7 @@ title = 'A curated list of what Europe has to offer tourists'
 description = "Helping you choose when and where to go when deciding on your European vacation"
 
 author = ["eugo"]
-tab = "Highlights"
+tab = "Top attractions"
 type = 'euro'
 layout = 'euro'
 image = ""

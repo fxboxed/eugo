@@ -34,7 +34,7 @@ So, grab your travel list and let's dive into what makes Portugal a top pick for
 
 ![Hillside with houses and a castle at the top](/imgs/portugal/lisbon-4519390_640.webp)
 
-Welcome to Lisbon, a city that effortlessly blends the old with the new. **Lisbon is a sensory delight**, offering everything from historical charm to modern vibrancy. Situated on seven hills overlooking the Tagus River, this capital city is a must-visit for anyone traveling to Portugal.
+[Welcome to Lisbon](/portuagal/cities/lisbon/), a city that effortlessly blends the old with the new. **Lisbon is a sensory delight**, offering everything from historical charm to modern vibrancy. Situated on seven hills overlooking the Tagus River, this capital city is a must-visit for anyone traveling to Portugal.
 
 ### Explore the Neighborhoods
 
@@ -66,7 +66,7 @@ Indulge in Lisbon's culinary scene, where you can savor the famous _pasteis de n
 
 ![Colorful Porto riverside with bridges and lively cafes.](/imgs/portugal/boats.webp)
 
-Porto, Portugal's second-largest city, is a vibrant destination that beautifully blends the old with the new. **Known worldwide for its production of Port wine**, Porto offers a rich tapestry of experiences that cater to all types of travelers.
+Porto, [Portugal's second-largest city](/portugal/cities/), is a vibrant destination that beautifully blends the old with the new. **Known worldwide for its production of Port wine**, Porto offers a rich tapestry of experiences that cater to all types of travelers.
 
 ### Discovering Historic Charm
 
@@ -100,7 +100,7 @@ Welcome to the Algarve, Portugal's southern gem. This region is a paradise for s
 
 ### Resorts and Accommodation
 
-The Algarve is home to some of the most luxurious resorts in Portugal. From sprawling golf courses to serene spa retreats, there's something for every traveler. Popular spots include Albufeira and Vilamoura, known for their upscale amenities and lively nightlife.
+[The Algarve](/portugal/cities/algarve) is home to some of the most luxurious resorts in Portugal. From sprawling golf courses to serene spa retreats, there's something for every traveler. Popular spots include Albufeira and Vilamoura, known for their upscale amenities and lively nightlife.
 
 ### Nightlife and Entertainment
 
@@ -120,7 +120,7 @@ For a taste of local life, visit one of the Algarve's bustling markets. The Loul
 
 ### Activities and Adventures
 
-The Algarve is a playground for outdoor enthusiasts. Whether you're into hiking, surfing, or golfing, there's no shortage of activities to enjoy. The [Caves and Coastline Cruise](https://www.tripadvisor.com/Attractions-g189111-Activities-Algarve.html) from Albufeira to Benagil is a must-do for its breathtaking views and unique rock formations.
+The Algarve is a playground for outdoor enthusiasts. Whether you're into [hiking, surfing, or golfing](/portugal/specials/), there's no shortage of activities to enjoy. The [Caves and Coastline Cruise](https://www.tripadvisor.com/Attractions-g189111-Activities-Algarve.html) from Albufeira to Benagil is a must-do for its breathtaking views and unique rock formations.
 
 > "In the Algarve, every day is a new adventure. From exploring hidden beaches to savoring local delicacies, there's always something to discover."
 
@@ -190,7 +190,7 @@ One of the most intriguing spots is the Chapel of Bones. Decorated with human bo
 
 ![Coastal cliffs, Lagos, Portugal](/imgs/portugal/portugal-3393109_640.webp)
 
-Lagos, nestled in the beautiful Algarve region, is a perfect blend of history, culture, and stunning natural beauty. This charming town is famous for its dramatic cliffs, golden beaches, and vibrant atmosphere.
+[Lagos](/portugal/cities/lagos), nestled in the beautiful Algarve region, is a perfect blend of history, culture, and stunning natural beauty. This charming town is famous for its dramatic cliffs, golden beaches, and vibrant atmosphere.
 
 ### Beaches
 

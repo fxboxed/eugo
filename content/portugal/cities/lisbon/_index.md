@@ -6,11 +6,11 @@ draft = false
 tab ='Lisbon'
 type = 'cities'
 layout = 'cities'
+batch = "Exploring Lisbon: Culture, Food, and Fun"
 image = "/imgs/portugal/lis-thumb.webp"
 alt_txt = "Colorful streets of Lisbon with outdoor cafes and couples."
 relcanonical = "https://eugo.uk/portugal/cities/lisbon/"
 +++
-# Exploring Lisbon: Culture, Food, and Fun
 
 Lisbon, the lively capital of Portugal, is a city that offers a warm welcome to everyone, including couples, families, and older adults.
 

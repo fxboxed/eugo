@@ -4,6 +4,7 @@ description = "Explore Lagos in 2025: traditions, attractions, and activities fo
 date = 2023-01-01T08:00:00-07:00
 draft = false
 tab ='Lagos'
+batch = "Lagos: Traditions and Attractions for All"
 type = 'cities'
 layout = 'cities'
 image = "/imgs/portugal/thumbnail.webp"

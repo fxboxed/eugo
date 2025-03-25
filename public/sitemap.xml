@@ -71,6 +71,9 @@
     <loc>https://eugo.uk/europe/parks/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/europe/leisurely/wine/</loc>
+    <lastmod>2025-02-05T08:28:09+00:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/belgium/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
@@ -92,6 +95,9 @@
     <loc>https://eugo.uk/croatia/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/europe/leisurely/</loc>
+    <lastmod>2025-02-05T08:28:09+00:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/europe/pools/</loc>
     <lastmod>2025-02-05T08:28:09+00:00</lastmod>
   </url><url>
@@ -108,6 +114,9 @@
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/italy/specials/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/portugal/specials/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/spain/specials/</loc>
@@ -200,6 +209,9 @@
     <loc>https://eugo.uk/spain/specials/pools/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/portugal/specials/outdoor/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/spain/specials/hiking/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
@@ -227,6 +239,12 @@
     <loc>https://eugo.uk/spain/specials/resorts/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/portugal/specials/wedding/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/portugal/specials/walking-tours/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/poland/cities/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
@@ -234,6 +252,9 @@
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/italy/specials/beaches/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/portugal/cities/madeira/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/spain/specials/surfing/</loc>
@@ -273,6 +294,12 @@
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/europe/adventure/skiing/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/portugal/specials/golf/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/portugal/specials/surfing/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/switzerland/cities/zurich/</loc>
@@ -431,6 +458,9 @@
     <loc>https://eugo.uk/germany/cities/munich/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/portugal/specials/hiking/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/france/cities/nice/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
@@ -471,6 +501,12 @@
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/italy/specials/water/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/portugal/specials/kayaking/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/portugal/cities/porto/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/turkey/specials/history/</loc>
@@ -524,10 +560,16 @@
     <loc>https://eugo.uk/austria/cities/hallstatt/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://eugo.uk/portugal/cities/algarve/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://eugo.uk/turkey/cities/bodrum/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/france/cities/strasbourg/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/italy/cities/tuscany/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/italy/cities/florence/</loc>
@@ -549,6 +591,9 @@
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/czechia/cities/karlovy-vary/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://eugo.uk/portugal/specials/families/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://eugo.uk/spain/specials/cultural/</loc>
